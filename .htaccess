@@ -1,0 +1,22 @@
+Options -MultiViews
+
+AddType application/rdf+xml .rdf
+AddType text/turtle .ttl
+AddType application/n-triples .n3
+
+RewriteEngine On
+
+RewriteRule ^$ index.html [R=302,L]
+
+# W index.html prawdopodobnie będziemy musieli czytać wersję z ontology-header
+# Aby zawsze był header z najnowszego release, url jest taki:
+# OpenCS-ontology.github.io/1.0.0/ontology.ttl -> returns file
+# Jak zrobić te arumenty pod wersje $1: Wystarczy w nawiasach robić
+
+RewriteRule ^/ontology\.ttl$ https://github.com/OpenCS-ontology/OpenCS/releases/download/latest/opencs.ttl.gz [R=302,L]
+RewriteRule ^/((\d+\.)?(\d+\.)?(\d+))/ontology\.ttl$ https://github.com/OpenCS-ontology/OpenCS/releases/download/v$1/opencs.ttl.gz [R=302,L]
+
+
+RewriteRule ^/ontology\.rdf https://github.com/OpenCS-ontology/OpenCS/releases/download/latest/opencs.rdf.gz [R=302,L]
+
+RewriteRule ^/ontology\.nt https://github.com/OpenCS-ontology/OpenCS/releases/download/latest/opencs.nt.gz [R=302,L]
