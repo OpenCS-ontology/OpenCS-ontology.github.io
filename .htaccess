@@ -13,10 +13,10 @@ RewriteRule ^$ index.html [R=302,L]
 # OpenCS-ontology.github.io/1.0.0/ontology.ttl -> returns file
 # Jak zrobić te arumenty pod wersje $1: Wystarczy w nawiasach robić
 
-RewriteRule ^/ontology\.ttl$ https://github.com/OpenCS-ontology/OpenCS/releases/download/latest/opencs.ttl.gz [R=302,L]
+RewriteRule ^/ontology\.ttl$ https://github.com/OpenCS-ontology/OpenCS/releases/latest/download/opencs.ttl.gz [R=302,L]
 RewriteRule ^/((\d+\.)?(\d+\.)?(\d+))/ontology\.ttl$ https://github.com/OpenCS-ontology/OpenCS/releases/download/v$1/opencs.ttl.gz [R=302,L]
 
 
-RewriteRule ^/ontology\.rdf https://github.com/OpenCS-ontology/OpenCS/releases/download/latest/opencs.rdf.gz [R=302,L]
+RewriteRule ^/ontology\.rdf https://github.com/OpenCS-ontology/OpenCS/releases/latest/download/opencs.rdf.gz [R=302,L]
 
-RewriteRule ^/ontology\.nt https://github.com/OpenCS-ontology/OpenCS/releases/download/latest/opencs.nt.gz [R=302,L]
+RewriteRule ^/ontology\.nt https://github.com/OpenCS-ontology/OpenCS/releases/latest/download/opencs.nt.gz [R=302,L]
