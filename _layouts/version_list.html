@@ -10,7 +10,7 @@ layout: default
     <div class="col-md-4 offset-md-2">
         <h4>Latest stable</h4>
         <div class="button-container">
-            <p><a class="btn btn-outline-secondary" target="_blank"
+            <p><a class="btn btn-outline-secondary"
                   href="/releases/stable/index">
                 <i class="material-icons arrow">arrow_forward</i>
                 Version {{ page.latest_stable }}
@@ -18,7 +18,7 @@ layout: default
         </div>
         <h4>Latest unstable</h4>
         <div class="button-container">
-            <p><a class="btn btn-outline-secondary" target="_blank"
+            <p><a class="btn btn-outline-secondary"
                   href="/releases/dev/index">
                 <i class="material-icons arrow">arrow_forward</i>
                 Version dev
@@ -29,7 +29,7 @@ layout: default
         <h4>Historical versions</h4>
         <div class="button-container">
             {% for ver in page.versions %}
-            <p><a class="btn btn-outline-secondary" target="_blank"
+            <p><a class="btn btn-outline-secondary"
                   href="/releases/{{ ver }}/index">
                 <i class="material-icons arrow">arrow_forward</i>
                 Version {{ ver }}
