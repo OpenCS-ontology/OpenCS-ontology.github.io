@@ -1,4 +1,4 @@
-# OpenCS ontology webpage
+# OpenCS ontology website
 The page contains interface which allows for downloading ontology files and browsing through all ontology versions.
 
 Main page: https://OpenCS-ontology.github.io/releases/stable \
