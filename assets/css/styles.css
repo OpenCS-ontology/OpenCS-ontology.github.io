@@ -1,0 +1,43 @@
+main > .container {
+    padding: 55px 0;
+    min-height: 100%;
+}
+
+.btn-outline-primary {
+    outline-color: #3875b5 !important;
+}
+
+.btn-outline-primary:hover {
+    background-color: #3875b5 !important;
+}
+
+.footer {
+    padding: 60px 50px 15px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.arrow {
+    vertical-align: sub;
+    font-size: 18px !important;
+    margin: 0 3px 0 0;
+}
+
+body {
+    background-color: #f2eeeb;
+}
+
+main {
+    min-height: 100%;
+}
+
+.container-primary {
+    padding: 20px 50px 15px;
+    background-color: #3875b5;
+}
+
+.button-container {
+    padding: 20px 0 40px;
+}

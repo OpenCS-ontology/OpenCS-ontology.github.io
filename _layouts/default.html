@@ -1,20 +1,23 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<!doctype html>
+<html lang="en" class="h-100">
 
-  {%- include head.html -%}
+{% include head.html %}
 
-  <body>
+<body class="d-flex flex-column h-100" style="background-color: #f2eeeb">
 
-    {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+{% include header.html %}
+
+
+<main class="flex-shrink-0">
+    <div class="container" style="background-color: white">
         {{ content }}
-      </div>
-    </main>
+    </div>
+</main>
 
-    {%- include footer.html -%}
+{% include footer.html %}
 
-  </body>
+
+</body>
 
 </html>

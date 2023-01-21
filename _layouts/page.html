@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<div class="text-white container-primary">
+    <p class="mt-5 lead display-6">
+        <span style="font-weight: 450;">{{ site.title }}</span>
+        - Open Computer Science Ontology
+    </p>
+    <hr>
+    <p class="lead">
+        {{ site.description }}
+    </p>
+    <p class="lead">
+        <code class="small" style="color: aliceblue">Version {{ page.version }}, {{ page.date }}</code>
+    </p>
+</div>
+
+<div class="row g-5 p-5">
+    <div class="col-md-6">
+        <h2>Download ontology</h2>
+        <hr class="col-md-8">
+        <div class="button-container">
+            <a class="btn btn-outline-primary me-2" target="_blank"
+               href="opencs.rdf">
+                Download .rdf
+            </a>
+            <a class="btn btn-outline-primary me-2" target="_blank"
+               href="opencs.nt">
+                Download .nt
+            </a>
+            <a class="btn btn-outline-primary" target="_blank"
+               href="opencs.ttl">
+                Download .ttl
+            </a>
+        </div>
+        {%- if page.previous_version -%}
+        <div>
+            <a class="btn btn-secondary"
+               href="/releases/{{ page.previous_version }}/index">
+                <i class="material-icons arrow">arrow_back</i>
+                Previous version {{ page.previous_version }}
+            </a>
+        </div>
+        {%- endif -%}
+    </div>
+
+    <div class="col-md-6">
+        <h2>Related pages</h2>
+        <hr class="col-md-8">
+        <div class="button-container">
+            <p><a class="btn btn-outline-secondary" target="_blank"
+                  href="https://github.com/OpenCS-ontology/OpenCS">
+                <i class="material-icons arrow">arrow_forward</i>
+                Github repository
+            </a></p>
+            <p><a class="btn btn-outline-secondary" target="_blank"
+                  href="https://github.com/OpenCS-ontology/OpenCS/wiki/">
+                <i class="material-icons arrow">arrow_forward</i>
+                Documentation
+            </a></p>
+            <p><a class="btn btn-outline-secondary" target="_blank"
+                  href="https://creativecommons.org/licenses/by/4.0/">
+                <i class="material-icons arrow">arrow_forward</i>
+                License
+            </a></p>
+        </div>
+    </div>
+</div>
