@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22729",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5511"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Conducted Interference"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8612"
+      }
+    ]
+  }
+]

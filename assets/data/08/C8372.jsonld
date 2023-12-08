@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8372",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Punch-down_block"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Punch-down block"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7612"
+      }
+    ]
+  }
+]

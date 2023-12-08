@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43846",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32289"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35397"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Kernel_(set_theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kernel (set theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26261"
+      }
+    ]
+  }
+]

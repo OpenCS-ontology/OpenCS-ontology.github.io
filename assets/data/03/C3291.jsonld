@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3291",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sci-Mate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sci-Mate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14536"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21591"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32616"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9096"
+      }
+    ]
+  }
+]

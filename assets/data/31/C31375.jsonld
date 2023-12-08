@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31375",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28019"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "GRBAS scale"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2031"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9884"
+      }
+    ]
+  }
+]

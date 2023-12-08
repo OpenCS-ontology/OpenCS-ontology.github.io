@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45218",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32877"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rankin–Selberg_method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rankin–Selberg method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45445"
+      }
+    ]
+  }
+]

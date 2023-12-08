@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C858",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Scientific_community_metaphor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Scientific community metaphor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22708"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9552"
+      }
+    ]
+  }
+]

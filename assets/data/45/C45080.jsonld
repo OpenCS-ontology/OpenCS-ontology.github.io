@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45080",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30602"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Vitali_convergence_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vitali convergence theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16415"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26013"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40292"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40562"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44908"
+      }
+    ]
+  }
+]

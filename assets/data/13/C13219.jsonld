@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13219",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Technology_intelligence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Technology intelligence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13420"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8419"
+      }
+    ]
+  }
+]

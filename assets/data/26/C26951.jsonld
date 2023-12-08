@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26951",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3838"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6764"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Focus_phrase"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Focus phrase"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39789"
+      }
+    ]
+  }
+]

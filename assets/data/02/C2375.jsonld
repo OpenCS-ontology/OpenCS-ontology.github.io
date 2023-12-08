@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2375",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bit_array"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bit array"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7741"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8522"
+      }
+    ]
+  }
+]

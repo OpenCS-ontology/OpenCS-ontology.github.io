@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14100",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C795"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Generalised_hyperbolic_distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Generalised hyperbolic distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C795"
+      }
+    ]
+  }
+]

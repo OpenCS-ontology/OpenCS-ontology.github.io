@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25157",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6754"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/T-code"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Transaction Code"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      }
+    ]
+  }
+]

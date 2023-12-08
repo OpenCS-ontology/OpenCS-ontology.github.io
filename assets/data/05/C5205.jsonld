@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5205",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Transaction_Processing_over_XML"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Transaction Processing over XML"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43644"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43910"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ]
+  }
+]

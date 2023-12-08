@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9163",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sales_intelligence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sales intelligence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9874"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16626",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4050"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Remote_infrared_audible_signage"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Remote infrared audible signage"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6365"
+      }
+    ]
+  }
+]

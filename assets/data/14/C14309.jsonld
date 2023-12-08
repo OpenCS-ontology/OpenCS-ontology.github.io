@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14309",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C949"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Electronic_Signatures_in_Global_and_National_Commerce_Act"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Electronic Signatures in Global and National Commerce Act"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19504"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C949"
+      }
+    ]
+  }
+]

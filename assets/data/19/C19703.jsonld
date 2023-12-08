@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19703",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7689"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Reversed_compound_agent_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Reversed compound agent theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23261"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32480"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45748"
+      }
+    ]
+  }
+]

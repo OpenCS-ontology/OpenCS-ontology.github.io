@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1948",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/British_National_Corpus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "British National Corpus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20098"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2761"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8454"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C961"
+      }
+    ]
+  }
+]

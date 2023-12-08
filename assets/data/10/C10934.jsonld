@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10934",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Environmental_informatics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Environmental informatics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C941"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2256",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Attitude_and_heading_reference_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Attitude and heading reference system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35497"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7850"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9242"
+      }
+    ]
+  }
+]

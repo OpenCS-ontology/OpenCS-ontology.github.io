@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8010",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Crossbar_switch"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Crossbar switch"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4562"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8018"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12373",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Queueing_theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Queueing theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18439"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23261"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29900"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34165"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7689"
+      }
+    ]
+  }
+]

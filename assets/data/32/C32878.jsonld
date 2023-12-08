@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32878",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21210"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Flow_shop_scheduling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Flow shop scheduling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38119"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8944"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24916",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5559"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Optical_wireless"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Optical wireless"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15897"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6365"
+      }
+    ]
+  }
+]

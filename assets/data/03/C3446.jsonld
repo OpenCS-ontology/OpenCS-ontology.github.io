@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3446",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Geolocation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geolocation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1793"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44290"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      }
+    ]
+  }
+]

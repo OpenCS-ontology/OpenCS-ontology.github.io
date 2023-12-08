@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37693",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24826"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Polish_phonology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Polish phonology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16899"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35601"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27269",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ocean_Data_View"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ocean Data View"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15951"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44325"
+      }
+    ]
+  }
+]

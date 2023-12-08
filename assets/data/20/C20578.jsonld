@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20578",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6912"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Generalized_Procrustes_analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Generalized Procrustes analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9538"
+      }
+    ]
+  }
+]

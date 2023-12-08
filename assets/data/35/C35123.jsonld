@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35123",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28533"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dynamic web applications"
+      }
+    ]
+  }
+]

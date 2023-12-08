@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31653",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18568"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sea_Level_Datum_of_1929"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sea Level Datum of 1929"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31204"
+      }
+    ]
+  }
+]

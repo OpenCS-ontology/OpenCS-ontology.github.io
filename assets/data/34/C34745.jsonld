@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34745",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16950"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Equinumerosity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Equinumerosity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45891"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5251"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34794",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16125"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Discrete_logarithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Discrete logarithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ]
+  }
+]

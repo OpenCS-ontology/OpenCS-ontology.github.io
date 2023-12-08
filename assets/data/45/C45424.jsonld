@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45424",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31018"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Parametrix"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Parametrix"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33011"
+      }
+    ]
+  }
+]

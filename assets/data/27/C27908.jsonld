@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27908",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12388"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Appalachian_English"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Appalachian English"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6237"
+      }
+    ]
+  }
+]

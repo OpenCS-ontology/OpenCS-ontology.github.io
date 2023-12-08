@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44809",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33187"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35699"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Indefinite_sum"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Indefinite sum"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39245"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40206"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28338",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3843"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Distortion_(optics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Distortion (optics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3842"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8746"
+      }
+    ]
+  }
+]

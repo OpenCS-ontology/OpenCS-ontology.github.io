@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11301",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Equipment_codes"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Equipment codes"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27838"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36681"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36895"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40906"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9720"
+      }
+    ]
+  }
+]

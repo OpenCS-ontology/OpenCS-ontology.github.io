@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35659",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21769"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Long-tail_traffic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Long-tail traffic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C836"
+      }
+    ]
+  }
+]

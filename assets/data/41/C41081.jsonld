@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41081",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33053"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Maurotoxin"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Maurotoxin"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34294"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45220"
+      }
+    ]
+  }
+]

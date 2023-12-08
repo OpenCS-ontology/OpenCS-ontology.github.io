@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4172",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Positioning_technology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Positioning technology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1793"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2403"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44290"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7850"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9242"
+      }
+    ]
+  }
+]

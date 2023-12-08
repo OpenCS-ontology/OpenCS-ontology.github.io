@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24598",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3743"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Munsell_color_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Munsell color system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20177"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44943"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4818"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7522"
+      }
+    ]
+  }
+]

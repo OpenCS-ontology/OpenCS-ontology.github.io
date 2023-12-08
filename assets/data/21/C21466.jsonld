@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21466",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8753"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pfaffian_function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pfaffian function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13541"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36642"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8635"
+      }
+    ]
+  }
+]

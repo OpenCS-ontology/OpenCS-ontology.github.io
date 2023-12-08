@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5675",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Image_meta_search"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Image meta search"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11089"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38799"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C428"
+      }
+    ]
+  }
+]

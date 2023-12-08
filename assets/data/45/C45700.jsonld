@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45700",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33604"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Random_optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Random optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9779"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9780"
+      }
+    ]
+  }
+]

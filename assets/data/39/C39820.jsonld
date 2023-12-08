@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39820",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31573"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rhinodoras"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rhinodoras"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44472"
+      }
+    ]
+  }
+]

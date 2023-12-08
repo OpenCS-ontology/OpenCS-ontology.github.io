@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24746",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8790"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Relationship Identifier"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7736"
+      }
+    ]
+  }
+]

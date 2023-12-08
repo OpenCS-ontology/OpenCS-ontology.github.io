@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26458",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6448"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Phong_reflection_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Phong reflection model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17403"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ]
+  }
+]

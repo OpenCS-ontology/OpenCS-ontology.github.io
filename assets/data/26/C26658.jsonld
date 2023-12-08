@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26658",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10321"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Off-axis_optical_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Off-axis optical system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8561"
+      }
+    ]
+  }
+]

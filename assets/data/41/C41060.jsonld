@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41060",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33454"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Genus_field"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Genus field"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45133"
+      }
+    ]
+  }
+]

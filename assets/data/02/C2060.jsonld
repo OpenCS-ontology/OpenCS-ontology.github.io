@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2060",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Classified_information"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Classified information"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1845"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9897",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/SpeedStep"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "SpeedStep"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15459"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18684"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9542"
+      }
+    ]
+  }
+]

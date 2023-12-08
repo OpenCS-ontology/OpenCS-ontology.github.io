@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6130",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Handwritten_biometric_recognition"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Handwritten biometric recognition"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C248"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39818"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43850"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9489"
+      }
+    ]
+  }
+]

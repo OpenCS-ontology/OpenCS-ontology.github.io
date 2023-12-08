@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16025",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8517"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Uniform_convergence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Uniform convergence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40292"
+      }
+    ]
+  }
+]

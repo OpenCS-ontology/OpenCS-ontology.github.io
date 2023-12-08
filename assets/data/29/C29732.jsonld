@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29732",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28016"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Interrupt_vector_table"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interrupt vector table"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30108"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5147"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9262"
+      }
+    ]
+  }
+]

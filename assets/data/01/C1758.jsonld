@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1758",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Data_in_use"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data in use"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38723"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8026"
+      }
+    ]
+  }
+]

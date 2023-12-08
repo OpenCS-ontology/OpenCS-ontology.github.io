@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20936",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6028"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mean_length_of_utterance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mean length of utterance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12486"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17713"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6028"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9884"
+      }
+    ]
+  }
+]

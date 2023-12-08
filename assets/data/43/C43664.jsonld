@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43664",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37268"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/SK_channel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "SK Potassium Channels"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22509",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5854"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Contrast_resolution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Contrast resolution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34605"
+      }
+    ]
+  }
+]

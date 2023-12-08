@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5630",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Struct_(C_programming_language)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "struct"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9023"
+      }
+    ]
+  }
+]

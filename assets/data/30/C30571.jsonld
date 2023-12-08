@@ -1,0 +1,35 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30571",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18076"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27379"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bergman_metric"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bergman metric"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32918"
+      }
+    ]
+  }
+]

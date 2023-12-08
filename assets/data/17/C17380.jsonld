@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17380",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1857"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Contract_cheating"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Contract cheating"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7575"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

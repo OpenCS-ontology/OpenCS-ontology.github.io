@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12315",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Significant_figures"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Significant figures"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9743"
+      }
+    ]
+  }
+]

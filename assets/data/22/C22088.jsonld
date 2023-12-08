@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22088",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10211"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Data_management_plan"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data management plan"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32112"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5928"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6225"
+      }
+    ]
+  }
+]

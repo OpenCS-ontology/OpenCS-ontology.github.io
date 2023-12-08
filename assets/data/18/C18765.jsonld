@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18765",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6761"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hand grasp"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5818"
+      }
+    ]
+  }
+]

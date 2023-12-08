@@ -1,0 +1,89 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11000",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Live_distributed_object"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Live distributed object"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15478"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41770"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7016"
+      }
+    ]
+  }
+]

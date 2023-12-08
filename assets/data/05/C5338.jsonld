@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5338",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Resizing_(fiction)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Resizing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C541"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C622"
+      }
+    ]
+  }
+]

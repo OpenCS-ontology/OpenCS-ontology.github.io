@@ -1,0 +1,35 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28180",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cloud_base"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cloud base"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35268"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30437",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24353"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Tonelli–Shanks_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tonelli–Shanks algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9449"
+      }
+    ]
+  }
+]

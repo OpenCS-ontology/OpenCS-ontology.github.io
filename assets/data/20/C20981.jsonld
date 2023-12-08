@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20981",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5293"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ballistic_capture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ballistic capture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38278"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45459"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5096"
+      }
+    ]
+  }
+]

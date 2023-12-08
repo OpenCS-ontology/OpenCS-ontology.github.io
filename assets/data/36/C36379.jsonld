@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36379",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29411"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Berry–Esseen_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Berry–Esseen theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C795"
+      }
+    ]
+  }
+]

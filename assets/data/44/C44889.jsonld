@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44889",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33146"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pseudecheneis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pseudecheneis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37952"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44015"
+      }
+    ]
+  }
+]

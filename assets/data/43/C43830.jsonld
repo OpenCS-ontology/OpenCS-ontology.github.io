@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43830",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36975"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/EtherNet/IP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EtherNet/IP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31552"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7794"
+      }
+    ]
+  }
+]

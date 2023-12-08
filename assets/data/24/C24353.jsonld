@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24353",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5818"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Modular_arithmetic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Modular arithmetic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9449"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3525",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dynamic_device_mapping"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dynamic device mapping"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12640"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3897"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8345"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C850"
+      }
+    ]
+  }
+]

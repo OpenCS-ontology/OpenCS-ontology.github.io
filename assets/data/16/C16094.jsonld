@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16094",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8790"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/CPUID"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "CPUID"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9542"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24804",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10918"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Linear_encoder"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Linear encoder"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23445"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5506"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8475"
+      }
+    ]
+  }
+]

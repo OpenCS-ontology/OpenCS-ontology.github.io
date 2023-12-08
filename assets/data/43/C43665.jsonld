@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43665",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35628"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Application_security"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Application security"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1035"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38527"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45212"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

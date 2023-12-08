@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30602",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29411"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Convergence_tests"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Convergence tests"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15454"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38241"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44482"
+      }
+    ]
+  }
+]

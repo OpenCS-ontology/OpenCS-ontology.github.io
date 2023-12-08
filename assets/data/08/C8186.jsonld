@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8186",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Thermal-assisted_switching"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Thermal-assisted switching"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7007"
+      }
+    ]
+  }
+]

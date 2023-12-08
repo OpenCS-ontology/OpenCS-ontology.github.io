@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C394",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Identity_theft"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Identity theft"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7604"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9838"
+      }
+    ]
+  }
+]

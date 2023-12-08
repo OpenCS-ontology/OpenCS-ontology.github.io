@@ -1,0 +1,27 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14062",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Focal_Plane_Arrays"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Focal Plane Arrays"
+      }
+    ]
+  }
+]

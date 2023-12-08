@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7365",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Semantics_encoding"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Semantics encoding"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35868"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37655"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45525"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6047"
+      }
+    ]
+  }
+]

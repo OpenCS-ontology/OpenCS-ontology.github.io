@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21485",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C936"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Buckeye_Corpus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Buckeye Corpus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13064"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4397"
+      }
+    ]
+  }
+]

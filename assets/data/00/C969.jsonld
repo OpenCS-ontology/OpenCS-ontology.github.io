@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C969",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Voxel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Voxel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8399"
+      }
+    ]
+  }
+]

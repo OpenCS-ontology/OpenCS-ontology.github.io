@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16152",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6953"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hardware_random_number_generator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hardware random number generator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29363"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7130"
+      }
+    ]
+  }
+]

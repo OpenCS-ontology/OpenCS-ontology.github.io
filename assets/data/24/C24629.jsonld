@@ -1,0 +1,35 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24629",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13593"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Trail_pheromone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Trail pheromone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28708"
+      }
+    ]
+  }
+]

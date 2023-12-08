@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13695",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Customer-premises_equipment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Customer-premises equipment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4433"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9327"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10509",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Spectral_density"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spectral density"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C836"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9871"
+      }
+    ]
+  }
+]

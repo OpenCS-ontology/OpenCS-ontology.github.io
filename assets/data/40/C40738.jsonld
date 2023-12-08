@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40738",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34294"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dendrotoxin I"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30674"
+      }
+    ]
+  }
+]

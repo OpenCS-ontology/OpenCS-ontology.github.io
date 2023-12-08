@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15223",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9459"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Computer supported collaborative design"
+      }
+    ]
+  }
+]

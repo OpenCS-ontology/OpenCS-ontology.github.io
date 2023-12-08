@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42069",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35575"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cost_estimation_models"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cost estimation models"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4915"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6647"
+      }
+    ]
+  }
+]

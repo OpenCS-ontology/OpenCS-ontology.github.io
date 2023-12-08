@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38839",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36279"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Measure and conquer"
+      }
+    ]
+  }
+]

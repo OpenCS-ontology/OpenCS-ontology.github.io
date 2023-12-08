@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2083",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/NonStop_(server_computers)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "NonStop"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9035"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9540"
+      }
+    ]
+  }
+]

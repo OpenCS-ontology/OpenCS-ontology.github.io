@@ -1,0 +1,35 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37270",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14147"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mechanism_of_sonoluminescence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mechanism of sonoluminescence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14147"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

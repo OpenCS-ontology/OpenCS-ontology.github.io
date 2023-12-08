@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25821",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10052"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Workflow_technology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Workflow technology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29478"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30649"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36207"
+      }
+    ]
+  }
+]

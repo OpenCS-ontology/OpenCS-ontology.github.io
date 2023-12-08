@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41804",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34425"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37782"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Q-type_calcium_channel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Q-type calcium channel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34425"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45393"
+      }
+    ]
+  }
+]

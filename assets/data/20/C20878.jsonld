@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20878",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7909"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Phased-array_optics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Phased-array optics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7909"
+      }
+    ]
+  }
+]

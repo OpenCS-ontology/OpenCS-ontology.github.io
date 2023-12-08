@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7814",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/AV.link"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "AV.link"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3357"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39723"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9262"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38868",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35429"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Photographic_filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Photographic filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21360"
+      }
+    ]
+  }
+]

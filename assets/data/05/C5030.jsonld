@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5030",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Autopilot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Autopilot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18996"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5913"
+      }
+    ]
+  }
+]

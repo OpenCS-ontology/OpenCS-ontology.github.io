@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15011",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Readout_integrated_circuit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Readout integrated circuit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17601"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22118"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9431"
+      }
+    ]
+  }
+]

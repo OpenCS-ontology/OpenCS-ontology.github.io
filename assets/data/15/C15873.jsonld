@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15873",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11868"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C695"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Camera handoff"
+      }
+    ]
+  }
+]

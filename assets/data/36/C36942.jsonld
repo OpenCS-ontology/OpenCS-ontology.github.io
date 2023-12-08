@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36942",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15971"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Partition_regularity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Partition regularity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17726"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38156"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9429"
+      }
+    ]
+  }
+]

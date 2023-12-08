@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13019",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Data_Mining_Extensions"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data Mining Extensions"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5497"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ]
+  }
+]

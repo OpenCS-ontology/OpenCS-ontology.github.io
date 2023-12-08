@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3687",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Audio_search_engine"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Audio search engine"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35013"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5675"
+      }
+    ]
+  }
+]

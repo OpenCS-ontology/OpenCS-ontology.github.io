@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11637",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Word-sense_disambiguation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Word-sense disambiguation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29118"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C928"
+      }
+    ]
+  }
+]

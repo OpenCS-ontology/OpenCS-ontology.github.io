@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9846",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Map_database_management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Map database management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13187"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16177"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16679"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16971"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9100"
+      }
+    ]
+  }
+]

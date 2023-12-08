@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45038",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34973"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Conway_triangle_notation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Conway triangle notation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13541"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45532"
+      }
+    ]
+  }
+]

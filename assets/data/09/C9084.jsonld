@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9084",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Data_custodian"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data custodian"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1349"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27200"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9893"
+      }
+    ]
+  }
+]

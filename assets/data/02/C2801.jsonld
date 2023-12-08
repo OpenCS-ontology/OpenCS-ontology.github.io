@@ -1,0 +1,92 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2801",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Feature_extraction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Feature extraction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13677"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20377"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36403"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9538"
+      }
+    ]
+  }
+]

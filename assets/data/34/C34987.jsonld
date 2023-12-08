@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34987",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14471"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Prüfer_sequence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Prüfer sequence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42271"
+      }
+    ]
+  }
+]

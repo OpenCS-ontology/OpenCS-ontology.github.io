@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8130",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Speech_enhancement"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Speech enhancement"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13431"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17433"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39475"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7518"
+      }
+    ]
+  }
+]

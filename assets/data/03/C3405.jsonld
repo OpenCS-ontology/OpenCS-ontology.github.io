@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3405",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/MUSIC-N"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "MUSIC-N"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26575"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8718"
+      }
+    ]
+  }
+]

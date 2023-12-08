@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12125",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Telephone box"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9611"
+      }
+    ]
+  }
+]

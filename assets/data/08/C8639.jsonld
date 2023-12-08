@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8639",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/National_archives"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "National archives"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15831"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5031"
+      }
+    ]
+  }
+]

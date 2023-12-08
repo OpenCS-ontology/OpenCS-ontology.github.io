@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2721",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Transition_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Transition system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12098"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42583"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5459"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8791"
+      }
+    ]
+  }
+]

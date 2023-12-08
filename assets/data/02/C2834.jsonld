@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2834",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rademacher_complexity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rademacher complexity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38726"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5799"
+      }
+    ]
+  }
+]

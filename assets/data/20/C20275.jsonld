@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20275",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3740"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cone_beam_reconstruction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cone beam reconstruction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34313"
+      }
+    ]
+  }
+]

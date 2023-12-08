@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27649",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1832"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7502"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Noise_shaping"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Noise shaping"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1832"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6113"
+      }
+    ]
+  }
+]

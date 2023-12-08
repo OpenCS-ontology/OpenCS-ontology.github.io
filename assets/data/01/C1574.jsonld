@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1574",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Gutmann_method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Gutmann method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17900"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

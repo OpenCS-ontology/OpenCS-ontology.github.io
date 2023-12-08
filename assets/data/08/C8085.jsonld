@@ -1,0 +1,35 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8085",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Catadioptric_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Catadioptric system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33486"
+      }
+    ]
+  }
+]

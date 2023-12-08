@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19461",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4090"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Neutral_body_posture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Neutral body posture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35642"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7201"
+      }
+    ]
+  }
+]

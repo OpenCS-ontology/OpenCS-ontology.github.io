@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36854",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22370"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Copyright_misuse"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Copyright misuse"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32165"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33117"
+      }
+    ]
+  }
+]

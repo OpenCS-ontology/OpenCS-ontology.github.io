@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11195",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multi-Point_Interface"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multi-Point Interface"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31552"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4458"
+      }
+    ]
+  }
+]

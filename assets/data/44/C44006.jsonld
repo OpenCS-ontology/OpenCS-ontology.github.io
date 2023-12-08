@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44006",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35575"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Software_assurance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Software assurance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38547"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5552"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5869"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3949",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Three-letter_acronym"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Three-letter acronym"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19754"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9162"
+      }
+    ]
+  }
+]

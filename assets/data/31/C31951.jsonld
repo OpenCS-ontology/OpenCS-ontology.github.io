@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31951",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27698"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Universal_Satellites_Automatic_Location_System"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Universal Satellites Automatic Location System"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32488"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35345"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44963"
+      }
+    ]
+  }
+]

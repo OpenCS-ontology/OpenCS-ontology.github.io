@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2401",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Single_version_of_the_truth"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Single version of the truth"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28349"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38452"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45040"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31789",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24730"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Patent_prosecution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Patent prosecution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23056"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33830"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39999"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28078",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10492"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Analog_delay_line"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Analog delay line"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34890"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9381"
+      }
+    ]
+  }
+]

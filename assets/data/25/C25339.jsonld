@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25339",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3903"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Function_(engineering)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Function (engineering)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26403"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C924"
+      }
+    ]
+  }
+]

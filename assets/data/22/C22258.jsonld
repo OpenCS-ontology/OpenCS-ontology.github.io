@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22258",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6692"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bayes_estimator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bayes estimator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22075"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38623"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45643"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45849"
+      }
+    ]
+  }
+]

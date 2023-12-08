@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32898",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14471"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Vertex_normal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vertex normal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17403"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42817"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10218",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Digital_differential_analyzer_(graphics_algorithm)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Digital differential analyzer (graphics algorithm)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17403"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22452"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22525"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C969"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11863",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Extremely_high_frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Extremely high frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45299"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8612"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42555",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32347"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33304"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Class_(set_theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Class (set theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42636"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44591"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45891"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8635"
+      }
+    ]
+  }
+]

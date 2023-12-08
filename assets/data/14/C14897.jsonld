@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14897",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8760"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Brascamp–Lieb_inequality"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Brascamp–Lieb inequality"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42132"
+      }
+    ]
+  }
+]

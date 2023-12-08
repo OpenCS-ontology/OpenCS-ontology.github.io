@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7369",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Video_editing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Video editing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9748"
+      }
+    ]
+  }
+]

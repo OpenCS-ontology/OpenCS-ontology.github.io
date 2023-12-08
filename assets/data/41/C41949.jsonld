@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41949",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30247"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34161"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34221"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36497"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37469"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/End_System_Multicast"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "End System Multicast"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1330",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Finitism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Finitism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5251"
+      }
+    ]
+  }
+]

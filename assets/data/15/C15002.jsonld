@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15002",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5659"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Semiautomaton"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Semiautomaton"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23657"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8791"
+      }
+    ]
+  }
+]

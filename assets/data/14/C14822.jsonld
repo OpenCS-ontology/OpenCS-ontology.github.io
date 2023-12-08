@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14822",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11932"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/German_nouns"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "German nouns"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20870"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28295"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31787"
+      }
+    ]
+  }
+]

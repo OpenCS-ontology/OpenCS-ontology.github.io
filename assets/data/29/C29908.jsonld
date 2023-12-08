@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29908",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16352"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Inertial_platform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Inertial platform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35497"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9242"
+      }
+    ]
+  }
+]

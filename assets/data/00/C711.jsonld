@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C711",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Set_constraint"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Set constraint"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C524"
+      }
+    ]
+  }
+]

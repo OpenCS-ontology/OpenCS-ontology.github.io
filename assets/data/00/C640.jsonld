@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C640",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Universal_Design_for_Learning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Universal Design for Learning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15193"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16041"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C934"
+      }
+    ]
+  }
+]

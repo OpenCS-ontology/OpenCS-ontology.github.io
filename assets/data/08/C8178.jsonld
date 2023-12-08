@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8178",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Identifiability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Identifiability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29226"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6395"
+      }
+    ]
+  }
+]

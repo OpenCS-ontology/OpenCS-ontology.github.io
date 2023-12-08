@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13926",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6545"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Nasal_infix"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Nasal infix"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4755"
+      }
+    ]
+  }
+]

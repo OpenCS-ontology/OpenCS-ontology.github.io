@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20797",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Silhouette_edge"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Silhouette edge"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12454"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8749"
+      }
+    ]
+  }
+]

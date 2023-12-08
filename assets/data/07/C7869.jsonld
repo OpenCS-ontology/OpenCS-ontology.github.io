@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7869",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Model_order_reduction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Model order reduction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5295"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7256"
+      }
+    ]
+  }
+]

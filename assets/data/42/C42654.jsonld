@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42654",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31363"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34713"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36439"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Modified_Harvard_architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Modified Harvard architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C856"
+      }
+    ]
+  }
+]

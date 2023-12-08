@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34981",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17654"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Method_of_complements"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Method of complements"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16377"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17802"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4048"
+      }
+    ]
+  }
+]

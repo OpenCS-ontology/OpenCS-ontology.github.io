@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11788",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Organ Model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5913"
+      }
+    ]
+  }
+]

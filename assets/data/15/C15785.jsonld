@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15785",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13747"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Full_custom"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Full custom"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35802"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5151"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6797"
+      }
+    ]
+  }
+]

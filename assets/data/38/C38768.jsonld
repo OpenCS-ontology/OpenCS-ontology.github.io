@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38768",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30595"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Grid_Security_Infrastructure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Grid Security Infrastructure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8032"
+      }
+    ]
+  }
+]

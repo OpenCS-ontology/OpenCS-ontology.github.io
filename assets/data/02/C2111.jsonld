@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2111",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hot_spare"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hot spare"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6312"
+      }
+    ]
+  }
+]

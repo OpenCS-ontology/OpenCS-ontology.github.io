@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27679",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Flat-field_correction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Flat-field correction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28945"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43094"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6041"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8246"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26265",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5196"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Factor_graph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Factor graph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14161"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37934"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43091"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45108"
+      }
+    ]
+  }
+]

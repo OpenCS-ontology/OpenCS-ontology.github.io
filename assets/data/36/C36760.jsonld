@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36760",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16958"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25709"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Viseme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Viseme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36836"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4522"
+      }
+    ]
+  }
+]

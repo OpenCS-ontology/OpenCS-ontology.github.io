@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21360",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Color_gel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Color gel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21415"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38868"
+      }
+    ]
+  }
+]

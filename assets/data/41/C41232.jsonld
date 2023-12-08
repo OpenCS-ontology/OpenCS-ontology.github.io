@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41232",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36383"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Decision_analysis_cycle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Decision analysis cycle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13677"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20242"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4158"
+      }
+    ]
+  }
+]

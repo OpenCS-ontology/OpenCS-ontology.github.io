@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22055",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9608"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Group decision process"
+      }
+    ]
+  }
+]

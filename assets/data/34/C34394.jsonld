@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34394",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14471"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Associahedron"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Associahedron"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45150"
+      }
+    ]
+  }
+]

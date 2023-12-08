@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9997",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/UNIVAC_418"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "UNIVAC 418"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3946"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5290"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8783"
+      }
+    ]
+  }
+]

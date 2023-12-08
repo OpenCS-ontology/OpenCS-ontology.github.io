@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C815",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lexicostatistics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lexicostatistics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22958"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9777"
+      }
+    ]
+  }
+]

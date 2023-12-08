@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8560",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Leap_second"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Leap second"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43546"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9026"
+      }
+    ]
+  }
+]

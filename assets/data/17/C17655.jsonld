@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17655",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/GOMS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "GOMS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32354"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3574"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7355"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9607"
+      }
+    ]
+  }
+]

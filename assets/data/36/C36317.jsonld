@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36317",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15175"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dichromacy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dichromacy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6420"
+      }
+    ]
+  }
+]

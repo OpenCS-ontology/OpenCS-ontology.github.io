@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25873",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5502"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Material_inference"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Material inference"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8748"
+      }
+    ]
+  }
+]

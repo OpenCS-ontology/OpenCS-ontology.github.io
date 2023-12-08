@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6751",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Header_(computing)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Header"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18180"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33996"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9931"
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5985",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dynamic_update_client"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dynamic update client"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28911"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41442"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8137"
+      }
+    ]
+  }
+]

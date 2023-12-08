@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35427",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22370"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Common_law_copyright"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Common law copyright"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40984"
+      }
+    ]
+  }
+]

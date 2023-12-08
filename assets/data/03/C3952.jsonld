@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3952",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Unmanned_NASA_missions"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Unmanned NASA missions"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C81"
+      }
+    ]
+  }
+]

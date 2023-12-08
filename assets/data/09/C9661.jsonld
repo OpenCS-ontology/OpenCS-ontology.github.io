@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9661",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/ProHD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "ProHD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27081"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9266"
+      }
+    ]
+  }
+]

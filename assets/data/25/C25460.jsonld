@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25460",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Relational_operator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Relational operator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8616"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9277"
+      }
+    ]
+  }
+]

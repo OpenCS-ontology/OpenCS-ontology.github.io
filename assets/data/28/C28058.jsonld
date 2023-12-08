@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28058",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8385"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Categorical_logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Categorical logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8635"
+      }
+    ]
+  }
+]

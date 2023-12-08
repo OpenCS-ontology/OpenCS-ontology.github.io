@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11748",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Function_tree"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Function tree"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8387"
+      }
+    ]
+  }
+]

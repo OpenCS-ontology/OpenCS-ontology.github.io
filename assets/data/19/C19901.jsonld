@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19901",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Numeric_precision_in_Microsoft_Excel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Numeric precision in Microsoft Excel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16377"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9743"
+      }
+    ]
+  }
+]

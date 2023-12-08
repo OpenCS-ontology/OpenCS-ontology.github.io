@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13583",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Abstract_logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Abstract logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7596"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8635"
+      }
+    ]
+  }
+]

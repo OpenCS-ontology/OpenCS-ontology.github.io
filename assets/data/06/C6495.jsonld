@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6495",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Electric_beacon"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Electric beacon"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1793"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7216"
+      }
+    ]
+  }
+]

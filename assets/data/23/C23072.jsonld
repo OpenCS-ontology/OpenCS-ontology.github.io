@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23072",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Common_Intermediate_Format"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Common Intermediate Format"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9154"
+      }
+    ]
+  }
+]

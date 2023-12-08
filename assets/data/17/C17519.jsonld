@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17519",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2878"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Software_fault_tolerance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Software fault tolerance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1035"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C987"
+      }
+    ]
+  }
+]

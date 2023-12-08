@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8044",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Elevator_pitch"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Elevator pitch"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45554"
+      }
+    ]
+  }
+]

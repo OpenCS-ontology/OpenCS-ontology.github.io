@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35963",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26649"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Boinae"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Boinae"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26649"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32445"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35869"
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6943",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Compressed_sensing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Compressed sensing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22681"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37322"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8499"
+      }
+    ]
+  }
+]

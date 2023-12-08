@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9700",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/ITIL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Information Technology Infrastructure Library"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31261"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43969"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45228"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7509"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16099",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8765"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "License revocation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8068"
+      }
+    ]
+  }
+]

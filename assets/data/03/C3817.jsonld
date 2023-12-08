@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3817",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chan's_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chan's algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28240"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ]
+  }
+]

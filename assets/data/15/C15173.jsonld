@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15173",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11616"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Stuck-at_fault"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Stuck-at fault"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10377"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15664"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2354"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3177"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5624"
+      }
+    ]
+  }
+]

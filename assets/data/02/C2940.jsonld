@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2940",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Retention_period"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Retention period"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13010"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9150"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27443",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C246"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Tree_diagram_(probability_theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tree diagram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2726"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40063"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9246"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24717",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12112"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8664"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chaotic_bubble"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chaotic bubble"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37144"
+      }
+    ]
+  }
+]

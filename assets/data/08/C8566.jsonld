@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8566",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Communication_source"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Communication source"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10934"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C941"
+      }
+    ]
+  }
+]

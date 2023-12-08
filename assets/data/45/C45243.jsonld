@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45243",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30593"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31754"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/IEBus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "IEBus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12442"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3357"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9717"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45806",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33529"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Content_farm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Content farm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4803"
+      }
+    ]
+  }
+]

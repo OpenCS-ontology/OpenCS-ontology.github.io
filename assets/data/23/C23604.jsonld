@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23604",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7553"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Effective_fitness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Effective fitness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45377"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7553"
+      }
+    ]
+  }
+]

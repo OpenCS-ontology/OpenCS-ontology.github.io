@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41635",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36383"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Evidential_decision_theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Evidential decision theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36910"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4594"
+      }
+    ]
+  }
+]

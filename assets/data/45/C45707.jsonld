@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45707",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31577"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Everhart-Thornley_detector"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Everhart-Thornley detector"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32838"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40374"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13625",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Seqlock"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Seqlock"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40601"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41079"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

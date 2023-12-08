@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5419",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Code_cave"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Code cave"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41970"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45527"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8704"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31268",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18084"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Security_as_a_service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Security as a service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7107",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Psychohistory_(fictional)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Psychohistory (fictional)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C916"
+      }
+    ]
+  }
+]

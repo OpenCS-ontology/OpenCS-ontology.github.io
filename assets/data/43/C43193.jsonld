@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43193",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34055"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/One-factor-at-a-time_method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "One-factor-at-a-time method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5713"
+      }
+    ]
+  }
+]

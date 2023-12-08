@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30344",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26092"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Organizational_engineering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Organizational engineering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11151"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5092"
+      }
+    ]
+  }
+]

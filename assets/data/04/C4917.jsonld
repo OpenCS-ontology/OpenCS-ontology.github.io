@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4917",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Radio-frequency_identification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Radio-frequency identification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9489"
+      }
+    ]
+  }
+]

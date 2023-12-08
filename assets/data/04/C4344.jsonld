@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4344",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Traffic_analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Traffic analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14539"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17091"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17900"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26831"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29539"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

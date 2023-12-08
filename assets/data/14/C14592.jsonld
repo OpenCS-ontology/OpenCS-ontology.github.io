@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14592",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8664"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chaos_theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chaos theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

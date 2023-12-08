@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29777",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18933"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23855"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EMV protocol"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18933"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8437"
+      }
+    ]
+  }
+]

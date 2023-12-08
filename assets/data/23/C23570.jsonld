@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23570",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7848"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Force_platform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Force platform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35642"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7848"
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7401",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Minimum_bounding_rectangle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Minimum bounding rectangle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20539"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7788"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8499"
+      }
+    ]
+  }
+]

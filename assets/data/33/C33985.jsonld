@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33985",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25667"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cav1.2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cav1.2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34425"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45393"
+      }
+    ]
+  }
+]

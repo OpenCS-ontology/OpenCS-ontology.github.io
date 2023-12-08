@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16943",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3195"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Power_management_integrated_circuit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Power management integrated circuit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21765"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22530"
+      }
+    ]
+  }
+]

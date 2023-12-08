@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8300",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Agricultural_Information_Management_Standards"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Agricultural Information Management Standards"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25681"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6915"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9836"
+      }
+    ]
+  }
+]

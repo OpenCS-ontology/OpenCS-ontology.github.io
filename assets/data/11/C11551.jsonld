@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11551",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rule_of_thumb"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rule of thumb"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C931"
+      }
+    ]
+  }
+]

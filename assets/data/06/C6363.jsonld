@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6363",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Expert_elicitation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Expert elicitation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30400"
+      }
+    ]
+  }
+]

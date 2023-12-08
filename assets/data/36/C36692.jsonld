@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36692",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19524"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wavelength_shifter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wavelength shifter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36872"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2367",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Intelligent_tutoring_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Intelligent tutoring system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4325",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/PCI/104-Express"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "PCI/104-Express"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24007"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C735"
+      }
+    ]
+  }
+]

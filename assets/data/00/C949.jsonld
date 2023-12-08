@@ -1,0 +1,92 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C949",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Electronic_signature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Electronic signature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19504"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9489"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43010",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36246"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Photurinae"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Photurinae"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36212"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42703"
+      }
+    ]
+  }
+]

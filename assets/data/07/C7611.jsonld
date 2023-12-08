@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7611",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Casting_out_nines"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Casting out nines"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8581"
+      }
+    ]
+  }
+]

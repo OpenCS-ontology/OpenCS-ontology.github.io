@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6865",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Runway_bus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Runway bus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9542"
+      }
+    ]
+  }
+]

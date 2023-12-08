@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33775",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28720"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Temnothorax_nylanderi"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Temnothorax nylanderi"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36284"
+      }
+    ]
+  }
+]

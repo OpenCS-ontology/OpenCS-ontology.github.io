@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8623",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Legal_matter_management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Legal matter management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

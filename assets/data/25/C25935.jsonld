@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25935",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10135"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Event_stream_processing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Event stream processing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31527"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9550",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sequence_of_events_recorder"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sequence of events recorder"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9718"
+      }
+    ]
+  }
+]

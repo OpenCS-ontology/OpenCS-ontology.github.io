@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11670",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Standard_illuminant"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Standard illuminant"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21845"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23732"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8622"
+      }
+    ]
+  }
+]

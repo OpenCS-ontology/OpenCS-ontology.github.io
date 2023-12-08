@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C994",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Application_sharing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Application sharing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C420"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8869"
+      }
+    ]
+  }
+]

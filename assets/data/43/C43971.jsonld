@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43971",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30729"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Matroid_rank"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Matroid rank"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17726"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33872"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43604"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44442"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ]
+  }
+]

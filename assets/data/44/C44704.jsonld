@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44704",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36973"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Audio_crossover"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Audio crossover"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44671"
+      }
+    ]
+  }
+]

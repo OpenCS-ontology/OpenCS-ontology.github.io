@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32578",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25026"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Voltage-controlled_filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Voltage-controlled filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21717"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8718"
+      }
+    ]
+  }
+]

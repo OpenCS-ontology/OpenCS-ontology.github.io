@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32492",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27491"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ramsey_cardinal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ramsey cardinal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38982"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5251"
+      }
+    ]
+  }
+]

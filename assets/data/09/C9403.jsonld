@@ -1,0 +1,51 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9403",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Burst count"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6588"
+      }
+    ]
+  }
+]

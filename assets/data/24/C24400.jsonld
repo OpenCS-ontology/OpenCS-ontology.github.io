@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24400",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7330"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8564"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Inversion transduction grammars"
+      }
+    ]
+  }
+]

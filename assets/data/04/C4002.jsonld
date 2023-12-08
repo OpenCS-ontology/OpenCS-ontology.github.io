@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4002",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Server-Gated_Cryptography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Server-Gated Cryptography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14539"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18946"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43717"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5471"
+      }
+    ]
+  }
+]

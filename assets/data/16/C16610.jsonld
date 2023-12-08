@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16610",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13677"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9312"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Canberra_distance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Canberra distance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5332"
+      }
+    ]
+  }
+]

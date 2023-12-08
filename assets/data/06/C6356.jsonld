@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6356",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hash_calendar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hash calendar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13296"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15841"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35996"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8452"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8946"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32581",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29425"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Universal_polar_stereographic_coordinate_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Universal polar stereographic coordinate system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29425"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8708"
+      }
+    ]
+  }
+]

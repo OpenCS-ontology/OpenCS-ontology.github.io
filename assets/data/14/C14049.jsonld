@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14049",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12638"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C78"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8516"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8559"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Visual tracker"
+      }
+    ]
+  }
+]

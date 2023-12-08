@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6528",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/ADDIE_Model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "ADDIE Model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C934"
+      }
+    ]
+  }
+]

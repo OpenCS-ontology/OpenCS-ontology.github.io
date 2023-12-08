@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30441",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26020"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Television_director"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Television director"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8950"
+      }
+    ]
+  }
+]

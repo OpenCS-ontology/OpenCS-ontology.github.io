@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26417",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8325"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Continuous_predicate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Continuous predicate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21872"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40719"
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31671",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25285"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dependent_Dirichlet_process"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dependent Dirichlet process"
+      }
+    ]
+  }
+]

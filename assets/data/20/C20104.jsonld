@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20104",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9066"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Missile_defense"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Missile defense"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3031"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9066"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44557",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34391"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Group_information_management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Group information management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41776"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ]
+  }
+]

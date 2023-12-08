@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19939",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hybrid_neural_network"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hybrid neural network"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      }
+    ]
+  }
+]

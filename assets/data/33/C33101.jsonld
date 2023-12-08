@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33101",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28991"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Loop-erased_random_walk"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Loop-erased random walk"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17726"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40771"
+      }
+    ]
+  }
+]

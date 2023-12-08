@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7190",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/GapP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "GapP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25360"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29677"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33982"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39640"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39984"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41061"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45245"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5193"
+      }
+    ]
+  }
+]

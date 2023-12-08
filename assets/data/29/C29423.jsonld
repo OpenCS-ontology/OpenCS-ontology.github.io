@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29423",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4030"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Variance-stabilizing_transformation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Variance-stabilizing transformation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4030"
+      }
+    ]
+  }
+]

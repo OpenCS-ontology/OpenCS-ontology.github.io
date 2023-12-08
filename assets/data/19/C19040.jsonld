@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19040",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cryptographic_Module_Validation_Program"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cryptographic Module Validation Program"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1184"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33147"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40061"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9349"
+      }
+    ]
+  }
+]

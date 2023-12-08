@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22995",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bracketing_paradox"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bracketing paradox"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24893"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28817"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8283"
+      }
+    ]
+  }
+]

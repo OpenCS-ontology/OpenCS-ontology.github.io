@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16975",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7653"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Expected_value_of_sample_information"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Expected value of sample information"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9608"
+      }
+    ]
+  }
+]

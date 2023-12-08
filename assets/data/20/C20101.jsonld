@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20101",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9328"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Human_resource_management_in_public_administration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Human resource management in public administration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C642"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9328"
+      }
+    ]
+  }
+]

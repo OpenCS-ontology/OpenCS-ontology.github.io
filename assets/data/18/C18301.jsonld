@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18301",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12976"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Stereotaxy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Stereotaxy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12976"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13549"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16013"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C221"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3911"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9603"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23550",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7165"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Advanced_Microcontroller_Bus_Architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Advanced Microcontroller Bus Architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7165"
+      }
+    ]
+  }
+]

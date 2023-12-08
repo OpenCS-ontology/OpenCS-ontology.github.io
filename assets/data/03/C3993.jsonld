@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3993",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/PoweredUSB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "PoweredUSB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6403"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7234"
+      }
+    ]
+  }
+]

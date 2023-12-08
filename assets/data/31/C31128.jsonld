@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31128",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19524"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cadmium_tungstate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cadmium tungstate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19292"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32838"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36181"
+      }
+    ]
+  }
+]

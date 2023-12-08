@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41945",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33146"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bagarius_yarrelli"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bagarius yarrelli"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44889"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12573",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/INT_(x86_instruction)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "INT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3089"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5147"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9262"
+      }
+    ]
+  }
+]

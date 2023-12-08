@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2112",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Thaumatrope"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Thaumatrope"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C622"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34637",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19875"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Physician Payment Review Commission"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21533"
+      }
+    ]
+  }
+]

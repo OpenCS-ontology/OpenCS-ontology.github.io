@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11386",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/NIST_(metric)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "NIST"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16741"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6068"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C961"
+      }
+    ]
+  }
+]

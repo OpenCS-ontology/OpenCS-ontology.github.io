@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8950",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Film_editing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Film editing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7369"
+      }
+    ]
+  }
+]

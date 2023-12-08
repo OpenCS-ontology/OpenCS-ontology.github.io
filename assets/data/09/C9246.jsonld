@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9246",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Elementary_event"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Elementary event"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2726"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6291"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34708",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17717"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Tarjan's_strongly_connected_components_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tarjan's strongly connected components algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17717"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4966"
+      }
+    ]
+  }
+]

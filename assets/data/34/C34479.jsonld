@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34479",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19671"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Central–Eastern_Malayo-Polynesian_languages"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Central–Eastern Malayo-Polynesian languages"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7501"
+      }
+    ]
+  }
+]

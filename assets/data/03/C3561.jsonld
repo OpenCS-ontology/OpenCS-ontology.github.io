@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3561",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Shunting-yard_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Shunting-yard algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30285"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3785"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8313"
+      }
+    ]
+  }
+]

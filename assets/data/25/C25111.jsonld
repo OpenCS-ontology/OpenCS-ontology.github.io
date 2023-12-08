@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25111",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6817"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Integral_linearity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Integral linearity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5506"
+      }
+    ]
+  }
+]

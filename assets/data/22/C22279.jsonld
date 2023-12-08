@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22279",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4534"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/GIS_and_public_health"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "GIS and public health"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13713"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37642"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4534"
+      }
+    ]
+  }
+]

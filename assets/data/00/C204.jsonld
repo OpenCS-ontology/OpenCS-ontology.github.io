@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C204",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Carroll_diagram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Carroll diagram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12638"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8894"
+      }
+    ]
+  }
+]

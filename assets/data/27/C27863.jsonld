@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27863",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8753"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Tate_pairing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tate pairing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18118"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39928"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43724"
+      }
+    ]
+  }
+]

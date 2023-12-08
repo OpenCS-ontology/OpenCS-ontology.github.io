@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7463",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multibody_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multibody system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1240"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7848"
+      }
+    ]
+  }
+]

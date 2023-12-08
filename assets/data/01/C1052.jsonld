@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1052",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Receiver_Operating_Characteristic_Curve_Explorer_and_Tester"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Receiver Operating Characteristic Curve Explorer and Tester"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6912"
+      }
+    ]
+  }
+]

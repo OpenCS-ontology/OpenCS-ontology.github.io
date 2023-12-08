@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16135",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6912"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Near infrared hyperspectral imaging"
+      }
+    ]
+  }
+]

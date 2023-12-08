@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37310",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22356"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bayesian_efficiency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bayesian efficiency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25118"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6949"
+      }
+    ]
+  }
+]

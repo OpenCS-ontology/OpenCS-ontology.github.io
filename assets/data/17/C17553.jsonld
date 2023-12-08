@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17553",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10768"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Vocal_rest"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vocal rest"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5054"
+      }
+    ]
+  }
+]

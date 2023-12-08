@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9345",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Standard_test_signal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Standard test signal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5506"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8436"
+      }
+    ]
+  }
+]

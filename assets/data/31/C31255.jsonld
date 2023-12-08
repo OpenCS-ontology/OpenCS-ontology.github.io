@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31255",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15071"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22629"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Equivalent_airspeed"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Equivalent airspeed"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15071"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22629"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37071"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41539"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8888"
+      }
+    ]
+  }
+]

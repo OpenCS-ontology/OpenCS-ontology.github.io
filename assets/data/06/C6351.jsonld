@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6351",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Online_research_community"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Online research community"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9774"
+      }
+    ]
+  }
+]

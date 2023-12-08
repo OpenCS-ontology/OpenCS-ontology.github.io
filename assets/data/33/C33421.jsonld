@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33421",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21673"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Self organizing tree map"
+      }
+    ]
+  }
+]

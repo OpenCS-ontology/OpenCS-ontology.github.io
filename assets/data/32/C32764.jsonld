@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32764",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22623"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Digital Image Processing Equipment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      }
+    ]
+  }
+]

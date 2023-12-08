@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45139",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37589"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Shoelace_formula"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Shoelace formula"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38516"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43433"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43898"
+      }
+    ]
+  }
+]

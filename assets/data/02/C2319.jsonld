@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2319",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Knowledge_building"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Knowledge building"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11657"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3835"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4174"
+      }
+    ]
+  }
+]

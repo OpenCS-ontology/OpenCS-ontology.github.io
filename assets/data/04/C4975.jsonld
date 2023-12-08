@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4975",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/SINPO_code"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "SINPO code"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21604"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23488"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35081"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9691"
+      }
+    ]
+  }
+]

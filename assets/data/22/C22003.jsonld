@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22003",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/CrimeStat"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "CrimeStat"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38891"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5304"
+      }
+    ]
+  }
+]

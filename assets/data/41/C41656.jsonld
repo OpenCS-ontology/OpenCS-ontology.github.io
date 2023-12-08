@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41656",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34936"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Maximum_spacing_estimation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Maximum spacing estimation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41362"
+      }
+    ]
+  }
+]

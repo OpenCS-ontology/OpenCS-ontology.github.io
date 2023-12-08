@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10456",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Inscribed_sphere"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Inscribed sphere"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33802"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40196"
+      }
+    ]
+  }
+]

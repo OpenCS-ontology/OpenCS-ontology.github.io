@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42114",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36540"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Business_transformation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Business transformation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7509"
+      }
+    ]
+  }
+]

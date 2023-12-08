@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30001",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18626"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hamming_code"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hamming code"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14926"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41221"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7856"
+      }
+    ]
+  }
+]

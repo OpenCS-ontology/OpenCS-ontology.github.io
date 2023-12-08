@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21380",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8781"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lagrange_polynomial"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lagrange polynomial"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8781"
+      }
+    ]
+  }
+]

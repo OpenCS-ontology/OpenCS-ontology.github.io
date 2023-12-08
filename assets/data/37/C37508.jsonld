@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37508",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16038"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Flicker perimetry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6444"
+      }
+    ]
+  }
+]

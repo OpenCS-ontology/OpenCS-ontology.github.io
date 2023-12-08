@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17849",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6426"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Joint_application_design"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Joint application design"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9948",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Data_classification_(business_intelligence)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38644"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6248"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9325"
+      }
+    ]
+  }
+]

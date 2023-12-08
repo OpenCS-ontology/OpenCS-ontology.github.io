@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13242",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Capacity_optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Capacity optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27200"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35539"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5930"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8750"
+      }
+    ]
+  }
+]

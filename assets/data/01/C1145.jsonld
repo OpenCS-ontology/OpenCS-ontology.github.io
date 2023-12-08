@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1145",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Interactive_Learning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interactive Learning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C355"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C420"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4438"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

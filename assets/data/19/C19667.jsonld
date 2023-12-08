@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19667",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3401"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lovász_local_lemma"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lovász local lemma"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45075"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6909"
+      }
+    ]
+  }
+]

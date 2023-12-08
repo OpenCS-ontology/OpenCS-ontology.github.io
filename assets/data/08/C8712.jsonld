@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8712",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Design_theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Designtheory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7904"
+      }
+    ]
+  }
+]

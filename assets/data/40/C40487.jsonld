@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40487",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35163"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rencontres_numbers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rencontres numbers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43818"
+      }
+    ]
+  }
+]

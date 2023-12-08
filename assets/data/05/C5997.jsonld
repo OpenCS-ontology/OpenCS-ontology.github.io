@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5997",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/BIP-8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "BIP-8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10765"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35347"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36329"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36536"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40954"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8567"
+      }
+    ]
+  }
+]

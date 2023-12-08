@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14375",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8664"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lorenz_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lorenz system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18873"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

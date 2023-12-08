@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32520",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22483"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Balancing_domain_decomposition_method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Balancing domain decomposition method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21770"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44942"
+      }
+    ]
+  }
+]

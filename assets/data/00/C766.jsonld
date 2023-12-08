@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C766",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/ISCC–NBS_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "ISCC–NBS system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44943"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8099"
+      }
+    ]
+  }
+]

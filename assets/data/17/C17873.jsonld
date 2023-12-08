@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17873",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hacktivism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hacktivism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39611",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36383"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Decision_field_theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Decision field theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5295"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7256"
+      }
+    ]
+  }
+]

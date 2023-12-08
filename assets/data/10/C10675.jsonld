@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10675",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Information_space"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Information space"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38363"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42440"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45861"
+      }
+    ]
+  }
+]

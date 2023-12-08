@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6590",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Boolean_analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Boolean analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9488"
+      }
+    ]
+  }
+]

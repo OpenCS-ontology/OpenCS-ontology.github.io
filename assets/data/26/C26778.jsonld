@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26778",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C261"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8172"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/IEEE_1451"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "IEEE 1451"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17976"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45779"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8040"
+      }
+    ]
+  }
+]

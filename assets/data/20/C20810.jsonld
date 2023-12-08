@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20810",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8386"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/SDS_Protocol"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "SDS Protocol"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12442"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43830"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7794"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10906",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/One_Watt_Initiative"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "One Watt Initiative"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8388"
+      }
+    ]
+  }
+]

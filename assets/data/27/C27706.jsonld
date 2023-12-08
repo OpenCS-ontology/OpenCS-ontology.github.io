@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27706",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9372"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rhombic_dodecahedral_honeycomb"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rhombic dodecahedral honeycomb"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33802"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9372"
+      }
+    ]
+  }
+]

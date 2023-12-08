@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10425",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Circular_reasoning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Circular reasoning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6290"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9834"
+      }
+    ]
+  }
+]

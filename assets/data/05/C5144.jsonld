@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5144",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Probabilistic_latent_semantic_analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Probabilistic latent semantic analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9287"
+      }
+    ]
+  }
+]

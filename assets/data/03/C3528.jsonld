@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3528",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Open_communication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Open communication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21357"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31459"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6114"
+      }
+    ]
+  }
+]

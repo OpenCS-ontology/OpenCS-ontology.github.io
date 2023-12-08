@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38730",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33342"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Gabor_wavelet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Gabor wavelet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28754"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45112"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9427"
+      }
+    ]
+  }
+]

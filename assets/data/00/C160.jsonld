@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C160",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Geometric_primitive"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geometric primitive"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11325"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12454"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44616"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8399"
+      }
+    ]
+  }
+]

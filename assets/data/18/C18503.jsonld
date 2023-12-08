@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18503",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Polarity_item"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Polarity item"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1952"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27168"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24829",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8291"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Contact_microphone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Contact microphone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8291"
+      }
+    ]
+  }
+]

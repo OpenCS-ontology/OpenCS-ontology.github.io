@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9617",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sukhotin's_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sukhotin's algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19971"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33075"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35147"
+      }
+    ]
+  }
+]

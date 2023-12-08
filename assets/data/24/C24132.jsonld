@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24132",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2114"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Jespersen's_Cycle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Jespersen's Cycle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7501"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34605",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15979"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Amorphous_Selenium_Flat_Panel_Detectors"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Amorphous Selenium Flat Panel Detectors"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3032"
+      }
+    ]
+  }
+]

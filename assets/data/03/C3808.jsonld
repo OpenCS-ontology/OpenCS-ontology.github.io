@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3808",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Boe-Bot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Boe-Bot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35770"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6299"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C979"
+      }
+    ]
+  }
+]

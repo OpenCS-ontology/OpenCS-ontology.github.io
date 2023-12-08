@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4534",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Geospatial_analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geospatial analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37642"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44189"
+      }
+    ]
+  }
+]

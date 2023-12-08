@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7022",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/VQuad-HD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "VQuad-HD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4433"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5506"
+      }
+    ]
+  }
+]

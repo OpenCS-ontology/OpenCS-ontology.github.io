@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18627",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3401"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Topological_index"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Topological index"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30245"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37079"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38643"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45329"
+      }
+    ]
+  }
+]

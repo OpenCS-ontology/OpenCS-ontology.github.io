@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8389",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Reservation_station"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Reservation station"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4863"
+      }
+    ]
+  }
+]

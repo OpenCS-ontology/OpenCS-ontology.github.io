@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8200",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Discoverability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Discoverability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38459"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9931"
+      }
+    ]
+  }
+]

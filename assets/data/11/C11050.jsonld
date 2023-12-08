@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11050",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Massive_open_online_course"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Massive open online course"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11058"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

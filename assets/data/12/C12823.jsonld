@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12823",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Argus_(programming_language)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Argus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15969"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8864"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7929",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/TI_MSP432"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "TI MSP432"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31889"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7165"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7983"
+      }
+    ]
+  }
+]

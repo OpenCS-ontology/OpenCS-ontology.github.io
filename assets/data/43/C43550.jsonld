@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43550",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33528"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Glass_with_embedded_metal_and_sulfides"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Glass with embedded metal and sulfides"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42851"
+      }
+    ]
+  }
+]

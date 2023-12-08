@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C256",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Colour_banding"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Colour banding"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16151"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1832"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8099"
+      }
+    ]
+  }
+]

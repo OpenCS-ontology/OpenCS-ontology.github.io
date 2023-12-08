@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39019",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30245"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36770"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Graph_energy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Graph energy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30245"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39719"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45737"
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4980",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Video_server"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Video server"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12994"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9748"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20099",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8725"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Volatility,_uncertainty,_complexity_and_ambiguity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Volatility, uncertainty, complexity and ambiguity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8725"
+      }
+    ]
+  }
+]

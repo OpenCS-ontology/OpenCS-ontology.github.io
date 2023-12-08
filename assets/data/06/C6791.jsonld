@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6791",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/44,100_Hz"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "44,100 Hz"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26575"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8237"
+      }
+    ]
+  }
+]

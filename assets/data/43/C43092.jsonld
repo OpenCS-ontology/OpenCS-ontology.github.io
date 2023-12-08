@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43092",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36407"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rademacher_distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rademacher distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9326"
+      }
+    ]
+  }
+]

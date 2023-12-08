@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5624",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Automatic_test_equipment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Automatic test equipment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3177"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4988"
+      }
+    ]
+  }
+]

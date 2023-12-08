@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16035",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10275"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multispectral_pattern_recognition"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multispectral pattern recognition"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ]
+  }
+]

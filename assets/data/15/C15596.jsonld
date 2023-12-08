@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15596",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12029"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ocean_acoustic_tomography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ocean acoustic tomography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45278"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7008"
+      }
+    ]
+  }
+]

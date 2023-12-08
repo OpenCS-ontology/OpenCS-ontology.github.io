@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1308",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Intel_Parallel_Building_Blocks"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Intel Parallel Building Blocks"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10636"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7629"
+      }
+    ]
+  }
+]

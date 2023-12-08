@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24340",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7310"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Oroblanco"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Oroblanco"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16345"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35018"
+      }
+    ]
+  }
+]

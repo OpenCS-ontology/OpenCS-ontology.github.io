@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26590",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12919"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Geo_warping"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geo warping"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2933"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31226"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8708"
+      }
+    ]
+  }
+]

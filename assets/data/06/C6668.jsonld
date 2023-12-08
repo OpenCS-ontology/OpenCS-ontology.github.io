@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6668",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Barwise_compactness_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Barwise compactness theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39951"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8635"
+      }
+    ]
+  }
+]

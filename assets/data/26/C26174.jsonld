@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26174",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wiener_algebra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wiener algebra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20926"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43376"
+      }
+    ]
+  }
+]

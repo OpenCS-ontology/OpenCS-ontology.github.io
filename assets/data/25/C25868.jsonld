@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25868",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3744"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Three_degrees_of_influence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Three degrees of influence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22708"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4652"
+      }
+    ]
+  }
+]

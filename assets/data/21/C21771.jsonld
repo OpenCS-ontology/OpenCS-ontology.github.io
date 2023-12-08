@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21771",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8520"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Automated_X-ray_inspection"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Automated X-ray inspection"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3177"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5624"
+      }
+    ]
+  }
+]

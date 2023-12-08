@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13095",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Post-production"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Post-production"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8950"
+      }
+    ]
+  }
+]

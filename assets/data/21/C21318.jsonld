@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21318",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9538"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Kirszbraun_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kirszbraun theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33102"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45668"
+      }
+    ]
+  }
+]

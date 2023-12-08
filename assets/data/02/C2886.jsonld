@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2886",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Traffic_intensity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Traffic intensity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7221"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8952"
+      }
+    ]
+  }
+]

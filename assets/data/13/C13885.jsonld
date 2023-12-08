@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13885",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11372"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sequential ordering problem"
+      }
+    ]
+  }
+]

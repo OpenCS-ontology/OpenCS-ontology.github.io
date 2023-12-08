@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17090",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6417"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Reverberation_room"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Reverberation room"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8291"
+      }
+    ]
+  }
+]

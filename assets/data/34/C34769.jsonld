@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34769",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28039"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Combinational verification"
+      }
+    ]
+  }
+]

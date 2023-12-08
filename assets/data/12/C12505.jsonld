@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12505",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Panning_(camera)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Panning (camera)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2895"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3374"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6075"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8746"
+      }
+    ]
+  }
+]

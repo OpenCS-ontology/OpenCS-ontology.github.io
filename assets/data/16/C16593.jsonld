@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16593",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9423"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Block_upconverter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Block upconverter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44664"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6474"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36765",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22243"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Quality_control_and_genetic_algorithms"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Quality control and genetic algorithms"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38436"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C90"
+      }
+    ]
+  }
+]

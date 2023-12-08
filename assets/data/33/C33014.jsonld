@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33014",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21150"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Neivamyrmex_nigrescens"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Neivamyrmex nigrescens"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22504"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44498"
+      }
+    ]
+  }
+]

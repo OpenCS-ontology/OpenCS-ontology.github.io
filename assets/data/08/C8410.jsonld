@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8410",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Interchange_circuit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interchange circuit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9910"
+      }
+    ]
+  }
+]

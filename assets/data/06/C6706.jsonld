@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6706",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/A-not-A_question"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "A-not-A question"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1952"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22596"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9659"
+      }
+    ]
+  }
+]

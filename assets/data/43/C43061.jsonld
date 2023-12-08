@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43061",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37236"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Total_variation_distance_of_probability_measures"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Total variation distance of probability measures"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16726"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39971"
+      }
+    ]
+  }
+]

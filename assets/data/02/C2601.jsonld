@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2601",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/APC-7_connector"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "APC-7 connector"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26775"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45299"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6913"
+      }
+    ]
+  }
+]

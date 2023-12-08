@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16417",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13750"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Protoplanetary_disk"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Protoplanetary disk"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

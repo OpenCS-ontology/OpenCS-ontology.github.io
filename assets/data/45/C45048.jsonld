@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45048",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33033"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36507"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Besov_space"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Besov space"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33033"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43695"
+      }
+    ]
+  }
+]

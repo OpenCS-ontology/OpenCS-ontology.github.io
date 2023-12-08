@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3263",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/CaseMap"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "CaseMap"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13591"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C224"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4028"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8993"
+      }
+    ]
+  }
+]

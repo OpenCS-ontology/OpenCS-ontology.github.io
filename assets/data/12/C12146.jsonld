@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12146",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Business_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Business model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

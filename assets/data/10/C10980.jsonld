@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10980",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Computer_module"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Computer module"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8787"
+      }
+    ]
+  }
+]

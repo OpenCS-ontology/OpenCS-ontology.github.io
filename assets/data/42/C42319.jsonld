@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42319",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36973"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Network_speaker"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Network speaker"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39294"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5975"
+      }
+    ]
+  }
+]

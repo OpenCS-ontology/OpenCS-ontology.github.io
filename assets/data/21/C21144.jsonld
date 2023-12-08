@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21144",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9170"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Frog_hearing_and_communication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Frog hearing and communication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18366"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9278"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9854"
+      }
+    ]
+  }
+]

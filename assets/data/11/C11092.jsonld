@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11092",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Verification_and_validation_of_computer_simulation_models"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Verification and validation of computer simulation models"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45629"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6498"
+      }
+    ]
+  }
+]

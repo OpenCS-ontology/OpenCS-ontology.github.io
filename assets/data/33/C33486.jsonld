@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33486",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23972"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Schmidt_corrector_plate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Schmidt corrector plate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19644"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8085"
+      }
+    ]
+  }
+]

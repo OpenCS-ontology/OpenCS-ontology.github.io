@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15099",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4255"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Remote_base_station"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Remote base station"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8147"
+      }
+    ]
+  }
+]

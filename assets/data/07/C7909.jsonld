@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7909",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Phased_array"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Phased array"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24151"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2933"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9691"
+      }
+    ]
+  }
+]

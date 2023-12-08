@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18587",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C425"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Technical_documentation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Technical documentation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8387"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9150"
+      }
+    ]
+  }
+]

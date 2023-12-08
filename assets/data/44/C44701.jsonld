@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44701",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36816"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Behavioral_systems_analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Behavioral systems analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9017"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9328"
+      }
+    ]
+  }
+]

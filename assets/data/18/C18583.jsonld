@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18583",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Exception_safety"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Exception safety"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8405"
+      }
+    ]
+  }
+]

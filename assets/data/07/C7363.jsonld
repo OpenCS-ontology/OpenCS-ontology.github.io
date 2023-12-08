@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7363",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/RocketSat"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "RocketSat"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6299"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16553",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C836"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Autocorrelation_matrix"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Autocorrelation matrix"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6110"
+      }
+    ]
+  }
+]

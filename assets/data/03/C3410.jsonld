@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3410",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Proximity_card"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Proximity card"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17383"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8711"
+      }
+    ]
+  }
+]

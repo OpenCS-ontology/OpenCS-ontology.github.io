@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1318",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/KVM_switch"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "KVM switch"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12640"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3525"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8345"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9540"
+      }
+    ]
+  }
+]

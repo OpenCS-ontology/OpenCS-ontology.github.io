@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4045",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Intelligent_maintenance_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Intelligent maintenance system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9874"
+      }
+    ]
+  }
+]

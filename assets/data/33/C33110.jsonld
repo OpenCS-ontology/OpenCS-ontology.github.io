@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33110",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24914"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dynamic_Invocation_Interface"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dynamic Invocation Interface"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C661"
+      }
+    ]
+  }
+]

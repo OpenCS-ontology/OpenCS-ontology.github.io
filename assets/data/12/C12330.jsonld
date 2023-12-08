@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12330",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/The_Map_Library"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "The Map Library"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45145"
+      }
+    ]
+  }
+]

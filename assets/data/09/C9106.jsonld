@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9106",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Natural_language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Natural language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2472"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8564"
+      }
+    ]
+  }
+]

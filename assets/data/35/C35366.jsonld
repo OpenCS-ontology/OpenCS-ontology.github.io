@@ -1,0 +1,33 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35366",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27052"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/C++_Technical_Report_1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "C++ Technical Report 1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31093",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14022"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Topological_map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Topological map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2954"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6124"
+      }
+    ]
+  }
+]

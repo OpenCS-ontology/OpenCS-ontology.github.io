@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31581",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14410"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Linguistic_purism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Linguistic purism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8020"
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C448",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Master_of_Information_Management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Master of Information Management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11094"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31285"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9585"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44464",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35950"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bounding_sphere"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bounding sphere"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2425"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28240"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7788"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9090"
+      }
+    ]
+  }
+]

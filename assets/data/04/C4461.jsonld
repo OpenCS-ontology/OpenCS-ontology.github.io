@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4461",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/S-VHS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "S-VHS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4374"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9045"
+      }
+    ]
+  }
+]

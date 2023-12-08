@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27342",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13750"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Blink_comparator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Blink comparator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28956"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7789"
+      }
+    ]
+  }
+]

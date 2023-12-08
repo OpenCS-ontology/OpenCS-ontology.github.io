@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37171",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25251"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Public_participation_geographic_information_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Public participation GIS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39546"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5241"
+      }
+    ]
+  }
+]

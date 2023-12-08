@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5715",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cyber-physical_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cyber-physical system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1793"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8386"
+      }
+    ]
+  }
+]

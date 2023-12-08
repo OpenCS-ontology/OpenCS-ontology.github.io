@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11552",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Earth_mover's_distance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Earth mover's distance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      }
+    ]
+  }
+]

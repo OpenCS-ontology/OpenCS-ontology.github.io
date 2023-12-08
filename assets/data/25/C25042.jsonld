@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25042",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1564"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Johnson–Nyquist_noise"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Johnson–Nyquist noise"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5505"
+      }
+    ]
+  }
+]

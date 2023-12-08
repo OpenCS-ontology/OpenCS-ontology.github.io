@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33054",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26749"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/New_Car_Assessment_Program"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "New Car Assessment Program"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5973"
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1268",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vision problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8725"
+      }
+    ]
+  }
+]

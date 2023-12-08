@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1031",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Numbering_scheme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Numbering scheme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C224"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3934"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ]
+  }
+]

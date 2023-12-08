@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28543",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7689"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Borel_right_process"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Borel right process"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37437"
+      }
+    ]
+  }
+]

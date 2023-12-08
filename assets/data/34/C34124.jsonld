@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34124",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24916"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Optical_wireless_communications"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Optical wireless communications"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9253"
+      }
+    ]
+  }
+]

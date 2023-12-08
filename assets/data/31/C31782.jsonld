@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31782",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16545"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cherenkov_Telescope_Array"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cherenkov Telescope Array"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30541"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34642"
+      }
+    ]
+  }
+]

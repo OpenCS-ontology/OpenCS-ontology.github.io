@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3842",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Angle_of_view"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Angle of view"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43094"
+      }
+    ]
+  }
+]

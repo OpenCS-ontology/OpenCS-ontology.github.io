@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4009",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multiple_exposure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multiple exposure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38640"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6041"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C797"
+      }
+    ]
+  }
+]

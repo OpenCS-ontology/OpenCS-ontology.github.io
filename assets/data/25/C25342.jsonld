@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25342",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5511"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Immunity Testing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ]
+  }
+]

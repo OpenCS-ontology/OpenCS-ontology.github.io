@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23319",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11861"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/EDIFACT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EDIFACT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9886"
+      }
+    ]
+  }
+]

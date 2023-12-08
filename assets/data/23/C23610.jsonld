@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23610",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5007"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Low-power_electronics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Low-power electronics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21765"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6172"
+      }
+    ]
+  }
+]

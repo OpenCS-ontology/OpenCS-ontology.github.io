@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31044",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17046"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Writeprint"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Writeprint"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1299"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13872"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8464"
+      }
+    ]
+  }
+]

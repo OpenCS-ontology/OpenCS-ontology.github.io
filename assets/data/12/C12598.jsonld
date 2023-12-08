@@ -1,0 +1,24 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12598",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pruritic_papular_eruption_of_HIV_disease"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pruritic papular eruption of HIV disease"
+      }
+    ]
+  }
+]

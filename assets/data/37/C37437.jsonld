@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37437",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14922"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15419"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Interacting_particle_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interacting particle system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7689"
+      }
+    ]
+  }
+]

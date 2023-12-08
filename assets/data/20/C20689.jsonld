@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20689",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13320"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/OpenFlight"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "OpenFlight"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36472"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9603"
+      }
+    ]
+  }
+]

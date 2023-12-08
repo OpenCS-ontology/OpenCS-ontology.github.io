@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1603",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Virtual_world_framework"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Virtual world framework"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14330"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

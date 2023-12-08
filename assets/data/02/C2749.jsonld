@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2749",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Spatial_disorientation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spatial disorientation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18996"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35895"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5030"
+      }
+    ]
+  }
+]

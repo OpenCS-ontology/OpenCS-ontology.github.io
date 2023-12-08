@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20431",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11297"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12759"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Phonetic_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Phonetic algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11297"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12486"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17677"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3741"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6237"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6459"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8020"
+      }
+    ]
+  }
+]

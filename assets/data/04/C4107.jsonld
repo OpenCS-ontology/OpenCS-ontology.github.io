@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4107",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/High_frequency_line_trap"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "High frequency line trap"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7740"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39712",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29843"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Proof_of_O(log*n)_time_complexity_of_union–find"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Proof of O(log*n) time complexity of union–find"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4788"
+      }
+    ]
+  }
+]

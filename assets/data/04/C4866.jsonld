@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4866",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Crowdsourcing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Crowdsourcing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

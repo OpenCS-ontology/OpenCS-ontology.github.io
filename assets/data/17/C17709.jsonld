@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17709",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4756"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Skolem_normal_form"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Skolem normal form"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38596"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45817"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9698"
+      }
+    ]
+  }
+]

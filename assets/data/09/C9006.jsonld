@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9006",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Auditory acuity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5853"
+      }
+    ]
+  }
+]

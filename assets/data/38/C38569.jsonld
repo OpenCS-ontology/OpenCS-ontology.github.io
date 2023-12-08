@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38569",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36115"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/WokFi"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "WokFi"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24151"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33732"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45299"
+      }
+    ]
+  }
+]

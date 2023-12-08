@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22683",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2135"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Graphic_communication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Graphic communication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10982"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12638"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9606"
+      }
+    ]
+  }
+]

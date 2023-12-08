@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31927",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27491"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Strongly_compact_cardinal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Strongly compact cardinal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15010"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5251"
+      }
+    ]
+  }
+]

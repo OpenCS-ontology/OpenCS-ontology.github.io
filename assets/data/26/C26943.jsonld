@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26943",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3452"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/CompactDAQ"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "CompactDAQ"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29868"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3452"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36943"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5912"
+      }
+    ]
+  }
+]

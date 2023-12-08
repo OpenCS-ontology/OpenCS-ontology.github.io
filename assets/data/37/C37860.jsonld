@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37860",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37174"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Testing_Maturity_Model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Testing Maturity Model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13374"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45401"
+      }
+    ]
+  }
+]

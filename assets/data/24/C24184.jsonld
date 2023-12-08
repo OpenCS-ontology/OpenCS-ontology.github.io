@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24184",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2491"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Malayalam_literature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Malayalam literature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4757"
+      }
+    ]
+  }
+]

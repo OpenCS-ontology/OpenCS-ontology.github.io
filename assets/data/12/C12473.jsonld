@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12473",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Reversal_film"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Reversal film"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9451"
+      }
+    ]
+  }
+]

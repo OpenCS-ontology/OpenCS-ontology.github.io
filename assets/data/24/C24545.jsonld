@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24545",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cosmic_Vision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cosmic Vision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C81"
+      }
+    ]
+  }
+]

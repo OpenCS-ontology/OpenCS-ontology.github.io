@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12272",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/TNSDL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "TNSDL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2892"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29799"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6987"
+      }
+    ]
+  }
+]

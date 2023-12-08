@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33678",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25412"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Kilonova"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kilonova"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44452"
+      }
+    ]
+  }
+]

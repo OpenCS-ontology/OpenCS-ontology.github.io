@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35364",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20178"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23749"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bus_mastering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bus mastering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9262"
+      }
+    ]
+  }
+]

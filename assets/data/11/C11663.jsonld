@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11663",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Radio_teleswitch"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Radio teleswitch"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C985"
+      }
+    ]
+  }
+]

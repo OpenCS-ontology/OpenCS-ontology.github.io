@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43778",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35103"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Conditional_event_algebra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Conditional event algebra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9246"
+      }
+    ]
+  }
+]

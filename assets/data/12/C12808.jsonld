@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12808",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Electronic_navigation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Electronic navigation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9831"
+      }
+    ]
+  }
+]

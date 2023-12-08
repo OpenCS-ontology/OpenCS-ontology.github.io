@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13054",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mycocepurus_castrator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mycocepurus castrator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32322"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37210"
+      }
+    ]
+  }
+]

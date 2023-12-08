@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24352",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1033"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9089"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Process_flowsheeting"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Process flowsheeting"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C854"
+      }
+    ]
+  }
+]

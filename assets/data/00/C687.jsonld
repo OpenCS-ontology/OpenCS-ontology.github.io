@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C687",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Turing_(programming_language)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Turing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13101"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27954"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33288"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3639"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7289"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8441"
+      }
+    ]
+  }
+]

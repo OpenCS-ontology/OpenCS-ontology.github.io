@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30705",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21616"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Intel_8008"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Intel 8008"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8787"
+      }
+    ]
+  }
+]

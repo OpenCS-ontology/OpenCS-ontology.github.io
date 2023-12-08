@@ -1,0 +1,89 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21998",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Time-series_segmentation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Time-series segmentation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33289"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37684"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38431"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38829"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39922"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      }
+    ]
+  }
+]

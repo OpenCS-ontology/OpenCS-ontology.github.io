@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9740",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Missing_data"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Missing data"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9488"
+      }
+    ]
+  }
+]

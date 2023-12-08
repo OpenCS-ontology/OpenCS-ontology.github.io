@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41571",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35950"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Minimum_bounding_box_algorithms"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Minimum bounding box algorithms"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19178"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7788"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9090"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10550",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Parking_guidance_and_information"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Parking guidance and information"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14828"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15676"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1793"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9657"
+      }
+    ]
+  }
+]

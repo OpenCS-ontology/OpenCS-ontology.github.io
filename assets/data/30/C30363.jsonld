@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30363",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24878"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Scartelaos tenuis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24878"
+      }
+    ]
+  }
+]

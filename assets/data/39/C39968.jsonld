@@ -1,0 +1,92 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39968",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35628"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Computer_security_compromised_by_hardware_failure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Computer security compromised by hardware failure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12605"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21383"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33956"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39296"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45216"
+      }
+    ]
+  }
+]

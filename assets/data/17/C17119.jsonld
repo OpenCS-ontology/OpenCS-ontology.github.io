@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17119",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3843"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Nonlinear_distortion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Nonlinear distortion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14919"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3173"
+      }
+    ]
+  }
+]

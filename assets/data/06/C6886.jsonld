@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6886",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Laserdisc_player"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Laserdisc player"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10785"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3636"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7255"
+      }
+    ]
+  }
+]

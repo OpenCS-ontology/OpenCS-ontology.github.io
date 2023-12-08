@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6290",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Problem_of_induction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Problem of induction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5817"
+      }
+    ]
+  }
+]

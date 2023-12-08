@@ -1,0 +1,27 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13910",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2197"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Whitmania pigra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7604"
+      }
+    ]
+  }
+]

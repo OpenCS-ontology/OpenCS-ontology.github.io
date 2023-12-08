@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1084",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Electronic_paper"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Electronic paper"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33347"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ]
+  }
+]

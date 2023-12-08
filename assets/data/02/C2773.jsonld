@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2773",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Darwin_among_the_Machines"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Darwin among the Machines"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9795"
+      }
+    ]
+  }
+]

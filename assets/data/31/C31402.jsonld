@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31402",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24558"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Single-input_single-output_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Single-input single-output system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7159"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18688",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Smeed's_law"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Smeed's law"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14215"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14828"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9657"
+      }
+    ]
+  }
+]

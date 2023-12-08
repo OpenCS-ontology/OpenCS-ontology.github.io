@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43597",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36873"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Fast_retransmit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fast retransmit"
+      }
+    ]
+  }
+]

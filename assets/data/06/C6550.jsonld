@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6550",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lucas–Lehmer_primality_test"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lucas–Lehmer primality test"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3459"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40241"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9449"
+      }
+    ]
+  }
+]

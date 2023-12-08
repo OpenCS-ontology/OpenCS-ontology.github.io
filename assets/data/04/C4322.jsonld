@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4322",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Electronically_stored_information_(Federal_Rules_of_Civil_Procedure)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Electronically stored information"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25067"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8639"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8993"
+      }
+    ]
+  }
+]

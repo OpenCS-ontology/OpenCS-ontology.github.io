@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22706",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3894"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/De_Morgan's_laws"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "De Morgan's laws"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38679"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8077"
+      }
+    ]
+  }
+]

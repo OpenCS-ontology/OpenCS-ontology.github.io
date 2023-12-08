@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21969",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1035"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8786"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Raise specification language"
+      }
+    ]
+  }
+]

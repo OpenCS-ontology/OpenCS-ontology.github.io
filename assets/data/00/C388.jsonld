@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C388",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Jenks_natural_breaks_optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Jenks natural breaks optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12322"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33958"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9594"
+      }
+    ]
+  }
+]

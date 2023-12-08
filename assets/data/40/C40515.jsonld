@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40515",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32484"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lenstra_elliptic_curve_factorization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lenstra elliptic curve factorization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40480"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4466"
+      }
+    ]
+  }
+]

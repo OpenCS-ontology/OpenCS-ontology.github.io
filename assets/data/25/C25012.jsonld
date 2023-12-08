@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25012",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13412"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Recovery_time_objective"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Recovery time objective"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4817"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9035"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9447"
+      }
+    ]
+  }
+]

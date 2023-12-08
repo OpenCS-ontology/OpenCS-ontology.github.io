@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40976",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30779"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35406"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Synodontis_zambezensis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Synodontis zambezensis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30779"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45691"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34576",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16189"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dunstan_Baby_Language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dunstan Baby Language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6648"
+      }
+    ]
+  }
+]

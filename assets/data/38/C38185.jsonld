@@ -1,0 +1,92 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38185",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33191"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Certificate_Management_over_CMS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Certificate Management over CMS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14952"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23995"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28949"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9276"
+      }
+    ]
+  }
+]

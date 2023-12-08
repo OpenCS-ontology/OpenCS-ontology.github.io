@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45147",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34946"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/SIGTRAN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "SIGTRAN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36782"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8515"
+      }
+    ]
+  }
+]

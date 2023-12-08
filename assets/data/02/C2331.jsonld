@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2331",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Review status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23949"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5702"
+      }
+    ]
+  }
+]

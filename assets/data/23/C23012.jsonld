@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23012",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Itoh-Tsujii_inversion_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Itoh-Tsujii inversion algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43183"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44119"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45628"
+      }
+    ]
+  }
+]

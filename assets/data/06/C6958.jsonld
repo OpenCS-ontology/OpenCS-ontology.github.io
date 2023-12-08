@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6958",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Absorptive_capacity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Absorptive capacity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11782"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C925"
+      }
+    ]
+  }
+]

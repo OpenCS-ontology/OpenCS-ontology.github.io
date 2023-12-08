@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C667",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Technical_illustration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Technical illustration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11094"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12638"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13261"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44325"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8894"
+      }
+    ]
+  }
+]

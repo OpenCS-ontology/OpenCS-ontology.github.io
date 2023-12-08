@@ -1,0 +1,51 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1324",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Union Lists"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10911"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5832"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8498"
+      }
+    ]
+  }
+]

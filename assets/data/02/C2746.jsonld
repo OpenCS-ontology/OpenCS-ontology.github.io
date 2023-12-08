@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2746",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Regret_(decision_theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Regret"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4594"
+      }
+    ]
+  }
+]

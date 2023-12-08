@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25347",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9154"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/GSM-R"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "GSM-R"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9154"
+      }
+    ]
+  }
+]

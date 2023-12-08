@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25305",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11097"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Learning_enterprises"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Learning enterprises"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3835"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7818"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C934"
+      }
+    ]
+  }
+]

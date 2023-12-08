@@ -1,0 +1,51 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15723",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C314"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Patient monitoring device"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C440"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

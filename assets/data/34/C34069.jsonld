@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34069",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Andromeda_Galaxy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Andromeda Galaxy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21056"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

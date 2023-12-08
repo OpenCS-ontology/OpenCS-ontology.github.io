@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4907",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/BitTorrent_tracker"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "BitTorrent tracker"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15478"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

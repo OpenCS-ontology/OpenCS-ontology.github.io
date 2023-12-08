@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42855",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33187"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36507"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Operator_ideal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Operator ideal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43500"
+      }
+    ]
+  }
+]

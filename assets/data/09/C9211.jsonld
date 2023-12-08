@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9211",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Navigation_function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Navigation function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34535"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43184"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C77"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      }
+    ]
+  }
+]

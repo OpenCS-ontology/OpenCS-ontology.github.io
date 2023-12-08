@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40237",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34663"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34688"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Killer_heuristic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Killer heuristic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6945"
+      }
+    ]
+  }
+]

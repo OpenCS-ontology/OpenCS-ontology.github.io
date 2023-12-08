@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19525",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8753"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Embarrassingly_parallel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Embarrassingly parallel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21933"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2478"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7735"
+      }
+    ]
+  }
+]

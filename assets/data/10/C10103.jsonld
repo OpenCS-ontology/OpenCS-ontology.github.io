@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10103",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Crystal_radio"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Crystal radio"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7159"
+      }
+    ]
+  }
+]

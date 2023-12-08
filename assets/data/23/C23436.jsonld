@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23436",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C848"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dynameter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dynameter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11994"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9744"
+      }
+    ]
+  }
+]

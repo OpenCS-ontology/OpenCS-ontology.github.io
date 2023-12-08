@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11448",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Informatics_engineering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Informatics engineering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4200"
+      }
+    ]
+  }
+]

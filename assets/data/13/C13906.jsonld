@@ -1,0 +1,27 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13906",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1609"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chinese Visible Human Project"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6756"
+      }
+    ]
+  }
+]

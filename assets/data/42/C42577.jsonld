@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42577",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32396"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Knuth's_up-arrow_notation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Knuth's up-arrow notation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5914"
+      }
+    ]
+  }
+]

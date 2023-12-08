@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33901",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28739"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ecological_Metadata_Language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ecological Metadata Language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28739"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32112"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44676"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9836"
+      }
+    ]
+  }
+]

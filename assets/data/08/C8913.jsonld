@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8913",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Digital_timing_diagram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Digital timing diagram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6306"
+      }
+    ]
+  }
+]

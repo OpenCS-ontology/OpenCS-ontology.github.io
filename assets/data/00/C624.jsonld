@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C624",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Inhabited_set"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Inhabited set"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5714"
+      }
+    ]
+  }
+]

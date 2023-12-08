@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33989",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23209"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Petersson_trace_formula"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Petersson trace formula"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45445"
+      }
+    ]
+  }
+]

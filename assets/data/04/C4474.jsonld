@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4474",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rock_Phish"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rock Phish"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41068"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42304"
+      }
+    ]
+  }
+]

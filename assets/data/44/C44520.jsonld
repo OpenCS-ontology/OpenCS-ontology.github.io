@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44520",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30635"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/FTTLA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "FTTLA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45690"
+      }
+    ]
+  }
+]

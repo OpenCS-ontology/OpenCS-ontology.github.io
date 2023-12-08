@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36239",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21004"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Technomyrmex_albipes"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Technomyrmex albipes"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35777"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37210"
+      }
+    ]
+  }
+]

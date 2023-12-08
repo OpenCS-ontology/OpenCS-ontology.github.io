@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19681",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7021"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hjorth_parameters"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hjorth parameters"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34943"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37366"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C836"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      }
+    ]
+  }
+]

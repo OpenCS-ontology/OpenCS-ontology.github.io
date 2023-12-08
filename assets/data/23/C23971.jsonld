@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23971",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Meander_cutoff"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Meander cutoff"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32591"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35528"
+      }
+    ]
+  }
+]

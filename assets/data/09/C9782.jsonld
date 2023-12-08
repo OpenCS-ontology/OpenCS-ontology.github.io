@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9782",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Data_differencing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data differencing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C546"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9268"
+      }
+    ]
+  }
+]

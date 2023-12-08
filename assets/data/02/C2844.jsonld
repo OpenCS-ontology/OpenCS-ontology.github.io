@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2844",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Virtual_slide"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Virtual slide"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16954"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C653"
+      }
+    ]
+  }
+]

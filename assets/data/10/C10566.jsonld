@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10566",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Facial_expression"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Facial expression"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18440"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21329"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2480"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32017"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7858"
+      }
+    ]
+  }
+]

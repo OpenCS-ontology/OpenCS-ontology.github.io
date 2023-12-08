@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C799",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Information_capture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Information capture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20895"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22361"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26351"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35178"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36535"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8035"
+      }
+    ]
+  }
+]

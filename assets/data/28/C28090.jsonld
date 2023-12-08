@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28090",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12638"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/LandSerf"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "LandSerf"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37642"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42090"
+      }
+    ]
+  }
+]

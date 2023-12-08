@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10924",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Constructive_solid_geometry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Constructive solid geometry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11325"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12454"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8662"
+      }
+    ]
+  }
+]

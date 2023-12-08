@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31733",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14471"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Polyhedral_terrain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Polyhedral terrain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29836"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35574"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41076"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6289"
+      }
+    ]
+  }
+]

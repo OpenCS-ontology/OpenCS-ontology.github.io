@@ -1,0 +1,57 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9620",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vehicle search"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24623"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3892"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8499"
+      }
+    ]
+  }
+]

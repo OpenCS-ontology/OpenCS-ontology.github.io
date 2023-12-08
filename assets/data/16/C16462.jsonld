@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16462",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5746"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bookselling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9606"
+      }
+    ]
+  }
+]

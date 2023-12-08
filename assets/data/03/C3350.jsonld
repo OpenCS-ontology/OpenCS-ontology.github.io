@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3350",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/ISO/IEC_19794-5"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "ISO/IEC 19794-5"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C248"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9489"
+      }
+    ]
+  }
+]

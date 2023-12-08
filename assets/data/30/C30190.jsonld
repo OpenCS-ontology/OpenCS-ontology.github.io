@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30190",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29242"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mixed_raster_content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mixed raster content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10089"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24828"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35732"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7682"
+      }
+    ]
+  }
+]

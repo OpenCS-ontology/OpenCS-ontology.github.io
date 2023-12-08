@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23323",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4020"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Isovist"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Isovist"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37873"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8407"
+      }
+    ]
+  }
+]

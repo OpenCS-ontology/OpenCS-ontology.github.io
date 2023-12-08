@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14923",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9834"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Belief_bias"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Belief bias"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9834"
+      }
+    ]
+  }
+]

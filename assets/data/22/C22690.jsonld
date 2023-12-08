@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22690",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12640"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Perineurium"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Perineurium"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17377"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25161"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33836"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34941"
+      }
+    ]
+  }
+]

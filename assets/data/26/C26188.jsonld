@@ -1,0 +1,22 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26188",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bayesian neural networks"
+      }
+    ]
+  }
+]

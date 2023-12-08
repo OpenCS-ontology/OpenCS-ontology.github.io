@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35936",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22680"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/HDSS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Holographic Data Storage System"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6536"
+      }
+    ]
+  }
+]

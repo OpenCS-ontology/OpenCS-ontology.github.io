@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1578",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chinese_Library_Classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chinese Library Classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6639"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7849"
+      }
+    ]
+  }
+]

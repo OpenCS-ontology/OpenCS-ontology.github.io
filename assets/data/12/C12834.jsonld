@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12834",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Magic_(programming)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Magic (programming)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C794"
+      }
+    ]
+  }
+]

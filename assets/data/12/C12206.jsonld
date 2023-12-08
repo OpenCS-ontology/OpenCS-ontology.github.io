@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12206",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Anomaly_detection"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Anomaly detection"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      }
+    ]
+  }
+]

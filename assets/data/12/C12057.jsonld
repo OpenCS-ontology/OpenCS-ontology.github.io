@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12057",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Generic_function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Generic function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22971"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C329"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5409"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22557",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2250"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Kumaraswamy_distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kumaraswamy distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42765"
+      }
+    ]
+  }
+]

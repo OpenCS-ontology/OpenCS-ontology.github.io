@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8366",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Word_recognition"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Word recognition"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9606"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31194",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18799"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28404"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Gold_code"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Gold code"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18799"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25445"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37788"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C836"
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29567",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28739"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Database_catalog"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Database catalog"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9836"
+      }
+    ]
+  }
+]

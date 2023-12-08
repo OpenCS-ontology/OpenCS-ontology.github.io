@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14695",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Histogram_matching"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Histogram matching"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23431"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31013"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37876"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C77"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8969"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3945",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Keyword_Protocol_2000"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Keyword Protocol 2000"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24649"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9931"
+      }
+    ]
+  }
+]

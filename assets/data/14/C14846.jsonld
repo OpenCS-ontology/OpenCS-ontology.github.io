@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14846",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4534"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/GeoSciML"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "GeoSciML"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23889"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2438"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4835"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9836"
+      }
+    ]
+  }
+]

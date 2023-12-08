@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16810",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7736"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Affective user interface"
+      }
+    ]
+  }
+]

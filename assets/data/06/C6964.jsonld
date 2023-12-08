@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6964",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bit-synchronous_operation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bit-synchronous operation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16371"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5506"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8410"
+      }
+    ]
+  }
+]

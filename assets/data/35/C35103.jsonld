@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35103",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22075"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Regular_conditional_probability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Regular conditional probability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9326"
+      }
+    ]
+  }
+]

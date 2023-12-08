@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6022",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lamport_timestamps"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lamport timestamps"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17915"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4092"
+      }
+    ]
+  }
+]

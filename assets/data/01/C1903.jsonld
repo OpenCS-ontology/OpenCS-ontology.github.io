@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1903",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Theory_of_obligationes"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Theory of obligationes"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1681"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18959"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38926"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9834"
+      }
+    ]
+  }
+]

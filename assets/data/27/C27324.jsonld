@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27324",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2358"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Corpus-assisted_discourse_studies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Corpus-assisted discourse studies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2426"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26217"
+      }
+    ]
+  }
+]

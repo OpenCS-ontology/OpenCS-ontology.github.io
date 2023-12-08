@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2702",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Perplexity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Perplexity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12737"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20377"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2119"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30079"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30657"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9268"
+      }
+    ]
+  }
+]

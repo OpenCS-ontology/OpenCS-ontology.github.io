@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6179",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dodging_and_burning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dodging and burning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2895"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7981"
+      }
+    ]
+  }
+]

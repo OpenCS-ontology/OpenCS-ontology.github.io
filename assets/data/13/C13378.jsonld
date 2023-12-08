@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13378",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Knowledge-based_processor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Knowledge-based processor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23076"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27426"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44663"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7407",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sequence_step_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sequence step algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32644"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9483"
+      }
+    ]
+  }
+]

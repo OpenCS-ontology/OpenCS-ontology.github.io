@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8107",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Collaborative_method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Collaborative method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11657"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15193"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16535"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

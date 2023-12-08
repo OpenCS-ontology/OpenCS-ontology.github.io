@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15048",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Motion_control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Motion control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23445"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31931"
+      }
+    ]
+  }
+]

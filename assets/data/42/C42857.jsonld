@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42857",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33454"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Fontaine–Mazur_conjecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fontaine–Mazur conjecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45133"
+      }
+    ]
+  }
+]

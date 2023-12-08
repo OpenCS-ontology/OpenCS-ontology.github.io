@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23508",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13793"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/God's_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "God's algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13793"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1792"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43645"
+      }
+    ]
+  }
+]

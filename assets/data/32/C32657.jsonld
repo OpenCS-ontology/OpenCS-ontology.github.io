@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32657",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18567"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Data_access_object"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data access object"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13984"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3850"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9056"
+      }
+    ]
+  }
+]

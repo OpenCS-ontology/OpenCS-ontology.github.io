@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19568",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8858"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Spotting_scope"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spotting scope"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9744"
+      }
+    ]
+  }
+]

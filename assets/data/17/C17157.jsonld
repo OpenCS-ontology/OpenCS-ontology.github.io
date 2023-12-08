@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17157",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8704"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/CloudSim"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "CloudSim"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20156"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      }
+    ]
+  }
+]

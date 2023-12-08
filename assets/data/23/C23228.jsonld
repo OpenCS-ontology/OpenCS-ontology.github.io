@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23228",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Least-angle_regression"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Least-angle regression"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32775"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9032"
+      }
+    ]
+  }
+]

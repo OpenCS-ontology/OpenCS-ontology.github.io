@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11045",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Internet_Storm_Center"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Internet Storm Center"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

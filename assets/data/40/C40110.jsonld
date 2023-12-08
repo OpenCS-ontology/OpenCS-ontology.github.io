@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40110",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34568"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Harris_chain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Harris chain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7689"
+      }
+    ]
+  }
+]

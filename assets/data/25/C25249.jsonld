@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25249",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13549"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2883"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Binocular_disparity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Binocular disparity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13549"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8075"
+      }
+    ]
+  }
+]

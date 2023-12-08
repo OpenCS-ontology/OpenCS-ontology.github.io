@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17070",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1142"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Andricus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Andricus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22892"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24959"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37336"
+      }
+    ]
+  }
+]

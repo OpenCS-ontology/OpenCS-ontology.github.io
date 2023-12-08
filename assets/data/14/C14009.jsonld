@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14009",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7118"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Homicidal_chauffeur_problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Homicidal chauffeur problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42060"
+      }
+    ]
+  }
+]

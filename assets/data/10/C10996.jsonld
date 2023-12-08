@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10996",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chronux"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chronux"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25793"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9874"
+      }
+    ]
+  }
+]

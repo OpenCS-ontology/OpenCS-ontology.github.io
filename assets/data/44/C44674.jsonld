@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44674",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30079"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33220"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Min_entropy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Min entropy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39539"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C546"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9268"
+      }
+    ]
+  }
+]

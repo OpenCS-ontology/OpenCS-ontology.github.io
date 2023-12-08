@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44197",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30602"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Alternating_series_test"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Alternating series test"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38241"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44482"
+      }
+    ]
+  }
+]

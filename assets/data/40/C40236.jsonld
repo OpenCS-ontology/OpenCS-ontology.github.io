@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40236",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33033"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33187"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36507"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Infinite-dimensional_holomorphy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Infinite-dimensional holomorphy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40761"
+      }
+    ]
+  }
+]

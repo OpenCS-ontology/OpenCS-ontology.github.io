@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1640",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Directional_statistics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Directional statistics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26952"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9326"
+      }
+    ]
+  }
+]

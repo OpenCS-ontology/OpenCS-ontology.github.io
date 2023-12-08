@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6750",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Raft_(computer_science)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Raft"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1723"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37330"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7562"
+      }
+    ]
+  }
+]

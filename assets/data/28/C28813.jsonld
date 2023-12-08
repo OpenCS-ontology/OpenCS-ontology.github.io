@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28813",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8753"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wavelength_switched_optical_network"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wavelength switched optical network"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10765"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44228"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7469"
+      }
+    ]
+  }
+]

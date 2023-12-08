@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36761",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16538"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cardinality_of_the_continuum"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cardinality of the continuum"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5251"
+      }
+    ]
+  }
+]

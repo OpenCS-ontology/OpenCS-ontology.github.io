@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13117",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Presence_service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Presence service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3178"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C420"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

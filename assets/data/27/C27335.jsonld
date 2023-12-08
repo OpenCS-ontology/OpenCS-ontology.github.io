@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27335",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11811"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Joint_Committee_for_Guides_in_Metrology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Joint Committee for Guides in Metrology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26089"
+      }
+    ]
+  }
+]

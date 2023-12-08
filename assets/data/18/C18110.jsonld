@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18110",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10670"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Siegel–Tukey_test"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Siegel–Tukey test"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3075"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42729"
+      }
+    ]
+  }
+]

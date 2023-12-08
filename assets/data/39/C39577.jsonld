@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39577",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32133"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Categorical_distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Categorical distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45643"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8758"
+      }
+    ]
+  }
+]

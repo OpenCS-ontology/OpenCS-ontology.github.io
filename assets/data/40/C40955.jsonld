@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40955",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30143"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/N2_chart"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "N2 chart"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8171"
+      }
+    ]
+  }
+]

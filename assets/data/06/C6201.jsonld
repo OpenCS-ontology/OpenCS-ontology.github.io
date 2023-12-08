@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6201",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/TV-out"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "TV-out"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34890"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6403"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8959"
+      }
+    ]
+  }
+]

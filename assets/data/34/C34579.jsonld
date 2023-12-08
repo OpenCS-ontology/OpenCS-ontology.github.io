@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34579",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27969"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pascopyrum"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pascopyrum"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27969"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39757"
+      }
+    ]
+  }
+]

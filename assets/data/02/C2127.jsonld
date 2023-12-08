@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2127",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Orientation_sensing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Orientation sensing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35237"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7850"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9242"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9990"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2205",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Interlaken_(networking)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interlaken"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21818"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2799"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2842"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6185"
+      }
+    ]
+  }
+]

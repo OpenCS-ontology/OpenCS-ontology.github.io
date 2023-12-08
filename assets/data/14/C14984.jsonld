@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14984",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3048"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Official_Secrets_Act"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Official Secrets Act"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8573"
+      }
+    ]
+  }
+]

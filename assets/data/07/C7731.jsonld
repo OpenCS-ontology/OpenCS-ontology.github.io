@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7731",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Circle-ellipse_problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Circle-ellipse problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2419"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C329"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9650"
+      }
+    ]
+  }
+]

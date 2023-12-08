@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4211",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multimodal_search"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multimodal search"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9876"
+      }
+    ]
+  }
+]

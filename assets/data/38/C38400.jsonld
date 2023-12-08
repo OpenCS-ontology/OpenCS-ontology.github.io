@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38400",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32289"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35397"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Geometric_modeling_kernel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geometric modeling kernel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3345"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7914"
+      }
+    ]
+  }
+]

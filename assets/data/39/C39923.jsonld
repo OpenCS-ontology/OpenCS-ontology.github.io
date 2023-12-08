@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39923",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30400"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Absolute_probability_judgement"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Absolute probability judgement"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23064"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9608"
+      }
+    ]
+  }
+]

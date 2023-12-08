@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2760",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Camponotus_anderseni"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Camponotus anderseni"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37210"
+      }
+    ]
+  }
+]

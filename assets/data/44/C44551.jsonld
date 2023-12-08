@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44551",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34710"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/General_English_Proficiency_Test"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "General English Proficiency Test"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7040"
+      }
+    ]
+  }
+]

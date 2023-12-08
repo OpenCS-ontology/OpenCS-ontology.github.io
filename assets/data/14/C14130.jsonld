@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14130",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Glottalic_theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Glottalic theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19817"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25676"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34296"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36131"
+      }
+    ]
+  }
+]

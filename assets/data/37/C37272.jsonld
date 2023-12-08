@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37272",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26524"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Kepler_Input_Catalog"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kepler Input Catalog"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

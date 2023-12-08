@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24186",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3843"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Amplitude_distortion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Amplitude distortion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9371"
+      }
+    ]
+  }
+]

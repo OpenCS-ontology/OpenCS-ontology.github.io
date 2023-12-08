@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39778",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Versine"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Versine"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13541"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14919"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17969"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43694"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44579",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35575"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Software_package_metrics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Software package metrics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35676"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39488"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45366"
+      }
+    ]
+  }
+]

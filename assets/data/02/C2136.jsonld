@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2136",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wizard_of_Oz_experiment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wizard of Oz experiment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17655"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38248"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9089"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9607"
+      }
+    ]
+  }
+]

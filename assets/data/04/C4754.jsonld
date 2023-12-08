@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4754",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Situation_awareness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Situation awareness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12636"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7355"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9224"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C983"
+      }
+    ]
+  }
+]

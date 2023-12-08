@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20151",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multiplex_baseband"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multiplex baseband"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21891"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5830"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7444"
+      }
+    ]
+  }
+]

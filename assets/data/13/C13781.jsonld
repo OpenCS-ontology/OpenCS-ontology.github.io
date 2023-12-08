@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13781",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Enzmann_starship"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Enzmann starship"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5293"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43537",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29902"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30602"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Proofs_of_convergence_of_random_variables"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Proofs of convergence of random variables"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18102"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26013"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45547"
+      }
+    ]
+  }
+]

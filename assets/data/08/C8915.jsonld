@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8915",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/IMRAD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "IMRAD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37227"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7575"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9096"
+      }
+    ]
+  }
+]

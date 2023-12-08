@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24024",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2005"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Matthews_correlation_coefficient"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Matthews correlation coefficient"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12433"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26643"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28516"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4982"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6947"
+      }
+    ]
+  }
+]

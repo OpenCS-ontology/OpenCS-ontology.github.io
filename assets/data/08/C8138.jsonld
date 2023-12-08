@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8138",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Giga-"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Giga-"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3984"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9430"
+      }
+    ]
+  }
+]

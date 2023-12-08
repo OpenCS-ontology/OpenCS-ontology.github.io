@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13470",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/French_conjugation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "French conjugation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26599"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44227"
+      }
+    ]
+  }
+]

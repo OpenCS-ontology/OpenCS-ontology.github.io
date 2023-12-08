@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1509",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Knowledge_space"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Knowledge space"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6590"
+      }
+    ]
+  }
+]

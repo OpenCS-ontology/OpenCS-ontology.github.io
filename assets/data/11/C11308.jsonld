@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11308",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Schönhage–Strassen_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Schönhage–Strassen algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3081"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8581"
+      }
+    ]
+  }
+]

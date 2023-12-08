@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8462",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Gabbay's_separation_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Gabbay's separation theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12739"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42583"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43371"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6668"
+      }
+    ]
+  }
+]

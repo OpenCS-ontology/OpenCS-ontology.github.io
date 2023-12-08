@@ -1,0 +1,89 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6658",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Session_poisoning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Session poisoning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10325"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17183"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19156"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27497"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45536"
+      }
+    ]
+  }
+]

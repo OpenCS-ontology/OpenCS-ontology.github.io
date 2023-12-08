@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39452",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35138"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lee_distance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lee distance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2930"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43079"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44415"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6402"
+      }
+    ]
+  }
+]

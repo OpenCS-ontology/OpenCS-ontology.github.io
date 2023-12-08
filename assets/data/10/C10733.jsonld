@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10733",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Isochronous_signal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Isochronous signal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8410"
+      }
+    ]
+  }
+]

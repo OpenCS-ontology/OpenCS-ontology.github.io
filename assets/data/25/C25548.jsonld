@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25548",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7212"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Shared_parking"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Shared parking"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17242"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5362"
+      }
+    ]
+  }
+]

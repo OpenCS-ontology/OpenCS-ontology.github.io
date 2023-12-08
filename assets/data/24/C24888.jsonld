@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24888",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12849"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Tints_and_shades"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tints and shades"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8099"
+      }
+    ]
+  }
+]

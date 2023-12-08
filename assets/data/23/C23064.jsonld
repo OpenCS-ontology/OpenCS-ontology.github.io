@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23064",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1939"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Real-time_Delphi"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Real-time Delphi"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3444"
+      }
+    ]
+  }
+]

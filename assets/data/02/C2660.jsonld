@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2660",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ticket_(IT_security)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ticket"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21951"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34951"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9909"
+      }
+    ]
+  }
+]

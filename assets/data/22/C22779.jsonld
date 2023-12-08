@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22779",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5717"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Momel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Momel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24459"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5717"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6784"
+      }
+    ]
+  }
+]

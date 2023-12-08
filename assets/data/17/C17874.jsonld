@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17874",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7354"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Delayed_Auditory_Feedback"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Delayed Auditory Feedback"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7354"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9596"
+      }
+    ]
+  }
+]

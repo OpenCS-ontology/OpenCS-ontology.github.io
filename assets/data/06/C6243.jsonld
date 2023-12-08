@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6243",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Traffic_congestion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Traffic congestion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14215"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9657"
+      }
+    ]
+  }
+]

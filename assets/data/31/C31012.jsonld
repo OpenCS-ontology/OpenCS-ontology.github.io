@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31012",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15966"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chronemics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chronemics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2480"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32017"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8125"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6237",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Australian_English"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Australian English"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16792"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9216"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12442",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/DF-1_Protocol"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "DF-1 Protocol"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7794"
+      }
+    ]
+  }
+]

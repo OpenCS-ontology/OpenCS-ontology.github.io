@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41107",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32347"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33304"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Scott's_trick"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Scott's trick"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42636"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44591"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5251"
+      }
+    ]
+  }
+]

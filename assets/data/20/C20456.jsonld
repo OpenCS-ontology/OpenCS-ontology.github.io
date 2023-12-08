@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20456",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4026"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Crumple_zone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Crumple zone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27671"
+      }
+    ]
+  }
+]

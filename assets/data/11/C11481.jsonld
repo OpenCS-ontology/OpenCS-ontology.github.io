@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11481",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Digital_reproduction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Digital reproduction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31899"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4584"
+      }
+    ]
+  }
+]

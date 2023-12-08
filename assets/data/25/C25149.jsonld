@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25149",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Detective_quantum_efficiency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Detective quantum efficiency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5829"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      }
+    ]
+  }
+]

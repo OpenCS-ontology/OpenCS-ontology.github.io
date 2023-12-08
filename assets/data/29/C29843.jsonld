@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29843",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19223"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Log–log_plot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Log-log plot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11031"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18330",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1142"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Quercus_serrata"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Quercus serrata"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33871"
+      }
+    ]
+  }
+]

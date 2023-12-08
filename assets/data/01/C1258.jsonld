@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1258",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Elliptic_curve_only_hash"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Elliptic curve only hash"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15591"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42818"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2667",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Click-to-call"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Click-to-call"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8807"
+      }
+    ]
+  }
+]

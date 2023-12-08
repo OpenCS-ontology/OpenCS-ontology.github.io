@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40726",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35269"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Three-input_universal_logic_gate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Three-input universal logic gate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35076"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39723"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45667"
+      }
+    ]
+  }
+]

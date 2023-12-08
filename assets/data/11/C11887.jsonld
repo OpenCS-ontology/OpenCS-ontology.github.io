@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11887",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Region_of_interest"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Region of interest"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C948"
+      }
+    ]
+  }
+]

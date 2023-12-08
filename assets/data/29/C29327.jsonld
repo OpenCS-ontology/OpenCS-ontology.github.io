@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29327",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6420"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9122"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Color vision examination"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25893"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6444"
+      }
+    ]
+  }
+]

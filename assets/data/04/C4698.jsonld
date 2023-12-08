@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4698",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Scene_description_language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Scene description language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1028"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19041"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35454"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8439"
+      }
+    ]
+  }
+]

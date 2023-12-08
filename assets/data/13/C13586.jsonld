@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13586",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Graphics_display_resolution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Graphics display resolution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16911"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27829"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31249"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8900"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      }
+    ]
+  }
+]

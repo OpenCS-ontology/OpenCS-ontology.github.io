@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42002",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36633"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Color_co-site_sampling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Color co-site sampling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ]
+  }
+]

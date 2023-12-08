@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7214",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Deterministic_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Deterministic algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2420"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6537"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9252"
+      }
+    ]
+  }
+]

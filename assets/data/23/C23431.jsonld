@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23431",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10923"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Copula_(probability_theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Copula (probability theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9326"
+      }
+    ]
+  }
+]

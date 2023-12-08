@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14907",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3740"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Helical Cone-Beam CT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9664"
+      }
+    ]
+  }
+]

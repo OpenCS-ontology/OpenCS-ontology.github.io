@@ -1,0 +1,89 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40505",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34593"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36766"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Terminal_node_controller"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Terminal node controller"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11655"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13629"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30303"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9881"
+      }
+    ]
+  }
+]

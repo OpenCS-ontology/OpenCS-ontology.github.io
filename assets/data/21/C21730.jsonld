@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21730",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C914"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Moore's_paradox"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Moore's paradox"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38919"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44623"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4970"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7503"
+      }
+    ]
+  }
+]

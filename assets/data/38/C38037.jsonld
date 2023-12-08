@@ -1,0 +1,92 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38037",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36873"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/TCP_sequence_prediction_attack"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "TCP sequence prediction attack"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33552"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36782"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41119"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5837"
+      }
+    ]
+  }
+]

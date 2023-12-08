@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40150",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35269"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Adiabatic_circuit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Adiabatic circuit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21765"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25678"
+      }
+    ]
+  }
+]

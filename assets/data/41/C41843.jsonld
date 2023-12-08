@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41843",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35658"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Stein's_example"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Stein's example"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7471"
+      }
+    ]
+  }
+]

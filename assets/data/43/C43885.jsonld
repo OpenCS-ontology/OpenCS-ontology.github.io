@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43885",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35658"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/First-difference_estimator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "First-difference estimator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4653"
+      }
+    ]
+  }
+]

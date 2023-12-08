@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3678",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Computational_complexity_theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Computational complexity theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2420"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2425"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33982"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9450"
+      }
+    ]
+  }
+]

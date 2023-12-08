@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C965",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Timeout_(computing)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Timeout"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14926"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25850"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9931"
+      }
+    ]
+  }
+]

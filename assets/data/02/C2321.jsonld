@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2321",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Regularization_(mathematics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Regularization (mathematics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      }
+    ]
+  }
+]

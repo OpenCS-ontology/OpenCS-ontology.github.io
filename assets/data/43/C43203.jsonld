@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43203",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36815"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Service_bureau"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Service bureau"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3836"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

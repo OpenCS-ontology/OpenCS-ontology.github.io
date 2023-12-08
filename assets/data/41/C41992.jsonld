@@ -1,0 +1,92 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41992",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32777"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/EMC_VPLEX"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EMC VPLEX"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9426"
+      }
+    ]
+  }
+]

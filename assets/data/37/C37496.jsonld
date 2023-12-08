@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37496",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14276"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Schrödinger_method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Schrödinger method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C795"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10369",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/E-research"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "E-research"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6529"
+      }
+    ]
+  }
+]

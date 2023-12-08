@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31567",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16053"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Language-learning_aptitude"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Language-learning aptitude"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31775"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34497"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41308"
+      }
+    ]
+  }
+]

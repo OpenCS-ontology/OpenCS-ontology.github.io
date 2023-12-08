@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4387",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Shift_register_lookup_table"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Shift register lookup table"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9487"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33774",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26524"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Planetary_mass"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Planetary mass"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

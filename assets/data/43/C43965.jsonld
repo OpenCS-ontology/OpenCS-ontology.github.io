@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43965",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35013"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36469"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cost_per_acquisition"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cost per acquisition"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18985"
+      }
+    ]
+  }
+]

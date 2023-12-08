@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18364",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8686"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Science_of_team_science"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Science of team science"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5863"
+      }
+    ]
+  }
+]

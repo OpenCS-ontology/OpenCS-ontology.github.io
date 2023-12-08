@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26994",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6754"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bank_transaction_tax"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bank transaction tax"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36187"
+      }
+    ]
+  }
+]

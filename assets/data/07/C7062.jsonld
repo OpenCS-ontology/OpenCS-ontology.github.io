@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7062",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Google_Scholar_and_academic_libraries"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Google Scholar and academic libraries"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9214"
+      }
+    ]
+  }
+]

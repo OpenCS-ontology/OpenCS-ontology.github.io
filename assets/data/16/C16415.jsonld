@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16415",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8517"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Uniform_integrability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Uniform integrability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40292"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40562"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6909"
+      }
+    ]
+  }
+]

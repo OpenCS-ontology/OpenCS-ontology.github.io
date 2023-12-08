@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27089",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dark_current_(physics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dark current"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8246"
+      }
+    ]
+  }
+]

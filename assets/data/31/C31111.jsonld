@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31111",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27385"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Decision_engineering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Decision engineering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C928"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9874"
+      }
+    ]
+  }
+]

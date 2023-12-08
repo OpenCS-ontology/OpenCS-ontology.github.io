@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C383",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Scatter_plot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Scatter plot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      }
+    ]
+  }
+]

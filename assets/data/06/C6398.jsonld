@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6398",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Trend_analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Trend analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C836"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9874"
+      }
+    ]
+  }
+]

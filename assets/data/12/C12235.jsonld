@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12235",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Diffuse illumination"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ]
+  }
+]

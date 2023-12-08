@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22261",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C747"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mach_bands"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mach bands"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31013"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5921"
+      }
+    ]
+  }
+]

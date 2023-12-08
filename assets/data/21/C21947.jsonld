@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21947",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3401"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Transitive_closure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Transitive closure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C608"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11862",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Geocoding"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geocoding"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8708"
+      }
+    ]
+  }
+]

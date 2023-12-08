@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5704",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Differential_evolution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Differential evolution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7553"
+      }
+    ]
+  }
+]

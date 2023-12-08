@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14138",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8790"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Generic_Product_Identifier"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Product Identifier"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9985"
+      }
+    ]
+  }
+]

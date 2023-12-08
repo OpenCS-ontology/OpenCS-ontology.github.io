@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40825",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mnemonics_in_trigonometry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mnemonics in trigonometry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13541"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14919"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39644"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40788"
+      }
+    ]
+  }
+]

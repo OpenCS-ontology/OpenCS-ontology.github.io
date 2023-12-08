@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20648",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10554"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wavelet_transform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wavelet transform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45112"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9427"
+      }
+    ]
+  }
+]

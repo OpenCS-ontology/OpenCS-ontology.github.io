@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37938",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32134"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/FSCAN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "FSCAN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8024"
+      }
+    ]
+  }
+]

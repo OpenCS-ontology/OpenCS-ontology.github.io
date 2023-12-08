@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8781",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Interpolation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interpolation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      }
+    ]
+  }
+]

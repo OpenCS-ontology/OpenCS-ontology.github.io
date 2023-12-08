@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38463",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30593"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31754"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Front-side_bus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Front-side bus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15459"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18684"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9542"
+      }
+    ]
+  }
+]

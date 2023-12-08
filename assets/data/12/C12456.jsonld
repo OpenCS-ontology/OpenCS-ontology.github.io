@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12456",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sequential_analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sequential analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33349"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6419"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      }
+    ]
+  }
+]

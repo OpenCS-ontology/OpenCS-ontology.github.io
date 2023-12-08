@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12426",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Path_profile"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Path profile"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21945"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8410"
+      }
+    ]
+  }
+]

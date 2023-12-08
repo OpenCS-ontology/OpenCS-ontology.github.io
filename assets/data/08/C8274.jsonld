@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8274",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Specific_absorption_rate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Specific absorption rate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1841"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9154"
+      }
+    ]
+  }
+]

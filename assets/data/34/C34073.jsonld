@@ -1,0 +1,27 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34073",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25709"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Subspace_Gaussian_Mixture_Model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Subspace Gaussian Mixture Model"
+      }
+    ]
+  }
+]

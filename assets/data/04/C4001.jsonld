@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4001",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Crossing_of_cheques"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Crossing of cheques"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21954"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26112"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33193"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4779"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9495"
+      }
+    ]
+  }
+]

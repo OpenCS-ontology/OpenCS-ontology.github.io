@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37614",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23849"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Stellar_parallax"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Stellar parallax"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14224"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

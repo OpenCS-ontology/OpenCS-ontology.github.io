@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18801",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1939"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wideband_delphi"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wideband delphi"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23064"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6647"
+      }
+    ]
+  }
+]

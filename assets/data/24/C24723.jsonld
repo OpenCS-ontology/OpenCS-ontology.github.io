@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24723",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11328"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Activity_cycle_diagram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Activity cycle diagram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12969"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9607"
+      }
+    ]
+  }
+]

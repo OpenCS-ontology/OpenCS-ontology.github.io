@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32320",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25851"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Marching_tetrahedra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Marching tetrahedra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12454"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17403"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28061"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C969"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2310",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/World_championship"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "World championship"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8351"
+      }
+    ]
+  }
+]

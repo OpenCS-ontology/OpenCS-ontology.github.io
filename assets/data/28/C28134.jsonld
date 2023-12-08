@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28134",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6114"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Average_revenue_per_user"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Average revenue per user"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4433"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9154"
+      }
+    ]
+  }
+]

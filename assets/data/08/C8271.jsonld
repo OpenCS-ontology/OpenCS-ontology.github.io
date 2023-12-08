@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8271",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Voronoi_diagram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Voronoi diagram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9372"
+      }
+    ]
+  }
+]

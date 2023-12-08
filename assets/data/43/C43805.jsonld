@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43805",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33342"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Harmonic_wavelet_transform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Harmonic wavelet transform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34943"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45112"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9427"
+      }
+    ]
+  }
+]

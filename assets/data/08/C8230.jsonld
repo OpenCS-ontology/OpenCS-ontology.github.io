@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8230",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Metamedia"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Metamedia"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21013"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5926"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6757"
+      }
+    ]
+  }
+]

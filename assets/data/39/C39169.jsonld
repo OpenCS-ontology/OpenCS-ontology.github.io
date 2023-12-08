@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39169",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37073"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Location-based_routing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Location-based routing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18995"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45713"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      }
+    ]
+  }
+]

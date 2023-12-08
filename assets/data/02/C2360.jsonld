@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2360",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Transaction_Application_Language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Transaction Application Language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17472"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29679"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C323",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Tip_of_the_day"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tip of the day"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12325"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4527"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6860"
+      }
+    ]
+  }
+]

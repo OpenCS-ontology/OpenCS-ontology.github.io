@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19232",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Semantic_property"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Semantic property"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12486"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13946"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9884"
+      }
+    ]
+  }
+]

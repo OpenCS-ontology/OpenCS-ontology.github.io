@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3173",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Spectrum_analyzer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spectrum analyzer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7502"
+      }
+    ]
+  }
+]

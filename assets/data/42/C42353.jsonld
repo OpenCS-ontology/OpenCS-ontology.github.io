@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42353",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33342"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Shannon_wavelet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Shannon wavelet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43553"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1949",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/EZproxy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EZproxy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4663"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9218"
+      }
+    ]
+  }
+]

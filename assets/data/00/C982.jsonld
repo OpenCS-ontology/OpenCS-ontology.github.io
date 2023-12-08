@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C982",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bus_contention"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bus contention"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20178"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23956"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31754"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C74"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14123",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3401"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Graph_dynamical_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Graph dynamical system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42089"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7689"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33306",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21027"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Midhinge"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Midhinge"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25294"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36906"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39575"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C662"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25064",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6754"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Suspicious_activity_report"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Suspicious activity report"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25013"
+      }
+    ]
+  }
+]

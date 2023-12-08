@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3853",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/POTS_codec"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "POTS codec"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11605"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13431"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31899"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42788"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44663"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9327"
+      }
+    ]
+  }
+]

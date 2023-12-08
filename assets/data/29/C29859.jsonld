@@ -1,0 +1,27 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29859",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21491"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Trigeminal nerve injury"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12640"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21491"
+      }
+    ]
+  }
+]

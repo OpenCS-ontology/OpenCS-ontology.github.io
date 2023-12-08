@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42765",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36008"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Beta_prime_distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Beta prime distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40060"
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4184",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Data_curation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data curation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24639"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32616"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7161"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9585"
+      }
+    ]
+  }
+]

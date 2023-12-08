@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8752",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Geo-fence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geo-fence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20845"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44290"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9603"
+      }
+    ]
+  }
+]

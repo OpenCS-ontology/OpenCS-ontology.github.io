@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41273",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30476"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/WIPO_Copyright_Treaty"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "WIPO Copyright Treaty"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32165"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44209"
+      }
+    ]
+  }
+]

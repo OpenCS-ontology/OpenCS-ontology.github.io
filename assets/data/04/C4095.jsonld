@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4095",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Video_quality"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Video quality"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10976"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3063"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7468"
+      }
+    ]
+  }
+]

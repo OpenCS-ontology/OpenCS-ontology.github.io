@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6016",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Shard_(database_architecture)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Shard"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8327"
+      }
+    ]
+  }
+]

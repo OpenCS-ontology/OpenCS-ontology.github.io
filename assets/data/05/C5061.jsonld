@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5061",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Conservation_and_restoration_of_glass_objects"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Conservation and restoration of glass objects"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2018"
+      }
+    ]
+  }
+]

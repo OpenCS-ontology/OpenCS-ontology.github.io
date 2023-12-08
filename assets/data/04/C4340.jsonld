@@ -1,0 +1,89 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4340",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Private_Enterprise_Number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Private Enterprise Number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11184"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41442"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8665"
+      }
+    ]
+  }
+]

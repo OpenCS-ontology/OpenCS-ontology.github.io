@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29110",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8473"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Spatial–temporal_reasoning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spatial–temporal reasoning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ]
+  }
+]

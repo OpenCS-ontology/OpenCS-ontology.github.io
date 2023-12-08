@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C940",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Memory_module"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Memory module"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29183"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33838"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6798"
+      }
+    ]
+  }
+]

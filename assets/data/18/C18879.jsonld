@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18879",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5555"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Law_enforcement"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Enforcement law"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9325"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9657"
+      }
+    ]
+  }
+]

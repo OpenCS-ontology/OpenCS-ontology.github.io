@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45514",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36407"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sample_maximum_and_minimum"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sample maximum and minimum"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25294"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39575"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C795"
+      }
+    ]
+  }
+]

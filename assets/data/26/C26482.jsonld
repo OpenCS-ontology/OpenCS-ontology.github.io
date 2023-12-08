@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26482",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Material_conditional"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Material conditional"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43371"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8077"
+      }
+    ]
+  }
+]

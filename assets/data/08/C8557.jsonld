@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8557",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Command_verb"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Command verb"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7736"
+      }
+    ]
+  }
+]

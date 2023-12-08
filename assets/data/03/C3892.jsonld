@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3892",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Warning_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Warning system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C515"
+      }
+    ]
+  }
+]

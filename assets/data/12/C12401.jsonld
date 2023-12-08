@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12401",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Epipolar_geometry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Epipolar geometry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13549"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25249"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8075"
+      }
+    ]
+  }
+]

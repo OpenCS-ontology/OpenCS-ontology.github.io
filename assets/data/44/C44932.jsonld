@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44932",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37173"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Snub_polyhedron"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Snub polyhedron"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35226"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41829"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44451"
+      }
+    ]
+  }
+]

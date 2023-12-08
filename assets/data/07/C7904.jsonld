@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7904",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Design_thinking"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Design thinking"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27184"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4292"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5876"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8712"
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34445",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18971"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27923"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Packet switching computer networks"
+      }
+    ]
+  }
+]

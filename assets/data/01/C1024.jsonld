@@ -1,0 +1,89 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1024",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Electronic_system-level_design_and_verification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Electronic system-level design and verification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7165"
+      }
+    ]
+  }
+]

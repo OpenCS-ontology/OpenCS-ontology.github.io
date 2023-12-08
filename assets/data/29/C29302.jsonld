@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29302",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9834"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Assertoric"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Assertoric"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11183"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42906"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9834"
+      }
+    ]
+  }
+]

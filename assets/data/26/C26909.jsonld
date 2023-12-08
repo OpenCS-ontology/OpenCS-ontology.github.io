@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26909",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6978"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cooperative hypermedia"
+      }
+    ]
+  }
+]

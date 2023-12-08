@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20511",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8366"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9374"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Logogen_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Logogen model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2761"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8366"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C936"
+      }
+    ]
+  }
+]

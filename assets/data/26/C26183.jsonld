@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26183",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3233"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Topology_(electrical_circuits)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Topology (electrical circuits)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41756"
+      }
+    ]
+  }
+]

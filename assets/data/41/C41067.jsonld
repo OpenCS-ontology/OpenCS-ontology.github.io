@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41067",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34795"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Classical_modal_logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Classical modal logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38919"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42906"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43742"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45504"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8748"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38762",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32349"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Weak_topology_(polar_topology)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Weak topology (polar topology)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33893"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44817"
+      }
+    ]
+  }
+]

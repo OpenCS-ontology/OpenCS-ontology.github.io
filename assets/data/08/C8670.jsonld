@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8670",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Immediate_mode_(computer_graphics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Immediate mode"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42897"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8706"
+      }
+    ]
+  }
+]

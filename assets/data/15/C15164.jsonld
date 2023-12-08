@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15164",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8753"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Asynchronous weak commitment"
+      }
+    ]
+  }
+]

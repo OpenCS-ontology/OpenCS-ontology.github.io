@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1897",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Digital_edition"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Digital edition"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13679"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24639"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8797"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27632",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8182"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Remotely_operated_vehicle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Remotely operated vehicle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9066"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4503",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Plotter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Plotter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9162"
+      }
+    ]
+  }
+]

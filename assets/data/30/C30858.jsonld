@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30858",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20013"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lack-of-fit_sum_of_squares"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lack-of-fit sum of squares"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41892"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7908"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8456"
+      }
+    ]
+  }
+]

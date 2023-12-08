@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45657",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34132"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Referrer_spam"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Referer spam"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7963"
+      }
+    ]
+  }
+]

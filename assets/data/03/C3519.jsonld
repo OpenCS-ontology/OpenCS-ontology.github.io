@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3519",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Voice_analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Voice analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28638"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9374"
+      }
+    ]
+  }
+]

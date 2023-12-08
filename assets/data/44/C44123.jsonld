@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44123",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36517"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Flash_memory_emulator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Flash memory emulator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8967"
+      }
+    ]
+  }
+]

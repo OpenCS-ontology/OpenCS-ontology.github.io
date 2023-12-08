@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7429",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Device_Description_Repository"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Device Description Repository"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33355"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C355"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3679"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44835"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C574"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7552"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9836"
+      }
+    ]
+  }
+]

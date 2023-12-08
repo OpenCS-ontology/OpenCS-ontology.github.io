@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6110",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wiener_filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wiener filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C746"
+      }
+    ]
+  }
+]

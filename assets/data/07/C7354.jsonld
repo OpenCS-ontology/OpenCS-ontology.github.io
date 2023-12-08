@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7354",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Auditory_feedback"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Auditory feedback"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15952"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18818"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9031"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9278"
+      }
+    ]
+  }
+]

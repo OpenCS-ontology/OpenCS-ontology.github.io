@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45405",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37391"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Amblyceps"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Amblyceps"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37839"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45301"
+      }
+    ]
+  }
+]

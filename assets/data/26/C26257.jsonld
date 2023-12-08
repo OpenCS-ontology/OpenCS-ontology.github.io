@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26257",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13593"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ant_colony"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ant colony"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28708"
+      }
+    ]
+  }
+]

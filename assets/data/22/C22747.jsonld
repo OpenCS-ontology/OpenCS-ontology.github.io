@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22747",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9328"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Human_Asset_Management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Human Asset Management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9328"
+      }
+    ]
+  }
+]

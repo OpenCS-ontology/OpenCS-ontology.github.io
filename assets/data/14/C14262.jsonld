@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14262",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5618"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Low-frequency_oscillation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Low-frequency oscillation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8718"
+      }
+    ]
+  }
+]

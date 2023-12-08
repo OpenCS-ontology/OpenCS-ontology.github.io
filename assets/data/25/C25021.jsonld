@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25021",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11542"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Supermodular_function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Supermodular function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17726"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C77"
+      }
+    ]
+  }
+]

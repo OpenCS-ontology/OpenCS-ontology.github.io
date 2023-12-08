@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9942",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Vocal_effort"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vocal effort"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35281"
+      }
+    ]
+  }
+]

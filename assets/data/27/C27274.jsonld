@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27274",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4152"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Digital_Signal_3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Digital Signal 3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40954"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9327"
+      }
+    ]
+  }
+]

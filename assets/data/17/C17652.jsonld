@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17652",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2978"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Homotopy_type_theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Homotopy type theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25442"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6941"
+      }
+    ]
+  }
+]

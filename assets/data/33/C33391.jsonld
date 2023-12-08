@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33391",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25645"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wijsman_convergence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wijsman convergence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44908"
+      }
+    ]
+  }
+]

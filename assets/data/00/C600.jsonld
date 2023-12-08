@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C600",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Advanced_Format"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Advanced Format"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32640"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36536"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

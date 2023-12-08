@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16884",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2543"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Driver's_license"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Driver's license"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7604"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9657"
+      }
+    ]
+  }
+]

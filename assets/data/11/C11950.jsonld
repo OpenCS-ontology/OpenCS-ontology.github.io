@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11950",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Combined_distribution_frame"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Combined distribution frame"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43945"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8876"
+      }
+    ]
+  }
+]

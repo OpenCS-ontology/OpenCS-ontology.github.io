@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30731",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27052"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sstream"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "sstream"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39497"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42911"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C749"
+      }
+    ]
+  }
+]

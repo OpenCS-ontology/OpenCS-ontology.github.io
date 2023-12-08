@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21727",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Feature_geometry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Feature geometry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14010"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16228"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30537"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31453"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6784"
+      }
+    ]
+  }
+]

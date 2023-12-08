@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41560",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33683"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hoplosternum"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hoplosternum"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45751"
+      }
+    ]
+  }
+]

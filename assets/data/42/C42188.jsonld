@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42188",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36759"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Siegel_upper_half-space"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Siegel upper half-space"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22415"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34832"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45135"
+      }
+    ]
+  }
+]

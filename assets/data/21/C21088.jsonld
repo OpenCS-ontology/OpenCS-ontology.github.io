@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21088",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Stable gait"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9370"
+      }
+    ]
+  }
+]

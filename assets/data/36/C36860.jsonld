@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36860",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22570"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Trusted_service_manager"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Trusted service manager"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43951"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C452"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9154"
+      }
+    ]
+  }
+]

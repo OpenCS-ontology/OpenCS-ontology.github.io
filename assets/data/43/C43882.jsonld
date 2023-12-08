@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43882",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36078"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Physical_Data_Flow"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Physical Data Flow"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13605"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3934"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5869"
+      }
+    ]
+  }
+]

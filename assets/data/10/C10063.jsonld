@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10063",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Data_literacy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data literacy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10676"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2193"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3067"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3119"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4438"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4857"
+      }
+    ]
+  }
+]

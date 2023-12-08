@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10925",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Medical_simulation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Medical simulation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30472"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7256"
+      }
+    ]
+  }
+]

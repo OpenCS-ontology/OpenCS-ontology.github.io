@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29941",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24843"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Normal_basis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Normal basis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33454"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45516"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45822"
+      }
+    ]
+  }
+]

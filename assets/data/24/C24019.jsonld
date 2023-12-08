@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24019",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1664"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3390"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Highway_Capacity_Manual"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Highway Capacity Manual"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1664"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21058"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21285"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6243"
+      }
+    ]
+  }
+]

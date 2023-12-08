@@ -1,0 +1,33 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39261",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33053"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Noxiustoxin"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33053"
+      }
+    ]
+  }
+]

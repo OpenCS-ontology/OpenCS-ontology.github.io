@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1456",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/IBM_1711"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "IBM 1711"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45651"
+      }
+    ]
+  }
+]

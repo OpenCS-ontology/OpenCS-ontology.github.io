@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11304",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Street_network"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Street network"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28361"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6243"
+      }
+    ]
+  }
+]

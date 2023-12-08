@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20909",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5745"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Queue_management_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Queue management system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24899"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8028"
+      }
+    ]
+  }
+]

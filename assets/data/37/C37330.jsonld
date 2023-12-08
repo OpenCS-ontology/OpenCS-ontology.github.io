@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37330",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22134"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chandra–Toueg_consensus_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chandra–Toueg consensus algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43644"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7562"
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30914",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19972"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Voronoi vertex"
+      }
+    ]
+  }
+]

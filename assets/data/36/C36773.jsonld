@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36773",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17386"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/First_observation_of_gravitational_waves"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "First observation of gravitational waves"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

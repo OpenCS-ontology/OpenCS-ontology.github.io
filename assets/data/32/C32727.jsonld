@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32727",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15480"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hirsch_conjecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hirsch conjecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15480"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35890"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35958"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8944"
+      }
+    ]
+  }
+]

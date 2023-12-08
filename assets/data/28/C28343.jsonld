@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28343",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5127"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Schematic_capture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Schematic capture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7165"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8460"
+      }
+    ]
+  }
+]

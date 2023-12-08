@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12009",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Accelerating_change"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Accelerating change"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ]
+  }
+]

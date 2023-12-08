@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8875",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hard_disk_drive_platter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hard disk drive platter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36536"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C754"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9448"
+      }
+    ]
+  }
+]

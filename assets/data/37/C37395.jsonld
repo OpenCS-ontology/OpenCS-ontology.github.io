@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37395",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29012"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Laptop_cooler"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Laptop cooler"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12640"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7234"
+      }
+    ]
+  }
+]

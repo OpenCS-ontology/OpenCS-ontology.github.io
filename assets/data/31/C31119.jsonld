@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31119",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21268"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Parallel_constraint_satisfaction_processes"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Parallel constraint satisfaction processes"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14221"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44292"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      }
+    ]
+  }
+]

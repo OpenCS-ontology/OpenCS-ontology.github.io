@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5815",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sieve_of_Sundaram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sieve of Sundaram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40241"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5591"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6550"
+      }
+    ]
+  }
+]

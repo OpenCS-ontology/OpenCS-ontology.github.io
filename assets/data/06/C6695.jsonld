@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6695",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Space_simulator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Space simulator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15180"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7739"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C81"
+      }
+    ]
+  }
+]

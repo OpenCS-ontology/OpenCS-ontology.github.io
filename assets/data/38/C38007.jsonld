@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38007",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34362"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Modified_Morlet_wavelet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Modified Morlet wavelet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36952"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40802"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43908"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45112"
+      }
+    ]
+  }
+]

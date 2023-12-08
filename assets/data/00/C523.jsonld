@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C523",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Deblocking_filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Deblocking filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45687"
+      }
+    ]
+  }
+]

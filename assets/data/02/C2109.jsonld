@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2109",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Common_Manageability_Programming_Interface"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Common Manageability Programming Interface"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1165"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13068"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34007"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6592"
+      }
+    ]
+  }
+]

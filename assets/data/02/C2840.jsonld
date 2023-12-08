@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2840",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Onion_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Onion model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21872"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8894"
+      }
+    ]
+  }
+]

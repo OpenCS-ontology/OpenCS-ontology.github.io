@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20228",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10917"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Panjer_recursion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Panjer recursion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44600"
+      }
+    ]
+  }
+]

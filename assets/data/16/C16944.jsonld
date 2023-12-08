@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16944",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7912"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Military_deployment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Military deployment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5247"
+      }
+    ]
+  }
+]

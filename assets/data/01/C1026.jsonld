@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1026",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Entity_linking"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Entity linking"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3056"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42910"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C431"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9287"
+      }
+    ]
+  }
+]

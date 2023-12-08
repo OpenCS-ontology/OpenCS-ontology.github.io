@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14268",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10612"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Speckle_imaging"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Speckle imaging"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33415"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33488"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8561"
+      }
+    ]
+  }
+]

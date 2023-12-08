@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31855",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18799"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27263"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multi-carrier_code_division_multiple_access"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multi-carrier code-division multiple access"
+      }
+    ]
+  }
+]

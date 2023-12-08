@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22115",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Homophily"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Homophily"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34224"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7460"
+      }
+    ]
+  }
+]

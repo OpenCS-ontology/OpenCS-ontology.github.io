@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10401",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Zero-player_game"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Zero-player game"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8279"
+      }
+    ]
+  }
+]

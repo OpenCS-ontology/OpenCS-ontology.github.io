@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30091",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26524"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Giant_planet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Giant planet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

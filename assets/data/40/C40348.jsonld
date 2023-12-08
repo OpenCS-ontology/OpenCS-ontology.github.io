@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40348",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35693"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Biclustering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Biclustering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16742"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ]
+  }
+]

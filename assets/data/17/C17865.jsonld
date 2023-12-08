@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17865",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7995"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Road_traffic_safety"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Road traffic safety"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C435"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9657"
+      }
+    ]
+  }
+]

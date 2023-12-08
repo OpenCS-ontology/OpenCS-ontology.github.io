@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3397",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sonification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sonification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11094"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9871"
+      }
+    ]
+  }
+]

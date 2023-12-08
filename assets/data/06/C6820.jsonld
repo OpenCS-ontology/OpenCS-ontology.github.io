@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6820",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Uncertainty_theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Uncertainty theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26013"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33734"
+      }
+    ]
+  }
+]

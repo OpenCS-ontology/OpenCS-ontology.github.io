@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24543",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9718"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Network_analyzer_(AC_power)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Network analyzer (AC power)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9718"
+      }
+    ]
+  }
+]

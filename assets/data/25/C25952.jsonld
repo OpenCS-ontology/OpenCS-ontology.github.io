@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25952",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6692"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Thompson_sampling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Thompson sampling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18442"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20377"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      }
+    ]
+  }
+]

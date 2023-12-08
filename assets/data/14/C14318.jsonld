@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14318",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9066"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Scud"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Scud"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5247"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9066"
+      }
+    ]
+  }
+]

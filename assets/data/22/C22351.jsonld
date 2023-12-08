@@ -1,0 +1,22 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22351",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1503"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Object detection object recognition"
+      }
+    ]
+  }
+]

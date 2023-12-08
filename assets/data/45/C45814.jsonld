@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45814",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35995"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/ITIL_security_management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "ITIL security management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27261"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39425"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9700"
+      }
+    ]
+  }
+]

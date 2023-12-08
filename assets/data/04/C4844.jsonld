@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4844",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Date Range"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8706"
+      }
+    ]
+  }
+]

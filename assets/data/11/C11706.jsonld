@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11706",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Kleene_algebra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kleene algebra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23657"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C524"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42317",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37268"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/MCD_peptide"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "MCD peptide"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44461"
+      }
+    ]
+  }
+]

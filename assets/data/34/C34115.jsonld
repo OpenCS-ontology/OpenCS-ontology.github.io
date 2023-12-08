@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34115",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17480"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Anscombe_transform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Anscombe transform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C795"
+      }
+    ]
+  }
+]

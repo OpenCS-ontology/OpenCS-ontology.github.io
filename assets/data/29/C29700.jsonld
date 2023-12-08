@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29700",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14215"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27658"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/MnPASS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "MnPASS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14215"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14828"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29410"
+      }
+    ]
+  }
+]

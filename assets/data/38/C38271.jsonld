@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38271",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32296"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33729"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Handle_(computing)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Handle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38644"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43102"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

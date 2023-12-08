@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1310",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Serving_area_interface"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Serving area interface"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10638"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14832"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9327"
+      }
+    ]
+  }
+]

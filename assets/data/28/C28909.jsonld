@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28909",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6953"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Diehard_tests"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Diehard tests"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13156"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25445"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6953"
+      }
+    ]
+  }
+]

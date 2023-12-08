@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C836",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Autocorrelation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Autocorrelation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      }
+    ]
+  }
+]

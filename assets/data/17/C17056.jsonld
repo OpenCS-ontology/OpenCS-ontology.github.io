@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17056",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10999"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wheelchair transfer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4435"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7848"
+      }
+    ]
+  }
+]

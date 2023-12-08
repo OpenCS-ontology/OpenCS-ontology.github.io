@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17120",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11767"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Generalized_randomized_block_design"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Generalized randomized block design"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12371"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5713"
+      }
+    ]
+  }
+]

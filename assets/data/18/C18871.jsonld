@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18871",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7008"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Towed_array_sonar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Towed array sonar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8273"
+      }
+    ]
+  }
+]

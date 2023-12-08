@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39813",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37067"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ventra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ventra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30984"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32504"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      }
+    ]
+  }
+]

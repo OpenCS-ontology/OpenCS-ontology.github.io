@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22449",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1626"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/BACnet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "BACnet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22845"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8016"
+      }
+    ]
+  }
+]

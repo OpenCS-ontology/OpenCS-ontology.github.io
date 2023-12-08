@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15847",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chebyshev_linkage"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chebyshev linkage"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7848"
+      }
+    ]
+  }
+]

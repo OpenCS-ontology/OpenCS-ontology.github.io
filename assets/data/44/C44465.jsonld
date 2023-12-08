@@ -1,0 +1,92 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44465",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31546"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36936"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/K-minimum_spanning_tree"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "k-minimum spanning tree"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29108"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4924",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lexical_approach"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lexical approach"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26478"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30934"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9065"
+      }
+    ]
+  }
+]

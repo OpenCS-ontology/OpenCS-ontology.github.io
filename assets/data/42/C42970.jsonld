@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42970",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35270"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Grammar engineering"
+      }
+    ]
+  }
+]

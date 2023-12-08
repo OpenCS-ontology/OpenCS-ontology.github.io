@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28353",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8753"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Coset_enumeration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Coset enumeration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30242"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41928"
+      }
+    ]
+  }
+]

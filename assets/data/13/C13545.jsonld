@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13545",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Certificate_(complexity)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Certificate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20562"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29837"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38374"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38754"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4605"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6819"
+      }
+    ]
+  }
+]

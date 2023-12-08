@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19463",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Web-based_experiments"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Web-based experiments"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6919"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9939"
+      }
+    ]
+  }
+]

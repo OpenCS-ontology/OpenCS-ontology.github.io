@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3568",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mouseover"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mouseover"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C841"
+      }
+    ]
+  }
+]

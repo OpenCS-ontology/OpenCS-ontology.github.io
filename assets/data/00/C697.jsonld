@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C697",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Seven_Management_and_Planning_Tools"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Seven Management and Planning Tools"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3575"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6227"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9745"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17262",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5990"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/East_Asian_languages"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "East Asian languages"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10187"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23681"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9391"
+      }
+    ]
+  }
+]

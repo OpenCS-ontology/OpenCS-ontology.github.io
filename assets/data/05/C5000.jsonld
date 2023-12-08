@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5000",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Code_golf"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Code golf"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13676"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14261"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20374"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6880"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6248",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hungarian_notation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hungarian notation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8442"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8616"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9247"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9325"
+      }
+    ]
+  }
+]

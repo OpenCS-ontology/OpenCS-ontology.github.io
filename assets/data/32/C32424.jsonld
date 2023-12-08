@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32424",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22524"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Da_Vinci_Surgical_System"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Da Vinci Surgical System"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36737"
+      }
+    ]
+  }
+]

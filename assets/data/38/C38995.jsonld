@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38995",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37067"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Java_Card_OpenPlatform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Java Card OpenPlatform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37067"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41604"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

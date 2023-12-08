@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21954",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12752"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cheque_truncation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cheque truncation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26838"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33193"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4779"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7458"
+      }
+    ]
+  }
+]

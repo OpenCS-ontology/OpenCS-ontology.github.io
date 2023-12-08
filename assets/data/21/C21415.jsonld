@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21415",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C257"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Diffusion_filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Diffusion filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21360"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38868"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5978"
+      }
+    ]
+  }
+]

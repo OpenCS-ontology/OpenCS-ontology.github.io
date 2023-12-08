@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2413",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Integer_programming"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Integer programming"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15480"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23872"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26453"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3837"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C77"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8435"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8944"
+      }
+    ]
+  }
+]

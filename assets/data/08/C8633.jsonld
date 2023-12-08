@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8633",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Portable_computer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Portable computer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35729",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26090"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/EDA_database"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EDA database"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34945"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5151"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6797"
+      }
+    ]
+  }
+]

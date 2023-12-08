@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29927",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23247"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Graph schema"
+      }
+    ]
+  }
+]

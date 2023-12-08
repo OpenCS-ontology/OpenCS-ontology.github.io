@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6472",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bit_pairing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bit pairing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16371"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21891"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7444"
+      }
+    ]
+  }
+]

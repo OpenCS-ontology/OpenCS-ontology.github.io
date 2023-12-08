@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12532",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Fallacies_of_distributed_computing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fallacies of distributed computing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17472"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C710"
+      }
+    ]
+  }
+]

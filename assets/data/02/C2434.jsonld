@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2434",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hold-And-Modify"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hold-And-Modify"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15817"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9664"
+      }
+    ]
+  }
+]

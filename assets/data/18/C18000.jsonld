@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18000",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Catenet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Catenet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38247"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4433"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9443"
+      }
+    ]
+  }
+]

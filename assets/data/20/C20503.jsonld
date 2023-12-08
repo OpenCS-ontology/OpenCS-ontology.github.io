@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20503",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3401"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Node_graph_architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Graph Node"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13850"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8565"
+      }
+    ]
+  }
+]

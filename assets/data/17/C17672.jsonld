@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17672",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1443"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Truthmaker"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Truthmaker"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9834"
+      }
+    ]
+  }
+]

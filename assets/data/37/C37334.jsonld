@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37334",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14215"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25914"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ecopass"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ecopass"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14215"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6243"
+      }
+    ]
+  }
+]

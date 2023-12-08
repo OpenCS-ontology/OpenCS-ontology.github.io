@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21313",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2422"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Fixation_disparity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fixation disparity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13549"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2883"
+      }
+    ]
+  }
+]

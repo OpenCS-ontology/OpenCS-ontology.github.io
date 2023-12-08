@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3740",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Iterative_reconstruction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Iterative reconstruction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C751"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12659",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Tyranny_of_numbers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tyranny of numbers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C756"
+      }
+    ]
+  }
+]

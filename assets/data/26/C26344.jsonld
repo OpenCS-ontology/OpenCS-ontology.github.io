@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26344",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6692"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bayesian_vector_autoregression"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bayesian vector autoregression"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38931"
+      }
+    ]
+  }
+]

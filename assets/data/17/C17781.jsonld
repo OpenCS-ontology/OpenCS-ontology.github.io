@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17781",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7510"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Database outsourcing"
+      }
+    ]
+  }
+]

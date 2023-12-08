@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9614",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Robotics_conventions"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Robotics conventions"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9690"
+      }
+    ]
+  }
+]

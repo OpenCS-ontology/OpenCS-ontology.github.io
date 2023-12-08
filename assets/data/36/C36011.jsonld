@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36011",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25862"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hotelling's_T-squared_distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hotelling's T-squared distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32655"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42795"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25568",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6417"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Room_acoustics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Room acoustics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8718"
+      }
+    ]
+  }
+]

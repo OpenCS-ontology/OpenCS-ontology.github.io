@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35817",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15173"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bridging_fault"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bridging fault"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27089"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6797"
+      }
+    ]
+  }
+]

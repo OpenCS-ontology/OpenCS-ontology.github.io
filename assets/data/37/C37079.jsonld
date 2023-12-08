@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37079",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14471"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Molecular_graph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Molecular graph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43181"
+      }
+    ]
+  }
+]

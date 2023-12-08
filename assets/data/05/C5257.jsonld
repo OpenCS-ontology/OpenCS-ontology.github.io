@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5257",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Reed_receiver"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Reed receiver"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30984"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8556"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2970",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Freedom_of_information_laws_by_country"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Freedom of information laws by country"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32525"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

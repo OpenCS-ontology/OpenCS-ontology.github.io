@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3802",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Eddystone_(Google)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Eddystone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10770"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1793"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28354"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C525"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7166"
+      }
+    ]
+  }
+]

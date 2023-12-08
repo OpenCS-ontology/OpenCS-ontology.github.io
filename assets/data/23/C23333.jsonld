@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23333",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8129"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dialog_act"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dialog act"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36547"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6028"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7467"
+      }
+    ]
+  }
+]

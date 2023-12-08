@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26887",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8700"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Breaking_wave"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Breaking wave"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42088"
+      }
+    ]
+  }
+]

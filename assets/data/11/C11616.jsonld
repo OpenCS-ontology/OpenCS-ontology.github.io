@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11616",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Fault_detection_and_isolation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fault detection and isolation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9427"
+      }
+    ]
+  }
+]

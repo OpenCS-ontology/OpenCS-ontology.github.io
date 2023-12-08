@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1791",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Orchestration_(computing)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Orchestration (computing)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26161"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30649"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38061"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43969"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      }
+    ]
+  }
+]

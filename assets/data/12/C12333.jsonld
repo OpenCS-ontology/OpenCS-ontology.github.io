@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12333",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bird_Technologies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bird Technologies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16777"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7159"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3527",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Configurator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Configurator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9994"
+      }
+    ]
+  }
+]

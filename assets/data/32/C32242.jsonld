@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32242",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14922"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24264"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Markov channels"
+      }
+    ]
+  }
+]

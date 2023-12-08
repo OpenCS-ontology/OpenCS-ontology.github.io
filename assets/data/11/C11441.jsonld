@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11441",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Geometric_median"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geometric median"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25294"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C662"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10795",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Paradigm_classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Paradigm classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29642"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6639"
+      }
+    ]
+  }
+]

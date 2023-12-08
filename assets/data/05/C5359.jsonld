@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5359",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Monitor_Control_Command_Set"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Monitor Control Command Set"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31249"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C653"
+      }
+    ]
+  }
+]

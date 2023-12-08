@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24688",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3034"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Data_governance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data governance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27200"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9700"
+      }
+    ]
+  }
+]

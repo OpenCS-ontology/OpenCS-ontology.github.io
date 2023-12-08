@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8969",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Color_mapping"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Color mapping"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31013"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ]
+  }
+]

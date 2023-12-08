@@ -1,0 +1,92 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43461",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31546"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36936"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Expected_linear_time_MST_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Expected linear time MST algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29108"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34708"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6537"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ]
+  }
+]

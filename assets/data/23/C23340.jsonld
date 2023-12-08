@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23340",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Signature_operator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Signature operator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35612"
+      }
+    ]
+  }
+]

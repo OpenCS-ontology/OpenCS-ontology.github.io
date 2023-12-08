@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24962",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3401"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Two-dimensional_graph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Two-dimensional graph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15799"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19664"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9690"
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41699",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33729"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Directory_traversal_attack"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Directory traversal attack"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45536"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9162"
+      }
+    ]
+  }
+]

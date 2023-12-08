@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9449",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Quadratic_residue"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Quadratic residue"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8789"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24125",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13593"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pseudomyrmex"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pseudomyrmex"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35777"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44206"
+      }
+    ]
+  }
+]

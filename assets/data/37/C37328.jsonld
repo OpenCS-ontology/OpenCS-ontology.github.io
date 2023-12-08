@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37328",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23968"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Quadrature_filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Quadrature filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9444"
+      }
+    ]
+  }
+]

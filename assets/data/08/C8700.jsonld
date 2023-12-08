@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8700",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Surface_wave"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Surface wave"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7159"
+      }
+    ]
+  }
+]

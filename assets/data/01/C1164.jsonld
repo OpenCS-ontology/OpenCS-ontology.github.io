@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1164",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wu's_method_of_characteristic_set"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wu's method of characteristic set"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5865"
+      }
+    ]
+  }
+]

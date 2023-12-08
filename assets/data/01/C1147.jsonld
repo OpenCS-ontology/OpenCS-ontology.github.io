@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1147",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Protective_distribution_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Protective distribution system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1906"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30435"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3638"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43900"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C515"
+      }
+    ]
+  }
+]

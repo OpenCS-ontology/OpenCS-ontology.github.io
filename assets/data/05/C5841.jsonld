@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5841",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Overhead_projector"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Overhead projector"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5063"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8406"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2725",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Push-to-type_operation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Push-to-type operation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5285"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8190"
+      }
+    ]
+  }
+]

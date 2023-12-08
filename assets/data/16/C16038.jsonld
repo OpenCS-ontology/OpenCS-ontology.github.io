@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16038",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11402"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Meridian_(perimetry,_visual_field)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Meridian (perimetry, visual field)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25249"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31056"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C78"
+      }
+    ]
+  }
+]

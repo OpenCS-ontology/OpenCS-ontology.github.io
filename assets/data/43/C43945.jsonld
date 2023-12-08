@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43945",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30643"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36706"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Deterministic_routing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Deterministic routing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45713"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8876"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9739"
+      }
+    ]
+  }
+]

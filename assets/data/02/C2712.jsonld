@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2712",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Email_hacking"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Email hacking"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22836"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42433"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

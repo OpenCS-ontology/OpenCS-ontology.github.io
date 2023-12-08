@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6540",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Effect_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Effect system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10737"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3639"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8751"
+      }
+    ]
+  }
+]

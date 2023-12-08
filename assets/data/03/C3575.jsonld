@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3575",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Contextual_inquiry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Contextual inquiry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4094"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4292"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5876"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6227"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9607"
+      }
+    ]
+  }
+]

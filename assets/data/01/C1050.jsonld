@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1050",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Time-tracking_software"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Time-tracking software"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7056"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      }
+    ]
+  }
+]

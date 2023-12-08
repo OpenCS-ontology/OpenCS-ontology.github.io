@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2433",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/History_of_computing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "History of computing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17802"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6072"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2263",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bell_202_modem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bell 202 modem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7502"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21096",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2110"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/International_System_of_Quantities"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "International System of Quantities"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41094"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8388"
+      }
+    ]
+  }
+]

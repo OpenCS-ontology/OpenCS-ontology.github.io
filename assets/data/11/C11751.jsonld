@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11751",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Archivist"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Archivist"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5031"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8639"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9892"
+      }
+    ]
+  }
+]

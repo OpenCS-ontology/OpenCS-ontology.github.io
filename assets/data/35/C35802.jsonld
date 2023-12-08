@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35802",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21976"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27263"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/PCell"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "PCell"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15785"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15798"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6797"
+      }
+    ]
+  }
+]

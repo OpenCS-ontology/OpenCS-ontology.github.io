@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13700",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Over_the_Air_Rekeying"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Over the Air Rekeying"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40288"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5692"
+      }
+    ]
+  }
+]

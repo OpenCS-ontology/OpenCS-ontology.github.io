@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18370",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8565"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Strahler_number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Strahler number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27330"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8565"
+      }
+    ]
+  }
+]

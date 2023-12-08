@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41860",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30922"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34537"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34684"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36233"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dual system encryption"
+      }
+    ]
+  }
+]

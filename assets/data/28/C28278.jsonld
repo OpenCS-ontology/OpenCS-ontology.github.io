@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28278",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12098"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Duration_calculus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Duration calculus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1035"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14329"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19351"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31890"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45390"
+      }
+    ]
+  }
+]

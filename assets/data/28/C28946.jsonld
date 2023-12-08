@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28946",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8517"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Iterative_learning_control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Iterative learning control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C492"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1858",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Storage_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Storage model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17846"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38452"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8954"
+      }
+    ]
+  }
+]

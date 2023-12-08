@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13804",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lorcon"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "lorcon"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2708"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38184"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41837"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4665"
+      }
+    ]
+  }
+]

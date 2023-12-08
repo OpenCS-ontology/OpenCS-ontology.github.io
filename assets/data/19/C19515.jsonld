@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19515",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4217"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Parabolic_SAR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Parabolic SAR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4217"
+      }
+    ]
+  }
+]

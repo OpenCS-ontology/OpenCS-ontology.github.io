@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1103",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Online_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Online model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      }
+    ]
+  }
+]

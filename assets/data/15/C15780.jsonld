@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15780",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C525"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Antenna_tracking_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Antenna tracking system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31951"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35345"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45299"
+      }
+    ]
+  }
+]

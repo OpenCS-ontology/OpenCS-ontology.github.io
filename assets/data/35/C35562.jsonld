@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35562",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18565"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sum-of-squares_optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sum-of-squares optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22089"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27828"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9243"
+      }
+    ]
+  }
+]

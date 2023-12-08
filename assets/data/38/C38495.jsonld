@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38495",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36950"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pylodictis olivaris"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4515"
+      }
+    ]
+  }
+]

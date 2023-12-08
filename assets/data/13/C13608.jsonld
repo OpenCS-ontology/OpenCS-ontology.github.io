@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13608",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/File_Retrieval_and_Editing_System"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "File Retrieval and Editing System"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9709"
+      }
+    ]
+  }
+]

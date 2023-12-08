@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4981",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Printing_registration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Printing registration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34920"
+      }
+    ]
+  }
+]

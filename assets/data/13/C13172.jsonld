@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13172",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Interactive_programming"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interactive programming"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43994"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8751"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2673",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Problem_management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Problem management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37971"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45228"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9700"
+      }
+    ]
+  }
+]

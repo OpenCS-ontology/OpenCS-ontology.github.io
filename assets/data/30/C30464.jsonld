@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30464",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22879"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Edge_chasing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Edge chasing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42329"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9778"
+      }
+    ]
+  }
+]

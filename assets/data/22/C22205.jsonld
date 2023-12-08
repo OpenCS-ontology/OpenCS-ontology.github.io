@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22205",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5829"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6909"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Stochastic_resonance_(sensory_neurobiology)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Stochastic resonance (sensory neurobiology)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5829"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9481"
+      }
+    ]
+  }
+]

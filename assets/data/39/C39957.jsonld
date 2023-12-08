@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39957",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31573"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hassar_(genus)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hassar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43113"
+      }
+    ]
+  }
+]

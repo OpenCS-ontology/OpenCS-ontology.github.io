@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9344",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Digital_identity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Digital identity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29951"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

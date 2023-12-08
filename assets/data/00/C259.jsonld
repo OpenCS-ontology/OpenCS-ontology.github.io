@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C259",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Finalization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Finalization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43716"
+      }
+    ]
+  }
+]

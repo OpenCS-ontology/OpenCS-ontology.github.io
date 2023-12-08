@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26105",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2468"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Document-based_question"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Document-based question"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3835"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5031"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9855"
+      }
+    ]
+  }
+]

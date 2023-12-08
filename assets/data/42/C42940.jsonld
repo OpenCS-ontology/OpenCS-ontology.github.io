@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42940",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34568"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Absorbing_Markov_chain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Absorbing Markov chain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45649"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7689"
+      }
+    ]
+  }
+]

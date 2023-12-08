@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45219",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31577"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ring-imaging_Cherenkov_detector"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ring-imaging Cherenkov detector"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22996"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44332"
+      }
+    ]
+  }
+]

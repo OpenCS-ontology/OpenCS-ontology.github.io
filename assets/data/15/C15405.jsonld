@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15405",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8664"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lyapunov_exponent"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lyapunov exponent"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

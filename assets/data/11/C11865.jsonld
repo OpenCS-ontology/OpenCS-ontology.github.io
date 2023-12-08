@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11865",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Central_Air_Data_Computer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Central Air Data Computer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8434"
+      }
+    ]
+  }
+]

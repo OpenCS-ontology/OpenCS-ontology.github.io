@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31931",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15048"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/General_motion_control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "General motion control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7848"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35456",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27458"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Baroco"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Baroco"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43371"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9834"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33902",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18299"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Great_Annihilator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Great Annihilator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18299"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

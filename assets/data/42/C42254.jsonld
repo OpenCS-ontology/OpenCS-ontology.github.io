@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42254",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37234"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Reading_(computer)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Reading (computer)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3118"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6536"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7007"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9448"
+      }
+    ]
+  }
+]

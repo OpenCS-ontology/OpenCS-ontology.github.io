@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4207",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Heuristic_argument"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Heuristic argument"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41363"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4291"
+      }
+    ]
+  }
+]

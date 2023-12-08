@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39719",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30245"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36770"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Seidel_adjacency_matrix"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Seidel adjacency matrix"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16376"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30245"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36770"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45746"
+      }
+    ]
+  }
+]

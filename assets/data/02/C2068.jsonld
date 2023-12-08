@@ -1,0 +1,92 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2068",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rule_induction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rule induction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10241"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19537"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20954"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35604"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9538"
+      }
+    ]
+  }
+]

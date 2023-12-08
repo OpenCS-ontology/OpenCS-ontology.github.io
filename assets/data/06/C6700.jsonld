@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6700",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Geographic_information_retrieval"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geographic information retrieval"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20147"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9876"
+      }
+    ]
+  }
+]

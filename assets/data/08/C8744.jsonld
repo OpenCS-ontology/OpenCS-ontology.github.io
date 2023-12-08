@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8744",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Handwriting"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Handwriting"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19846"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9606"
+      }
+    ]
+  }
+]

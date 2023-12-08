@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16360",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2979"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Laboratory_informatics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Laboratory informatics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41589"
+      }
+    ]
+  }
+]

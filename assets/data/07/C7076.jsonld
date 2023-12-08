@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7076",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mobile_service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mobile service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      }
+    ]
+  }
+]

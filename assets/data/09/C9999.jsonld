@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9999",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Spectrum_of_a_sentence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spectrum of a sentence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21946"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32839"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9698"
+      }
+    ]
+  }
+]

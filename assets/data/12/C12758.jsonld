@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12758",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rush_hour"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rush hour"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14215"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9657"
+      }
+    ]
+  }
+]

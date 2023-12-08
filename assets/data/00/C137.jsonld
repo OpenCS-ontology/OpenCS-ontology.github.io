@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C137",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Oracle_BI_server"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Oracle BI server"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9426"
+      }
+    ]
+  }
+]

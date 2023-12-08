@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14810",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9161"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/HTTP_tunnel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "HTTP tunnel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19227"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43478"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4663"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8771"
+      }
+    ]
+  }
+]

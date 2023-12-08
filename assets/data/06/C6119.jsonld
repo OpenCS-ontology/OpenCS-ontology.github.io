@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6119",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Virtual_class"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Virtual class"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24970"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38593"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40193"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9046"
+      }
+    ]
+  }
+]

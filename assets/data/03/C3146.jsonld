@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3146",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Autotype"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Autotype"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6942"
+      }
+    ]
+  }
+]

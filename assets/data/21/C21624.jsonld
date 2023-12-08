@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21624",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8895"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Random_testing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Random testing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45212"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7053"
+      }
+    ]
+  }
+]

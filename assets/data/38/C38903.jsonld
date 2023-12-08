@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38903",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34713"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35575"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Software_architecture_recovery"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Software architecture recovery"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14329"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41184"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41303"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7170"
+      }
+    ]
+  }
+]

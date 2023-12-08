@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31985",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28240"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Collision_response"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Collision response"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28240"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5300"
+      }
+    ]
+  }
+]

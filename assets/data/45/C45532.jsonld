@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45532",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29570"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Isogonal_conjugate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Isogonal conjugate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43744"
+      }
+    ]
+  }
+]

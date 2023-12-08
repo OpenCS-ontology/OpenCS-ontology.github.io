@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5294",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Nobody_(username)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "nobody"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12278"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16295"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19902"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5112"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8457"
+      }
+    ]
+  }
+]

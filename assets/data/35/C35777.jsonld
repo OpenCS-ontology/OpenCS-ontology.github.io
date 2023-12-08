@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35777",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20240"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dorymyrmex"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dorymyrmex"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27106"
+      }
+    ]
+  }
+]

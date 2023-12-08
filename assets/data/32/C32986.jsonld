@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32986",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22618"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chain-linked_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chain-linked model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9656"
+      }
+    ]
+  }
+]

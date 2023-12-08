@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25710",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Web_modeling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Web modeling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      }
+    ]
+  }
+]

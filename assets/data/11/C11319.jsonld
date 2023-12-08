@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11319",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Noise_map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Noise map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14240"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7600"
+      }
+    ]
+  }
+]

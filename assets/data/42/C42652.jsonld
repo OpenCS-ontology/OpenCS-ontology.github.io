@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42652",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32347"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33035"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33304"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Action_axiom"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Action axiom"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36383"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45297"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9608"
+      }
+    ]
+  }
+]

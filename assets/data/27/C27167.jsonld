@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27167",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4757"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hindi_literature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hindi literature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4757"
+      }
+    ]
+  }
+]

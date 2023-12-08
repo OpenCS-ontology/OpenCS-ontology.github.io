@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23794",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8366"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C936"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Missing_letter_effect"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Missing letter effect"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8366"
+      }
+    ]
+  }
+]

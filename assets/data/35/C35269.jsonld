@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35269",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27883"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Logic_family"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Logic family"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45328"
+      }
+    ]
+  }
+]

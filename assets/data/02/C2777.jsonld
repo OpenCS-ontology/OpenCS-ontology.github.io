@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2777",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/2D_geometric_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "2D geometric model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8499"
+      }
+    ]
+  }
+]

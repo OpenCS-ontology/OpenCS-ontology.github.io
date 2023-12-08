@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12005",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dispersion-limited_operation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dispersion-limited operation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7502"
+      }
+    ]
+  }
+]

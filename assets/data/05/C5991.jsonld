@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5991",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Intel_8251"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Intel 8251"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9262"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4376",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ticker_tape"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ticker tape"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16547"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30952"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9162"
+      }
+    ]
+  }
+]

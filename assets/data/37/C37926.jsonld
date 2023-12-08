@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37926",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35226"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35696"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Snub_dodecahedron"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Snub dodecahedron"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35226"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39317"
+      }
+    ]
+  }
+]

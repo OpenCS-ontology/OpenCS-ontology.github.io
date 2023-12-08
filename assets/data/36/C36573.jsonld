@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36573",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21268"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dynamicism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dynamicism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29527"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8701"
+      }
+    ]
+  }
+]

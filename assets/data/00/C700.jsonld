@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C700",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Small_subgroup_confinement_attack"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Small subgroup confinement attack"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41838"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43183"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45715"
+      }
+    ]
+  }
+]

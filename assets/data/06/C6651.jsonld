@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6651",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Antenna_gain-to-noise-temperature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Antenna gain-to-noise-temperature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22200"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24151"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42056"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8436"
+      }
+    ]
+  }
+]

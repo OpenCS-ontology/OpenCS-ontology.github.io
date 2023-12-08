@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11442",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Outline_of_electronics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Outline of electronics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12971"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9908"
+      }
+    ]
+  }
+]

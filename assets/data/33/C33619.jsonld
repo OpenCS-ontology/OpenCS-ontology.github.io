@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33619",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28411"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Tuned_radio_frequency_receiver"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tuned radio frequency receiver"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8348"
+      }
+    ]
+  }
+]

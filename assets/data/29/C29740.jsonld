@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29740",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26764"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Medical_Device_Radiocommunications_Service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Medical Device Radiocommunications Service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13593"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35075"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9793"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45185",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36635"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lyman-alpha_emitter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lyman-alpha emitter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31897"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41072"
+      }
+    ]
+  }
+]

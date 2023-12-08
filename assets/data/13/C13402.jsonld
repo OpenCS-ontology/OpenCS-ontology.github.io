@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13402",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Home_energy_monitor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Home energy monitor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24892"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8386"
+      }
+    ]
+  }
+]

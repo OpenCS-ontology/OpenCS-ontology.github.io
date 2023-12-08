@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16352",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Inertial_navigation_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Inertial navigation system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7371"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7850"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9242"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9431"
+      }
+    ]
+  }
+]

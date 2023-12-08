@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39710",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35040"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/J-invariant"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "j-invariant"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38958"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43605"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45135"
+      }
+    ]
+  }
+]

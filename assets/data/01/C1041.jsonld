@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1041",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/GAIT_(wireless)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "GAIT (wireless)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23297"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9332"
+      }
+    ]
+  }
+]

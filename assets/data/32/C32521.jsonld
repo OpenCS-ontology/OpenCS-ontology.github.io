@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32521",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17238"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/OASIS_SOA_Reference_Model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "OASIS SOA Reference Model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3623"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9607"
+      }
+    ]
+  }
+]

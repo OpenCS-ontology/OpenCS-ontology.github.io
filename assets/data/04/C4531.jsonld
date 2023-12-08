@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4531",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Speech_production"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Speech production"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8090"
+      }
+    ]
+  }
+]

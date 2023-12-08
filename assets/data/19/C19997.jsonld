@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19997",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3401"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Combinatorial_map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Combinatorial map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40165"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44460"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37545",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15067"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28644"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Structural_linguistics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Structural linguistics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9777"
+      }
+    ]
+  }
+]

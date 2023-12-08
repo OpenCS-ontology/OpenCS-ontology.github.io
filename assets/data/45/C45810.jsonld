@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45810",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33605"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37203"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Supersampling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Supersampling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12347"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20802"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42679"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ]
+  }
+]

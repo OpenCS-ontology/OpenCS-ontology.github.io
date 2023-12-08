@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3052",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Consortium_for_the_Advanced_Simulation_of_Light_Water_Reactors"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Consortium for the Advanced Simulation of Light Water Reactors"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7735"
+      }
+    ]
+  }
+]

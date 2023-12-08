@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16725",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6293"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Comma_splice"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Comma splice"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27994"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31289"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5870"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C809"
+      }
+    ]
+  }
+]

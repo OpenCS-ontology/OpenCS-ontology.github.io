@@ -1,0 +1,33 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41681",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35628"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Software Security Vulnerability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38527"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43665"
+      }
+    ]
+  }
+]

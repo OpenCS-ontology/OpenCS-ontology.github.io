@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2209",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Word_count"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Word count"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13872"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9606"
+      }
+    ]
+  }
+]

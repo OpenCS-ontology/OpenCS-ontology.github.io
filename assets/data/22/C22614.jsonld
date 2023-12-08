@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22614",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3740"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Reconstruction_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Reconstruction algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C751"
+      }
+    ]
+  }
+]

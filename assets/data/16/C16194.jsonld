@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16194",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5405"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Estimation_of_signal_parameters_via_rotational_invariance_techniques"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Estimation of signal parameters via rotational invariance techniques"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25436"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27102"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32552"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6591"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      }
+    ]
+  }
+]

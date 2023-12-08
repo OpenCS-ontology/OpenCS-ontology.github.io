@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17921",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8435"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Binary_quadratic_form"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Binary quadratic form"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30639"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3840"
+      }
+    ]
+  }
+]

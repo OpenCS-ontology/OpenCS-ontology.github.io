@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37207",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19560"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Quantum_finite_automata"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Quantum finite automata"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8791"
+      }
+    ]
+  }
+]

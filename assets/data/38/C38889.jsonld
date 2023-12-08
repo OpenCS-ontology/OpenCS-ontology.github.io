@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38889",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36770"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Moore_graph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Moore graph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38091"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42872"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45361"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2767",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Buffer_over-read"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Buffer over-read"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24644"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4651"
+      }
+    ]
+  }
+]

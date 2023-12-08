@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1565",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Emergent_Design"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Emergent Design"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38970"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41038"
+      }
+    ]
+  }
+]

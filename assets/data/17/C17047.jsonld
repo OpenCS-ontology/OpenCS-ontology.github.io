@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17047",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9643"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Annual_average_daily_traffic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Annual average daily traffic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14828"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21285"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28361"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9657"
+      }
+    ]
+  }
+]

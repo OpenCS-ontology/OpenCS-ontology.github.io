@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9175",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multiplayer_game"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multiplayer game"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1943"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

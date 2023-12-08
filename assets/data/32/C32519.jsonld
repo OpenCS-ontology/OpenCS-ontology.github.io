@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32519",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25026"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Butterworth_filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Butterworth filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45235"
+      }
+    ]
+  }
+]

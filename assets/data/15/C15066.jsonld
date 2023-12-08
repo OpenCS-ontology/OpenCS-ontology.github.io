@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15066",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Power_system_simulator_for_engineering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Power system simulator for engineering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20156"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43674"
+      }
+    ]
+  }
+]

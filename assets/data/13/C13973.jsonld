@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13973",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6444"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Component_video"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Component video"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34890"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6942"
+      }
+    ]
+  }
+]

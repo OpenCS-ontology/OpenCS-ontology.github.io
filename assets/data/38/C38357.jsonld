@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38357",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35575"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37174"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Analysis_effort_method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Analysis effort method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1035"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41278"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44988"
+      }
+    ]
+  }
+]

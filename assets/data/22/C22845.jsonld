@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22845",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1206"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/LonTalk"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "LonTalk"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7740"
+      }
+    ]
+  }
+]

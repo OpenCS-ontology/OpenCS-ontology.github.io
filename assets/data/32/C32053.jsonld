@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32053",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19177"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Newton's_method_in_optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Newton's method in optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11285"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19177"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20325"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5201"
+      }
+    ]
+  }
+]

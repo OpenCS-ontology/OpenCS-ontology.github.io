@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8559",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Robustness_(computer_science)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Robustness (computer science)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19562"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35575"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38644"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6255"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33447",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28789"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Vendor_Neutral_Archive"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vendor Neutral Archive"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8302"
+      }
+    ]
+  }
+]

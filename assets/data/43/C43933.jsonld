@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43933",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32746"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Erdős–Szekeres_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Erdős–Szekeres theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20376"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22897"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43906"
+      }
+    ]
+  }
+]

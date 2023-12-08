@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13920",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2800"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Language_immersion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Language immersion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44138"
+      }
+    ]
+  }
+]

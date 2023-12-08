@@ -1,0 +1,22 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45262",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36912"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Integer cosine transform"
+      }
+    ]
+  }
+]

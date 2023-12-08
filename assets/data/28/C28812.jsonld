@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28812",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13593"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Formica_fusca"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Formica fusca"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20649"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24249"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30349"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34823"
+      }
+    ]
+  }
+]

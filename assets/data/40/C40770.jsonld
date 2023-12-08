@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40770",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36202"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Biorthogonal_wavelet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Biorthogonal wavelet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42094"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42915"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43908"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7925"
+      }
+    ]
+  }
+]

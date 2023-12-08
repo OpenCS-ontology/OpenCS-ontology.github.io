@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27961",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9986"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Exposure_latitude"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Exposure latitude"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6041"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6257"
+      }
+    ]
+  }
+]

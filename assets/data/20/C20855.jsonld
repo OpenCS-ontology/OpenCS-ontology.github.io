@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20855",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Signal-to-noise_ratio_(imaging)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Signal-to-noise ratio (imaging)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17970"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1832"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8272"
+      }
+    ]
+  }
+]

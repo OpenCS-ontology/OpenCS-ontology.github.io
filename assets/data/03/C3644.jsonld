@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3644",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/REMUS_(AUV)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "REMUS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10919"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8182"
+      }
+    ]
+  }
+]

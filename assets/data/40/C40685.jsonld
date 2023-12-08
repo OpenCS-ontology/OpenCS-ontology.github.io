@@ -1,0 +1,89 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40685",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37234"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Memory_ordering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Memory ordering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3071"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8242"
+      }
+    ]
+  }
+]

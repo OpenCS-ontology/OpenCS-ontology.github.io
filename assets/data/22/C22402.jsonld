@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22402",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12533"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/International_maritime_signal_flags"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "International maritime signal flags"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9162"
+      }
+    ]
+  }
+]

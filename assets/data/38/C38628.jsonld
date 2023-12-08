@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38628",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36115"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Halo_antenna"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Halo antenna"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24151"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41732"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9691"
+      }
+    ]
+  }
+]

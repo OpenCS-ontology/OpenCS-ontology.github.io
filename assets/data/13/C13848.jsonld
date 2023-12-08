@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13848",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Media_gateway_control_protocol_architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Media gateway control protocol architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28949"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34719"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3933"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39785"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44506"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8515"
+      }
+    ]
+  }
+]

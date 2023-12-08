@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3213",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Unicode_compatibility_characters"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Unicode compatibility characters"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12547"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20976"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C988"
+      }
+    ]
+  }
+]

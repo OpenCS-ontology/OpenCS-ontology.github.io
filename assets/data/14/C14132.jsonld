@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14132",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5292"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7006"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Group_key"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Group key"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1184"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9176"
+      }
+    ]
+  }
+]

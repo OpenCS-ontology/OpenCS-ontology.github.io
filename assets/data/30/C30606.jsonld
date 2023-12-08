@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30606",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13977"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Carya_texana"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Carya texana"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34331"
+      }
+    ]
+  }
+]

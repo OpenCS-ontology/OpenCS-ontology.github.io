@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7415",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/VIT_signals"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "VIT signals"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34890"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39777"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9338"
+      }
+    ]
+  }
+]

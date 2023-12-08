@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43977",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37073"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Manhattan_mobility_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Manhattan mobility model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C85"
+      }
+    ]
+  }
+]

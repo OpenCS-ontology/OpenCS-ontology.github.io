@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7745",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Project_West_Ford"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Project West Ford"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32643"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45299"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9653"
+      }
+    ]
+  }
+]

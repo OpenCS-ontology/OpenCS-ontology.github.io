@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23887",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cloud_top"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cloud top"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28180"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29178"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39714"
+      }
+    ]
+  }
+]

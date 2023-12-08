@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37819",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37589"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Triacontagon"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Triacontagon"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44703"
+      }
+    ]
+  }
+]

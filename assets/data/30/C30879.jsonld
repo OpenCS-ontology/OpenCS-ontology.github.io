@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30879",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16105"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Recursive_filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Recursive filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6110"
+      }
+    ]
+  }
+]

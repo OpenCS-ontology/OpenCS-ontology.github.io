@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4974",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Strong_prior"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Strong prior"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10101"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22075"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42842"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45643"
+      }
+    ]
+  }
+]

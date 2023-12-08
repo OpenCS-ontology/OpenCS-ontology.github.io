@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42282",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36383"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Recognition_primed_decision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Recognition primed decision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9608"
+      }
+    ]
+  }
+]

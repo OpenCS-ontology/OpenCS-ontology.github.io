@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7222",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/MPACT_2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "MPACT 2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8959"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9990"
+      }
+    ]
+  }
+]

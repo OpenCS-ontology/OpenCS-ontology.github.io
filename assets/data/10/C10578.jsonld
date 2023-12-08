@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10578",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mersenne_conjectures"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mersenne conjectures"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40241"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6550"
+      }
+    ]
+  }
+]

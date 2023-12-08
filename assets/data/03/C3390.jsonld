@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3390",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Traffic_flow"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Traffic flow"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28361"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30949"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34071"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43067"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9657"
+      }
+    ]
+  }
+]

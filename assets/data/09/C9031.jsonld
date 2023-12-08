@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9031",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Video_feedback"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Video feedback"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7354"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9605"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9611"
+      }
+    ]
+  }
+]

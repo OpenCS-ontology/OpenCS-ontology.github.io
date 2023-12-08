@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3486",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/TASSL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "TASSL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15478"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40330"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8032"
+      }
+    ]
+  }
+]

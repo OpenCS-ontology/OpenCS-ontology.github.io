@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9315",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Computational_law"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Computational law"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20376"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ]
+  }
+]

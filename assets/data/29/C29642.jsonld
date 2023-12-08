@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29642",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25681"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cognitive_ontology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cognitive ontology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45471"
+      }
+    ]
+  }
+]

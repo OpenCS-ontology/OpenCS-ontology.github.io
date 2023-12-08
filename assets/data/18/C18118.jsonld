@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18118",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pairing-based_cryptography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pairing-based cryptography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31902"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32288"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3629"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39928"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42288"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43183"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44910"
+      }
+    ]
+  }
+]

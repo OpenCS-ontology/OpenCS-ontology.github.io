@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2015",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Has-a"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Has-a"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10102"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32549"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9046"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34746",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14266"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Variance-gamma_distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Variance-gamma distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45117"
+      }
+    ]
+  }
+]

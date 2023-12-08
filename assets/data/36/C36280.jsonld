@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36280",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14022"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Grid_reference"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Grid reference"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13187"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8708"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9690"
+      }
+    ]
+  }
+]

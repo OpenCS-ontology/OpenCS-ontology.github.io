@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1812",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Vector_space_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vector space model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29536"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42910"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C972"
+      }
+    ]
+  }
+]

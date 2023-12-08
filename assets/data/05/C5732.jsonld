@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5732",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wargame_(hacking)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wargame"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39663"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45494"
+      }
+    ]
+  }
+]

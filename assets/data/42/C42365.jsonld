@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42365",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31200"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35878"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spectrum broker"
+      }
+    ]
+  }
+]

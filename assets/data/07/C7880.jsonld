@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7880",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Subnetwork_connection_protection"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Subnetwork connection protection"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20934"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44776"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9652"
+      }
+    ]
+  }
+]

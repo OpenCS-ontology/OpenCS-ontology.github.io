@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26444",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5555"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Click_It_or_Ticket"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Click It or Ticket"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12876"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26475"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9657"
+      }
+    ]
+  }
+]

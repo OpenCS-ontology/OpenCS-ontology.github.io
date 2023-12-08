@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9549",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/IETM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "IETM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13347"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39041"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40902"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

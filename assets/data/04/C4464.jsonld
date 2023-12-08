@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4464",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Programmer_(hardware)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Programmer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7007"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9908"
+      }
+    ]
+  }
+]

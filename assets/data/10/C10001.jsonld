@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10001",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/METEO_System"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "METEO System"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10227"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28527"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29604"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2405",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Tape_bias"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tape bias"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9775"
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17280",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7310"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mandarin speech recognition"
+      }
+    ]
+  }
+]

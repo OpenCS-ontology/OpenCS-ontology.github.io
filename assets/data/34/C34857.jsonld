@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34857",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28923"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Support vector machines image classification"
+      }
+    ]
+  }
+]

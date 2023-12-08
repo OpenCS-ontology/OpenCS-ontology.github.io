@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24520",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10917"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Recursive_competitive_equilibrium"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Recursive competitive equilibrium"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14906"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C77"
+      }
+    ]
+  }
+]

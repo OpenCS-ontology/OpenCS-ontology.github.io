@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9788",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sudoku_solving_algorithms"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sudoku solving algorithms"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3837"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38436"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5242"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6752"
+      }
+    ]
+  }
+]

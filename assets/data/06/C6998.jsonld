@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6998",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/System_dynamics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "System dynamics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22976"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7334"
+      }
+    ]
+  }
+]

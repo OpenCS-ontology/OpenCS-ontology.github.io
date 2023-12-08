@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39533",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37362"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Fraction_of_variance_unexplained"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fraction of variance unexplained"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45118"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4643"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      }
+    ]
+  }
+]

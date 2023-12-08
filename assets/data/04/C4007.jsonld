@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4007",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Data_over_signalling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data over signalling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8410"
+      }
+    ]
+  }
+]

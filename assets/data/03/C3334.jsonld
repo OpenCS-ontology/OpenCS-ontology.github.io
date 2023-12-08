@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3334",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sync_(Unix)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "sync"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8323"
+      }
+    ]
+  }
+]

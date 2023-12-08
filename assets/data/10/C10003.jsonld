@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10003",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Agda_(programming_language)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Agda"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16537"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27091"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29068"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3639"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6941"
+      }
+    ]
+  }
+]

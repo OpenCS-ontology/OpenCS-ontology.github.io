@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44101",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37207"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/GrowCut_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "GrowCut algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25010"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C839"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9543"
+      }
+    ]
+  }
+]

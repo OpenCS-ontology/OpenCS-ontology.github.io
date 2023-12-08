@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3189",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Levenshtein_distance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Levenshtein distance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16676"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2930"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C77"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12480",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Virtual_tour"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Virtual tour"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8900"
+      }
+    ]
+  }
+]

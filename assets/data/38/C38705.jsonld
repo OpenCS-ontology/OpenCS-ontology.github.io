@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38705",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34673"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Joint_Astronomy_Centre"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Joint Astronomy Centre"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

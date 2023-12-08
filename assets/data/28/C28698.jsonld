@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28698",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8559"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sliding_mode_control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sliding mode control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30439"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45226"
+      }
+    ]
+  }
+]

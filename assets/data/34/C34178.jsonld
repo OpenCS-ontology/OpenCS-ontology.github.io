@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34178",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22491"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lucas_cell"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lucas cell"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28752"
+      }
+    ]
+  }
+]

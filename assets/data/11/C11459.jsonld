@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11459",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Token_money"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Token money"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23245"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26452"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37228"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4779"
+      }
+    ]
+  }
+]

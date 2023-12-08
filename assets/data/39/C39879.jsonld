@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39879",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31198"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Binary_GCD_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Binary GCD algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35798"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8581"
+      }
+    ]
+  }
+]

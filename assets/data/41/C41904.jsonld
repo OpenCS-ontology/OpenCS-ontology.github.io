@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41904",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35392"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Three-point_estimation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Three-point estimation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39575"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C662"
+      }
+    ]
+  }
+]

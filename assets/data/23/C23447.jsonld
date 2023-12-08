@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23447",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9690"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Geocentric_coordinates"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geocentric coordinates"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14959"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22488"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28891"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30361"
+      }
+    ]
+  }
+]

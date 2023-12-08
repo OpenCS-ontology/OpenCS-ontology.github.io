@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17878",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9323"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Trusted_Computer_System_Evaluation_Criteria"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Trusted Computer System Evaluation Criteria"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33147"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41226"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

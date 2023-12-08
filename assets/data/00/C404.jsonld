@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C404",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Vocabulary-based_transformation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vocabulary-based transformation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44676"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6915"
+      }
+    ]
+  }
+]

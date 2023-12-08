@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10991",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/QsNet_II"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "QsNet II"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10741"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14376"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4341"
+      }
+    ]
+  }
+]

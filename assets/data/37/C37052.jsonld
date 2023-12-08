@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37052",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24967"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/SPARClite"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "SPARClite"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7977"
+      }
+    ]
+  }
+]

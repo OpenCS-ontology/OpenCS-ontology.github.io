@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5047",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Curb_cut"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Curb cut"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C435"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7714"
+      }
+    ]
+  }
+]

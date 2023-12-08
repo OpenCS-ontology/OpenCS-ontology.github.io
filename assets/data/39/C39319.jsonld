@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39319",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36046"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Brownian_tree"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Brownian tree"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33101"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6909"
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5210",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Information_transfer_node"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Information transfer node"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C973"
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41983",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32582"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EAP protocol"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44970"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5619"
+      }
+    ]
+  }
+]

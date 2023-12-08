@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14415",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9744"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Monocular_vision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Monocular vision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13549"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25249"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C695"
+      }
+    ]
+  }
+]

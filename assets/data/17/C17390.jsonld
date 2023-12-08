@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17390",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Agricultural_robot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Agricultural robot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33887"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27667",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9641"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Minimum-variance_unbiased_estimator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Minimum-variance unbiased estimator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42850"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45514"
+      }
+    ]
+  }
+]

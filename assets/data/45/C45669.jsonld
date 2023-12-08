@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45669",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32347"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33035"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33304"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Axiom_of_projective_determinacy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Axiom of projective determinacy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5251"
+      }
+    ]
+  }
+]

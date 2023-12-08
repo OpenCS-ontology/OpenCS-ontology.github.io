@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19130",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1647"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Home_advantage"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Home advantage"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23200"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8828"
+      }
+    ]
+  }
+]

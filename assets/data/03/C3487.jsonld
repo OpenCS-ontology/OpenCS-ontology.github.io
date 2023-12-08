@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3487",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Interface_bloat"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interface bloat"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3833"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43596"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8901"
+      }
+    ]
+  }
+]

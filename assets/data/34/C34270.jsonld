@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34270",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25140"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/TW_Hydrae"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "TW Hydrae"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14224"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30091"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

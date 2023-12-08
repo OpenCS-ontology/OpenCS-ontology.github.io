@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22805",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5818"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Modular_origami"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Modular origami"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34506"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41829"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43632"
+      }
+    ]
+  }
+]

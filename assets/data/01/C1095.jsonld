@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1095",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Curvilinear_perspective"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Curvilinear perspective"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8278"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9479"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7438",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Effects-based_operations"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Effects-based operations"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16536"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9224"
+      }
+    ]
+  }
+]

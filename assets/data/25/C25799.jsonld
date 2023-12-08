@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25799",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2254"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cooperative_Adaptive_Cruise_Control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cooperative Adaptive Cruise Control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16177"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9100"
+      }
+    ]
+  }
+]

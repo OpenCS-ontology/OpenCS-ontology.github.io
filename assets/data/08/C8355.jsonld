@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8355",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/HTTP_Public_Key_Pinning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "HTTP Public Key Pinning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15591"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25296"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44289"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45747"
+      }
+    ]
+  }
+]

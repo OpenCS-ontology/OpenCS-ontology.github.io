@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7688",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Direct_voice_input"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Direct voice input"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12636"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7736"
+      }
+    ]
+  }
+]

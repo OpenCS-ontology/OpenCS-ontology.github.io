@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32812",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16917"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Nephanalysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Nephanalysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20908"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34996"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42337"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20123",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3986"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pólya_enumeration_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pólya enumeration theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36814"
+      }
+    ]
+  }
+]

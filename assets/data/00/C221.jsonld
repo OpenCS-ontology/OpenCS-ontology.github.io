@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C221",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/ChromaDepth"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "ChromaDepth"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13549"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31056"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3911"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C664"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7910"
+      }
+    ]
+  }
+]

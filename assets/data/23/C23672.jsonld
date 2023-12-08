@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23672",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5706"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Jam_sync"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Jam sync"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12541"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26575"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9748"
+      }
+    ]
+  }
+]

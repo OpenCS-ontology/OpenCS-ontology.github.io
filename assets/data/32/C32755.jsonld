@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32755",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16594"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sznajd_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sznajd model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37437"
+      }
+    ]
+  }
+]

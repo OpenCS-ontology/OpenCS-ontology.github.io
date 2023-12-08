@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1203",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ugly_duckling_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ugly duckling theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9779"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9834"
+      }
+    ]
+  }
+]

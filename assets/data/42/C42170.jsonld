@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42170",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36161"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Controlled_Cryptographic_Item"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Controlled Cryptographic Item"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2349"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8912"
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42914",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37207"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Permutation_automaton"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Permutation automaton"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2063"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39717"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43681"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8791"
+      }
+    ]
+  }
+]

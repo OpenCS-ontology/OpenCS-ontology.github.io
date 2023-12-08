@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2668",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Monty_Hall_problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Monty Hall problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6692"
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37692",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19177"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23927"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Kantorovich_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kantorovich theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19177"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9051"
+      }
+    ]
+  }
+]

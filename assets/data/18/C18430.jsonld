@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18430",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8559"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Robust_control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Robust control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C492"
+      }
+    ]
+  }
+]

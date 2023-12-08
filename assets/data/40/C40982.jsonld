@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40982",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31150"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lowest_usable_high_frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lowest usable high frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21945"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40098"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9263"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24706",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13793"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Prisoners_and_hats_puzzle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Prisoners and hats puzzle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4594"
+      }
+    ]
+  }
+]

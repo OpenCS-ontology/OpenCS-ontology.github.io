@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29807",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13935"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Time-domain_reflectometry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Time-domain reflectometry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6913"
+      }
+    ]
+  }
+]

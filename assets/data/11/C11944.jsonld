@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11944",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/E-services"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "E-services"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29488"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35838"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4438"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7297"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

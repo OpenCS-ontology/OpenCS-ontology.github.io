@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45182",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34505"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/DSL_filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "DSL filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10638"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18995"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39976"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9327"
+      }
+    ]
+  }
+]

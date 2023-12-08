@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3057",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Experiential_learning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Experiential learning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25892"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C764"
+      }
+    ]
+  }
+]

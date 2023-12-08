@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12647",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Comprehension_(logic)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Comprehension"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11183"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42906"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8802"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8827"
+      }
+    ]
+  }
+]

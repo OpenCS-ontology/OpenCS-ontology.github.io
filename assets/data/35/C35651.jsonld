@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35651",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27151"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29125"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Intelligent network interface card"
+      }
+    ]
+  }
+]

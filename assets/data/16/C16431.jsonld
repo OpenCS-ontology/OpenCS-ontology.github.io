@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16431",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13546"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Discrete_event_dynamic_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Discrete event dynamic system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11616"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C492"
+      }
+    ]
+  }
+]

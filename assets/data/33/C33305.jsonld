@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33305",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26525"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Seasonally_adjusted_annual_rate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Seasonally adjusted annual rate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26525"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6415"
+      }
+    ]
+  }
+]

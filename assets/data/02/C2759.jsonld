@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2759",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Audio_system_measurements"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Audio system measurements"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9481"
+      }
+    ]
+  }
+]

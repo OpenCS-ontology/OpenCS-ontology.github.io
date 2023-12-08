@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7971",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/MDSP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "MDSP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31889"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7012"
+      }
+    ]
+  }
+]

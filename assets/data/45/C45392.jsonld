@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45392",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33135"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Truncated_triakis_tetrahedron"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Truncated triakis tetrahedron"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41829"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9372"
+      }
+    ]
+  }
+]

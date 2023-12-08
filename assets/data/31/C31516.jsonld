@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31516",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22483"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rayleigh_quotient_iteration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rayleigh quotient iteration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21770"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34314"
+      }
+    ]
+  }
+]

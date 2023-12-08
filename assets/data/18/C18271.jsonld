@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18271",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13096"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Trochee"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Trochee"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29934"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C847"
+      }
+    ]
+  }
+]

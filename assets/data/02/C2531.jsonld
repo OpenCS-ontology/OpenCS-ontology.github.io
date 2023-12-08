@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2531",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chromatic_adaptation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chromatic adaptation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6420"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8622"
+      }
+    ]
+  }
+]

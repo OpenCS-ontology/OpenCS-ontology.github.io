@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7785",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Range_query_(data_structures)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Range query (data structures)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14958"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16028"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36325"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42945"
+      }
+    ]
+  }
+]

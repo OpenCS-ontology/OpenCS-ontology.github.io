@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2938",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Three-click_rule"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Three-click rule"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19224"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20329"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38403"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40829"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5939"
+      }
+    ]
+  }
+]

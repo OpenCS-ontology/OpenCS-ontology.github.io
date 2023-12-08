@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29457",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3401"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Aztec_diamond"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Aztec diamond"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9372"
+      }
+    ]
+  }
+]

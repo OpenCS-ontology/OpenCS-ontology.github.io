@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3185",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Grade_measurement"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Grade measurement"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24604"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8708"
+      }
+    ]
+  }
+]

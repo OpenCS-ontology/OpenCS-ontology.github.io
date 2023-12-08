@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40379",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36115"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/E-plane_and_H-plane"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "E-plane and H-plane"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6913"
+      }
+    ]
+  }
+]

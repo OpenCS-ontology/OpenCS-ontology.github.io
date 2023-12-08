@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3003",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/SAVILLE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "SAVILLE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29363"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31224"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44611"
+      }
+    ]
+  }
+]

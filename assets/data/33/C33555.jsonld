@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33555",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25412"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/U_Scorpii"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "U Scorpii"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23296"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31488"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37226"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45890"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

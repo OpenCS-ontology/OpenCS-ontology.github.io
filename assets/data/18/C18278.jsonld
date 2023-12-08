@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18278",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3444"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Professional_learning_community"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Professional learning community"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15193"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7158"
+      }
+    ]
+  }
+]

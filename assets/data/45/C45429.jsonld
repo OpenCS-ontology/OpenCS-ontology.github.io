@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45429",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35925"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Canonical_Huffman_code"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Canonical Huffman code"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C546"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9269"
+      }
+    ]
+  }
+]

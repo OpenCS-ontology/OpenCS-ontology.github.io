@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14056",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C248"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7021"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Support vector machines face recognition"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10780",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/LZJB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "LZJB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9269"
+      }
+    ]
+  }
+]

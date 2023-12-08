@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27265",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9781"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/VIKOR_method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "VIKOR method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33161"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44599"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5352"
+      }
+    ]
+  }
+]

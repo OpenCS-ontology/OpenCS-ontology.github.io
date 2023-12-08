@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6224",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Digital_Earth"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Digital Earth"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23889"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38891"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9618"
+      }
+    ]
+  }
+]

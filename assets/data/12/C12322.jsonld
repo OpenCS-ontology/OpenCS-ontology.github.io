@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12322",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Heat_map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Heat map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24971"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25959"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33958"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37642"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C383"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42101"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

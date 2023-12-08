@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2838",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/E_language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "E language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7310"
+      }
+    ]
+  }
+]

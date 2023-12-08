@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41970",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33729"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Unix_signal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Unix signal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1165"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36601"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40322"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

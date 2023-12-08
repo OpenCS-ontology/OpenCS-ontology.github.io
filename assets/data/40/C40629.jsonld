@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40629",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hermite_spline"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hermite spline"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15775"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36952"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43908"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8781"
+      }
+    ]
+  }
+]

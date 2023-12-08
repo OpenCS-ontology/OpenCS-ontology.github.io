@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27132",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Waveform_viewer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Waveform viewer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9244"
+      }
+    ]
+  }
+]

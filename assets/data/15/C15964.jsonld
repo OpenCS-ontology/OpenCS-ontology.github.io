@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15964",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5706"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Clock_synchronization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Clock synchronization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27546"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31954"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

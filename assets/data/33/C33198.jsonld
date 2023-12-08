@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33198",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19879"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Open-source_governance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Open-source governance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32525"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

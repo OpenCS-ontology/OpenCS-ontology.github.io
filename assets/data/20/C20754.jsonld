@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20754",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C81"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Robotic_Refueling_Mission"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Robotic Refueling Mission"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3952"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7201"
+      }
+    ]
+  }
+]

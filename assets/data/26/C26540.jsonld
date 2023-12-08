@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26540",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9781"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bradley–Terry_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bradley–Terry model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10504"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6021"
+      }
+    ]
+  }
+]

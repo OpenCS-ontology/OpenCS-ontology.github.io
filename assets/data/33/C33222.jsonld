@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33222",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28029"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Plato's_Problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Plato's Problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15845"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26360"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5556"
+      }
+    ]
+  }
+]

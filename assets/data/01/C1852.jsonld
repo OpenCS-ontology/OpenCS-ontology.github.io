@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1852",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Direct_mode"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Direct mode"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34227"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7478"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9235"
+      }
+    ]
+  }
+]

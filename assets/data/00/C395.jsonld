@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C395",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Digital_rights"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Digital rights"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

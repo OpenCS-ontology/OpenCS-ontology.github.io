@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33087",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22147"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Western Nilotic language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22147"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C539"
+      }
+    ]
+  }
+]

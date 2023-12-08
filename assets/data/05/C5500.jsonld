@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5500",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Flowchart"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Flowchart"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13605"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35299"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36713"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6656"
+      }
+    ]
+  }
+]

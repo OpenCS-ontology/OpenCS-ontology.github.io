@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11407",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Theories_of_technology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Theories of technology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22708"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6730"
+      }
+    ]
+  }
+]

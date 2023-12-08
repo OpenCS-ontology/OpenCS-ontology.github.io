@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9066",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Missile"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Missile"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16959"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5247"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6589"
+      }
+    ]
+  }
+]

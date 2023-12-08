@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1723",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Fencing_(computing)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fencing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40330"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8467"
+      }
+    ]
+  }
+]

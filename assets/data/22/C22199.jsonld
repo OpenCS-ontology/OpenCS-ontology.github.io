@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22199",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2703"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Collinearity_equation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Collinearity equation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9690"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40985",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33893"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Upper_topology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Upper topology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32349"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38762"
+      }
+    ]
+  }
+]

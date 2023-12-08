@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8173",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Reliability,_availability_and_serviceability_(computing)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Reliability, availability and serviceability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4817"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9035"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9540"
+      }
+    ]
+  }
+]

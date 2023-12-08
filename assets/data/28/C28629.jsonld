@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28629",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12146"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/New_business_development"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "New business development"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3836"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45772"
+      }
+    ]
+  }
+]

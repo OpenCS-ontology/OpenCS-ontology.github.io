@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45505",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36232"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Computable_measure_theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Computable measure theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39746"
+      }
+    ]
+  }
+]

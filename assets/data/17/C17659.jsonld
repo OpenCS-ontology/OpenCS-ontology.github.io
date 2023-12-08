@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17659",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8517"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Exophoria"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Exophoria"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4926"
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44858",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31845"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35496"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Signature_(logic)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Signature (logic)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26094"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45295"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8635"
+      }
+    ]
+  }
+]

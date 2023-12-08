@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32616",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28962"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Open_science"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Open science"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

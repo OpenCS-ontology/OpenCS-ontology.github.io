@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29406",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6124"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Map_symbolization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Map symbolization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23914"
+      }
+    ]
+  }
+]

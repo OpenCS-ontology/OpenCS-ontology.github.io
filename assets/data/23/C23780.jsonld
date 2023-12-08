@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23780",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/In-band_control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "In-band control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43857",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34821"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Polyharmonic_spline"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Polyharmonic spline"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44445"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8781"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8132",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Indirect_self-reference"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Indirect self-reference"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10739"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42139"
+      }
+    ]
+  }
+]

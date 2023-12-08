@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35373",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21156"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Branch_Metrics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Branch Metrics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12439"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C792"
+      }
+    ]
+  }
+]

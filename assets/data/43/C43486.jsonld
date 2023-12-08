@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43486",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32506"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35707"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Xml functional dependencies"
+      }
+    ]
+  }
+]

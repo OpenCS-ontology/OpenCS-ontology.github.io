@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C520",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sound_recording_and_reproduction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sound recording and reproduction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8291"
+      }
+    ]
+  }
+]

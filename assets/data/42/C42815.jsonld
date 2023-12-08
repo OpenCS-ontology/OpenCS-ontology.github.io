@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42815",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36308"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/RDMA_over_Converged_Ethernet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "RDMA over Converged Ethernet"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11387"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30247"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37732"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9640"
+      }
+    ]
+  }
+]

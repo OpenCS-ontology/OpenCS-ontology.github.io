@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44332",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31577"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Detection_of_internally_reflected_Cherenkov_light"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Detection of internally reflected Cherenkov light"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22996"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31299"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

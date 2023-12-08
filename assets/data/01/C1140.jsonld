@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1140",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Spigot_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spigot algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8297"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8581"
+      }
+    ]
+  }
+]

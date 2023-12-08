@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5931",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Generic_Substation_Events"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Generic Substation Events"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15802"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30247"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9280"
+      }
+    ]
+  }
+]

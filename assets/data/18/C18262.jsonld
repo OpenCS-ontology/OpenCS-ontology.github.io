@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18262",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Maximum_subarray_problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Maximum subarray problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14079"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2930"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41349"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C77"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ]
+  }
+]

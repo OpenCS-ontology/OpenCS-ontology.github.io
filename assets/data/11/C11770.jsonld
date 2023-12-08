@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11770",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Inverse_problem_in_optics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Inverse problem in optics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6420"
+      }
+    ]
+  }
+]

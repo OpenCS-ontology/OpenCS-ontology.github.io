@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36672",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17412"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Weighted_median"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Weighted median"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12147"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25355"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39575"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C662"
+      }
+    ]
+  }
+]

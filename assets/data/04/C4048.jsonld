@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4048",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Decimal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Decimal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18079"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5290"
+      }
+    ]
+  }
+]

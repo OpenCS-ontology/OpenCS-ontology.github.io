@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12553",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pheidologeton_diversus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pheidologeton diversus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22504"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24249"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38192"
+      }
+    ]
+  }
+]

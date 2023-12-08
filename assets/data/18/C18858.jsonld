@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18858",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5692"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/NSA_cryptography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "NSA cryptography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2349"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29363"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33147"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44388"
+      }
+    ]
+  }
+]

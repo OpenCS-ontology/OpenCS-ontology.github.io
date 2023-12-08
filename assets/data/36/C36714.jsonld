@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36714",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22283"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Transition_edge_sensor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Transition edge sensor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31639"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33383"
+      }
+    ]
+  }
+]

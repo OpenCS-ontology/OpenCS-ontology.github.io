@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44030",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36912"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Modified_discrete_cosine_transform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Modified discrete cosine transform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39970"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8088"
+      }
+    ]
+  }
+]

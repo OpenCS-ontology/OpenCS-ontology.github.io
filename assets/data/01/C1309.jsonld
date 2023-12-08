@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1309",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Embedded_Zerotrees_of_Wavelet_transforms"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Embedded Zerotrees of Wavelet transforms"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4511"
+      }
+    ]
+  }
+]

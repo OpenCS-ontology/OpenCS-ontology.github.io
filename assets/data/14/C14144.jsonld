@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14144",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4644"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5141"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/ECC_memory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "ECC memory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10684"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33838"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9542"
+      }
+    ]
+  }
+]

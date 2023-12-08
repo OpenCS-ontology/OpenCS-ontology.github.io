@@ -1,0 +1,89 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1188",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Partitioned_global_address_space"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Partitioned global address space"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19876"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24846"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7735"
+      }
+    ]
+  }
+]

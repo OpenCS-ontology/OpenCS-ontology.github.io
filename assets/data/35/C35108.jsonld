@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35108",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27610"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Prefetch_input_queue"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Prefetch input queue"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C856"
+      }
+    ]
+  }
+]

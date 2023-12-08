@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26845",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Time_of_flight_detector"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Time of flight detector"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29063"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45219"
+      }
+    ]
+  }
+]

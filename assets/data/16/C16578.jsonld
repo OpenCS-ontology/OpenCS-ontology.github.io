@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16578",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3337"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Fixed_expression"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fixed expression"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30776"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8464"
+      }
+    ]
+  }
+]

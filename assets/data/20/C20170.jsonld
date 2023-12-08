@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20170",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4652"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Small-world_experiment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Small-world experiment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23873"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36516"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7460"
+      }
+    ]
+  }
+]

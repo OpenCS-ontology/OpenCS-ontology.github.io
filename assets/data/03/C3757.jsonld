@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3757",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Trusted_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Trusted system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16295"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4832"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6031"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8711"
+      }
+    ]
+  }
+]

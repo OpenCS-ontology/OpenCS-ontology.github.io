@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45047",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36540"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Process_mining"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Process mining"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36911"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4768"
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36296",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18299"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sagittarius"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14108"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34547"
+      }
+    ]
+  }
+]

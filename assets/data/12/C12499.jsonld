@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12499",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/SUMIT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "SUMIT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30033"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C74"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8345"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9093"
+      }
+    ]
+  }
+]

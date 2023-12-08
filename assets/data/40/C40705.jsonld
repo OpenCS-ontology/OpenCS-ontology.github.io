@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40705",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30652"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sensor_node"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sensor node"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13593"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15415"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23438"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39371"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8172"
+      }
+    ]
+  }
+]

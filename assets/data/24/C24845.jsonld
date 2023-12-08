@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24845",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6756"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sørensen–Dice_coefficient"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sørensen–Dice coefficient"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C247"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42776"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7658"
+      }
+    ]
+  }
+]

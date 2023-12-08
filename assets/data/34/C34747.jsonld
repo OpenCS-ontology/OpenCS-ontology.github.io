@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34747",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25711"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multivariate_adaptive_regression_splines"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multivariate adaptive regression splines"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36596"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9874"
+      }
+    ]
+  }
+]

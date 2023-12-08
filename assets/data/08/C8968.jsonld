@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8968",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Korean_pronouns"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Korean pronouns"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20870"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29067"
+      }
+    ]
+  }
+]

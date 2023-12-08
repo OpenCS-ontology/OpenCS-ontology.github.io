@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8368",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Legal_information_retrieval"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Legal information retrieval"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11089"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42910"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9287"
+      }
+    ]
+  }
+]

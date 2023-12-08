@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35540",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15173"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Transistor_fault"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Transistor fault"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2354"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7623"
+      }
+    ]
+  }
+]

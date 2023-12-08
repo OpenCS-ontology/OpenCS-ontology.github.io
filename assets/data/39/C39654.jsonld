@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39654",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35926"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Futex"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Futex"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20245"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39713"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41970"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

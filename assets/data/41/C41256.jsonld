@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41256",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36912"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sum_of_absolute_transformed_differences"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sum of absolute transformed differences"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3777"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7447"
+      }
+    ]
+  }
+]

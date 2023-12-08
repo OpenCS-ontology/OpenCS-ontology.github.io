@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4377",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Crosswind_stabilization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Crosswind stabilization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16679"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7561"
+      }
+    ]
+  }
+]

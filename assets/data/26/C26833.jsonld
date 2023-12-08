@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26833",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1496"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/RT_middleware"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "RT middleware"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21419"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32723"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C357"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35870"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C661"
+      }
+    ]
+  }
+]

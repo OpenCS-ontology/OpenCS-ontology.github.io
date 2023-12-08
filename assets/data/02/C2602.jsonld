@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2602",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Interface_standard"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interface standard"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22933"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9910"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9931"
+      }
+    ]
+  }
+]

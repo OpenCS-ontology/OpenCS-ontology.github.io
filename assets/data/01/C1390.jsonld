@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1390",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Data_as_a_service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data as a service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16599"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26837"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9553"
+      }
+    ]
+  }
+]

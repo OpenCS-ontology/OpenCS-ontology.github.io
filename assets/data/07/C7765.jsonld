@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7765",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Geometric_programming"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geometric programming"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8435"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9243"
+      }
+    ]
+  }
+]

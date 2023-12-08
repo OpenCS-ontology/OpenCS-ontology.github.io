@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30525",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17386"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Einstein@Home"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Einstein@Home"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12475"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7735"
+      }
+    ]
+  }
+]

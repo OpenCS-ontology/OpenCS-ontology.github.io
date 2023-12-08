@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35306",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27573"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lexical_chain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lexical chain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12486"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15899"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C83"
+      }
+    ]
+  }
+]

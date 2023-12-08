@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1901",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Application_service_management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Application service management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11415"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11761"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36897"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5112"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9700"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12636",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Helmet-mounted_display"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Helmet-mounted display"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9944"
+      }
+    ]
+  }
+]

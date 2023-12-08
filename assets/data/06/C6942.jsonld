@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6942",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/RGB_color_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "RGB color model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45041"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8099"
+      }
+    ]
+  }
+]

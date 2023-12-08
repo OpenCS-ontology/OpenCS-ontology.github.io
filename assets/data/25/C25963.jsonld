@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25963",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C260"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Asymmetric_cointegration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Asymmetric cointegration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8385"
+      }
+    ]
+  }
+]

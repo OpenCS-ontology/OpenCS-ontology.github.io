@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6228",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Locator_map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Locator map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37913"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C434",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Optophone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Optophone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18870"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9596"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15950",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Workcell"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Workcell"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43969"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4558"
+      }
+    ]
+  }
+]

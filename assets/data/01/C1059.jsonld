@@ -1,0 +1,89 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1059",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Website_spoofing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Website spoofing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19156"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37868"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38459"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40290"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6642"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7147"
+      }
+    ]
+  }
+]

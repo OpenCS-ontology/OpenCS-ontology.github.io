@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1631",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lambda_calculus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lambda calculus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10322"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12108"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6941"
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29234",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2761"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9836"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Linguistic linked open data"
+      }
+    ]
+  }
+]

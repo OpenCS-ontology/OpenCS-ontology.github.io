@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35903",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23430"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Metallicity_distribution_function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Metallicity distribution function"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1202",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Molecular_Query_Language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Molecular Query Language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37079"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38643"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4781"
+      }
+    ]
+  }
+]

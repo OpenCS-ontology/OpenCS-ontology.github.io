@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2743",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cargo_cult_programming"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cargo cult programming"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38761"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C688"
+      }
+    ]
+  }
+]

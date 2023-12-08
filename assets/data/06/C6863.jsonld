@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6863",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Projection_(linear_algebra)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Projection (linear algebra)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14325"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26792"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5969"
+      }
+    ]
+  }
+]

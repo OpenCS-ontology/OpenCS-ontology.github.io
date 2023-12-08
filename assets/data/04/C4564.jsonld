@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4564",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Weak_AI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Weak AI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20377"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43472"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43845"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44765"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5776"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8965"
+      }
+    ]
+  }
+]

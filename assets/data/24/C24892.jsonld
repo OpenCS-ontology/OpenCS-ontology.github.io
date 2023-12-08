@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24892",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8430"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Energy_management_software"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Energy management software"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C985"
+      }
+    ]
+  }
+]

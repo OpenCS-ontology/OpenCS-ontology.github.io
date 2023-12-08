@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27169",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5007"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Power_Management_Bus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Power Management Bus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3357"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3893"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8718"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7392",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Energy_Citations_Database"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Energy Citations Database"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9993"
+      }
+    ]
+  }
+]

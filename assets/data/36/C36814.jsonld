@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36814",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29280"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cycle_index"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cycle index"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41928"
+      }
+    ]
+  }
+]

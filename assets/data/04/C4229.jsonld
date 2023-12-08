@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4229",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Software_defect_indicator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Software defect indicator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8455"
+      }
+    ]
+  }
+]

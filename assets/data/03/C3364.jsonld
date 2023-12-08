@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3364",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Faceted_search"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Faceted search"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5832"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6639"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6915"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9876"
+      }
+    ]
+  }
+]

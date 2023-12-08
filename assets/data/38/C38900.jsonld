@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38900",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32878"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Shifting_bottleneck_heuristic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Shifting bottleneck heuristic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23872"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7397"
+      }
+    ]
+  }
+]

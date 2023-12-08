@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35504",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26152"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Shack–Hartmann_wavefront_sensor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Shack–Hartmann wavefront sensor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14237"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8561"
+      }
+    ]
+  }
+]

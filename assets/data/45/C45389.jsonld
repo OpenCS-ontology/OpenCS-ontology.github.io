@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45389",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34713"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Purdue_Enterprise_Reference_Architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Purdue Enterprise Reference Architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44839"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45437"
+      }
+    ]
+  }
+]

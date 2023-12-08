@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26362",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Communicative_ecology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Communicative ecology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13094"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22708"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35838"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6757"
+      }
+    ]
+  }
+]

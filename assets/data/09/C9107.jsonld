@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9107",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Interconnect_facility"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interconnect facility"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9480"
+      }
+    ]
+  }
+]

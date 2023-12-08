@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6761",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/GRASP_(object-oriented_design)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "GRASP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10779"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24453"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43108"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43369"
+      }
+    ]
+  }
+]

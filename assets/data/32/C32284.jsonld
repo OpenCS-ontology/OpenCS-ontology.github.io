@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32284",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17896"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Measurement_microphone_calibration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Measurement microphone calibration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20663"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8291"
+      }
+    ]
+  }
+]

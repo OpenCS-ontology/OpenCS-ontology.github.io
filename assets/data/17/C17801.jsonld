@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17801",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2197"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Glossiphoniidae"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Glossiphoniidae"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35126"
+      }
+    ]
+  }
+]

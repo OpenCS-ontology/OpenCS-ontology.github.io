@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22189",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2657"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5625"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Paris_Convention_for_the_Protection_of_Industrial_Property"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Paris Convention for the Protection of Industrial Property"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30476"
+      }
+    ]
+  }
+]

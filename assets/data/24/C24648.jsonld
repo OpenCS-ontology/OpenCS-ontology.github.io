@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24648",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Autocoding"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Autocoding"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5111"
+      }
+    ]
+  }
+]

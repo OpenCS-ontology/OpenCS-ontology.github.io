@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44596",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31010"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36078"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Spatiotemporal_database"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spatiotemporal database"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34984"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9773"
+      }
+    ]
+  }
+]

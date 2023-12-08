@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44782",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33033"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Gagliardo–Nirenberg_interpolation_inequality"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Gagliardo–Nirenberg interpolation inequality"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33033"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41233"
+      }
+    ]
+  }
+]

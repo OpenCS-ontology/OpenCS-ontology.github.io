@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3785",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Reverse_Polish_notation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Reverse Polish notation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8441"
+      }
+    ]
+  }
+]

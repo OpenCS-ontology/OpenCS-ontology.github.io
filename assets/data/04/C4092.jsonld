@@ -1,0 +1,89 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4092",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Berkeley_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Berkeley algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26776"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31954"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9778"
+      }
+    ]
+  }
+]

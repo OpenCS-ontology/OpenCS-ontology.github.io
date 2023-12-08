@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21127",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rigid_designator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rigid designator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16079"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2995"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7467"
+      }
+    ]
+  }
+]

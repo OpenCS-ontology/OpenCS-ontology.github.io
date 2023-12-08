@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2950",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Zilog_Z280"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Zilog Z280"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39623"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8434"
+      }
+    ]
+  }
+]

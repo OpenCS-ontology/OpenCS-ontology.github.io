@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9585",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Informationist"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Informationist"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23629"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2426"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4184"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C703"
+      }
+    ]
+  }
+]

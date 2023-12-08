@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2427",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/State_logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "State logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28640"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3289"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8791"
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19082",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5856"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Heteroscedastic linear discriminant analysis"
+      }
+    ]
+  }
+]

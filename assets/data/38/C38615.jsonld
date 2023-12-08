@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38615",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30247"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34161"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34221"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36497"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37469"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multicast congestion control"
+      }
+    ]
+  }
+]

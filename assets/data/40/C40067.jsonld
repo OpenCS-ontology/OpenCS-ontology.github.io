@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40067",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36198"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Grafting_(decision_trees)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Grafting (decision trees)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7803"
+      }
+    ]
+  }
+]

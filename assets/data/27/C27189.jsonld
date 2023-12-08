@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27189",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8517"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Conditional_convergence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Conditional convergence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15454"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38241"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38792"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42627"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9686",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Vocal_tract"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vocal tract"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18818"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19817"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4397"
+      }
+    ]
+  }
+]

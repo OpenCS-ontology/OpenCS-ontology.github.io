@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7623",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multi-channel_length"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multi-channel length"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10377"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15664"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17574"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40479"
+      }
+    ]
+  }
+]

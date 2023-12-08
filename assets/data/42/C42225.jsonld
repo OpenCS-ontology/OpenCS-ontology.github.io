@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42225",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37237"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Misuse_of_private_information_in_English_law"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Misuse of private information"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28076"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2970"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37237"
+      }
+    ]
+  }
+]

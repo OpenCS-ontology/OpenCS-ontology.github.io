@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C247",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Overlap_coefficient"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Overlap coefficient"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24845"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42776"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44677"
+      }
+    ]
+  }
+]

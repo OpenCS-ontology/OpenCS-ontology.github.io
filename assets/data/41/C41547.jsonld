@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41547",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35993"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/General_formal_ontology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "General formal ontology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25681"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28119"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32347"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42636"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45702"
+      }
+    ]
+  }
+]

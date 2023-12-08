@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23841",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4816"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Guard_digit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Guard digit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1832"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32982"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43435"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9743"
+      }
+    ]
+  }
+]

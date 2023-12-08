@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7698",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multi-image"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multi-image"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5841"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8746"
+      }
+    ]
+  }
+]

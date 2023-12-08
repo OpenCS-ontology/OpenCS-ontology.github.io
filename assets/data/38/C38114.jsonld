@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38114",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36406"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Doubly_connected_edge_list"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Doubly connected edge list"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26516"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39583"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6289"
+      }
+    ]
+  }
+]

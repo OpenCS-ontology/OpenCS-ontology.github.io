@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39242",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37367"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Foreground-background"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Foreground-background"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17723"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45363"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45527"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8967"
+      }
+    ]
+  }
+]

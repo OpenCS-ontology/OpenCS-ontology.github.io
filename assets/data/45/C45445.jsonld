@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45445",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32877"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Real_analytic_Eisenstein_series"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Real analytic Eisenstein series"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45218"
+      }
+    ]
+  }
+]

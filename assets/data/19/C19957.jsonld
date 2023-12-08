@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19957",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Grating_light_valve"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Grating light valve"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21488"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8638"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9856"
+      }
+    ]
+  }
+]

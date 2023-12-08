@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27277",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9690"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/ECEF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "ECEF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20371"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28891"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29425"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8708"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9690"
+      }
+    ]
+  }
+]

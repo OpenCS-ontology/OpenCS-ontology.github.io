@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36539",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20791"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Magic_star"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Magic star"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45361"
+      }
+    ]
+  }
+]

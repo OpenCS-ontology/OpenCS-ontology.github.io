@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1644",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Switched_fabric"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Switched fabric"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28850"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9426"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30932",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20809"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Critical_chain_project_management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Critical chain project management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25147"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9483"
+      }
+    ]
+  }
+]

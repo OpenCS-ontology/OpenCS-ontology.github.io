@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2314",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Orchestra_Control_Engine"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Orchestra Control Engine"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14623"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26943"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29215"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29868"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7521"
+      }
+    ]
+  }
+]

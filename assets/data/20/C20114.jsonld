@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20114",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C390"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/ATA_Packet_Interface"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "ATA Packet Interface"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10785"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4916"
+      }
+    ]
+  }
+]

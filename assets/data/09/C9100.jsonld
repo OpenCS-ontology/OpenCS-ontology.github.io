@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9100",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Intelligent_transportation_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Intelligent transportation system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14828"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34119"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9657"
+      }
+    ]
+  }
+]

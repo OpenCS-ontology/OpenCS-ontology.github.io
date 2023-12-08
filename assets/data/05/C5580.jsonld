@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5580",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Authorized_domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Authorized domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35224"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7808"
+      }
+    ]
+  }
+]

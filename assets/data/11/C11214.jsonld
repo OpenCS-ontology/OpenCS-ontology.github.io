@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11214",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/MPEG-1_Audio_Layer_II"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "MPEG-1 Audio Layer II"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11933"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3636"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9266"
+      }
+    ]
+  }
+]

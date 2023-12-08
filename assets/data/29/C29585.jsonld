@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29585",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22174"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Clean_Energy_Project"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Clean Energy Project"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12475"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30525"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6996"
+      }
+    ]
+  }
+]

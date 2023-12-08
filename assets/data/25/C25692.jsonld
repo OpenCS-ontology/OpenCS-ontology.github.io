@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25692",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13593"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Liometopum_occidentale"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Liometopum occidentale"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35777"
+      }
+    ]
+  }
+]

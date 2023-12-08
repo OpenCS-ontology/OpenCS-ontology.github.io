@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40654",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36281"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dual_impedance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dual impedance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26183"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6913"
+      }
+    ]
+  }
+]

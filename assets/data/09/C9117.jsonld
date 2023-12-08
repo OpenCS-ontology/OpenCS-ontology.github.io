@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9117",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/R2_signalling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "R2 signalling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6645"
+      }
+    ]
+  }
+]

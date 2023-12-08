@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11987",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Network_termination"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Network termination"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10638"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2982"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9327"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10673",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Technical_report"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Technical report"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8915"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9892"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31253",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15729"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Quantitative_risk_assessment_software"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Quantitative risk assessment software"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C984"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45119",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36633"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Quattron"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Quattron"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45041"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8099"
+      }
+    ]
+  }
+]

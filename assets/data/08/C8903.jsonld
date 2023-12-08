@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8903",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Global_Information_Network_Architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Global Information Network Architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9224"
+      }
+    ]
+  }
+]

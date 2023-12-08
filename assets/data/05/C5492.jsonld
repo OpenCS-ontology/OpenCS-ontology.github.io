@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5492",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Audio_time-scale/pitch_modification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Audio time-scale/pitch modification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9097"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8788",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Zopfli"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Zopfli"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10574"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34872"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3679"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9269"
+      }
+    ]
+  }
+]

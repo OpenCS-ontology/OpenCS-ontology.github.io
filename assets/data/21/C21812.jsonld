@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21812",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7165"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Globally_asynchronous_locally_synchronous"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Globally asynchronous locally synchronous"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21765"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6964"
+      }
+    ]
+  }
+]

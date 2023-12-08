@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14120",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10219"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Numerical_continuation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Numerical continuation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26347"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3980"
+      }
+    ]
+  }
+]

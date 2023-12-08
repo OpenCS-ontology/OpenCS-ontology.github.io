@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14942",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9781"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Word frequency analysis"
+      }
+    ]
+  }
+]

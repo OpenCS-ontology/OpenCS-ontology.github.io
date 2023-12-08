@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2201",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Liskov_substitution_principle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Liskov substitution principle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14636"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18606"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24187"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9046"
+      }
+    ]
+  }
+]

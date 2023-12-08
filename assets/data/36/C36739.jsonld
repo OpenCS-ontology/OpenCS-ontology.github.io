@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36739",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18977"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Uniform_Trade_Secrets_Act"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Uniform Trade Secrets Act"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7170"
+      }
+    ]
+  }
+]

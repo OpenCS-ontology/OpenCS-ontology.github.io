@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26304",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2761"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Phono-semantic_matching"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Phono-semantic matching"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12486"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3741"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5628"
+      }
+    ]
+  }
+]

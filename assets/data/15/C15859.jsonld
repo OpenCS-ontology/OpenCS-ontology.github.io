@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15859",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Oscillatory_integral"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Oscillatory integral"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35934"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41157"
+      }
+    ]
+  }
+]

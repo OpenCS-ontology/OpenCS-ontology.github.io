@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3755",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Subaudible_tone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Subaudible tone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13431"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C808"
+      }
+    ]
+  }
+]

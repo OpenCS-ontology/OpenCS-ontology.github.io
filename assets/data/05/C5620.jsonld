@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5620",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sorting"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sorting"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10922"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16028"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8616"
+      }
+    ]
+  }
+]

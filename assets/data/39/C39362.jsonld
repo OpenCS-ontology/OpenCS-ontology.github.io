@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39362",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31842"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33242"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Radiative_transfer_equation_and_diffusion_theory_for_photon_transport_in_biological_tissue"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Photon transport in biological tissue"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38860"
+      }
+    ]
+  }
+]

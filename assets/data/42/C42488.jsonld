@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42488",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31400"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Tomita–Takesaki_theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tomita–Takesaki theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23890"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33102"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45503"
+      }
+    ]
+  }
+]

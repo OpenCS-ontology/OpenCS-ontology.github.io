@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36483",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24236"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pimelodus_pictus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pimelodus pictus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42958"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44058"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45344"
+      }
+    ]
+  }
+]

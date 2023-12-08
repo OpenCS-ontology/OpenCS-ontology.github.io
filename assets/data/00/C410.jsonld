@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C410",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Second-order_cellular_automaton"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Second-order cellular automaton"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45217"
+      }
+    ]
+  }
+]

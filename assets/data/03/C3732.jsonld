@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3732",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Soar_(cognitive_architecture)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Soar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11147"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5776"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ]
+  }
+]

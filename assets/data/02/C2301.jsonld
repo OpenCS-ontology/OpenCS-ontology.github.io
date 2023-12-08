@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2301",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Assert.h"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "assert.h"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13366"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29420"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33278"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9160"
+      }
+    ]
+  }
+]

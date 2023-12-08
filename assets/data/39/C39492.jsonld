@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39492",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37367"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Least_slack_time_scheduling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Least slack time scheduling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17723"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40876"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45363"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9450"
+      }
+    ]
+  }
+]

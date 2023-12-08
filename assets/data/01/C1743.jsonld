@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1743",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/DataDetective"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "DataDetective"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10870"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17893"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38984"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40296"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9874"
+      }
+    ]
+  }
+]

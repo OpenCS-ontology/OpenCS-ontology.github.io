@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29836",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15971"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Geometric_combinatorics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geometric combinatorics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41076"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43632"
+      }
+    ]
+  }
+]

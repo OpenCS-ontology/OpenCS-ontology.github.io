@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23499",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6915"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Minimum_Information_Standards"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Minimum Information Standards"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31165"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32112"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      }
+    ]
+  }
+]

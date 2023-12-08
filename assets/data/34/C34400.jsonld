@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34400",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23874"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Kahan_summation_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kahan summation algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23841"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9743"
+      }
+    ]
+  }
+]

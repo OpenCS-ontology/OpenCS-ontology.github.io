@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32993",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19769"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wahba's_problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wahba's problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20516"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21547"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34225"
+      }
+    ]
+  }
+]

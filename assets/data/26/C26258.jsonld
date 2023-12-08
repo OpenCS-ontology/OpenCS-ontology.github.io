@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26258",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Delimited_continuation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Delimited continuation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12108"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26454"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3537"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6941"
+      }
+    ]
+  }
+]

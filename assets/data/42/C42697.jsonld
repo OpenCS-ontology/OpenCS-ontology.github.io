@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42697",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36281"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Primary_line_constants"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Primary line constants"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7555"
+      }
+    ]
+  }
+]

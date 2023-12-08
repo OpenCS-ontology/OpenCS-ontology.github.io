@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33776",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23430"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chandra_Deep_Field_South"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chandra Deep Field South"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41868"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44200"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44556"
+      }
+    ]
+  }
+]

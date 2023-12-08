@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15605",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5279"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Message passing multiprocessor"
+      }
+    ]
+  }
+]

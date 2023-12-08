@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40554",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35995"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Information_security_audit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Information security audit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10064"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30240"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40409"
+      }
+    ]
+  }
+]

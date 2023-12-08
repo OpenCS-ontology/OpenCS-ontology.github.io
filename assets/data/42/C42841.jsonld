@@ -1,0 +1,22 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42841",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31949"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Guess and determine attack"
+      }
+    ]
+  }
+]

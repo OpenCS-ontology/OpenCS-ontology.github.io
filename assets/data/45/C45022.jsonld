@@ -1,0 +1,22 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45022",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34795"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kripke frame"
+      }
+    ]
+  }
+]

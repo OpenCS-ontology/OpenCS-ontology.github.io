@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37451",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25713"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/General_Group_Problem_Solving_(GGPS)_Model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "General Group Problem Solving (GGPS) Model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C912"
+      }
+    ]
+  }
+]

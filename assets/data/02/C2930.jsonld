@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2930",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Edit_distance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Edit distance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16676"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C77"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9556"
+      }
+    ]
+  }
+]

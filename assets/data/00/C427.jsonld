@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C427",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/KISS_principle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "KISS principle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4292"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7657"
+      }
+    ]
+  }
+]

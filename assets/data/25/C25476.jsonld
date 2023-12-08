@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25476",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8499"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multimedia video processor"
+      }
+    ]
+  }
+]

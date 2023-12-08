@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4319",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Speech_acquisition"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Speech acquisition"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42156"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7354"
+      }
+    ]
+  }
+]

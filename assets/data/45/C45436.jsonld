@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45436",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36214"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Aspistor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Aspistor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29741"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45441"
+      }
+    ]
+  }
+]

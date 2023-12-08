@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20692",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13096"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Syllabic_verse"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Syllabic verse"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34813"
+      }
+    ]
+  }
+]

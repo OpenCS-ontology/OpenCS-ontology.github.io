@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6191",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cross_processing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cross processing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27527"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6876"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9451"
+      }
+    ]
+  }
+]

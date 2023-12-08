@@ -1,0 +1,92 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1829",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Winnow_(algorithm)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Winnow"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13677"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17322"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19354"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25497"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5799"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      }
+    ]
+  }
+]

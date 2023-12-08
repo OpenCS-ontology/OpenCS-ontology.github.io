@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21347",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C836"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spatial Autocorrelations"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28028"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C836"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8756"
+      }
+    ]
+  }
+]

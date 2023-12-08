@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10730",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Collections_care"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Collections care"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5061"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6702"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C382",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Advanced_Mobile_Telephone_System"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Advanced Mobile Telephone System"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10910"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44664"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5285"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C796"
+      }
+    ]
+  }
+]

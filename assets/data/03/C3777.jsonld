@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3777",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Variance_Adaptive_Quantization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Variance Adaptive Quantization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7447"
+      }
+    ]
+  }
+]

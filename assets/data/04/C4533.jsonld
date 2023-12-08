@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4533",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Active_pen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Active pen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12976"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5063"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C946"
+      }
+    ]
+  }
+]

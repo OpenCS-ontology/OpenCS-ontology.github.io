@@ -1,0 +1,89 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12750",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Many-to-many_(data_model)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Many-to-many (data model)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38452"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7426"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7802"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7982"
+      }
+    ]
+  }
+]

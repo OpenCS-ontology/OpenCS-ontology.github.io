@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24000",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8172"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Received_signal_strength_indication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Received signal strength indication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5843"
+      }
+    ]
+  }
+]

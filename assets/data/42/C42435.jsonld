@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42435",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33921"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Fiber_(computer_science)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fiber (computer science)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11547"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

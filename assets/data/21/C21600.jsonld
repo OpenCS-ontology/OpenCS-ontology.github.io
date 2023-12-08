@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21600",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7008"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sonar_signal_processing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sonar signal processing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7008"
+      }
+    ]
+  }
+]

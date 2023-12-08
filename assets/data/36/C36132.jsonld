@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36132",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28955"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Buchberger's_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Buchberger's algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ]
+  }
+]

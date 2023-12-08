@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23313",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9718"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Transposition_(telecommunications)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Transposition (telecommunications)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9718"
+      }
+    ]
+  }
+]

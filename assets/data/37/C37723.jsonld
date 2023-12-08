@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37723",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23029"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Horseshoe_map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Horseshoe map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43425"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5867"
+      }
+    ]
+  }
+]

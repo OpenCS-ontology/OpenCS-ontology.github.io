@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19033",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8565"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Loopless_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Loopless algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37833"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ]
+  }
+]

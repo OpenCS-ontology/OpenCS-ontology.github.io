@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41387",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34162"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Linguistic_demography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Linguistic demography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6046"
+      }
+    ]
+  }
+]

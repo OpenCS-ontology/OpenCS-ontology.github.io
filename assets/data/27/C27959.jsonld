@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27959",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Complete_set_of_commuting_observables"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Complete set of commuting observables"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39891"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44649"
+      }
+    ]
+  }
+]

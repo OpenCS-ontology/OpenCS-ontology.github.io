@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39363",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30079"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Entropy_in_thermodynamics_and_information_theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Entropy in thermodynamics and information theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30079"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42951"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C546"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

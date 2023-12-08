@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16987",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Critical_code_studies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Critical code studies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5550"
+      }
+    ]
+  }
+]

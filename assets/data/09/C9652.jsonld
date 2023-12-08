@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9652",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Link_protection"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Link protection"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17187"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9105"
+      }
+    ]
+  }
+]

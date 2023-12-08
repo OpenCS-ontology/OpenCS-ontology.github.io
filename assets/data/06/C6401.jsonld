@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6401",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Medial_axis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Medial axis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8271"
+      }
+    ]
+  }
+]

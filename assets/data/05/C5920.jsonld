@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5920",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pull_technology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pull technology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8771"
+      }
+    ]
+  }
+]

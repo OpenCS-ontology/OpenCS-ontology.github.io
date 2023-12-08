@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45767",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31956"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36771"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Type_erasure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Type erasure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26642"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7572"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32592",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23465"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Apple_Desktop_Bus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Apple Desktop Bus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8345"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8718"
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42660",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37006"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bitwise_operations_in_C"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bitwise operations in C"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10719"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16377"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6911"
+      }
+    ]
+  }
+]

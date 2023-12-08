@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1511",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ring_learning_with_errors_key_exchange"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ring learning with errors key exchange"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28075"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28347"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6727"
+      }
+    ]
+  }
+]

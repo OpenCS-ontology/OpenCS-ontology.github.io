@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34257",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28588"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dot_gain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dot gain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8747"
+      }
+    ]
+  }
+]

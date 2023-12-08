@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41112",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36313"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Attitudinal_analytics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Attitudinal analytics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42101"
+      }
+    ]
+  }
+]

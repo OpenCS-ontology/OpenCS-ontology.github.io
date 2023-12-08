@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C625",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/IEEE_1613"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "IEEE 1613"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45300"
+      }
+    ]
+  }
+]

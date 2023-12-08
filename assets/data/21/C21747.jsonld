@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21747",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11886"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Standards_organization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Standards organization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9375"
+      }
+    ]
+  }
+]

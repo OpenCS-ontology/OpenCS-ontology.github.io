@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16175",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11389"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Proof-of-payment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Proof-of-payment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7714"
+      }
+    ]
+  }
+]

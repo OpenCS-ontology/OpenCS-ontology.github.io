@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20731",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11862"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Geoparsing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geoparsing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29425"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8708"
+      }
+    ]
+  }
+]

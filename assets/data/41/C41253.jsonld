@@ -1,0 +1,89 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41253",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37367"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/I/O_scheduling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "I/O scheduling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10785"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8782"
+      }
+    ]
+  }
+]

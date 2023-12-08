@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8951",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Residual_(numerical_analysis)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Residual"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21770"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5201"
+      }
+    ]
+  }
+]

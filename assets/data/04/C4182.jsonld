@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4182",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Microdot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Microdot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22329"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8498"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44556",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33140"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hubble_Ultra-Deep_Field"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hubble Ultra-Deep Field"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44200"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

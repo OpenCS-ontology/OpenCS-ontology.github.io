@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3510",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/LongHaul"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "LongHaul"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15459"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21765"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3893"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9897"
+      }
+    ]
+  }
+]

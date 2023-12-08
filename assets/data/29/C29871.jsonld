@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29871",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20903"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Amphipholis_squamata"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Amphipholis squamata"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44041"
+      }
+    ]
+  }
+]

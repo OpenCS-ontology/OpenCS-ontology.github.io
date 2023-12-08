@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8699",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Basic_sequential_access_method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Basic sequential access method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3247"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42165"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ]
+  }
+]

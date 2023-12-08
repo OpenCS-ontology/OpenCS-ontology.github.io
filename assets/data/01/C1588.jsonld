@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1588",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Organic_computing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Organic computing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10873"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32360"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36290"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36377"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8172"
+      }
+    ]
+  }
+]

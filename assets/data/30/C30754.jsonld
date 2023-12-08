@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30754",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27345"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cicindela_chinensis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cicindela chinensis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35782"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42708"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44867"
+      }
+    ]
+  }
+]

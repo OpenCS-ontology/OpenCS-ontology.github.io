@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8035",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Historical_document"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Historical document"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5031"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C799"
+      }
+    ]
+  }
+]

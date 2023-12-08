@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21622",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13750"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hypernova"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hypernova"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23535"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29212"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42345"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

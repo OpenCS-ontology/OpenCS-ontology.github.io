@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29065",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8017"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Morphic_word"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Morphic word"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19183"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7979"
+      }
+    ]
+  }
+]

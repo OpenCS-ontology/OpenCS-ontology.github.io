@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45633",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32616"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/BioJS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "BioJS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4918"
+      }
+    ]
+  }
+]

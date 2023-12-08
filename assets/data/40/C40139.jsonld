@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40139",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29664"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31150"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Beat_frequency_oscillator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Beat frequency oscillator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8348"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40785",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35568"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hockett's_design_features"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hockett's design features"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32426"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7858"
+      }
+    ]
+  }
+]

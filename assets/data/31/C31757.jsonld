@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31757",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28174"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Anti-Ballistic_Missile_Treaty"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Anti-Ballistic Missile Treaty"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3031"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3322"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34143"
+      }
+    ]
+  }
+]

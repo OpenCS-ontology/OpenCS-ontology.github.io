@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32265",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25862"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Normal-Wishart_distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Normal-Wishart distribution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31486"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42795"
+      }
+    ]
+  }
+]

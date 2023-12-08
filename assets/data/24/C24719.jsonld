@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24719",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4917"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chipless_RFID"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chipless RFID"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17383"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4917"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23105",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5511"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Line_Impedance_Stabilization_Network"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Line Impedance Stabilization Network"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9718"
+      }
+    ]
+  }
+]

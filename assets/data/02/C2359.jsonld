@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2359",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Trust_boundary"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Trust boundary"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10064"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24915"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32076"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4651"
+      }
+    ]
+  }
+]

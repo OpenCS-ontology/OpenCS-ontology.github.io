@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9932",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Shmoo_plot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Shmoo plot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9054"
+      }
+    ]
+  }
+]

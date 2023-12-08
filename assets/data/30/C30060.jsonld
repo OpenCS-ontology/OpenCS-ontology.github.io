@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30060",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21164"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Colupulone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36056"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39760"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42134",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34818"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36808"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Green's_function_(many-body_theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Green's function (many-body theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24854"
+      }
+    ]
+  }
+]

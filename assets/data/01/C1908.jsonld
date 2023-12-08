@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1908",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Technical_translation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Technical translation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24215"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9607"
+      }
+    ]
+  }
+]

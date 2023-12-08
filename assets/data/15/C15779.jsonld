@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15779",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8704"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/First-come,_first-served"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "First-come, first-served"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26325"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28952"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8704"
+      }
+    ]
+  }
+]

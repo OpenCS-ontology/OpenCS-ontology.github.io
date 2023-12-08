@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8081",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Baseline_(configuration_management)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Baseline (configuration management)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25956"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42946"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9700"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32591",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22625"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/River_channel_migration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "River channel migration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22221"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25363"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28088"
+      }
+    ]
+  }
+]

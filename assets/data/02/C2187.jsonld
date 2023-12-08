@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2187",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Virtual_collaboration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Virtual collaboration"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40504"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C420"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

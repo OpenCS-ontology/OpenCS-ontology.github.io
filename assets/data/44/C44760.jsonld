@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44760",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35577"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Minimum_rank_of_a_graph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Minimum rank of a graph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17717"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30245"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33951"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39719"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43181"
+      }
+    ]
+  }
+]

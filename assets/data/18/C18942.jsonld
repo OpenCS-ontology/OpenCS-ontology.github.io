@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18942",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9646"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Object_slicing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Object slicing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6663"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9046"
+      }
+    ]
+  }
+]

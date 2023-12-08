@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5525",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Predictive_learning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Predictive learning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13677"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17261"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33737"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35604"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7301"
+      }
+    ]
+  }
+]

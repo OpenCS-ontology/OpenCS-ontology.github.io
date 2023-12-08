@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34167",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21288"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24353"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Kochanski_multiplication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kochanski multiplication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39419"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42494"
+      }
+    ]
+  }
+]

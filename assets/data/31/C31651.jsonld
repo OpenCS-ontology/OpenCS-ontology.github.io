@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31651",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28281"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/POLQA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "POLQA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25891"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43829"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45148"
+      }
+    ]
+  }
+]

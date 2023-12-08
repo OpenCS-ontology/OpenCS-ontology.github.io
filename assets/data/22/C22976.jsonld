@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22976",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6998"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Causal_loop_diagram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Causal loop diagram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1241"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8452"
+      }
+    ]
+  }
+]

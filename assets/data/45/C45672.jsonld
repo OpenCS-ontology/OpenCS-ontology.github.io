@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45672",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37333"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Uncacheable_speculative_write_combining"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Uncacheable speculative write combining"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C74"
+      }
+    ]
+  }
+]

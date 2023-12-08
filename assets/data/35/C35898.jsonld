@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35898",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23430"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Plateau_de_Bure_Interferometer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Plateau de Bure Interferometer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30765"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42039"
+      }
+    ]
+  }
+]

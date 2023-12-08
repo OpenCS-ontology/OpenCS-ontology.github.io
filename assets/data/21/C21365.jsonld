@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21365",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3894"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Boole's_expansion_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Boole's expansion theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35076"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9450"
+      }
+    ]
+  }
+]

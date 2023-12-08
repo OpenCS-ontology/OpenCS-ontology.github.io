@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24209",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1240"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bicycle_and_motorcycle_dynamics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bicycle and motorcycle dynamics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1240"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8615"
+      }
+    ]
+  }
+]

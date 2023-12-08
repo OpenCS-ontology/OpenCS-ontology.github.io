@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37489",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29214"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/OPC_Historical_Data_Access"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "OPC Historical Data Access"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33249"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4458"
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3129",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Single_source_of_truth"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Single source of truth"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15472"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27200"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34873"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42440"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C688"
+      }
+    ]
+  }
+]

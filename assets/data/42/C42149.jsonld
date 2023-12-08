@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42149",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29902"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Continuous_mapping_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Continuous mapping theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18102"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45547"
+      }
+    ]
+  }
+]

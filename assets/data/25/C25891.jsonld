@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25891",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9596"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/PEAQ"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "PEAQ"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9250"
+      }
+    ]
+  }
+]

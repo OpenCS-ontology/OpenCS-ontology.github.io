@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2619",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Domino_computer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Domino computer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17897"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39850"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8475"
+      }
+    ]
+  }
+]

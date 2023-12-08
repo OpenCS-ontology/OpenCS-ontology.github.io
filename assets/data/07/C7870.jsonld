@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7870",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Guarded_suspension"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Guarded suspension"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5248"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8704"
+      }
+    ]
+  }
+]

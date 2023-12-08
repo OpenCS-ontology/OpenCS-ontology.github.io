@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7926",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Open_Space_Technology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Open Space Technology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9373"
+      }
+    ]
+  }
+]

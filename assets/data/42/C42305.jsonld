@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42305",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34795"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Common_knowledge_(logic)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Common knowledge (logic)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10101"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38919"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45295"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4596"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7503"
+      }
+    ]
+  }
+]

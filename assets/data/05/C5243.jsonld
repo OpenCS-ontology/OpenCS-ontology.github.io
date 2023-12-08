@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5243",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Contingency_theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Contingency theory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4906"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9069"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31326",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25681"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Meta-ontology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Meta-ontology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28677"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7467"
+      }
+    ]
+  }
+]

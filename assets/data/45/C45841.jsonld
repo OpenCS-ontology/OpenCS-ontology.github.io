@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45841",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35808"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Motion_interpolation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Motion interpolation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13679"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3374"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4856"
+      }
+    ]
+  }
+]

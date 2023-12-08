@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2261",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Weak_symbol"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Weak symbol"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13366"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18295"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29426"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38663"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9160"
+      }
+    ]
+  }
+]

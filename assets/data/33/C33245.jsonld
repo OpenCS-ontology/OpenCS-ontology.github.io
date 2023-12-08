@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33245",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22570"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hengzhi_chip"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hengzhi chip"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22742"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38723"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6031"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C74"
+      }
+    ]
+  }
+]

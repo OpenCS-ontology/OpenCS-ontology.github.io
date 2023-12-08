@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28799",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cognitive_semantics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cognitive semantics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8701"
+      }
+    ]
+  }
+]

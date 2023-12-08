@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11693",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sparse_approximation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sparse approximation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21770"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37322"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6943"
+      }
+    ]
+  }
+]

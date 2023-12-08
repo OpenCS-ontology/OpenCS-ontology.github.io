@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10011",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Simulation-based_optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Simulation-based optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20325"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22089"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38436"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C77"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9780"
+      }
+    ]
+  }
+]

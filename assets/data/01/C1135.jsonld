@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1135",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Group_testing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Group testing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6943"
+      }
+    ]
+  }
+]

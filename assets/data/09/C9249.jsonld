@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9249",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/A_priori_probability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "A priori probability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12737"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C852"
+      }
+    ]
+  }
+]

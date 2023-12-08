@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3321",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Technological_revolution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Technological revolution"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9551"
+      }
+    ]
+  }
+]

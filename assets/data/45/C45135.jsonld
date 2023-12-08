@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45135",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32877"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dedekind_eta_function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dedekind eta function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38958"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43605"
+      }
+    ]
+  }
+]

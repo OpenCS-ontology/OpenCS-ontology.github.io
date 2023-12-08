@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2914",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Standard_Test_and_Programming_Language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Standard Test and Programming Language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44969"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9064"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9908"
+      }
+    ]
+  }
+]

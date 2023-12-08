@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14145",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4149"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Negation_normal_form"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Negation normal form"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26788"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41098"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4596"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6497"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9698"
+      }
+    ]
+  }
+]

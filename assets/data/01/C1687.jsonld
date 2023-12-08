@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1687",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Telematic_control_unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Telematic control unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11775"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29868"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5296"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9154"
+      }
+    ]
+  }
+]

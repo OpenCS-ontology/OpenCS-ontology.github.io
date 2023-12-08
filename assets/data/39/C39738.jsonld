@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39738",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34973"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hinge_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hinge theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13541"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41109"
+      }
+    ]
+  }
+]

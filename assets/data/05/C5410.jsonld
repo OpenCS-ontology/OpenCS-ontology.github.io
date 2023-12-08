@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5410",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Variable_data_printing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Variable data printing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9035"
+      }
+    ]
+  }
+]

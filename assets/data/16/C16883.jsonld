@@ -1,0 +1,92 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16883",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7689"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lindley_equation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lindley equation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20842"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25438"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26091"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27599"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34165"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45179"
+      }
+    ]
+  }
+]

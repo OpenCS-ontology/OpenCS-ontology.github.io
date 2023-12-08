@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37500",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26905"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Convolution_random_number_generator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Convolution random number generator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43902"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C795"
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34102",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17470"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Arctopsyche grandis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19498"
+      }
+    ]
+  }
+]

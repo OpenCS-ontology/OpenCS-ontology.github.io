@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29291",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3337"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Fictive_motion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fictive motion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24549"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28799"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32426"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8696"
+      }
+    ]
+  }
+]

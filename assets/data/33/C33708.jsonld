@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33708",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24264"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Marcum_Q-function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Marcum Q-function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39273"
+      }
+    ]
+  }
+]

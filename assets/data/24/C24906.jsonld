@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24906",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11445"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5913"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Aerodrome_mapping_database"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Aerodrome mapping database"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13713"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41224"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42151"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7918"
+      }
+    ]
+  }
+]

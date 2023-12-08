@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33921",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29215"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Java_concurrency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Java concurrency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8204"
+      }
+    ]
+  }
+]

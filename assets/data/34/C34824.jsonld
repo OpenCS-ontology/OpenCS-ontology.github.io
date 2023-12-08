@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34824",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27047"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Inhibitor_cystine_knot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Inhibitor cystine knot"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37240"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43976"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8703",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Canonical_S-expressions"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Canonical S-expressions"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44193"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9162"
+      }
+    ]
+  }
+]

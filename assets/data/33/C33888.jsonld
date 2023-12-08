@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33888",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16742"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20811"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Similarity_(network_science)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Similarity (network science)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7658"
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1259",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mean_time_between_outages"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mean time between outages"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9179"
+      }
+    ]
+  }
+]

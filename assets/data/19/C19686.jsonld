@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19686",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7848"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sarrus_linkage"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sarrus linkage"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7003"
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6600",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Silicon_Photonics_Link"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Silicon Photonics Link"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30033"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9897"
+      }
+    ]
+  }
+]

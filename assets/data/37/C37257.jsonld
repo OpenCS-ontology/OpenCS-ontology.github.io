@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37257",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25681"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/OntoClean"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "OntoClean"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25681"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39954"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45752"
+      }
+    ]
+  }
+]

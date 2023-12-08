@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11038",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bandwidth_guaranteed_polling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bandwidth guaranteed polling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20010"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      }
+    ]
+  }
+]

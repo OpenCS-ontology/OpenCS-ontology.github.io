@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33373",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15067"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24640"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28644"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Media_linguistics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Media linguistics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1299"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2761"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38486"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8187"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9777"
+      }
+    ]
+  }
+]

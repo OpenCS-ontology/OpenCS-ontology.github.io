@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28344",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6537"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8944"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/LP-type_problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "LP-type problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15480"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2425"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35890"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8944"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31846",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29390"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Symbrion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Symbrion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7513"
+      }
+    ]
+  }
+]

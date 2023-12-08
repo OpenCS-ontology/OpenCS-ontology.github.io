@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18702",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10516"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Persian_vocabulary"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Persian vocabulary"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10516"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2900"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41427"
+      }
+    ]
+  }
+]

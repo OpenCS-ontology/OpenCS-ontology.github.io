@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40723",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35429"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/SeaChanger_Color_Engine"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "SeaChanger Color Engine"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13525"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21360"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9482"
+      }
+    ]
+  }
+]

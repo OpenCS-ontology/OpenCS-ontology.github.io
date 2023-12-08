@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38564",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36115"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/X_Band_Satellite_Communication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "X Band Satellite Communication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3068"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36895"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45299"
+      }
+    ]
+  }
+]

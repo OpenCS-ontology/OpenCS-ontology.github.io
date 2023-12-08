@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14128",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C263"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Customerization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Customerization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3836"
+      }
+    ]
+  }
+]

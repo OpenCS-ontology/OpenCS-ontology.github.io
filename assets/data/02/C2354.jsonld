@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2354",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Fault_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fault model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3177"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32360"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6534"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36580",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28430"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Voltage-gated_proton_channel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Voltage-gated proton channel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37240"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43643"
+      }
+    ]
+  }
+]

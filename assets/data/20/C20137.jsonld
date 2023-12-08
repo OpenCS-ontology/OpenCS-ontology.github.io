@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20137",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6420"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9122"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Farnsworth-Munsell_100_hue_test"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Farnsworth-Munsell 100 hue test"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5469"
+      }
+    ]
+  }
+]

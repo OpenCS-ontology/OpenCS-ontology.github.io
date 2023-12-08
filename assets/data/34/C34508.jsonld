@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34508",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29390"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/NeuroArm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "NeuroArm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42136"
+      }
+    ]
+  }
+]

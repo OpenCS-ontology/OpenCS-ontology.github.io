@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2010",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Belief_revision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Belief revision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19908"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38919"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ]
+  }
+]

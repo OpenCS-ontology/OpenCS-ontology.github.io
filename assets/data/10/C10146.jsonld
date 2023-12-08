@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10146",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rosenbrock_function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rosenbrock function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22089"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C753"
+      }
+    ]
+  }
+]

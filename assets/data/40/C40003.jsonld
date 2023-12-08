@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40003",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36632"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Modular_Neutron_Array"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Modular Neutron Array"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34360"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34797"
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33056",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17470"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Plectrocnemia"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36644"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44430"
+      }
+    ]
+  }
+]

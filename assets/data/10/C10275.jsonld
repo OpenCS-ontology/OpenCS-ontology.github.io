@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10275",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multispectral_image"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multispectral image"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6760"
+      }
+    ]
+  }
+]

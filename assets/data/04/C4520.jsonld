@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4520",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dynamic_decision-making"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dynamic decision-making"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5295"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9373"
+      }
+    ]
+  }
+]

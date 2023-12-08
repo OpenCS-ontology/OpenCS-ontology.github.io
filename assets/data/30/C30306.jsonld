@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30306",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26034"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Aeronautical_Operational_Control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Aeronautical Operational Control"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10919"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12828"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33387"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8169"
+      }
+    ]
+  }
+]

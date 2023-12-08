@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29910",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22542"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Common_envelope"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Common envelope"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19549"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29212"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31488"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34893"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

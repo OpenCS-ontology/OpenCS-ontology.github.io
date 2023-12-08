@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33580",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23164"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Spherical_contact_distribution_function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spherical contact distribution function"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26839"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42236"
+      }
+    ]
+  }
+]

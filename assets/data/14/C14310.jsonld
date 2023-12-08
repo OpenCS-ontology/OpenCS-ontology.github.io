@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14310",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2579"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Belief–desire–intention_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Belief–desire–intention model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C852"
+      }
+    ]
+  }
+]

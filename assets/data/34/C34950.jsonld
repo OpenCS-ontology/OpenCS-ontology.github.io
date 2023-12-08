@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34950",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24558"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/1-bit_DAC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "1-bit DAC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26575"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27649"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6791"
+      }
+    ]
+  }
+]

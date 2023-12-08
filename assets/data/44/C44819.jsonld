@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44819",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33703"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Calcium-dependent potassium channels"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37782"
+      }
+    ]
+  }
+]

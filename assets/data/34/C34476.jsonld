@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34476",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26034"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Single_European_Sky"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Single European Sky"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16071"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18996"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4597"
+      }
+    ]
+  }
+]

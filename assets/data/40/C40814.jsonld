@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40814",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37370"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Component_business_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Component business model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40481"
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40235",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37333"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/S3_Texture_Compression"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "S3 Texture Compression"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7571"
+      }
+    ]
+  }
+]

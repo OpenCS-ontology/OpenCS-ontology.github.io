@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30969",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24489"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Agrilus_biguttatus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Agrilus biguttatus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28294"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31901"
+      }
+    ]
+  }
+]

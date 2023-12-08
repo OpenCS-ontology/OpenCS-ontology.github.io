@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10333",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hydraulic_telegraph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hydraulic telegraph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16547"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6365"
+      }
+    ]
+  }
+]

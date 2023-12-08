@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11486",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wire_transfer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wire transfer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26112"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26838"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33193"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7458"
+      }
+    ]
+  }
+]

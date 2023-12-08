@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3140",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Emergent_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Emergent algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20846"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8754"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9373"
+      }
+    ]
+  }
+]

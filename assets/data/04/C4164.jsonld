@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4164",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Open_content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Open content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27996"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29969"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32616"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

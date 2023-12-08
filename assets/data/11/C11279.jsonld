@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11279",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Active_object"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Active object"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39383"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41770"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7870"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8704"
+      }
+    ]
+  }
+]

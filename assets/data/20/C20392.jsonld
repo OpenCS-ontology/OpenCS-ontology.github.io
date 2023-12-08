@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20392",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7603"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Modes_(Unix)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Modes"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19902"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8457"
+      }
+    ]
+  }
+]

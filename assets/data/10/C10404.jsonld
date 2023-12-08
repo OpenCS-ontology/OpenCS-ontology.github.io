@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10404",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pedestrian_safety_through_vehicle_design"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pedestrian safety through vehicle design"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16679"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5973"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C918",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/APRS_Calling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "APRS Calling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14649"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9333"
+      }
+    ]
+  }
+]

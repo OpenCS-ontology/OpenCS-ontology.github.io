@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40918",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30438"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31890"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32390"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Non-functional_testing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Non-functional testing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13616"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18415"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44902"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8895"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C924"
+      }
+    ]
+  }
+]

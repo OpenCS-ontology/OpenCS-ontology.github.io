@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45133",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35806"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hilbert's_twelfth_problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hilbert's twelfth problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44869"
+      }
+    ]
+  }
+]

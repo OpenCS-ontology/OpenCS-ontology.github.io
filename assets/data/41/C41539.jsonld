@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41539",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35809"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Machmeter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Machmeter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15071"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22629"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8888"
+      }
+    ]
+  }
+]

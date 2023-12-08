@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9497",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Maritime_domain_awareness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Maritime domain awareness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4284"
+      }
+    ]
+  }
+]

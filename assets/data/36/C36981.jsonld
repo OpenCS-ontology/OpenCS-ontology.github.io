@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36981",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22309"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lateral_sural_cutaneous_nerve"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lateral sural cutaneous nerve"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14226"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31118"
+      }
+    ]
+  }
+]

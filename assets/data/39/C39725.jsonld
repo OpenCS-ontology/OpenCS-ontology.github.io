@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39725",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37008"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Low_(complexity)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Low"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25360"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33982"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37845"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38374"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9639"
+      }
+    ]
+  }
+]

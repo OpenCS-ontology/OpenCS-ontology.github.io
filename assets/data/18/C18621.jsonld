@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18621",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8753"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Oblivious_transfer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Oblivious transfer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7506"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9449"
+      }
+    ]
+  }
+]

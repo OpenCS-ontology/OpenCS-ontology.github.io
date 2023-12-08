@@ -1,0 +1,33 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28824",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3337"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fearful expression"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2419"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C78"
+      }
+    ]
+  }
+]

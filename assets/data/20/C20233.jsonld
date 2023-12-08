@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20233",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5717"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Emotional_prosody"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Emotional prosody"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15475"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7858"
+      }
+    ]
+  }
+]

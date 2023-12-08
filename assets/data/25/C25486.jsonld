@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25486",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13750"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Spectral_atlas"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spectral atlas"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14224"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

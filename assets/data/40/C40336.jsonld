@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40336",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36126"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Turán_number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Turán number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15732"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36770"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40694"
+      }
+    ]
+  }
+]

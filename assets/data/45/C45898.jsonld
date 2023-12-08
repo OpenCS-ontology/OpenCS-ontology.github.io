@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45898",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32649"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Constraint functional logic programming"
+      }
+    ]
+  }
+]

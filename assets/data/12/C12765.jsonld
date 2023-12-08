@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12765",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bangdiwala's_B"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bangdiwala's B"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1562"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37544"
+      }
+    ]
+  }
+]

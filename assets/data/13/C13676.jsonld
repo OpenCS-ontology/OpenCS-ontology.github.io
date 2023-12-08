@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13676",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Incompressible_string"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Incompressible string"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41438"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8788"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9269"
+      }
+    ]
+  }
+]

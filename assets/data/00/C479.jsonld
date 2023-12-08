@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C479",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bus_Pirate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bus Pirate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20442"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3357"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5995"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9717"
+      }
+    ]
+  }
+]

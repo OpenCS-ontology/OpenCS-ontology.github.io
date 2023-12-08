@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44600",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29902"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36809"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wald's_equation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wald's equation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20228"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26013"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40562"
+      }
+    ]
+  }
+]

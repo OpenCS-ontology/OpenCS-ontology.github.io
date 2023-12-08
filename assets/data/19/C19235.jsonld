@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19235",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13593"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lasius_alienus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lasius alienus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30017"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34823"
+      }
+    ]
+  }
+]

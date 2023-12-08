@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42100",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34662"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/DNS_spoofing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "DNS spoofing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44017"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23142",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Stream_gradient"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Stream gradient"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22221"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5708"
+      }
+    ]
+  }
+]

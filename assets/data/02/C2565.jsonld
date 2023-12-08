@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2565",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Unexpected_hanging_paradox"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Unexpected hanging paradox"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10739"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8041"
+      }
+    ]
+  }
+]

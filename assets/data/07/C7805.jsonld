@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7805",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Tapeless_production"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tapeless production"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9244"
+      }
+    ]
+  }
+]

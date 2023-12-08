@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2001",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/DigiD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "DigiD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44289"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8357"
+      }
+    ]
+  }
+]

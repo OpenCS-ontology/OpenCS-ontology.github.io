@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34388",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19674"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Riskware"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Riskware"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27497"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41068"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7408"
+      }
+    ]
+  }
+]

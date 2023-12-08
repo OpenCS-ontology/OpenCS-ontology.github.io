@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10410",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/MindModeling@Home"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "MindModeling@Home"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12475"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27098"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30525"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9091"
+      }
+    ]
+  }
+]

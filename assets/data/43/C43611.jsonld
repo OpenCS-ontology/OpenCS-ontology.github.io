@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43611",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37073"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Intra-flow_interference"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Intra-flow interference"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37925"
+      }
+    ]
+  }
+]

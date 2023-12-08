@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10516",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Persian_language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Persian"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5062"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8306",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Internet_Low_Bitrate_Codec"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Internet Low Bitrate Codec"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34719"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6081"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8515"
+      }
+    ]
+  }
+]

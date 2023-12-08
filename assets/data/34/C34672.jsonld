@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34672",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23210"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mass_segregation_(astronomy)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mass segregation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25028"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29212"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32295"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37041"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

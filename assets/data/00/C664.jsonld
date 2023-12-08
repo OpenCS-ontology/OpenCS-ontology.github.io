@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C664",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/2D_to_3D_conversion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "2D to 3D conversion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13549"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7910"
+      }
+    ]
+  }
+]

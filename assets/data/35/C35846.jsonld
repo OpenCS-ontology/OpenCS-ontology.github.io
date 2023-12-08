@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35846",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24236"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Clarias"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Clarias"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43354"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44812"
+      }
+    ]
+  }
+]

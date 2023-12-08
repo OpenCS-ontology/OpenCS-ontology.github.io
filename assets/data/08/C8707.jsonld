@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8707",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Soft_sensor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Soft sensor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3900"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9373"
+      }
+    ]
+  }
+]

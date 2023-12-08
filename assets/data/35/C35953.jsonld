@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35953",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20120"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Peptide_computing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Peptide computing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20846"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31629"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6776"
+      }
+    ]
+  }
+]

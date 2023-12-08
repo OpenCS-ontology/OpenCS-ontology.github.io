@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22276",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3837"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6147"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Barycentric-sum_problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Barycentric-sum problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8789"
+      }
+    ]
+  }
+]

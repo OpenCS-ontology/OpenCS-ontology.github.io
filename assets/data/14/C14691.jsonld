@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14691",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3452"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Advanced_Telecommunications_Computing_Architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Advanced Telecommunications Computing Architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9426"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9642"
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19051",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2300"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Loudness_monitoring"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Loudness monitoring"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11636"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1959"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5139"
+      }
+    ]
+  }
+]

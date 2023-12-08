@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37101",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18138"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Potassium_channel_opener"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Potassium channel opener"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36355"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36482"
+      }
+    ]
+  }
+]

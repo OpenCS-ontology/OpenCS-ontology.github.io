@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42622",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34660"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Singly_rooted_hierarchy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Singly rooted hierarchy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5308"
+      }
+    ]
+  }
+]

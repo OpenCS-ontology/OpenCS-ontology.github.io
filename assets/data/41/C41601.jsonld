@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41601",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35996"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36112"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37685"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Stern–Brocot_tree"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Stern–Brocot tree"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6697"
+      }
+    ]
+  }
+]

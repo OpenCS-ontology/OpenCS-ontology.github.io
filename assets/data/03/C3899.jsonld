@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3899",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/HIPO_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "HIPO model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2664"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37831"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41897"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7426"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8387"
+      }
+    ]
+  }
+]

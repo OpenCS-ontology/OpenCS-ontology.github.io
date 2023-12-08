@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5566",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Machine_epsilon"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Machine epsilon"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23841"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28063"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C765"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9743"
+      }
+    ]
+  }
+]

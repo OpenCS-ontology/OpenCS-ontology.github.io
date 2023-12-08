@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43261",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31237"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37267"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fuzzy knowledge representation"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27781",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5007"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Total_system_power"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Total system power"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9481"
+      }
+    ]
+  }
+]

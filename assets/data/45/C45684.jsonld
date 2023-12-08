@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45684",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33274"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Goodman_and_Kruskal's_lambda"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Goodman and Kruskal's lambda"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26643"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5637"
+      }
+    ]
+  }
+]

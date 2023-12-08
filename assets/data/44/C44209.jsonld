@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44209",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30476"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/WIPO_Performances_and_Phonograms_Treaty"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "WIPO Performances and Phonograms Treaty"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41273"
+      }
+    ]
+  }
+]

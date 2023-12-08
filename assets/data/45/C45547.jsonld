@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45547",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36809"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Big_O_in_probability_notation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Big O in probability notation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44131"
+      }
+    ]
+  }
+]

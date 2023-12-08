@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2123",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/SQL_Server_Management_Objects"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "SQL Server Management Objects"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12403"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12818"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16161"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42976"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5685"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7017"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C799"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9715"
+      }
+    ]
+  }
+]

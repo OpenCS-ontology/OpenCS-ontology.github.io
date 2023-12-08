@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7732",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pose_(computer_vision)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pose"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27770"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C948"
+      }
+    ]
+  }
+]

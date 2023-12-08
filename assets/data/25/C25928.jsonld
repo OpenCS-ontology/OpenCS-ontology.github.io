@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25928",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3892"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4597"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Minimum_safe_altitude_warning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Minimum safe altitude warning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32221"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37719"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4597"
+      }
+    ]
+  }
+]

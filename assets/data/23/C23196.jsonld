@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23196",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2975"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Low_Voltage_Directive"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Low Voltage Directive"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5878"
+      }
+    ]
+  }
+]

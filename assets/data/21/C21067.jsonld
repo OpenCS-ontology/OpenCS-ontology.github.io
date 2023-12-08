@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21067",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7060"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ambidextrous_organization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ambidextrous organization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2717"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9328"
+      }
+    ]
+  }
+]

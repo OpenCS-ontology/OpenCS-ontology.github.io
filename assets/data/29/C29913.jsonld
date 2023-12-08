@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29913",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17245"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/VisualRank"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "VisualRank"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9312"
+      }
+    ]
+  }
+]

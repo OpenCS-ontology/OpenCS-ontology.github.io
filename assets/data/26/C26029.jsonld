@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26029",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12427"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Stochastic_Petri_net"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Stochastic Petri net"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15549"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17831"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27278"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7689"
+      }
+    ]
+  }
+]

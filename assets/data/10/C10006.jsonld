@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10006",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Enhanced_RADAR_positioning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Enhanced RADAR positioning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4996"
+      }
+    ]
+  }
+]

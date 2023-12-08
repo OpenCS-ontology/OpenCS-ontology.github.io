@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6646",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Art_&_Architecture_Thesaurus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Art & Architecture Thesaurus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6915"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9892"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9893"
+      }
+    ]
+  }
+]

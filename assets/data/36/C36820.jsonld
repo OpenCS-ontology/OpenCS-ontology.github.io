@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36820",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15480"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Unique_sink_orientation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Unique sink orientation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15480"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33472"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8944"
+      }
+    ]
+  }
+]

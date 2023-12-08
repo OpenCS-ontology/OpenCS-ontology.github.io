@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19003",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8172"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sensor_grid"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sensor grid"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39371"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44892"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

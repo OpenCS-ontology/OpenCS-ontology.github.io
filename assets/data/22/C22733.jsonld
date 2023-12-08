@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22733",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6124"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Integral_symbol"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Integral symbol"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44486"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5126"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35239",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28080"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Agent-oriented_software_engineering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Agent-oriented software engineering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12657"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14329"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41908"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8751"
+      }
+    ]
+  }
+]

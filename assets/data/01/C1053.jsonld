@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1053",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Forward_echo"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Forward echo"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33899"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6913"
+      }
+    ]
+  }
+]

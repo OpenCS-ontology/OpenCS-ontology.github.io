@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40757",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34821"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Interpolation_(computer_graphics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interpolation (computer graphics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45272"
+      }
+    ]
+  }
+]

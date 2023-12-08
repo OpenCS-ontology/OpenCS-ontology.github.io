@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19362",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Channel_blocker"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Channel blocker"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36355"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37101"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37784"
+      }
+    ]
+  }
+]

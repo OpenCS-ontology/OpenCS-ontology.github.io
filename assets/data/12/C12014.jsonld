@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12014",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Shannon–Fano–Elias_coding"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Shannon–Fano–Elias coding"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9268"
+      }
+    ]
+  }
+]

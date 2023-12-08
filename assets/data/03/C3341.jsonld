@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3341",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Optical_flow"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Optical flow"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9603"
+      }
+    ]
+  }
+]

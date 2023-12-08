@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22312",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3401"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Marked_graph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Marked graph"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17831"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4938"
+      }
+    ]
+  }
+]

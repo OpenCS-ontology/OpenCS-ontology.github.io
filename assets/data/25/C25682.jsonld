@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25682",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8017"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Combinatorics_on_words"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Combinatorics on words"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19183"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C524"
+      }
+    ]
+  }
+]

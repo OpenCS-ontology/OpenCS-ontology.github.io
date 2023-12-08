@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17668",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3118"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Single_event_upset"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Single event upset"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17601"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39218"
+      }
+    ]
+  }
+]

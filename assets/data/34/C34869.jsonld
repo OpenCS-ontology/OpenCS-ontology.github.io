@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34869",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15193"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18278"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28055"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Team_learning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Team learning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3343"
+      }
+    ]
+  }
+]

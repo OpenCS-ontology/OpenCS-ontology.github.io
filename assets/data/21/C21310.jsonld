@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21310",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8946"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cicindela"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cicindela"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27345"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35782"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37142"
+      }
+    ]
+  }
+]

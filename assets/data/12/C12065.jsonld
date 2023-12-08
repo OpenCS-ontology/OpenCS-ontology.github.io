@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12065",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Feature_interaction_problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Feature interaction problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1035"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28454"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35739"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C947"
+      }
+    ]
+  }
+]

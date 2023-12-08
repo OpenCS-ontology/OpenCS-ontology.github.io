@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3407",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Virtual_research_environment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Virtual research environment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2187"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8869"
+      }
+    ]
+  }
+]

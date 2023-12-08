@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3067",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Media_literacy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Media literacy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3119"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4438"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

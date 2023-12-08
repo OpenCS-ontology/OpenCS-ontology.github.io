@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26636",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11445"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Runway_visual_range"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Runway visual range"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11445"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5030"
+      }
+    ]
+  }
+]

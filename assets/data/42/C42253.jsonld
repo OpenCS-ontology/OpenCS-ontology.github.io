@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42253",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32982"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Misiurewicz_point"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Misiurewicz point"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32982"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5867"
+      }
+    ]
+  }
+]

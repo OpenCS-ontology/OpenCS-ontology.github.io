@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23962",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3740"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Discrete_tomography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Discrete tomography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C751"
+      }
+    ]
+  }
+]

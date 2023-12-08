@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31458",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23865"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Monte_Carlo_method_in_statistical_physics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Monte Carlo method in statistical physics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33242"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38763"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8516"
+      }
+    ]
+  }
+]

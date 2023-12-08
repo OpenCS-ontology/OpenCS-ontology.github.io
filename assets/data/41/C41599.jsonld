@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41599",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30593"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31754"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/External_Bus_Interface"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "External Bus Interface"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12640"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20178"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31754"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39623"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43497"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7007"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C74"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9262"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43725",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31363"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Memory-level_parallelism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Memory-level parallelism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39623"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8180"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9487"
+      }
+    ]
+  }
+]

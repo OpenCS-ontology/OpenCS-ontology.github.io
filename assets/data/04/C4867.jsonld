@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4867",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Delaunay_triangulation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Delaunay triangulation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13876"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32922"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6289"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8271"
+      }
+    ]
+  }
+]

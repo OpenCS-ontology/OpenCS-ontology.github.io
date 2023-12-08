@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41394",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34821"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Nearest-neighbor_interpolation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Nearest-neighbor interpolation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16151"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44445"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8781"
+      }
+    ]
+  }
+]

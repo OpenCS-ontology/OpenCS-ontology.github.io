@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42630",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34821"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Trilinear_interpolation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Trilinear interpolation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39605"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44445"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8781"
+      }
+    ]
+  }
+]

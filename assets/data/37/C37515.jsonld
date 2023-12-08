@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37515",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16053"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Language_acquisition_device"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Language acquisition device"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15845"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32426"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5556"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7679",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Tupper's_self-referential_formula"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tupper's self-referential formula"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5561"
+      }
+    ]
+  }
+]

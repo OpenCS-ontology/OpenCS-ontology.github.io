@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41267",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37234"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Computing_with_Memory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Computing with Memory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8518"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16105",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C746"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Root-raised-cosine_filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Root-raised-cosine filter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34056"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36076"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5769"
+      }
+    ]
+  }
+]

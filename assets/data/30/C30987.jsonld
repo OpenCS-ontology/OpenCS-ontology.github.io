@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30987",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14410"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/AP_Chinese_Language_and_Culture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "AP Chinese Language and Culture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43583"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9855"
+      }
+    ]
+  }
+]

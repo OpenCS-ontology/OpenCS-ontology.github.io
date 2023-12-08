@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5242",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Eight_queens_puzzle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Eight queens puzzle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6752"
+      }
+    ]
+  }
+]

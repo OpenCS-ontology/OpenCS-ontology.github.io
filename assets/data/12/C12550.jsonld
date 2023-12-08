@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12550",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/GeoSMS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "GeoSMS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22546"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37303"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7918"
+      }
+    ]
+  }
+]

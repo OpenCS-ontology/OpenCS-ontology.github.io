@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2089",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Gödel_(programming_language)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Gödel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21436"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39956"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8751"
+      }
+    ]
+  }
+]

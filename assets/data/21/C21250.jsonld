@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21250",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11886"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Live,_virtual,_and_constructive"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Live, virtual, and constructive"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26303"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5296"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6864"
+      }
+    ]
+  }
+]

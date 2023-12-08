@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31869",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22407"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Packet_loss_concealment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Packet loss concealment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11969"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37893"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8515"
+      }
+    ]
+  }
+]

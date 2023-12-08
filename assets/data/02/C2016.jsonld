@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2016",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Light_table"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Light table"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3285"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9451"
+      }
+    ]
+  }
+]

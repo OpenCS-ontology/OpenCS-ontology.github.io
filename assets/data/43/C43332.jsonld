@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43332",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37443"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Uml metamodel"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45745",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36840"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Random_walk_closeness_centrality"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Random walk closeness centrality"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27831"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7810"
+      }
+    ]
+  }
+]

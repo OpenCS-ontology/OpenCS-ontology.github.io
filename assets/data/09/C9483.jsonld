@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9483",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Critical_path_method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Critical path method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25147"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7056"
+      }
+    ]
+  }
+]

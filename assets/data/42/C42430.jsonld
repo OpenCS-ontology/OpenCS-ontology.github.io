@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42430",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37234"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/TreadMarks"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "TreadMarks"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19876"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40330"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9486"
+      }
+    ]
+  }
+]

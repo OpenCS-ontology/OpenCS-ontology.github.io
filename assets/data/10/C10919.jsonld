@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10919",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Aircraft_Communications_Addressing_and_Reporting_System"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Aircraft Communications Addressing and Reporting System"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12828"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18537"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6117"
+      }
+    ]
+  }
+]

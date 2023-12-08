@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20636",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8438"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hazard_and_operability_study"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hazard and operability study"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42151"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8562"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9745"
+      }
+    ]
+  }
+]

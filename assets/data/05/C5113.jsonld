@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5113",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Underline"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Underline"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9606"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C988"
+      }
+    ]
+  }
+]

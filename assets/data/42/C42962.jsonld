@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42962",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33043"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Transiogram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Transiogram"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14922"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39922"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7689"
+      }
+    ]
+  }
+]

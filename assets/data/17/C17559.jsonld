@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17559",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11701"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Engineering_optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Engineering optimization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3839"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8435"
+      }
+    ]
+  }
+]

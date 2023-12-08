@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14135",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6754"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sweep_account"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sweep account"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27523"
+      }
+    ]
+  }
+]

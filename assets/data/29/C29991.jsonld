@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29991",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24236"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Siluridae"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Siluridae"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31228"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35241"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36292"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39793"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40178"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43257"
+      }
+    ]
+  }
+]

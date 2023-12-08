@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5697",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mathematical_chess_problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mathematical chess problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5242"
+      }
+    ]
+  }
+]

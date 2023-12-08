@@ -1,0 +1,33 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24620",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2197"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Freshwater leech"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33195"
+      }
+    ]
+  }
+]

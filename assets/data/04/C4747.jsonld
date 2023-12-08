@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4747",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Redland_RDF_Application_Framework"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Redland RDF Application Framework"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7552"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9836"
+      }
+    ]
+  }
+]

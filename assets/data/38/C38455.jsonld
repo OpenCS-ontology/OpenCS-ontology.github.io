@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38455",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30602"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Monotone_convergence_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Monotone convergence theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26013"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40292"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40562"
+      }
+    ]
+  }
+]

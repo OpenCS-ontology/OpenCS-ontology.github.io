@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4781",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Contextual_Query_Language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Contextual Query Language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9041"
+      }
+    ]
+  }
+]

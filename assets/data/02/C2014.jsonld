@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2014",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Process_state"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Process state"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13060"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23926"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41970"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9262"
+      }
+    ]
+  }
+]

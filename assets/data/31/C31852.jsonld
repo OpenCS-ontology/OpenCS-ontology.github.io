@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31852",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14264"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Scorpion_toxin"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Scorpion toxin"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41081"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42913"
+      }
+    ]
+  }
+]

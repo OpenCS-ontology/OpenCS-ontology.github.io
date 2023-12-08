@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3739",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Simulation_language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Simulation language"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C226"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26535"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36010"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7256"
+      }
+    ]
+  }
+]

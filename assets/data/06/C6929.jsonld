@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6929",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Single-loss_expectancy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Single-loss expectancy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22064"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5660"
+      }
+    ]
+  }
+]

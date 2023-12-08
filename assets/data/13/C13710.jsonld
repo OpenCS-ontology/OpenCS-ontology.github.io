@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13710",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mediated_communication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mediated communication"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5984"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6757"
+      }
+    ]
+  }
+]

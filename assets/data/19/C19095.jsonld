@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19095",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11767"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Mixed-design_analysis_of_variance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mixed-design analysis of variance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12371"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26017"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29226"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3075"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C82"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8694"
+      }
+    ]
+  }
+]

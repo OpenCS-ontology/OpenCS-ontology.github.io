@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21875",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Channel_conflict"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Channel conflict"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15779"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5580"
+      }
+    ]
+  }
+]

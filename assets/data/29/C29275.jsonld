@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29275",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5862"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Undeciphered_writing_systems"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Undeciphered writing systems"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18940"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5862"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33256",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18096"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Leaky_wave_antenna"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Leaky wave antenna"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7909"
+      }
+    ]
+  }
+]

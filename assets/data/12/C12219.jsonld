@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12219",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Social_shaping_of_technology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Social shaping of technology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22708"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C858"
+      }
+    ]
+  }
+]

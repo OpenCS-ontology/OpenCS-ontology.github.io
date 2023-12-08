@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36717",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Asteroid_capture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Asteroid capture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15452"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15835"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45459"
+      }
+    ]
+  }
+]

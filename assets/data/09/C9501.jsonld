@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9501",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Direction_cosine"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Direction cosine"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14325"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5969"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16765",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6634"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Situational_code-switching"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Situational code-switching"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14477"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6634"
+      }
+    ]
+  }
+]

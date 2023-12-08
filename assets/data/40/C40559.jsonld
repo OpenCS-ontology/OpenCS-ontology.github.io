@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40559",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30033"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36894"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Intel_Hub_Architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Intel Hub Architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C74"
+      }
+    ]
+  }
+]

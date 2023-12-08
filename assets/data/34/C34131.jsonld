@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34131",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Robocrane"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Robocrane"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11593"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22684"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41360"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41527"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8759"
+      }
+    ]
+  }
+]

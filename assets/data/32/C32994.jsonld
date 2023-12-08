@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32994",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26524"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Rossiter–McLaughlin_effect"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Rossiter–McLaughlin effect"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34228"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      }
+    ]
+  }
+]

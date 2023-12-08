@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41975",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31033"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37170"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Deviance_(statistics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Deviance (statistics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21361"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7908"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8456"
+      }
+    ]
+  }
+]

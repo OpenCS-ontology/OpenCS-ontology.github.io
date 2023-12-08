@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C357",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Robotics_suite"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Robotics suite"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29969"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36290"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7256"
+      }
+    ]
+  }
+]

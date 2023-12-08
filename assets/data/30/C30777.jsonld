@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30777",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23927"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Measure_of_non-compactness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Measure of non-compactness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39433"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42981"
+      }
+    ]
+  }
+]

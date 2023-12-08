@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9773",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Temporal_database"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Temporal database"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38452"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44596"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6795"
+      }
+    ]
+  }
+]

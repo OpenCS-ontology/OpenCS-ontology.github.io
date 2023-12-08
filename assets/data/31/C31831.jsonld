@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31831",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18587"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Simplified_Technical_English"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Simplified Technical English"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2472"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9216"
+      }
+    ]
+  }
+]

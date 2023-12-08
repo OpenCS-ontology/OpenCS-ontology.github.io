@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16001",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Application oriented networking"
+      }
+    ]
+  }
+]

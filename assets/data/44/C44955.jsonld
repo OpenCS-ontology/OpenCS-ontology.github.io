@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44955",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37073"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Geographic forwarding"
+      }
+    ]
+  }
+]

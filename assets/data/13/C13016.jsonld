@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13016",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "S-Bus"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22845"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8733"
+      }
+    ]
+  }
+]

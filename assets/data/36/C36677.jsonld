@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36677",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27418"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Domain_generation_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Domain generation algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9369"
+      }
+    ]
+  }
+]

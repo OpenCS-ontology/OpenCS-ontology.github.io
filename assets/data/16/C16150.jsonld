@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16150",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5145"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Longest_increasing_subsequence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Longest increasing subsequence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13880"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14079"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43933"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C77"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ]
+  }
+]

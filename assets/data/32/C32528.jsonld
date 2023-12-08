@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32528",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Near_3_kpc_Arm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Near 3 kpc Arm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18299"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33081"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37041"
+      }
+    ]
+  }
+]

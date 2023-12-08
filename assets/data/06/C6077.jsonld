@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6077",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Design_knowledge"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Design knowledge"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16604"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28591"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37478"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39366"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41897"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5782"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8712"
+      }
+    ]
+  }
+]

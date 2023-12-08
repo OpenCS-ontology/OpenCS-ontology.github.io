@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8887",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Artificial_creation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Artificial creation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20846"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34870"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C90"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9373"
+      }
+    ]
+  }
+]

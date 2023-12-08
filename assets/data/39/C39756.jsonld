@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39756",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33683"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Callichthys_callichthys"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Callichthys callichthys"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42984"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44612"
+      }
+    ]
+  }
+]

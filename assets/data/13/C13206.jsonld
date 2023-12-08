@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13206",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Happened-before"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Happened-before"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8204"
+      }
+    ]
+  }
+]

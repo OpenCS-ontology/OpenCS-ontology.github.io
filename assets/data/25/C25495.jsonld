@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25495",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6028"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Felicity_conditions"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Felicity conditions"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6028"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7467"
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39346",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36950"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Carpiodes carpio"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43366"
+      }
+    ]
+  }
+]

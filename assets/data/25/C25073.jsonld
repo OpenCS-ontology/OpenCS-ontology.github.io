@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25073",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6448"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Spectral_rendering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spectral rendering"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30435"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42719"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7359"
+      }
+    ]
+  }
+]

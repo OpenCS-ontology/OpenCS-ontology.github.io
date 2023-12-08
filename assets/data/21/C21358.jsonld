@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21358",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9026"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/World_clock"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "World clock"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9026"
+      }
+    ]
+  }
+]

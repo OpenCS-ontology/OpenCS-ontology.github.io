@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43523",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32349"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33893"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36144"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sieve_(category_theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sieve (category theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5239"
+      }
+    ]
+  }
+]

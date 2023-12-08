@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28939",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13058"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7312"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/SINCGARS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "SINCGARS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7216"
+      }
+    ]
+  }
+]

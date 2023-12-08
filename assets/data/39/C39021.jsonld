@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39021",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37367"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multiprocessor_scheduling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multiprocessor scheduling"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23872"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28075"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33435"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38119"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7988"
+      }
+    ]
+  }
+]

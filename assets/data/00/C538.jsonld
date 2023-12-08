@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C538",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Long-exposure_photography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Long-exposure photography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26899"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2895"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3374"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8746"
+      }
+    ]
+  }
+]

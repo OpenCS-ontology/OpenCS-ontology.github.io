@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37147",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23927"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Analytic_semigroup"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Analytic semigroup"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40761"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44846"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45725"
+      }
+    ]
+  }
+]

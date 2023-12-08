@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40824",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34258"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Path-based_strong_component_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Path-based strong component algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17717"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34708"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39982"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44926"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45671"
+      }
+    ]
+  }
+]

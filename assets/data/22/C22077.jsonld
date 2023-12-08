@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22077",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C794"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Associative_containers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Associative containers"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33250"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8864"
+      }
+    ]
+  }
+]

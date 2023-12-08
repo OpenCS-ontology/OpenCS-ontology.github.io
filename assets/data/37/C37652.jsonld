@@ -1,0 +1,38 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37652",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20263"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multiple-classification_ripple-down_rules"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multiple-classification ripple-down rules"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7652"
+      }
+    ]
+  }
+]

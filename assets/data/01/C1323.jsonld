@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1323",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/HOOD_method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "HOOD method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21419"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29679"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39303"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5681"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6714"
+      }
+    ]
+  }
+]

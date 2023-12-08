@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38789",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36279"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Balinski's_theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Balinski's theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35958"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39982"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44460"
+      }
+    ]
+  }
+]

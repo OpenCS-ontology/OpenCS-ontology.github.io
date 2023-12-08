@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9108",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hardiman"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hardiman"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37010"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37695"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6000"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6707",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Serial_Bus_Protocol_2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Serial Bus Protocol 2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11960"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9426"
+      }
+    ]
+  }
+]

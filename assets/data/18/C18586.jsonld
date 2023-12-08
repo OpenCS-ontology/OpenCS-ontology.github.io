@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18586",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8440"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Memory_corruption"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Memory corruption"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23580"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31068"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8783"
+      }
+    ]
+  }
+]

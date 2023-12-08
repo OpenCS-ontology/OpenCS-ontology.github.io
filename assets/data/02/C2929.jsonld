@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2929",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/.NET_Remoting"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": ".NET Remoting"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12439"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38945"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9033"
+      }
+    ]
+  }
+]

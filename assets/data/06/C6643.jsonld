@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6643",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Magnetic_Tower_of_Hanoi"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Magnetic Tower of Hanoi"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17261"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5242"
+      }
+    ]
+  }
+]

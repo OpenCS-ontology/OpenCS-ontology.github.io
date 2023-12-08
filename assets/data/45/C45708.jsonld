@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45708",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34789"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multilevel_feedback_queue"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multilevel feedback queue"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17723"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8704"
+      }
+    ]
+  }
+]

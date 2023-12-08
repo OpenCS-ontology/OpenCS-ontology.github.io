@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19177",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8517"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Newton's_method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Newton's method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18362"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5201"
+      }
+    ]
+  }
+]

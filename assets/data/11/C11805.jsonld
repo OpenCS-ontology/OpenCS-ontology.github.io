@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11805",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Apple_Video"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Apple Video"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32876"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43649"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6942"
+      }
+    ]
+  }
+]

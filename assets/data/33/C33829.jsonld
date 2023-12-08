@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33829",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20403"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Nonlinear_complementarity_problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Nonlinear complementarity problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20403"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33604"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8435"
+      }
+    ]
+  }
+]

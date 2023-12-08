@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39370",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30919"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Gauss's_lemma_(number_theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Gauss's lemma (number theory)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9449"
+      }
+    ]
+  }
+]

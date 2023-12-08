@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44934",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30725"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ordered_vector_space"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ordered vector space"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33102"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C608"
+      }
+    ]
+  }
+]

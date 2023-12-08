@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7021",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Classifier_(linguistics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Classifier (linguistics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1952"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23681"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24893"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29296"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8454"
+      }
+    ]
+  }
+]

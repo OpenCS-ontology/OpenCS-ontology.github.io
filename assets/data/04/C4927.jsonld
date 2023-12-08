@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4927",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Viable_systems_approach"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Viable systems approach"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C964"
+      }
+    ]
+  }
+]

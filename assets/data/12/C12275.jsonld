@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12275",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Combinatorial_method_(linguistics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Combinatorial method"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37545"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38486"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7501"
+      }
+    ]
+  }
+]

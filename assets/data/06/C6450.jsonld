@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6450",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/TCO_Certification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "TCO Certification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31249"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9234"
+      }
+    ]
+  }
+]

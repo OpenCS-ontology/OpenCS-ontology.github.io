@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1487",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pocklington's_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pocklington's algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2212"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41361"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6550"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9449"
+      }
+    ]
+  }
+]

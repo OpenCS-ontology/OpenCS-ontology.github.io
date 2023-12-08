@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14697",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C660"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Aircraft_vectoring"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Aircraft vectoring"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25295"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30562"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9258"
+      }
+    ]
+  }
+]

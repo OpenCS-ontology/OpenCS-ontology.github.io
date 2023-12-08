@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6247",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Letter_frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Letter frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14539"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16547"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17900"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1842"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43436"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6068"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C936"
+      }
+    ]
+  }
+]

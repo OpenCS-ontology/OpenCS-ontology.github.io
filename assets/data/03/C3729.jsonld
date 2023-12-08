@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3729",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Circular_dependency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Circular dependency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6941"
+      }
+    ]
+  }
+]

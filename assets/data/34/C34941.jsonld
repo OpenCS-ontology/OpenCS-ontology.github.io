@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34941",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14226"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Epineurial_repair"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Epineurial repair"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33836"
+      }
+    ]
+  }
+]

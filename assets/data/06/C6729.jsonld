@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6729",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Meertens_number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Meertens number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42091"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9313"
+      }
+    ]
+  }
+]

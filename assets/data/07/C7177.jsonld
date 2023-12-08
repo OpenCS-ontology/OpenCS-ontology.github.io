@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7177",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/SpiNNaker"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "SpiNNaker"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17828"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18982"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26900"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27322"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      }
+    ]
+  }
+]

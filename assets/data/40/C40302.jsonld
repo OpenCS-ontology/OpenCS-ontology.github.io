@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40302",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36536"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Housekeeping_(computing)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Housekeeping (computing)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25031"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3792"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7966"
+      }
+    ]
+  }
+]

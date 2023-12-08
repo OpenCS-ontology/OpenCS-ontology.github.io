@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37190",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24558"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ergodic channel capacity"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37268",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18138"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Apamin"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Apamin"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42913"
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44010",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34660"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Programming languages curriculum"
+      }
+    ]
+  }
+]

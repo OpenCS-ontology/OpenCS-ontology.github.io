@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9090",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Facility_location_problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Facility location problem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3837"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8944"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41987",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36729"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Data_mapper_pattern"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data mapper pattern"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31841"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3850"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7395"
+      }
+    ]
+  }
+]

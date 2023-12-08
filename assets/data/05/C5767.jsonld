@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5767",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Interaction_information"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interaction information"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8332"
+      }
+    ]
+  }
+]

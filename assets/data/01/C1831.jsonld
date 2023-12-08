@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1831",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/PARAM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "PARAM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2478"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40330"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7735"
+      }
+    ]
+  }
+]

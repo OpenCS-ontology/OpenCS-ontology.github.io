@@ -1,0 +1,86 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2122",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Selection_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Selection algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16028"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19640"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26777"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32507"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36120"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40148"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      }
+    ]
+  }
+]

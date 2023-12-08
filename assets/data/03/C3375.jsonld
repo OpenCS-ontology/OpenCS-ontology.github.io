@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3375",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Three-valued_logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Three-valued logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3894"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5714"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8077"
+      }
+    ]
+  }
+]

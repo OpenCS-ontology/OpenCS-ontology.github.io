@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C12485",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Cyclic_redundancy_check"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cyclic redundancy check"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15591"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33935"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9931"
+      }
+    ]
+  }
+]

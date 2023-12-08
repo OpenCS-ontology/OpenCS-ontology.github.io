@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35821",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19542"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Jordan–Wigner_transformation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Jordan–Wigner transformation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42134"
+      }
+    ]
+  }
+]

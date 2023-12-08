@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33800",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14322"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26690"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Adjusted_mutual_information"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Adjusted mutual information"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14322"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43296"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9268"
+      }
+    ]
+  }
+]

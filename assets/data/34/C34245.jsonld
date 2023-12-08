@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34245",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29366"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Additive white gaussian channel"
+      }
+    ]
+  }
+]

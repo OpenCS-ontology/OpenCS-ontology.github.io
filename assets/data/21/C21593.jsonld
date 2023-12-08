@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21593",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11187"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7848"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chasles'_theorem_(kinematics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chasles' theorem"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6226"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7848"
+      }
+    ]
+  }
+]

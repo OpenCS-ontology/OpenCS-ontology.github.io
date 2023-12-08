@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15197",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6615"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Product_data_record"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Product data record"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3345"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34713"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38285"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39322"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4670"
+      }
+    ]
+  }
+]

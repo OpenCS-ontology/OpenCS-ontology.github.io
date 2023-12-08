@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41935",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35995"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Control_system_security"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Control system security"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8458"
+      }
+    ]
+  }
+]

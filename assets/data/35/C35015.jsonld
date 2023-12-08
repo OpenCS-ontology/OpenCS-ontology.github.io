@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35015",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29478"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Kepler_scientific_workflow_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kepler scientific workflow system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27098"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43753"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8032"
+      }
+    ]
+  }
+]

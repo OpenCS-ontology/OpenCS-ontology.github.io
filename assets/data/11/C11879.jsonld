@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C11879",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Crime_mapping"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Crime mapping"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11862"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20994"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5304"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5240",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Spectral_envelope"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Spectral envelope"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6760"
+      }
+    ]
+  }
+]

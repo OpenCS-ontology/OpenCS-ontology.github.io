@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19678",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12075"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Persistence_of_a_number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Persistence of a number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19223"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9995"
+      }
+    ]
+  }
+]

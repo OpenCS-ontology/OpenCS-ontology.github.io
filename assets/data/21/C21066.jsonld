@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21066",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C76"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/XBRL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "XBRL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13068"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18361"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40360"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44843"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14950",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8204"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lamport's_bakery_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lamport's bakery algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17915"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30688"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3245"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9421"
+      }
+    ]
+  }
+]

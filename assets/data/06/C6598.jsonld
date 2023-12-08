@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6598",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Tone_remote"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tone remote"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23237"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27956"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29184"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6763"
+      }
+    ]
+  }
+]

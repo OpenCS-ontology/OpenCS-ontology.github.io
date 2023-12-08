@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8698",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Microsequencer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Microsequencer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12431"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17793"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C856"
+      }
+    ]
+  }
+]

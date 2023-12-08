@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26024",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7330"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8564"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Operator_associativity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Operator associativity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10719"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11527"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24642"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8616"
+      }
+    ]
+  }
+]

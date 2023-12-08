@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9683",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Dig_(command)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dig"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29278"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30638"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38211"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41056"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41442"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44017"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ]
+  }
+]

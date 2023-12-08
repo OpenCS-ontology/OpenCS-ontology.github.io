@@ -1,0 +1,101 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42242",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30920"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36873"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/TCP_delayed_acknowledgment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "TCP delayed acknowledgment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36782"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41119"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42419"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5837"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9432"
+      }
+    ]
+  }
+]

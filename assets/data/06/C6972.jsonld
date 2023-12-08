@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6972",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Personal_mobility"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Personal mobility"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38459"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41578"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9107"
+      }
+    ]
+  }
+]

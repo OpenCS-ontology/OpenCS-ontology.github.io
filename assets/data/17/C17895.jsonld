@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17895",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6444"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Glare_(vision)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Glare (vision)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20535"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6454"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C967"
+      }
+    ]
+  }
+]

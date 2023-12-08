@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9739",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Continuous_operation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Continuous operation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43945"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8410"
+      }
+    ]
+  }
+]

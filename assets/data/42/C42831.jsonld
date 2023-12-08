@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42831",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34615"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Epistemicism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Epistemicism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28677"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31776"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7467"
+      }
+    ]
+  }
+]

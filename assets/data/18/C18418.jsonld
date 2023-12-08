@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18418",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4197"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bandwidth_allocation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bandwidth allocation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43573"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C793"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C92"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18410",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C411"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bivariate_map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bivariate map"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18289"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C383"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6228"
+      }
+    ]
+  }
+]

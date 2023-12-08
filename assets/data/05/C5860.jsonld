@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5860",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sweep_line_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sweep line algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13876"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19178"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45183"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6289"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8271"
+      }
+    ]
+  }
+]

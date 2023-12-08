@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7410",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Color_analysis_(art)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Color analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C766"
+      }
+    ]
+  }
+]

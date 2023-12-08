@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8041",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/All_horses_are_the_same_color"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "All horses are the same color"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5199"
+      }
+    ]
+  }
+]

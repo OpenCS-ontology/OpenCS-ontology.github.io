@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C40334",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29730"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wave_setup"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wave setup"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42088"
+      }
+    ]
+  }
+]

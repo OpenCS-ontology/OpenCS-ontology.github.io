@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30608",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23958"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Community_Radiative_Transfer_Model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Community Radiative Transfer Model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23958"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32452"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40579"
+      }
+    ]
+  }
+]

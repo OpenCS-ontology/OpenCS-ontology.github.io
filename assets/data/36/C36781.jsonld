@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36781",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26152"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Hartmann_mask"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hartmann mask"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11994"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34288"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35504"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8561"
+      }
+    ]
+  }
+]

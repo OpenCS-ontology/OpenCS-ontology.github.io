@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C10321",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Image_quality"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Image quality"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7468"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7789"
+      }
+    ]
+  }
+]

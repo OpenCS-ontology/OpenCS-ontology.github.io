@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42685",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35575"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Domain_(software_engineering)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Domain (software engineering)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23439"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42543"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45385"
+      }
+    ]
+  }
+]

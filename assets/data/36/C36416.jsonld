@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36416",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27089"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Specific_detectivity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Specific detectivity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22118"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23958"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6651"
+      }
+    ]
+  }
+]

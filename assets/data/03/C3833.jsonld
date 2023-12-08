@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3833",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Ambiguous_viewpoint"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ambiguous viewpoint"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30799"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8889"
+      }
+    ]
+  }
+]

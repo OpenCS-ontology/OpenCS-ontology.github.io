@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43598",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37236"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Probability_box"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Probability box"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39812"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42729"
+      }
+    ]
+  }
+]

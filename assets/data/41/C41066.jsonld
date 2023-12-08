@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41066",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36445"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Random_permutation_statistics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Random permutation statistics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43818"
+      }
+    ]
+  }
+]

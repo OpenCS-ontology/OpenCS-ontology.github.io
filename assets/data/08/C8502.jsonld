@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8502",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Out_Of_Phase_Stereo"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Out Of Phase Stereo"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39475"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5303"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7973"
+      }
+    ]
+  }
+]

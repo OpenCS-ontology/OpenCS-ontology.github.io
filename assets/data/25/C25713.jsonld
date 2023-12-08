@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25713",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11088"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3058"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C852"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Adaptive_reasoning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Adaptive reasoning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5906"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7163"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8473"
+      }
+    ]
+  }
+]

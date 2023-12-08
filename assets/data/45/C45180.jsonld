@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45180",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35534"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Schema_(genetic_algorithms)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Schema (genetic algorithms)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29723"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6221"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8516"
+      }
+    ]
+  }
+]

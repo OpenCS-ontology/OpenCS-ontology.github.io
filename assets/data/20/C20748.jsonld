@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C20748",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9178"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9546"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/AP_Computer_Science"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "AP Computer Science"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43430"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9855"
+      }
+    ]
+  }
+]

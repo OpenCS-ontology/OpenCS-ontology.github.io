@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2107",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Daylight_saving_time"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Daylight saving time"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8560"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9026"
+      }
+    ]
+  }
+]

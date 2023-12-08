@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17062",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13593"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Carpenter_ant"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Carpenter ant"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30349"
+      }
+    ]
+  }
+]

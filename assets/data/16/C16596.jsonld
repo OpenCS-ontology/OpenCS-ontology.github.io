@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16596",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12098"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5459"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Alternating-time_Temporal_Logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Alternating-time Temporal Logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12098"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38919"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42583"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5459"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7903"
+      }
+    ]
+  }
+]

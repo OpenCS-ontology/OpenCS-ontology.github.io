@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3065",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Moderation_(statistics)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Moderation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12371"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29226"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4873"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8758"
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41347",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33074"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Australia_Card"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Australia Card"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7604"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8437"
+      }
+    ]
+  }
+]

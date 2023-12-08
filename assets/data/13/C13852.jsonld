@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C13852",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/L-system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "L-system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C524"
+      }
+    ]
+  }
+]

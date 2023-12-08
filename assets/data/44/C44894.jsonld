@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44894",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35575"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Lean_product_development"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lean product development"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11831"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8387"
+      }
+    ]
+  }
+]

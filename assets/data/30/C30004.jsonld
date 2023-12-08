@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30004",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23673"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Block-matching_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Block-matching algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30895"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7447"
+      }
+    ]
+  }
+]

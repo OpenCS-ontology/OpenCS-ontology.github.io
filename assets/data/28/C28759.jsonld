@@ -1,0 +1,83 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28759",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3990"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Concurrency_pattern"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Concurrency pattern"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16530"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2415"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42782"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5248"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7870"
+      }
+    ]
+  }
+]

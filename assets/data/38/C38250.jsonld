@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C38250",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35628"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/SOA_Security"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "SOA Security"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38075"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42315"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43056"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      }
+    ]
+  }
+]

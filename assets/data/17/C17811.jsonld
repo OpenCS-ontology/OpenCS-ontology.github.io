@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17811",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C425"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Language_documentation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Language documentation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9777"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9801"
+      }
+    ]
+  }
+]

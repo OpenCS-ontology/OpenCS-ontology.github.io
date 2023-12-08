@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C19482",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11747"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Contrast-to-noise_ratio"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Contrast-to-noise ratio"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27649"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28943"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8272"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44357",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33667"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Micromechanical_Flying_Insect"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Micromechanical Flying Insect"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16902"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9265"
+      }
+    ]
+  }
+]

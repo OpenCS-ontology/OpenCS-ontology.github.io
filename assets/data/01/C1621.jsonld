@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1621",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Content_strategy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Content strategy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11094"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8269"
+      }
+    ]
+  }
+]

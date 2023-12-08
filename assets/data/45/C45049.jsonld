@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45049",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35707"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Acyclic_dependencies_principle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Acyclic dependencies principle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30799"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6761"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C39077",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36913"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Semantic_service-oriented_architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Semantic service-oriented architecture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32413"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44676"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9836"
+      }
+    ]
+  }
+]

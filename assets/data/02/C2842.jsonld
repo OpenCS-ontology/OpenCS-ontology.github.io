@@ -1,0 +1,89 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2842",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Packet_over_SONET/SDH"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Packet over SONET/SDH"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12227"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20934"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27426"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36329"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6245"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8567"
+      }
+    ]
+  }
+]

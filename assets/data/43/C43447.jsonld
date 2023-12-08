@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C43447",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30010"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Two-way_satellite_time_and_frequency_transfer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Two-way satellite time and frequency transfer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27546"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30010"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31954"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8560"
+      }
+    ]
+  }
+]

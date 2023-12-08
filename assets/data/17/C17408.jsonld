@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17408",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9328"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Competency-based_management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Competency-based management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25800"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9851"
+      }
+    ]
+  }
+]

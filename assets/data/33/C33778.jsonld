@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33778",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24469"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Residual_bit_error_rate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Residual bit error rate"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26814"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27316"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5994"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8810"
+      }
+    ]
+  }
+]

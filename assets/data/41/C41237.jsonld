@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C41237",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35040"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Petersson_inner_product"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Petersson inner product"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24506"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43605"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45135"
+      }
+    ]
+  }
+]

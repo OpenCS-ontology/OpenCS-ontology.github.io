@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1104",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Contact_dynamics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Contact dynamics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24209"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8435"
+      }
+    ]
+  }
+]

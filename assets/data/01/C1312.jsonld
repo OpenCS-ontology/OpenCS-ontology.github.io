@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1312",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Department_of_Defense_master_clock"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Department of Defense master clock"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20663"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7974"
+      }
+    ]
+  }
+]

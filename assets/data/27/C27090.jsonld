@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27090",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8130"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Listener_fatigue"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Listener fatigue"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9170"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C44514",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36203"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Neocatastrophism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Neocatastrophism"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41648"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2532",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Game_of_chance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Game of chance"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16296"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25445"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2726"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32717"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7220"
+      }
+    ]
+  }
+]

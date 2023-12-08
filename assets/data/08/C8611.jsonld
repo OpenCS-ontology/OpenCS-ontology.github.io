@@ -1,0 +1,65 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8611",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Continuous_tone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Continuous tone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18796"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8747"
+      }
+    ]
+  }
+]

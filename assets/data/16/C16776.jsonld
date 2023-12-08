@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16776",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6608"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Visual_hull"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Visual hull"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25497"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7788"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9020"
+      }
+    ]
+  }
+]

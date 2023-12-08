@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C31898",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16098"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Global_Design_Effort"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Global Design Effort"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16098"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33676"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37145"
+      }
+    ]
+  }
+]

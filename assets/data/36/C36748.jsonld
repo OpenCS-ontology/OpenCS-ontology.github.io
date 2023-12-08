@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36748",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21653"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Oecophylla_longinoda"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Oecophylla longinoda"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22440"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30017"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34293"
+      }
+    ]
+  }
+]

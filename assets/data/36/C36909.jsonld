@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36909",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21286"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Fundamental_theorem_of_poker"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fundamental theorem of poker"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40063"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9434"
+      }
+    ]
+  }
+]

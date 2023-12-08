@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7916",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Statistical_noise"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Statistical noise"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11425"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9095"
+      }
+    ]
+  }
+]

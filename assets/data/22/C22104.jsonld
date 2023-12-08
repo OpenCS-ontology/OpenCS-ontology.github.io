@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22104",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13412"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Disaster_recovery_plan"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Disaster recovery plan"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30114"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39016"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4335"
+      }
+    ]
+  }
+]

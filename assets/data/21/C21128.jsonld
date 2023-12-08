@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C21128",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4819"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Participatory_GIS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Participatory GIS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39546"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5241"
+      }
+    ]
+  }
+]

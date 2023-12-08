@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C42715",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37234"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Memory_dependence_prediction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Memory dependence prediction"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8180"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9487"
+      }
+    ]
+  }
+]

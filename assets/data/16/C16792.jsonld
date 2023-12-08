@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16792",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12388"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/North_American_English"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "North American English"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3741"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6237"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9216"
+      }
+    ]
+  }
+]

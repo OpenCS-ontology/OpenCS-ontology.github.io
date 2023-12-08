@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7352",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bone_segment_navigation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bone segment navigation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7161"
+      }
+    ]
+  }
+]

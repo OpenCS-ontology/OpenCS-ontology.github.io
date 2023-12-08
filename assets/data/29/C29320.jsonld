@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29320",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12692"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Multicommunicating"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Multicommunicating"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13094"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13730"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6757"
+      }
+    ]
+  }
+]

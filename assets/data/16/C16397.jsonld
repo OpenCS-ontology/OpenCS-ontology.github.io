@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16397",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Bandwidth_expansion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bandwidth expansion"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17433"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C260"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42727"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42949"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4615"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6125"
+      }
+    ]
+  }
+]

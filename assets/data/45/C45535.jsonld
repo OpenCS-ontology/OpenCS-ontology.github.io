@@ -1,0 +1,44 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C45535",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Proofs_of_trigonometric_identities"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Proofs of trigonometric identities"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13541"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14919"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37969"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40788"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43876"
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C3866",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Switch_access_scanning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Switch access scanning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11719"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7714"
+      }
+    ]
+  }
+]

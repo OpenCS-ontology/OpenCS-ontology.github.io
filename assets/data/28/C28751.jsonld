@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28751",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Coded_aperture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Coded aperture"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6943"
+      }
+    ]
+  }
+]

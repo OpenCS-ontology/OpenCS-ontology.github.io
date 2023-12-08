@@ -1,0 +1,41 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C15313",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12046"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Discourse-completion_task"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Discourse-completion task"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25573"
+      }
+    ]
+  }
+]

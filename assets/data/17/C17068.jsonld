@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17068",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C5349"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Article-level_metrics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Article-level metrics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21591"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32616"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C406"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5349"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7607"
+      }
+    ]
+  }
+]

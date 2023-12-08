@@ -1,0 +1,47 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C18069",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10220"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Filmography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Filmography"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21360"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C922"
+      }
+    ]
+  }
+]

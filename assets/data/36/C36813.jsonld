@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C36813",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20526"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24197"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Knuth–Bendix_completion_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Knuth–Bendix completion algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10922"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4834"
+      }
+    ]
+  }
+]

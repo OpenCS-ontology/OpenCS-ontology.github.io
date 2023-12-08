@@ -1,0 +1,77 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2651",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Canonical_model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Canonical model"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5284"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8729",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Attack_time"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Attack time"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39475"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9257"
+      }
+    ]
+  }
+]
