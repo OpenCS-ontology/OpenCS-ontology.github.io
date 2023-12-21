@@ -78,6 +78,7 @@ class Browser {
     }
     initialize() {
         window.addEventListener('hashchange', this.renderEntityFromUrl.bind(this));
+        new ResizeObserver(this.renderEdges).observe(document.getElementById("content-hierarchy"))
         this.renderEntityFromUrl();
     }
 
@@ -94,19 +95,10 @@ class Browser {
 
             document.getElementById("content-match").innerHTML = this.makeSection("Close match to", match.map(this.asExternalLink));
             document.getElementById("content-related").innerHTML = this.makeSection("Related to", related.map(this.asLink));
-
-            let content = "";
-            if(entity.broader.length > 0) content += "Broader hierarchy:<br>"
-            for(let child in broader) {
-                let childEntity = Accessor(await this.cache.get(child));
-                for(let parent of broader[child]) {
-                    let parentEntity = Accessor(await this.cache.get(parent));
-                    content += `${this.asLink(childEntity)} --> ${this.asLink(parentEntity)}<br>`
-                }
-            }
-            document.getElementById("content-hierarchy").innerHTML = content;
+            document.getElementById("content-hierarchy").innerHTML = await this.renderHierarchy(broader, entityId);
 
             document.getElementById("parent-container").classList.remove("loading");
+            this.renderEdges();
         });
 
     }
@@ -125,11 +117,12 @@ class Browser {
         }
         return result;
     }
-    asLink(entity) {
+    asLink(entity, id) {
         // TODO: prevent code injection
-        return `<a href="#C${entity.id}">${entity.label[0]} (C${entity.id})</a>`;
+        return `<a ${id?('id="'+id+'"'):""}href="#C${entity.id}">${entity.label[0]} (C${entity.id})</a>`;
     }
     asExternalLink(url) {
+        // TODO: prevent code injection
         let name = url;
         let match = url.match(/:\/\/([^\.]+).+\/(.+)/);
         if(match) name = `${match[2].replace(/_/g, " ")} (${match[1]})`;
@@ -142,5 +135,71 @@ class Browser {
         let header = `<h4 class="text-center">${title}</h4>`
         content = content.join("<br>");
         return `${header}<div>${content}</div>`;
+    }
+
+    async renderHierarchy(mapping, source) {
+        if(mapping.length == 0) return "";
+        let rank = this.rankBroader(mapping, source);
+        let content = "";
+
+        content += `<svg>`
+        for(let child in mapping) {
+            for(let parent of mapping[child]) {
+                content += `<line id="${parent}:${child}"></line>`
+            }
+        }
+        content += `</svg>`
+
+        for(let i = 0; i < rank.length-1; i++) {
+            if(i>0 && rank[i-1][1] != rank[i][1]) content += "</div>";
+            if(i==0 || rank[i-1][1] != rank[i][1]) content += `<div class="d-flex flex-row flex-wrap justify-content-center">`;
+            let entity = Accessor(await this.cache.get(rank[i][0]))
+            content += this.asLink(entity, `hierarchy-${entity.id}`);
+        }
+        let entity = Accessor(await this.cache.get(source))
+        content += `</div><h2>${this.asLink(entity, `hierarchy-${entity.id}`)}</h2>`;
+
+        return content;
+    }
+    rankBroader(mapping, source) {
+        let result = {[source]: 0};
+        function bump(entity, level) {
+            result[entity] = Math.max(level, result[entity] || 0);
+            for(let parent of (mapping[entity] || [])) {
+                bump(parent, level+1);
+            }
+        }
+        bump(source, 0);
+        return Object.entries(result).sort((a, b) => a[0] - b[0]).sort((a, b) => b[1] - a[1]);
+    }
+    renderEdges() {
+        let container = document.getElementById("content-hierarchy");
+        let svg = container.getElementsByTagName("svg")[0];
+        if (!svg) return;
+        let lines = svg.getElementsByTagName("line");
+        Logger.log("Rendering edges")
+
+        svg.setAttribute("width", container.clientWidth);
+        svg.setAttribute("height", container.clientHeight);
+
+        let containerRect = container.getBoundingClientRect();
+        for(let line of lines) {
+            let [parent, child] = line.id.split(":");
+            let parentElement = document.getElementById(`hierarchy-${parent}`);
+            let childElement = document.getElementById(`hierarchy-${child}`);
+            if(!parentElement || !childElement) continue;
+            let parentRect = parentElement.getBoundingClientRect();
+            let childRect = childElement.getBoundingClientRect();
+
+            let parentX = parentRect.left + parentRect.width/2 - containerRect.left;
+            let parentY = parentRect.top + parentRect.height/2 - containerRect.top;
+            let childX = childRect.left + childRect.width/2 - containerRect.left;
+            let childY = childRect.top + childRect.height/2 - containerRect.top;
+
+            line.setAttribute("x1", parentX);
+            line.setAttribute("y1", parentY);
+            line.setAttribute("x2", childX);
+            line.setAttribute("y2", childY);
+        }
     }
 }
