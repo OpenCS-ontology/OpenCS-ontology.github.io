@@ -84,20 +84,18 @@ class Browser {
     async renderEntity(entityId) {
         let entity = Accessor(await this.cache.get(entityId));
         document.getElementById("titlebar").innerHTML = `${entity.label[0]} (C${entityId})`;
-        document.getElementById("contentdiv").innerHTML = "Loading...";
+        document.getElementById("parent-container").classList.add("loading");
 
         let relatedPromise = Promise.all(entity.related.map(extractId).map(this.cache.get.bind(this.cache))).then((entities) => {return entities.map(Accessor);});
         let broaderPromise = this.traverseUp(entityId);
 
         await Promise.all([entity.match, relatedPromise, broaderPromise]).then(async ([match, related, broader]) => {
+            related.sort((a, b) => a.id - b.id);
+
+            document.getElementById("content-match").innerHTML = this.makeSection("Close match to", match.map(this.asExternalLink));
+            document.getElementById("content-related").innerHTML = this.makeSection("Related to", related.map(this.asLink));
+
             let content = "";
-
-            for(let match of entity.match) content += `Close match to <a target="_blank" href="${match}">${match}</a><br>`
-            if(match.length > 0) content += "<br>"
-
-            for(let entity of related) content += `Related to ${this.asLink(entity)}<br>`
-            if(related.length > 0) content += "<br>"
-
             if(entity.broader.length > 0) content += "Broader hierarchy:<br>"
             for(let child in broader) {
                 let childEntity = Accessor(await this.cache.get(child));
@@ -106,9 +104,9 @@ class Browser {
                     content += `${this.asLink(childEntity)} --> ${this.asLink(parentEntity)}<br>`
                 }
             }
+            document.getElementById("content-hierarchy").innerHTML = content;
 
-
-            document.getElementById("contentdiv").innerHTML = content;
+            document.getElementById("parent-container").classList.remove("loading");
         });
 
     }
@@ -128,6 +126,21 @@ class Browser {
         return result;
     }
     asLink(entity) {
+        // TODO: prevent code injection
         return `<a href="#C${entity.id}">${entity.label[0]} (C${entity.id})</a>`;
+    }
+    asExternalLink(url) {
+        let name = url;
+        let match = url.match(/:\/\/([^\.]+).+\/(.+)/);
+        if(match) name = `${match[2].replace(/_/g, " ")} (${match[1]})`;
+        
+        return `<a target="_blank" href="${url}">${name}</a>`
+    }
+    makeSection(title, content) {
+        if (content.length == 0) return "";
+
+        let header = `<h4 class="text-center">${title}</h4>`
+        content = content.join("<br>");
+        return `${header}<div>${content}</div>`;
     }
 }
