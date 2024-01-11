@@ -1,9 +1,13 @@
-const DEBUG = true;
+const DEBUG = false;
 const IRIs = {
     "label": ["http://www.w3.org/2004/02/skos/core#prefLabel"],
     "related": ["http://www.w3.org/2004/02/skos/core#related"],
     "broader": ["http://www.w3.org/2004/02/skos/core#broader"],
-    "match": ["http://www.w3.org/2004/02/skos/core#closeMatch"]
+    "match": ["http://www.w3.org/2004/02/skos/core#closeMatch"],
+}
+const DBPEDIA_IRIs = {
+    "abstract": ["http://dbpedia.org/ontology/abstract"],
+    "redirects": ["http://dbpedia.org/ontology/wikiPageRedirects"]
 }
 const DEFAULT_ENTITY_PREFIX = "https://w3id.org/ocs/ont/C"
 
@@ -87,7 +91,8 @@ class Browser {
             await this.renderEntity(this.extractIdFromUrl());
         } catch(e) {
             document.getElementById("titlebar").innerHTML = "Invalid entity";
-            document.getElementById("loading-message").innerHTML = "This entity does not exist.";
+            document.getElementById("abstractbar").innerHTML = "This entity does not exist.";
+            document.getElementById("loading-message").innerHTML = "";
             document.getElementById("parent-container").classList.add("loading");
         } finally {
             if(this.retriggerRender) {
@@ -106,15 +111,18 @@ class Browser {
     async renderEntity(entityId) {
         let entity = Accessor(await this.cache.get(entityId));
         document.getElementById("titlebar").innerHTML = `${entity.label[0]} (C${entityId})`;
+        document.getElementById("abstractbar").innerHTML = "";
         document.getElementById("parent-container").classList.add("loading");
         document.getElementById("loading-message").innerHTML = "Loading...";
 
         let relatedPromise = Promise.all(entity.related.map(extractId).map(this.cache.get.bind(this.cache))).then((entities) => {return entities.map(Accessor);});
         let broaderPromise = this.traverseUp(entityId);
+        let abstractPromise = this.getDbpediaAbstract(entity);
 
-        await Promise.all([entity.match, relatedPromise, broaderPromise]).then(async ([match, related, broader]) => {
+        await Promise.all([entity.match, relatedPromise, broaderPromise, abstractPromise]).then(async ([match, related, broader, abstract]) => {
             related.sort((a, b) => a.id - b.id);
 
+            document.getElementById("abstractbar").innerHTML = abstract;
             document.getElementById("content-match").innerHTML = this.makeSection("Close match to", match.map(this.asExternalLink));
             document.getElementById("content-related").innerHTML = this.makeSection("Related to", related.map(this.asLink));
             document.getElementById("content-hierarchy").innerHTML = await this.renderHierarchy(broader, entityId);
@@ -155,6 +163,36 @@ class Browser {
         let header = `<h4 class="text-center">${title}</h4>`
         content = content.join("<br>");
         return `${header}<div>${content}</div>`;
+    }
+    
+    async getDbpediaAbstract(entity) {
+        for(let url of entity.match) {
+            if(url.indexOf("dbpedia.org/resource/") == -1) continue;
+            let abstract = await this.getAbstractFromDbpediaUrl(url);
+            if(abstract) return abstract;
+        }
+        return "";
+    }
+    async getAbstractFromDbpediaUrl(url) {
+        if(url.indexOf("dbpedia.org/resource/") == -1) return
+        let jsonUrl = url.replace("dbpedia.org/resource/", "dbpedia.org/data/") + ".json";
+        let dbpediaData = await $.get(jsonUrl);
+        if(!dbpediaData || !dbpediaData[url]) return
+
+        let redirects = dbpediaData[url][DBPEDIA_IRIs.redirects];
+        if (redirects && redirects.length > 0) {
+            let abstract = await this.getAbstractFromDbpediaUrl(redirects[0]["value"]);
+            if(abstract) return abstract;
+        }
+        
+        if(!dbpediaData[url][DBPEDIA_IRIs.abstract]) return;
+        for(let abstract of dbpediaData[url][DBPEDIA_IRIs.abstract]) {
+            if(abstract["lang"] == "en") return this.formatDbpediaAbstract(abstract["value"], url);
+        }
+    }
+    formatDbpediaAbstract(abstract, url) {
+        if(!abstract) return "";
+        return `${escapeHtml(abstract)} <a target="_blank" class="link-light" href="${escapeHtml(url)}">[DBpedia]</a>`
     }
 
     async renderHierarchy(mapping, source) {
