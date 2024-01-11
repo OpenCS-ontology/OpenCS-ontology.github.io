@@ -2,13 +2,13 @@
 layout: default
 ---
 <style>
-    .loading-message {
+    #loading-message {
         display: none;
     }
     .loading *:not(.loading-both):not(.loading-both *) {
         display: none;
     }
-    .loading .loading-message {
+    .loading #loading-message {
         display: block !important;
     }
     #content-hierarchy a {
@@ -38,7 +38,7 @@ layout: default
     <div class="text-white container-primary loading-both mb-5">
         <p class="mt-3 lead display-6" id="titlebar" style="font-weight: 450;">Loading...</p>
     </div>
-    <div class="loading-message g-5 p-5 pt-0">Loading...</div>
+    <div id="loading-message" class="g-5 p-5 pt-0">Loading...</div>
     <div id="content-hierarchy" class="g-5 p-5 pt-0 d-flex flex-column align-items-center"></div>
     <div class="row g-5 px-5 justify-content-between">
         <div id="content-match" class="col-md-auto d-flex flex-column align-items-center"></div>

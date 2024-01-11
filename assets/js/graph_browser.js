@@ -14,7 +14,6 @@ const Logger = {
 };
 
 class EntityCache {
-    // TODO: implement time-to-live
     constructor(urlBase) {
         this.cache = {};
         this.urlBase = urlBase;
@@ -22,8 +21,12 @@ class EntityCache {
     async get(entityId) {
         if(!(entityId in this.cache)) {
             Logger.log("Fetching entity "+entityId)
-            this.cache[entityId] = $.get(`${this.urlBase}/${String(Math.floor(entityId/1000)).padStart(2, 0)}/C${entityId}.jsonld`);
-            this.cache[entityId] = await this.cache[entityId];
+            try {
+                this.cache[entityId] = $.get(`${this.urlBase}/${String(Math.floor(entityId/1000)).padStart(2, 0)}/C${entityId}.jsonld`);
+                this.cache[entityId] = await this.cache[entityId];
+            } catch(e) {
+                this.cache[entityId] = {};
+            }
         }
         return this.cache[entityId];
     }
@@ -51,9 +54,15 @@ function Accessor(source) {
     })
 }
 
+const escapeHtml = (unsafe) => {
+    return (unsafe+"").replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;').replaceAll("'", '&#039;');
+}
+
 class Browser {
     constructor() {
         this.cache = new EntityCache(`/assets/data`);
+        this.isRendering = false;
+        this.retriggerRender = false;
     }
     overwriteUrl(url) {
         this.cache.urlBase = url;
@@ -67,13 +76,25 @@ class Browser {
         }
         return entity.substring(2);
     }
-    renderEntityFromUrl() {
-         // TODO: handle concurrent execution and race condition
+    async renderEntityFromUrl() {
+        if(this.isRendering) {
+            this.retriggerRender = true;
+            return;
+        }
+        this.isRendering = true;
+        
         try {
-            this.renderEntity(this.extractIdFromUrl());
+            await this.renderEntity(this.extractIdFromUrl());
         } catch(e) {
-            document.getElementById("titlebar").innerHTML = e;
-            document.getElementById("contentdiv").innerHTML = "";
+            document.getElementById("titlebar").innerHTML = "Invalid entity";
+            document.getElementById("loading-message").innerHTML = "This entity does not exist.";
+            document.getElementById("parent-container").classList.add("loading");
+        } finally {
+            if(this.retriggerRender) {
+                this.retriggerRender = false;
+                this.renderEntityFromUrl();
+            }
+            this.isRendering = false;
         }
     }
     initialize() {
@@ -86,6 +107,7 @@ class Browser {
         let entity = Accessor(await this.cache.get(entityId));
         document.getElementById("titlebar").innerHTML = `${entity.label[0]} (C${entityId})`;
         document.getElementById("parent-container").classList.add("loading");
+        document.getElementById("loading-message").innerHTML = "Loading...";
 
         let relatedPromise = Promise.all(entity.related.map(extractId).map(this.cache.get.bind(this.cache))).then((entities) => {return entities.map(Accessor);});
         let broaderPromise = this.traverseUp(entityId);
@@ -118,16 +140,14 @@ class Browser {
         return result;
     }
     asLink(entity, id) {
-        // TODO: prevent code injection
-        return `<a ${id?('id="'+id+'"'):""}href="#C${entity.id}">${entity.label[0]} (C${entity.id})</a>`;
+        return `<a ${id?('id="'+escapeHtml(id)+'"'):""}href="#C${escapeHtml(entity.id)}">${escapeHtml(entity.label[0])} (C${escapeHtml(entity.id)})</a>`;
     }
     asExternalLink(url) {
-        // TODO: prevent code injection
         let name = url;
         let match = url.match(/:\/\/([^\.]+).+\/(.+)/);
         if(match) name = `${match[2].replace(/_/g, " ")} (${match[1]})`;
         
-        return `<a target="_blank" href="${url}">${name}</a>`
+        return `<a target="_blank" href="${escapeHtml(url)}">${escapeHtml(name)}</a>`
     }
     makeSection(title, content) {
         if (content.length == 0) return "";
