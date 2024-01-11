@@ -164,7 +164,7 @@ class Browser {
         content = content.join("<br>");
         return `${header}<div>${content}</div>`;
     }
-    
+
     async getDbpediaAbstract(entity) {
         for(let url of entity.match) {
             if(url.indexOf("dbpedia.org/resource/") == -1) continue;
@@ -175,7 +175,7 @@ class Browser {
     }
     async getAbstractFromDbpediaUrl(url) {
         if(url.indexOf("dbpedia.org/resource/") == -1) return
-        let jsonUrl = url.replace("dbpedia.org/resource/", "dbpedia.org/data/") + ".json";
+        let jsonUrl = url.replace("http://", "https://").replace("dbpedia.org/resource/", "dbpedia.org/data/") + ".json";
         let dbpediaData = await $.get(jsonUrl);
         if(!dbpediaData || !dbpediaData[url]) return
 
