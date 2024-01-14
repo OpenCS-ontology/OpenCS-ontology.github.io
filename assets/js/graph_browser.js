@@ -124,11 +124,10 @@ class Browser {
         await Promise.all([entity.match, relatedPromise, narrowerPromise, broaderPromise, abstractPromise]).then(async ([match, related, narrower, broader, abstract]) => {
             related.sort((a, b) => a.id - b.id);
 
-            console.log(narrower)
             document.getElementById("abstractbar").innerHTML = abstract;
             document.getElementById("content-match").innerHTML = this.makeSection("Close match to", match.map(this.asExternalLink));
             document.getElementById("content-related").innerHTML = this.makeSection("Related to", related.map(this.asLink));
-            document.getElementById("content-hierarchy").innerHTML = await this.renderHierarchy(broader, entityId);
+            document.getElementById("content-hierarchy").innerHTML = await this.renderHierarchy(broader, narrower, entityId);
 
             document.getElementById("parent-container").classList.remove("loading");
             this.renderEdges();
@@ -171,8 +170,10 @@ class Browser {
     async getDbpediaAbstract(entity) {
         for(let url of entity.match) {
             if(url.indexOf("dbpedia.org/resource/") == -1) continue;
-            let abstract = await this.getAbstractFromDbpediaUrl(url);
-            if(abstract) return abstract;
+            try {
+                let abstract = await this.getAbstractFromDbpediaUrl(url);
+                if(abstract) return abstract;
+            } catch(e) {}
         }
         return "";
     }
@@ -198,16 +199,19 @@ class Browser {
         return `${escapeHtml(abstract)} <a target="_blank" class="link-light" href="${escapeHtml(url)}">[DBpedia]</a>`
     }
 
-    async renderHierarchy(mapping, source) {
-        if(mapping.length == 0) return "";
-        let rank = this.rankBroader(mapping, source);
+    async renderHierarchy(broaderMapping, narrower, source) {
+        if(broaderMapping.length == 0) return "";
+        let rank = this.rankBroader(broaderMapping, source);
         let content = "";
 
         content += `<svg>`
-        for(let child in mapping) {
-            for(let parent of mapping[child]) {
+        for(let child in broaderMapping) {
+            for(let parent of broaderMapping[child]) {
                 content += `<line id="${parent}:${child}"></line>`
             }
+        }
+        for(let child of narrower) {
+            content += `<line id="${source}:${child.id}"></line>`
         }
         content += `</svg>`
 
@@ -219,6 +223,11 @@ class Browser {
         }
         let entity = Accessor(await this.cache.get(source))
         content += `</div><h2>${this.asLink(entity, `hierarchy-${entity.id}`)}</h2>`;
+        content += `<div class="d-flex flex-row flex-wrap justify-content-center">`;
+        for(let child of narrower) {
+            content += this.asLink(child, `hierarchy-${child.id}`);
+        }
+        content += "</div>";
 
         return content;
     }
