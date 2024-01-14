@@ -95,6 +95,7 @@ class Browser {
             document.getElementById("abstractbar").innerHTML = "This entity does not exist.";
             document.getElementById("loading-message").innerHTML = "";
             document.getElementById("parent-container").classList.add("loading");
+            console.error(e);
         } finally {
             if(this.retriggerRender) {
                 this.retriggerRender = false;
@@ -127,7 +128,7 @@ class Browser {
             document.getElementById("abstractbar").innerHTML = abstract;
             document.getElementById("content-match").innerHTML = this.makeSection("Close match to", match.map(this.asExternalLink));
             document.getElementById("content-related").innerHTML = this.makeSection("Related to", related.map(this.asLink));
-            document.getElementById("content-hierarchy").innerHTML = await this.renderHierarchy(broader, narrower, entityId);
+            document.getElementById("content-hierarchy").innerHTML = await this.renderHierarchy(broader, narrower.sort((a, b) => a.id - b.id), entityId);
 
             document.getElementById("parent-container").classList.remove("loading");
             this.renderEdges();
@@ -211,8 +212,9 @@ class Browser {
             }
         }
         for(let child of narrower) {
-            content += `<line id="${source}:${child.id}"></line>`
+            content += `<polyline id="^${source}:${child.id}"></polyline>`
         }
+        content += `<polyline id="deepPath"></polyline>`
         content += `</svg>`
 
         for(let i = 0; i < rank.length-1; i++) {
@@ -246,14 +248,22 @@ class Browser {
         let container = document.getElementById("content-hierarchy");
         let svg = container.getElementsByTagName("svg")[0];
         if (!svg) return;
-        let lines = svg.getElementsByTagName("line");
+        let lines = [...svg.getElementsByTagName("line"), ...svg.getElementsByTagName("polyline")];
         Logger.log("Rendering edges")
 
         svg.setAttribute("width", container.clientWidth);
         svg.setAttribute("height", container.scrollHeight);
 
+        let deepPath = {};
         for(let line of lines) {
+            if (line.id == "deepPath") continue;
             let [parent, child] = line.id.split(":");
+            let crooked = false;
+            if(parent[0] == "^") {
+                parent = parent.substring(1);
+                crooked = true;
+            }
+
             let parentElement = document.getElementById(`hierarchy-${parent}`);
             let childElement = document.getElementById(`hierarchy-${child}`);
             if(!parentElement || !childElement) continue;
@@ -265,10 +275,47 @@ class Browser {
             let childX = childElement.offsetLeft + childRect.width/2;
             let childY = childElement.offsetTop;
 
-            line.setAttribute("x1", parentX);
-            line.setAttribute("y1", parentY);
-            line.setAttribute("x2", childX);
-            line.setAttribute("y2", childY);
+            if(crooked) {
+                let hoistedY = Math.round(childY - childRect.height/2);
+                line.setAttribute("points", `${parentX},${hoistedY} ${childX},${hoistedY} ${childX},${childY}`);
+
+                let leftEdge = childElement.offsetLeft
+                let rightEdge = childElement.offsetLeft + childRect.width;
+
+                if (deepPath[hoistedY] == undefined) deepPath[hoistedY] = {"parentY": parentY};
+                if (rightEdge <= container.clientWidth/2) deepPath[hoistedY]["left"] = Math.max(deepPath[hoistedY]["left"] || 0, rightEdge);
+                if (leftEdge >= container.clientWidth/2) deepPath[hoistedY]["right"] = Math.min(deepPath[hoistedY]["right"] || container.clientWidth, leftEdge);
+                if (leftEdge < container.clientWidth/2 && rightEdge > container.clientWidth/2) {
+                    deepPath[hoistedY]["center_left"] = leftEdge;
+                    deepPath[hoistedY]["center_right"] = rightEdge;
+                }
+            } else {
+                line.setAttribute("x1", parentX);
+                line.setAttribute("y1", parentY);
+                line.setAttribute("x2", childX);
+                line.setAttribute("y2", childY);
+            }
+        }
+
+        let deepPathElement = document.getElementById("deepPath")
+        if (Object.keys(deepPath).length == 0) deepPathElement.setAttribute("points", "");
+        else {
+            let deepPathPlain = [];
+            for(let y in deepPath) {
+                if (deepPathPlain.length == 0) deepPathPlain.push([container.clientWidth/2, deepPath[y]["parentY"]]);
+                if (deepPath[y]["center_left"] == undefined) deepPath[y]["center_left"] = deepPath[y]["right"];
+                if (deepPath[y]["center_right"] == undefined) deepPath[y]["center_right"] = deepPath[y]["left"];
+                let leftEdge = (deepPath[y]["left"] + deepPath[y]["center_left"])/2;
+                let rightEdge = (deepPath[y]["right"] + deepPath[y]["center_right"])/2;
+
+                let closerEdge = ((container.clientWidth/2 - leftEdge) < (rightEdge - container.clientWidth/2)) ? leftEdge : rightEdge;
+                if (isNaN(closerEdge)) closerEdge = container.clientWidth/2;
+                deepPathPlain.push([closerEdge, y]);
+            }
+            let points = `${deepPathPlain[0][0]},${deepPathPlain[0][1]}`;
+            for(let i = 1; i < deepPathPlain.length; i++)
+                points += ` ${deepPathPlain[i-1][0]},${deepPathPlain[i][1]} ${deepPathPlain[i][0]},${deepPathPlain[i][1]}`;
+            deepPathElement.setAttribute("points", points);
         }
     }
 }
