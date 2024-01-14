@@ -250,9 +250,8 @@ class Browser {
         Logger.log("Rendering edges")
 
         svg.setAttribute("width", container.clientWidth);
-        svg.setAttribute("height", container.clientHeight);
+        svg.setAttribute("height", container.scrollHeight);
 
-        let containerRect = container.getBoundingClientRect();
         for(let line of lines) {
             let [parent, child] = line.id.split(":");
             let parentElement = document.getElementById(`hierarchy-${parent}`);
@@ -261,10 +260,10 @@ class Browser {
             let parentRect = parentElement.getBoundingClientRect();
             let childRect = childElement.getBoundingClientRect();
 
-            let parentX = parentRect.left + parentRect.width/2 - containerRect.left;
-            let parentY = parentRect.top + parentRect.height/2 - containerRect.top;
-            let childX = childRect.left + childRect.width/2 - containerRect.left;
-            let childY = childRect.top + childRect.height/2 - containerRect.top;
+            let parentX = parentElement.offsetLeft + parentRect.width/2;
+            let parentY = parentElement.offsetTop + parentRect.height;
+            let childX = childElement.offsetLeft + childRect.width/2;
+            let childY = childElement.offsetTop;
 
             line.setAttribute("x1", parentX);
             line.setAttribute("y1", parentY);
