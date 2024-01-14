@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/KCNJ10"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38165"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43334"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +30,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C36044"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C30188"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30803"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36044"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38165"

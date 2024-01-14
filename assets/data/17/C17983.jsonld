@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Underwater_explosion"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29928"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,10 +30,10 @@
         "@id": "https://w3id.org/ocs/ont/C29928"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C31657"
+        "@id": "https://w3id.org/ocs/ont/C7008"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7008"
+        "@id": "https://w3id.org/ocs/ont/C31657"
       }
     ]
   }

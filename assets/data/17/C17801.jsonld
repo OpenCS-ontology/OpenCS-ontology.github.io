@@ -14,6 +14,47 @@
         "@id": "http://dbpedia.org/resource/Glossiphoniidae"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30064"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31070"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31765"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31069"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +63,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C21962"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C23493"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C24128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21962"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35110"

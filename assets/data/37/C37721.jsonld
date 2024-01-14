@@ -14,6 +14,23 @@
         "@id": "http://dbpedia.org/resource/Nakagami_distribution"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C41835"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43248"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38747"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +39,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C16036"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C16163"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C16691"
+        "@id": "https://w3id.org/ocs/ont/C45117"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C40060"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C45117"
+        "@id": "https://w3id.org/ocs/ont/C16691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16036"
       }
     ]
   }

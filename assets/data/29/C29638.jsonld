@@ -14,6 +14,29 @@
         "@id": "http://dbpedia.org/resource/Pangasius"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42886"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38348"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,37 +45,37 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C38348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39733"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C24236"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29621"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29736"
+        "@id": "https://w3id.org/ocs/ont/C40967"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C32611"
+        "@id": "https://w3id.org/ocs/ont/C29736"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C36214"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38348"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39733"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C40766"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C40967"
+        "@id": "https://w3id.org/ocs/ont/C43000"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C41316"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C43000"
       }
     ]
   }

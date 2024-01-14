@@ -14,6 +14,65 @@
         "@id": "http://dbpedia.org/resource/Color_vision"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22436"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25893"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20180"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22050"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +81,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13544"
+        "@id": "https://w3id.org/ocs/ont/C6942"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C15175"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16674"
+        "@id": "https://w3id.org/ocs/ont/C36317"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C20871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13544"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23675"
@@ -43,13 +105,10 @@
         "@id": "https://w3id.org/ocs/ont/C32487"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36317"
+        "@id": "https://w3id.org/ocs/ont/C16674"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C41483"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6942"
+        "@id": "https://w3id.org/ocs/ont/C15175"
       }
     ]
   }

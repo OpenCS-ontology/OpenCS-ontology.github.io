@@ -14,6 +14,38 @@
         "@id": "http://dbpedia.org/resource/Censoring_(statistics)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34035"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33237"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32193"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31545"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,22 +57,7 @@
         "@id": "https://w3id.org/ocs/ont/C14323"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21368"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21628"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21710"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2781"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C28243"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33145"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C42398"
@@ -49,7 +66,22 @@
         "@id": "https://w3id.org/ocs/ont/C662"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C2781"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C9740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21710"
       }
     ]
   }

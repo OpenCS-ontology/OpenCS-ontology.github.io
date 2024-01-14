@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Nearest_integer_function"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C41793"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43543"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +30,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12262"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29107"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39884"
+        "@id": "https://w3id.org/ocs/ont/C5566"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4816"
@@ -37,7 +39,13 @@
         "@id": "https://w3id.org/ocs/ont/C5032"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5566"
+        "@id": "https://w3id.org/ocs/ont/C39884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29107"
       }
     ]
   }

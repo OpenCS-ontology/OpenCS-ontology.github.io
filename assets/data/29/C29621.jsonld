@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Pangasianodon"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C42501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43000"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,22 +33,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C29638"
+        "@id": "https://w3id.org/ocs/ont/C36214"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32617"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36214"
+        "@id": "https://w3id.org/ocs/ont/C43000"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38348"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C40766"
+        "@id": "https://w3id.org/ocs/ont/C29638"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C43000"
+        "@id": "https://w3id.org/ocs/ont/C40766"
       }
     ]
   }

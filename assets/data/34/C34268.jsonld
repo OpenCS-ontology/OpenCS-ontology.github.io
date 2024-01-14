@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Photuris"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43010"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45158"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +30,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C23197"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C30889"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36212"
+        "@id": "https://w3id.org/ocs/ont/C23197"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C36246"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37615"
+        "@id": "https://w3id.org/ocs/ont/C36212"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C42703"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C43010"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37615"
       }
     ]
   }

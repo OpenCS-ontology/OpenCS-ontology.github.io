@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Transport_network"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16071"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,28 +30,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11026"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11304"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14853"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C3390"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C37235"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C11304"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C43367"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6243"
+        "@id": "https://w3id.org/ocs/ont/C14853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6243"
       }
     ]
   }

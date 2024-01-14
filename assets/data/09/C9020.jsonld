@@ -17,6 +17,17 @@
         "@id": "http://dbpedia.org/resource/Photometric_stereo"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18263"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,25 +36,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13549"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18263"
+        "@id": "https://w3id.org/ocs/ont/C4646"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19043"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C22"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23667"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24194"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26458"
+        "@id": "https://w3id.org/ocs/ont/C13549"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28061"
@@ -52,16 +51,28 @@
         "@id": "https://w3id.org/ocs/ont/C28466"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C33219"
+        "@id": "https://w3id.org/ocs/ont/C9879"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4646"
+        "@id": "https://w3id.org/ocs/ont/C23667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9879"
+        "@id": "https://w3id.org/ocs/ont/C33219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26458"
       }
     ]
   }

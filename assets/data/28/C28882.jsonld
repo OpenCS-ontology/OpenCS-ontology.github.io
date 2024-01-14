@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Autonomic_computing"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33754"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +27,31 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1253"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15478"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1588"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20668"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2579"
+        "@id": "https://w3id.org/ocs/ont/C26752"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C26"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26752"
+        "@id": "https://w3id.org/ocs/ont/C1588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9047"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30"
@@ -49,16 +60,10 @@
         "@id": "https://w3id.org/ocs/ont/C3486"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34979"
+        "@id": "https://w3id.org/ocs/ont/C15478"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7106"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8614"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9047"
+        "@id": "https://w3id.org/ocs/ont/C20668"
       }
     ]
   }

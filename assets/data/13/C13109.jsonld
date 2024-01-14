@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Word_formation"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14834"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +27,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1034"
+        "@id": "https://w3id.org/ocs/ont/C11932"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11932"
+        "@id": "https://w3id.org/ocs/ont/C26019"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12486"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14834"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C12443"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C12486"
+        "@id": "https://w3id.org/ocs/ont/C1451"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C13210"
@@ -40,28 +57,16 @@
         "@id": "https://w3id.org/ocs/ont/C13757"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1451"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14834"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1952"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2298"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23243"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26019"
+        "@id": "https://w3id.org/ocs/ont/C1034"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2847"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1952"
       }
     ]
   }

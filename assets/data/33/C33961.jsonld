@@ -14,6 +14,23 @@
         "@id": "http://dbpedia.org/resource/Stellar_mass"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38445"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44587"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40039"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +39,46 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14270"
+        "@id": "https://w3id.org/ocs/ont/C29770"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C20206"
+        "@id": "https://w3id.org/ocs/ont/C27654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42345"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C21607"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21884"
+        "@id": "https://w3id.org/ocs/ont/C20206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25949"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29212"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C22542"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23210"
+        "@id": "https://w3id.org/ocs/ont/C36170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21884"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23535"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23210"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C24129"
@@ -49,28 +87,7 @@
         "@id": "https://w3id.org/ocs/ont/C25028"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25949"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26348"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27654"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C29045"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29212"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29770"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36170"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C42345"
       }
     ]
   }

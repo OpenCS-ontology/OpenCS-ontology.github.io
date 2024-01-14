@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Packing_problems"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19658"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,31 +27,31 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C23872"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24150"
+        "@id": "https://w3id.org/ocs/ont/C7988"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30401"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5864"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6149"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6776"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7988"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8944"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23872"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6776"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5864"
       }
     ]
   }

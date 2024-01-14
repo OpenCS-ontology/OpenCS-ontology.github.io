@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Qualitative_comparative_analysis"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C44275"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +27,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12238"
+        "@id": "https://w3id.org/ocs/ont/C9488"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18522"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C12811"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18522"
+        "@id": "https://w3id.org/ocs/ont/C12238"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4752"
@@ -38,9 +46,6 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9378"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9488"
       }
     ]
   }

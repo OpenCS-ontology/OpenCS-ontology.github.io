@@ -6,18 +6,26 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
+        "@id": "https://w3id.org/ocs/ont/C23244"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C17246"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23077"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23244"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Galactic_corona"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41648"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -31,25 +39,25 @@
         "@id": "https://w3id.org/ocs/ont/C17246"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23077"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28402"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29074"
+        "@id": "https://w3id.org/ocs/ont/C41648"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C31953"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34069"
+        "@id": "https://w3id.org/ocs/ont/C29074"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C41648"
+        "@id": "https://w3id.org/ocs/ont/C28402"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C42436"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23077"
       }
     ]
   }

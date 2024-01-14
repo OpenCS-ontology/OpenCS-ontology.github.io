@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Effective_radius"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37197"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +27,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C17246"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C23077"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25028"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C42301"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C25028"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
       }
     ]
   }

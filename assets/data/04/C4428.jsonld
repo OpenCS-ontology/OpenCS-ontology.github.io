@@ -17,6 +17,17 @@
         "@id": "http://dbpedia.org/resource/Telematics"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19226"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,13 +36,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C9154"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C12641"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1302"
+        "@id": "https://w3id.org/ocs/ont/C3236"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1346"
+        "@id": "https://w3id.org/ocs/ont/C6862"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1508"
@@ -40,40 +54,37 @@
         "@id": "https://w3id.org/ocs/ont/C16218"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C23009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6311"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C197"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C21424"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23009"
+        "@id": "https://w3id.org/ocs/ont/C1302"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1346"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28169"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3236"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C3246"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6311"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6862"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C9100"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9113"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9154"
       }
     ]
   }

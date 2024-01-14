@@ -9,15 +9,32 @@
         "@id": "https://w3id.org/ocs/ont/C11"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26"
+        "@id": "https://w3id.org/ocs/ont/C35"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C35"
+        "@id": "https://w3id.org/ocs/ont/C26"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Home_automation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19774"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25278"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17754"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18402"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -28,16 +45,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C9047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C10368"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11"
+        "@id": "https://w3id.org/ocs/ont/C5369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1206"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1626"
+        "@id": "https://w3id.org/ocs/ont/C7740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C20231"
@@ -49,25 +78,13 @@
         "@id": "https://w3id.org/ocs/ont/C31489"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C35370"
+        "@id": "https://w3id.org/ocs/ont/C8386"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C490"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5369"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7740"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8386"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9047"
+        "@id": "https://w3id.org/ocs/ont/C1626"
       }
     ]
   }

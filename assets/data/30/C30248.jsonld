@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Aspredinidae"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C41395"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44015"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +30,34 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C24236"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31573"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C33146"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C35607"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35705"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36328"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39063"
+        "@id": "https://w3id.org/ocs/ont/C44015"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C41395"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C39063"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35705"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C42154"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C44015"
+        "@id": "https://w3id.org/ocs/ont/C35607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31573"
       }
     ]
   }

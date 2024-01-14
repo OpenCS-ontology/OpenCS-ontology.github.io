@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Circumstellar_dust"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C42450"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39388"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,31 +33,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14402"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16417"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21884"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23296"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C23430"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24023"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25028"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26348"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27654"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29212"
@@ -55,13 +42,37 @@
         "@id": "https://w3id.org/ocs/ont/C29867"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C21884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25028"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23296"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C30109"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34110"
+        "@id": "https://w3id.org/ocs/ont/C597"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C597"
+        "@id": "https://w3id.org/ocs/ont/C34110"
       }
     ]
   }

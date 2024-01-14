@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Fatou's_lemma"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31327"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,19 +30,19 @@
         "@id": "https://w3id.org/ocs/ont/C15256"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C16025"
+        "@id": "https://w3id.org/ocs/ont/C40562"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C24810"
+        "@id": "https://w3id.org/ocs/ont/C16025"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38455"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C40292"
+        "@id": "https://w3id.org/ocs/ont/C24810"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C40562"
+        "@id": "https://w3id.org/ocs/ont/C40292"
       }
     ]
   }

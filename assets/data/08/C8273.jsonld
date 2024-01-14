@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Sensor_array"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17156"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18131"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +33,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C7008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C10509"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11253"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15788"
+        "@id": "https://w3id.org/ocs/ont/C27102"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C18871"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C19905"
+        "@id": "https://w3id.org/ocs/ont/C11253"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2168"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27102"
+        "@id": "https://w3id.org/ocs/ont/C7909"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32552"
@@ -49,19 +60,19 @@
         "@id": "https://w3id.org/ocs/ont/C5769"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6281"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7008"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7909"
+        "@id": "https://w3id.org/ocs/ont/C15788"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9022"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9428"
+        "@id": "https://w3id.org/ocs/ont/C2168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19905"
       }
     ]
   }

@@ -14,6 +14,32 @@
         "@id": "http://dbpedia.org/resource/Loudness"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19051"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15699"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +48,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10409"
+        "@id": "https://w3id.org/ocs/ont/C2759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8291"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C13048"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C14001"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16548"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2759"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C5139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14001"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5853"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8291"
+        "@id": "https://w3id.org/ocs/ont/C16548"
       }
     ]
   }

@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Shimura_variety"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C44038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40834"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +30,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C23209"
+        "@id": "https://w3id.org/ocs/ont/C42979"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32392"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C42979"
+        "@id": "https://w3id.org/ocs/ont/C45133"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C45133"
+        "@id": "https://w3id.org/ocs/ont/C23209"
       }
     ]
   }

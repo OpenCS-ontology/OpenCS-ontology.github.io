@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Inductive_reasoning"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21481"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,28 +30,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1092"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11088"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C126"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C14620"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1834"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2978"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C6290"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1834"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C3579"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6290"
+        "@id": "https://w3id.org/ocs/ont/C11088"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9834"

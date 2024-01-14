@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Next_Generation_Air_Transportation_System"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31583"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,55 +30,55 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11445"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12641"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15050"
+        "@id": "https://w3id.org/ocs/ont/C4597"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C15666"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18229"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22667"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23082"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23477"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23917"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25871"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26034"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28020"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29896"
+        "@id": "https://w3id.org/ocs/ont/C511"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30040"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4597"
+        "@id": "https://w3id.org/ocs/ont/C18229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22667"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23477"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4754"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C511"
+        "@id": "https://w3id.org/ocs/ont/C25871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11445"
       }
     ]
   }

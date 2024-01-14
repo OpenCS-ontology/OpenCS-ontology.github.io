@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Multibody_system"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14529"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -21,9 +26,6 @@
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@id": "https://w3id.org/ocs/ont/C1240"
-      },
       {
         "@id": "https://w3id.org/ocs/ont/C15029"
       },
@@ -35,6 +37,9 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1240"
       }
     ]
   }

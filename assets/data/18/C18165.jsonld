@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Burstiness"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34277"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +27,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C19045"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C11767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42729"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C16174"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C16913"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19045"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C42729"
       }
     ]
   }

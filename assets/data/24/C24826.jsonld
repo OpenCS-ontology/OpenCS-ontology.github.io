@@ -14,6 +14,23 @@
         "@id": "http://dbpedia.org/resource/Optimality_Theory"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30537"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,52 +39,52 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1034"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11192"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12110"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C13096"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C13210"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1451"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18070"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20121"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20621"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2298"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30276"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30537"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34287"
+        "@id": "https://w3id.org/ocs/ont/C6784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20621"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C39066"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C18070"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C5556"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6784"
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34287"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13096"
       }
     ]
   }

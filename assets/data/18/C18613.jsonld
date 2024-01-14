@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Modulus_of_continuity"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35934"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32782"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,13 +39,13 @@
         "@id": "https://w3id.org/ocs/ont/C16025"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C35934"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C24810"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29795"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35934"
       }
     ]
   }

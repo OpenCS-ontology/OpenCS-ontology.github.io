@@ -14,6 +14,23 @@
         "@id": "http://dbpedia.org/resource/Free_flight_(air_traffic_control)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31946"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35629"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +39,31 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12641"
+        "@id": "https://w3id.org/ocs/ont/C29896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3159"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C15050"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C15283"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C16585"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18229"
+        "@id": "https://w3id.org/ocs/ont/C25871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15283"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C18996"
@@ -43,31 +72,19 @@
         "@id": "https://w3id.org/ocs/ont/C23082"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C4597"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C23299"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25871"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27838"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28020"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28140"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29896"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3159"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C32563"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4597"
+        "@id": "https://w3id.org/ocs/ont/C27838"
       }
     ]
   }

@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Time_transfer"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30010"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37179"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,55 +30,55 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12641"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16291"
+        "@id": "https://w3id.org/ocs/ont/C22220"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C18988"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21978"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22220"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24213"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27698"
+        "@id": "https://w3id.org/ocs/ont/C30565"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C281"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C30565"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3062"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31954"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31990"
+        "@id": "https://w3id.org/ocs/ont/C21978"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34811"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C43447"
+        "@id": "https://w3id.org/ocs/ont/C31954"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5618"
+        "@id": "https://w3id.org/ocs/ont/C27698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7648"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5706"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7648"
+        "@id": "https://w3id.org/ocs/ont/C5618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24213"
       }
     ]
   }

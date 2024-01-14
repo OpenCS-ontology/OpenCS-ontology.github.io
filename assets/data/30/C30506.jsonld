@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Longest_alternating_subsequence"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38603"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,7 +27,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1"
+        "@id": "https://w3id.org/ocs/ont/C5145"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C11282"
@@ -31,10 +36,10 @@
         "@id": "https://w3id.org/ocs/ont/C16150"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5145"
+        "@id": "https://w3id.org/ocs/ont/C77"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C77"
+        "@id": "https://w3id.org/ocs/ont/C1"
       }
     ]
   }

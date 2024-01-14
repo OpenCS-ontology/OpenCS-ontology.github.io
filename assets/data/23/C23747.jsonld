@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Signal_reconstruction"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31004"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +30,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10554"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11150"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C251"
+        "@id": "https://w3id.org/ocs/ont/C37610"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30853"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C11150"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C35102"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37610"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C42128"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C42625"
@@ -50,6 +49,15 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10554"
       }
     ]
   }

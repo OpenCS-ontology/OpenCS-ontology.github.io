@@ -17,6 +17,14 @@
         "@id": "http://dbpedia.org/resource/Weighted_sum_model"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39239"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,13 +33,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C17168"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17414"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22628"
+        "@id": "https://w3id.org/ocs/ont/C8124"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C22673"
@@ -40,19 +42,25 @@
         "@id": "https://w3id.org/ocs/ont/C27265"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C33161"
+        "@id": "https://w3id.org/ocs/ont/C22628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17414"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C36383"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38630"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C5352"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8124"
+        "@id": "https://w3id.org/ocs/ont/C38630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33161"
       }
     ]
   }

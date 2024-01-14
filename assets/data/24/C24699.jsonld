@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Ceramic_matrix_composite"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29965"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +27,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C29965"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C22741"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23870"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29965"
       }
     ]
   }

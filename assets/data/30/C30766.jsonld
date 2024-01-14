@@ -6,21 +6,41 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14410"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15067"
+        "@id": "https://w3id.org/ocs/ont/C28644"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C24640"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28644"
+        "@id": "https://w3id.org/ocs/ont/C14410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15067"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Sociocultural_linguistics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38793"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -31,13 +51,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1451"
+        "@id": "https://w3id.org/ocs/ont/C38793"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C31692"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38793"
+        "@id": "https://w3id.org/ocs/ont/C1451"
       }
     ]
   }

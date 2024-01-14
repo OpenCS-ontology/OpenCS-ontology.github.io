@@ -14,6 +14,29 @@
         "@id": "http://dbpedia.org/resource/Calculator"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17802"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25240"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,31 +45,31 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10320"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C12262"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15500"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C16733"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C17802"
+        "@id": "https://w3id.org/ocs/ont/C15500"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28408"
+        "@id": "https://w3id.org/ocs/ont/C10320"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3785"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17802"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C4259"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9113"
+        "@id": "https://w3id.org/ocs/ont/C28408"
       }
     ]
   }

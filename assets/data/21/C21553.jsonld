@@ -17,6 +17,14 @@
         "@id": "http://dbpedia.org/resource/Cryptovirology"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29663"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37063"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,7 +33,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12637"
+        "@id": "https://w3id.org/ocs/ont/C4218"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C13123"
@@ -34,49 +42,49 @@
         "@id": "https://w3id.org/ocs/ont/C16125"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C17126"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18986"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27571"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2941"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C32484"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33956"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35171"
+        "@id": "https://w3id.org/ocs/ont/C45216"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35371"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C35391"
+        "@id": "https://w3id.org/ocs/ont/C17126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12637"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35171"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38359"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4218"
+        "@id": "https://w3id.org/ocs/ont/C32484"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C45216"
+        "@id": "https://w3id.org/ocs/ont/C970"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27571"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5692"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C18986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35391"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C6582"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C970"
+        "@id": "https://w3id.org/ocs/ont/C33956"
       }
     ]
   }

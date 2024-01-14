@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/FSA-Red_Algorithm"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31198"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +30,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16947"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21"
+        "@id": "https://w3id.org/ocs/ont/C3736"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29"
@@ -37,19 +39,25 @@
         "@id": "https://w3id.org/ocs/ont/C33804"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3736"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C5512"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6590"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8"
+        "@id": "https://w3id.org/ocs/ont/C21"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9488"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
       }
     ]
   }

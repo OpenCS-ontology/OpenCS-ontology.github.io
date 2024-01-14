@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Erpobdellidae"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33195"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37798"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,10 +39,13 @@
         "@id": "https://w3id.org/ocs/ont/C17801"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21962"
+        "@id": "https://w3id.org/ocs/ont/C35110"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C22738"
+        "@id": "https://w3id.org/ocs/ont/C34201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33225"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23339"
@@ -40,13 +57,10 @@
         "@id": "https://w3id.org/ocs/ont/C24128"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C33225"
+        "@id": "https://w3id.org/ocs/ont/C22738"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34201"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35110"
+        "@id": "https://w3id.org/ocs/ont/C21962"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35126"

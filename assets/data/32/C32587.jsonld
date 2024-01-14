@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Perlocutionary_act"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39863"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,7 +30,13 @@
         "@id": "https://w3id.org/ocs/ont/C14423"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C39863"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C15313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6028"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C22966"
@@ -35,12 +46,6 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25495"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39863"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6028"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7467"

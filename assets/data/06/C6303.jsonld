@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Ceylon_(programming_language)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24501"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,22 +27,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10284"
+        "@id": "https://w3id.org/ocs/ont/C11333"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C10720"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C10794"
+        "@id": "https://w3id.org/ocs/ont/C7572"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C11128"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11333"
+        "@id": "https://w3id.org/ocs/ont/C10284"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1142"
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4918"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C14548"
@@ -46,28 +51,28 @@
         "@id": "https://w3id.org/ocs/ont/C18469"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C19"
+        "@id": "https://w3id.org/ocs/ont/C3639"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28944"
+        "@id": "https://w3id.org/ocs/ont/C1142"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35502"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3639"
+        "@id": "https://w3id.org/ocs/ont/C28944"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4918"
+        "@id": "https://w3id.org/ocs/ont/C10720"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6653"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7572"
+        "@id": "https://w3id.org/ocs/ont/C9023"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9023"
+        "@id": "https://w3id.org/ocs/ont/C10794"
       }
     ]
   }

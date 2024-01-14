@@ -14,6 +14,59 @@
         "@id": "http://dbpedia.org/resource/Organizational_learning"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15562"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21917"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,40 +75,40 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10057"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11021"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11026"
+        "@id": "https://w3id.org/ocs/ont/C9058"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C11097"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C12"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C13078"
+        "@id": "https://w3id.org/ocs/ont/C11026"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1332"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C13078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C3738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11021"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5092"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5699"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C7509"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9058"
+        "@id": "https://w3id.org/ocs/ont/C10057"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5699"
       }
     ]
   }

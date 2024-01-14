@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Controlled_ecological_life_support_system"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43767"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,22 +27,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C17605"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2252"
+        "@id": "https://w3id.org/ocs/ont/C5918"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C22930"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23481"
+        "@id": "https://w3id.org/ocs/ont/C17605"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C26021"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5918"
+        "@id": "https://w3id.org/ocs/ont/C2252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23481"
       }
     ]
   }

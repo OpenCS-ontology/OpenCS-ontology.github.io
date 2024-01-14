@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Saturation_arithmetic"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37399"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,37 +33,37 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11047"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11814"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C12262"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1449"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22525"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24189"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C24353"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28063"
+        "@id": "https://w3id.org/ocs/ont/C34887"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34887"
+        "@id": "https://w3id.org/ocs/ont/C22525"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24189"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6172"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8581"
+        "@id": "https://w3id.org/ocs/ont/C1449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28063"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11814"
       }
     ]
   }

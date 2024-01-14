@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Frequency_band"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16593"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24763"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,7 +36,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C5369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35301"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C10409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C21595"
@@ -31,31 +66,10 @@
         "@id": "https://w3id.org/ocs/ont/C26409"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3236"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3393"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35301"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5369"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C597"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C7159"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8612"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9113"
+        "@id": "https://w3id.org/ocs/ont/C3393"
       }
     ]
   }

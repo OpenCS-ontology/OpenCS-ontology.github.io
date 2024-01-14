@@ -6,18 +6,38 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C21"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C25"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Adversarial_system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22782"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27275"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

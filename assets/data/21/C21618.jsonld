@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Peripheral_vision"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29746"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +30,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10740"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11402"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C2422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C78"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10740"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C695"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C78"
+        "@id": "https://w3id.org/ocs/ont/C11402"
       }
     ]
   }

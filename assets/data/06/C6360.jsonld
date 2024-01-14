@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Credence_(statistics)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15233"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +27,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12748"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C14030"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17176"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17792"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29486"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34619"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C12748"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C42940"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C17792"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C6291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29486"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17176"
       }
     ]
   }

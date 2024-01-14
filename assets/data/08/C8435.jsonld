@@ -14,6 +14,44 @@
         "@id": "http://dbpedia.org/resource/Quadratic_programming"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15242"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17921"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27828"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27486"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20242"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28857"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +60,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14414"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C15480"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2005"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2413"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27828"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34053"
@@ -43,16 +69,28 @@
         "@id": "https://w3id.org/ocs/ont/C3570"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C513"
+        "@id": "https://w3id.org/ocs/ont/C9243"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6287"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C2005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2413"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C8944"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9243"
+        "@id": "https://w3id.org/ocs/ont/C27828"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C513"
       }
     ]
   }

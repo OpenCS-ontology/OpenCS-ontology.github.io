@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Red_edge"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31643"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +27,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10272"
+        "@id": "https://w3id.org/ocs/ont/C18614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6760"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C10275"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18614"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6760"
+        "@id": "https://w3id.org/ocs/ont/C10272"
       }
     ]
   }

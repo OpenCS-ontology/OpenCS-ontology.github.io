@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Ballistics"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20995"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22484"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,12 +30,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15840"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27381"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C4861"
       },
       {
@@ -35,6 +37,12 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15840"
       }
     ]
   }

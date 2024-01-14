@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Accommodative_insufficiency"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38503"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,22 +27,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C21964"
+        "@id": "https://w3id.org/ocs/ont/C4842"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2422"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26950"
+        "@id": "https://w3id.org/ocs/ont/C4926"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33343"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4842"
+        "@id": "https://w3id.org/ocs/ont/C2422"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4926"
+        "@id": "https://w3id.org/ocs/ont/C21964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26950"
       }
     ]
   }

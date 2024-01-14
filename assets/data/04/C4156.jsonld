@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Virtual_prototyping"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15159"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +27,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C16728"
+        "@id": "https://w3id.org/ocs/ont/C7256"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C17733"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23146"
+        "@id": "https://w3id.org/ocs/ont/C45109"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C254"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3345"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C45109"
+        "@id": "https://w3id.org/ocs/ont/C23146"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7000"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7256"
+        "@id": "https://w3id.org/ocs/ont/C3345"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16728"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7914"

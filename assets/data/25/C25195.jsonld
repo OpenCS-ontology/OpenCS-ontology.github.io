@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Stereophonic_sound"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36669"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37306"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34337"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +36,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15341"
+        "@id": "https://w3id.org/ocs/ont/C42394"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C15505"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36627"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C42394"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C45143"
+        "@id": "https://w3id.org/ocs/ont/C5819"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C520"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5819"
+        "@id": "https://w3id.org/ocs/ont/C9481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8291"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5843"
@@ -49,10 +63,10 @@
         "@id": "https://w3id.org/ocs/ont/C7255"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8291"
+        "@id": "https://w3id.org/ocs/ont/C45143"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9481"
+        "@id": "https://w3id.org/ocs/ont/C36627"
       }
     ]
   }

@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/American_English"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16792"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27908"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -21,15 +32,6 @@
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@id": "https://w3id.org/ocs/ont/C12167"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C13210"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16792"
-      },
       {
         "@id": "https://w3id.org/ocs/ont/C21819"
       },
@@ -40,7 +42,16 @@
         "@id": "https://w3id.org/ocs/ont/C6237"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C16792"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C9216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12167"
       }
     ]
   }

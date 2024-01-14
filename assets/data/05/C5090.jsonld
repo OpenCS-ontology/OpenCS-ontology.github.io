@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Bounding_overwatch"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15096"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,13 +30,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C3232"
+        "@id": "https://w3id.org/ocs/ont/C6665"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5252"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6665"
+        "@id": "https://w3id.org/ocs/ont/C3232"
       }
     ]
   }

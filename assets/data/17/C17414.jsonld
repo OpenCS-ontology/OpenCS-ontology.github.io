@@ -14,6 +14,26 @@
         "@id": "http://dbpedia.org/resource/Dominance-based_rough_set_approach"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31242"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30426"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33161"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31317"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +42,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C17168"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22628"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C29204"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C32194"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33161"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34939"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C38630"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4201"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C43648"
@@ -53,6 +52,27 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33161"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32194"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4201"
       }
     ]
   }

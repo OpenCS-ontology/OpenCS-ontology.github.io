@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/K-approximation_of_k-hitting_set"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31203"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,31 +27,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10553"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11542"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11701"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C14851"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C20393"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30401"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33456"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4257"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5032"
+        "@id": "https://w3id.org/ocs/ont/C8660"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5823"
@@ -55,13 +39,34 @@
         "@id": "https://w3id.org/ocs/ont/C5864"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6149"
+        "@id": "https://w3id.org/ocs/ont/C11542"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8660"
+        "@id": "https://w3id.org/ocs/ont/C30401"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11701"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5032"
       }
     ]
   }

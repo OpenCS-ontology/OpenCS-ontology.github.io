@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Analog_multiplier"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37331"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +30,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12582"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20333"
+        "@id": "https://w3id.org/ocs/ont/C7502"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38689"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7502"
+        "@id": "https://w3id.org/ocs/ont/C20333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12582"
       }
     ]
   }

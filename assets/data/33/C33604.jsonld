@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Continuous_optimization"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C45700"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43423"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +33,34 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C20536"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C2413"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C24647"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34225"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36442"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37565"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3837"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4216"
+        "@id": "https://w3id.org/ocs/ont/C8944"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4645"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8944"
+        "@id": "https://w3id.org/ocs/ont/C36442"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3837"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20536"
       }
     ]
   }

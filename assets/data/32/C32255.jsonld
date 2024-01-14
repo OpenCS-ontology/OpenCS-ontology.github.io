@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/CPCTC"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43438"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40755"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +33,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C39738"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C38766"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C39738"
+        "@id": "https://w3id.org/ocs/ont/C43646"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C40755"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C41109"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C43646"
       }
     ]
   }

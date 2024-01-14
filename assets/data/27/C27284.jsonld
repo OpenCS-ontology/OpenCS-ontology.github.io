@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Secret_sharing"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36506"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31162"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +36,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10"
+        "@id": "https://w3id.org/ocs/ont/C4218"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11664"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14164"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16125"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21324"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22263"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23855"
+        "@id": "https://w3id.org/ocs/ont/C37863"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30595"
@@ -49,19 +48,28 @@
         "@id": "https://w3id.org/ocs/ont/C31266"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C32288"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37863"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C38359"
+        "@id": "https://w3id.org/ocs/ont/C16125"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C39716"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4218"
+        "@id": "https://w3id.org/ocs/ont/C23855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7506"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C44384"
@@ -70,10 +78,16 @@
         "@id": "https://w3id.org/ocs/ont/C5692"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7506"
+        "@id": "https://w3id.org/ocs/ont/C32288"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11664"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22263"
       }
     ]
   }

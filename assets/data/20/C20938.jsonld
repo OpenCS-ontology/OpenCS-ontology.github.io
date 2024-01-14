@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Fish_locomotion"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32307"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,13 +33,13 @@
         "@id": "https://w3id.org/ocs/ont/C10144"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C20380"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C34146"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C37391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20380"
       }
     ]
   }

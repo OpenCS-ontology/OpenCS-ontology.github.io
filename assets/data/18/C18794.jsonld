@@ -6,10 +6,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13047"
+        "@id": "https://w3id.org/ocs/ont/C3057"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3057"
+        "@id": "https://w3id.org/ocs/ont/C13047"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3444"
@@ -18,6 +18,11 @@
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Error-driven_learning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30720"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

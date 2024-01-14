@@ -17,6 +17,23 @@
         "@id": "http://dbpedia.org/resource/Two-element_Boolean_algebra"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36104"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,22 +42,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10558"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C10825"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11635"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C13855"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2418"
+        "@id": "https://w3id.org/ocs/ont/C8077"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36104"
+        "@id": "https://w3id.org/ocs/ont/C42338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3894"
@@ -52,13 +63,19 @@
         "@id": "https://w3id.org/ocs/ont/C4073"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C42338"
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11635"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C43897"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8077"
+        "@id": "https://w3id.org/ocs/ont/C36104"
       }
     ]
   }

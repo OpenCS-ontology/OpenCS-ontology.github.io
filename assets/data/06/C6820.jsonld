@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Uncertainty_theory"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28318"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -21,9 +26,6 @@
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@id": "https://w3id.org/ocs/ont/C14579"
-      },
       {
         "@id": "https://w3id.org/ocs/ont/C26013"
       },
@@ -35,6 +37,9 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14579"
       }
     ]
   }

@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Offender_profiling"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34899"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +27,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14661"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C34899"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14661"
       }
     ]
   }

@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Road_pricing"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37334"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29700"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,22 +36,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12758"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C25914"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29481"
+        "@id": "https://w3id.org/ocs/ont/C6243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12758"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33707"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37334"
+        "@id": "https://w3id.org/ocs/ont/C29481"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6243"
+        "@id": "https://w3id.org/ocs/ont/C37334"
       }
     ]
   }

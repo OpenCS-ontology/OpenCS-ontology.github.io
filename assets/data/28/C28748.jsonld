@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Construction_grammar"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36082"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,28 +33,31 @@
         "@id": "https://w3id.org/ocs/ont/C1034"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C12696"
+        "@id": "https://w3id.org/ocs/ont/C16501"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C13210"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C14170"
+        "@id": "https://w3id.org/ocs/ont/C12696"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1451"
+        "@id": "https://w3id.org/ocs/ont/C5556"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C16501"
+        "@id": "https://w3id.org/ocs/ont/C2761"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2298"
+        "@id": "https://w3id.org/ocs/ont/C43813"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23608"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2761"
+        "@id": "https://w3id.org/ocs/ont/C14170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28799"
@@ -55,10 +66,7 @@
         "@id": "https://w3id.org/ocs/ont/C34287"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C43813"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5556"
+        "@id": "https://w3id.org/ocs/ont/C1451"
       }
     ]
   }

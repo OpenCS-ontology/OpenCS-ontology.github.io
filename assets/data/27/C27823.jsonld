@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/XOR_gate"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35961"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,10 +30,16 @@
         "@id": "https://w3id.org/ocs/ont/C11252"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11283"
+        "@id": "https://w3id.org/ocs/ont/C3894"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C11635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43103"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11283"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C12781"
@@ -37,19 +48,13 @@
         "@id": "https://w3id.org/ocs/ont/C13855"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C26482"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C14021"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19935"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26482"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3894"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C43103"
       }
     ]
   }

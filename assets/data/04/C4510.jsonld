@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Organizational_theory"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18305"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,22 +27,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1332"
+        "@id": "https://w3id.org/ocs/ont/C5863"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4906"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5092"
+        "@id": "https://w3id.org/ocs/ont/C9328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1332"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5243"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5863"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9328"
+        "@id": "https://w3id.org/ocs/ont/C5092"
       }
     ]
   }

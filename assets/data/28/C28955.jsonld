@@ -14,6 +14,23 @@
         "@id": "http://dbpedia.org/resource/Gröbner_basis"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29802"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31019"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +39,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C31019"
+        "@id": "https://w3id.org/ocs/ont/C5865"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C36132"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36275"
+        "@id": "https://w3id.org/ocs/ont/C31019"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5865"
+        "@id": "https://w3id.org/ocs/ont/C36275"
       }
     ]
   }

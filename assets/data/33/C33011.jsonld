@@ -17,6 +17,14 @@
         "@id": "http://dbpedia.org/resource/Hypoelliptic_operator"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C44809"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41157"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,10 +33,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C16744"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20390"
+        "@id": "https://w3id.org/ocs/ont/C45424"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23079"
@@ -37,7 +42,10 @@
         "@id": "https://w3id.org/ocs/ont/C41157"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C45424"
+        "@id": "https://w3id.org/ocs/ont/C20390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16744"
       }
     ]
   }

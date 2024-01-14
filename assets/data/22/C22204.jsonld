@@ -14,6 +14,23 @@
         "@id": "http://dbpedia.org/resource/Tactile_sensor"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34657"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33159"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +39,34 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C7008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44928"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7850"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C10368"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C10396"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11143"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1335"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17236"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C19558"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36385"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C44928"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7008"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7850"
+        "@id": "https://w3id.org/ocs/ont/C1335"
       }
     ]
   }

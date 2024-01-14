@@ -17,6 +17,20 @@
         "@id": "http://dbpedia.org/resource/Philosophy_of_logic"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19829"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27458"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -28,28 +42,28 @@
         "@id": "https://w3id.org/ocs/ont/C11060"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C12474"
+        "@id": "https://w3id.org/ocs/ont/C2302"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C126"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1443"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2302"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27896"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C43271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8635"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7467"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8635"
+        "@id": "https://w3id.org/ocs/ont/C27896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1443"
       }
     ]
   }

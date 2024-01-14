@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Extremal_combinatorics"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29836"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36942"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,22 +36,22 @@
         "@id": "https://w3id.org/ocs/ont/C13150"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C14693"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C17726"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25682"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28070"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28786"
+        "@id": "https://w3id.org/ocs/ont/C32087"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C32087"
+        "@id": "https://w3id.org/ocs/ont/C25682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28786"
       }
     ]
   }

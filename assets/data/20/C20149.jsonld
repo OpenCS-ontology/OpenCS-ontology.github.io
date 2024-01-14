@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Simulator_sickness"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31811"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,19 +30,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13320"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C13631"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C18171"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2800"
+        "@id": "https://w3id.org/ocs/ont/C13320"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28814"
+        "@id": "https://w3id.org/ocs/ont/C35621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2800"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29137"
@@ -46,13 +48,16 @@
         "@id": "https://w3id.org/ocs/ont/C31811"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C35621"
+        "@id": "https://w3id.org/ocs/ont/C660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28814"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C42684"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C660"
+        "@id": "https://w3id.org/ocs/ont/C13631"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6881"

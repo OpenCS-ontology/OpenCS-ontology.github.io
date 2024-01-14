@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Joint_spectral_radius"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C42768"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +27,34 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1447"
+        "@id": "https://w3id.org/ocs/ont/C35562"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C15405"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18170"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C25858"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28698"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35562"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36808"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C39136"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8754"
+        "@id": "https://w3id.org/ocs/ont/C1447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18170"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8754"
       }
     ]
   }

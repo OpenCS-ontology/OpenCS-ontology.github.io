@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/AURIGA"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29857"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +27,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15852"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17386"
+        "@id": "https://w3id.org/ocs/ont/C37557"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C27188"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29724"
+        "@id": "https://w3id.org/ocs/ont/C34618"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30525"
@@ -40,19 +42,22 @@
         "@id": "https://w3id.org/ocs/ont/C34151"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34618"
+        "@id": "https://w3id.org/ocs/ont/C34885"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34632"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34885"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C37145"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37557"
+        "@id": "https://w3id.org/ocs/ont/C29724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15852"
       }
     ]
   }

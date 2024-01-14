@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Simulation_software"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30636"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,6 +27,24 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C28343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C10921"
       },
       {
@@ -29,24 +52,6 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C11328"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28343"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28808"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6072"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7256"
       }
     ]
   }

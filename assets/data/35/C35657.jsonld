@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Lyapunov_equation"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39684"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44305"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +36,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15405"
+        "@id": "https://w3id.org/ocs/ont/C28698"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28698"
+        "@id": "https://w3id.org/ocs/ont/C15405"
       }
     ]
   }

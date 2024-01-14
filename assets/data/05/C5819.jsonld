@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Monaural"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16121"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23711"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +30,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10409"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15341"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15505"
+        "@id": "https://w3id.org/ocs/ont/C7279"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25195"
@@ -37,19 +39,25 @@
         "@id": "https://w3id.org/ocs/ont/C36669"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C42394"
+        "@id": "https://w3id.org/ocs/ont/C15341"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C520"
+        "@id": "https://w3id.org/ocs/ont/C8291"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7255"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7279"
+        "@id": "https://w3id.org/ocs/ont/C10409"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8291"
+        "@id": "https://w3id.org/ocs/ont/C42394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C520"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9481"

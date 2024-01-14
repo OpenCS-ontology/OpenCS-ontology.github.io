@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Maneuvering_speed"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C41539"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +27,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15071"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C16191"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22629"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25753"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C31255"
+        "@id": "https://w3id.org/ocs/ont/C670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22629"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3134"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C670"
+        "@id": "https://w3id.org/ocs/ont/C31255"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15071"
       }
     ]
   }

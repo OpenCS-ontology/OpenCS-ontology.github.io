@@ -14,6 +14,29 @@
         "@id": "http://dbpedia.org/resource/Optical_transfer_function"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25149"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26551"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +45,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11150"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11253"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C25755"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C11150"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C43094"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11253"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7597"

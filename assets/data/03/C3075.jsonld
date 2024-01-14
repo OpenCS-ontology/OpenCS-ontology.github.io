@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Friedman_test"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27440"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,13 +30,13 @@
         "@id": "https://w3id.org/ocs/ont/C10670"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11767"
+        "@id": "https://w3id.org/ocs/ont/C27702"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C20615"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C27702"
+        "@id": "https://w3id.org/ocs/ont/C11767"
       }
     ]
   }

@@ -6,15 +6,20 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10763"
+        "@id": "https://w3id.org/ocs/ont/C1564"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1564"
+        "@id": "https://w3id.org/ocs/ont/C10763"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Johnson–Nyquist_noise"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32531"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -28,16 +33,16 @@
         "@id": "https://w3id.org/ocs/ont/C10509"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C10763"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11747"
+        "@id": "https://w3id.org/ocs/ont/C5505"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1564"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5505"
+        "@id": "https://w3id.org/ocs/ont/C11747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10763"
       }
     ]
   }

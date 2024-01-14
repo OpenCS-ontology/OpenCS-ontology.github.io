@@ -14,6 +14,29 @@
         "@id": "http://dbpedia.org/resource/Potassium_channel_blocker"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40281"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38635"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +45,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14136"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C14264"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18138"
+        "@id": "https://w3id.org/ocs/ont/C37374"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14136"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33852"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37374"
+        "@id": "https://w3id.org/ocs/ont/C18138"
       }
     ]
   }

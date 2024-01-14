@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Fiducial_marker"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27541"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +30,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12755"
+        "@id": "https://w3id.org/ocs/ont/C7"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7"
+        "@id": "https://w3id.org/ocs/ont/C12755"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9603"

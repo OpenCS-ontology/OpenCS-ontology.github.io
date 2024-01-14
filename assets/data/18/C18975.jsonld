@@ -6,15 +6,20 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12099"
+        "@id": "https://w3id.org/ocs/ont/C122"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C122"
+        "@id": "https://w3id.org/ocs/ont/C12099"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Stochastic_cellular_automaton"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36615"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -25,13 +30,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C122"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14123"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25461"
+        "@id": "https://w3id.org/ocs/ont/C7689"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30864"
@@ -40,13 +39,16 @@
         "@id": "https://w3id.org/ocs/ont/C33043"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37437"
+        "@id": "https://w3id.org/ocs/ont/C14123"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38273"
+        "@id": "https://w3id.org/ocs/ont/C9373"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C42980"
+        "@id": "https://w3id.org/ocs/ont/C122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25461"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6594"
@@ -55,10 +57,13 @@
         "@id": "https://w3id.org/ocs/ont/C6909"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7689"
+        "@id": "https://w3id.org/ocs/ont/C42980"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9373"
+        "@id": "https://w3id.org/ocs/ont/C37437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38273"
       }
     ]
   }

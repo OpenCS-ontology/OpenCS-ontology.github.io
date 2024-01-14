@@ -3,6 +3,7 @@ const IRIs = {
     "label": ["http://www.w3.org/2004/02/skos/core#prefLabel"],
     "related": ["http://www.w3.org/2004/02/skos/core#related"],
     "broader": ["http://www.w3.org/2004/02/skos/core#broader"],
+    "narrower": ["http://www.w3.org/2004/02/skos/core#narrower"],
     "match": ["http://www.w3.org/2004/02/skos/core#closeMatch"],
 }
 const DBPEDIA_IRIs = {
@@ -116,12 +117,14 @@ class Browser {
         document.getElementById("loading-message").innerHTML = "Loading...";
 
         let relatedPromise = Promise.all(entity.related.map(extractId).map(this.cache.get.bind(this.cache))).then((entities) => {return entities.map(Accessor);});
+        let narrowerPromise = Promise.all(entity.narrower.map(extractId).map(this.cache.get.bind(this.cache))).then((entities) => {return entities.map(Accessor);});
         let broaderPromise = this.traverseUp(entityId);
         let abstractPromise = this.getDbpediaAbstract(entity);
 
-        await Promise.all([entity.match, relatedPromise, broaderPromise, abstractPromise]).then(async ([match, related, broader, abstract]) => {
+        await Promise.all([entity.match, relatedPromise, narrowerPromise, broaderPromise, abstractPromise]).then(async ([match, related, narrower, broader, abstract]) => {
             related.sort((a, b) => a.id - b.id);
 
+            console.log(narrower)
             document.getElementById("abstractbar").innerHTML = abstract;
             document.getElementById("content-match").innerHTML = this.makeSection("Close match to", match.map(this.asExternalLink));
             document.getElementById("content-related").innerHTML = this.makeSection("Related to", related.map(this.asLink));

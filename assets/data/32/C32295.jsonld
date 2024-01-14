@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Blue_straggler"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40136"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +36,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15251"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17246"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18085"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19549"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21307"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22542"
+        "@id": "https://w3id.org/ocs/ont/C29212"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C22649"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23210"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25949"
+        "@id": "https://w3id.org/ocs/ont/C22542"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C26348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37041"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C27654"
@@ -58,22 +63,31 @@
         "@id": "https://w3id.org/ocs/ont/C28477"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29212"
+        "@id": "https://w3id.org/ocs/ont/C31120"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29892"
+        "@id": "https://w3id.org/ocs/ont/C18085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19549"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30109"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C31120"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37041"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29892"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25949"
       }
     ]
   }

@@ -14,6 +14,41 @@
         "@id": "http://dbpedia.org/resource/Law_of_total_probability"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39971"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44592"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41200"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45075"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38985"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +57,34 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11384"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1844"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C246"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C38985"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39174"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C40063"
+        "@id": "https://w3id.org/ocs/ont/C6909"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C42482"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C11384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C246"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C6291"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6909"
+        "@id": "https://w3id.org/ocs/ont/C38985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40063"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
       }
     ]
   }

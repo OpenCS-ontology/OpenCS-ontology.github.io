@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Deaf_culture"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33629"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +27,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15973"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16631"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19175"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20933"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C23816"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25188"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26953"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27530"
+        "@id": "https://w3id.org/ocs/ont/C7858"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30694"
@@ -52,10 +39,28 @@
         "@id": "https://w3id.org/ocs/ont/C34292"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C19175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20933"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27530"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C7501"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7858"
+        "@id": "https://w3id.org/ocs/ont/C25188"
       }
     ]
   }

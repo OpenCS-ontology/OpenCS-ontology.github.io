@@ -6,18 +6,26 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C27"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Allocator_(C++)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27052"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20011"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

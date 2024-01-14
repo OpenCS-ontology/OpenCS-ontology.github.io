@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Business_value"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22202"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,37 +27,37 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12146"
+        "@id": "https://w3id.org/ocs/ont/C38555"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3395"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1332"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C24697"
+        "@id": "https://w3id.org/ocs/ont/C9248"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37106"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C31920"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32978"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3395"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37106"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C38555"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4280"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4558"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9248"
       }
     ]
   }

@@ -17,6 +17,14 @@
         "@id": "http://dbpedia.org/resource/Survivability"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17549"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,19 +33,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12641"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C1502"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21767"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2878"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21767"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4817"

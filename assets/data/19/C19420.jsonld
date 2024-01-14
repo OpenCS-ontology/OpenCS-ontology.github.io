@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Observed_information"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37309"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,19 +30,10 @@
         "@id": "https://w3id.org/ocs/ont/C10222"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11025"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C13685"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14030"
+        "@id": "https://w3id.org/ocs/ont/C25862"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23664"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25862"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29461"
@@ -47,6 +43,15 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13685"
       }
     ]
   }

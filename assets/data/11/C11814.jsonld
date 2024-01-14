@@ -17,6 +17,41 @@
         "@id": "http://dbpedia.org/resource/Digital_signal_processor"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23792"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19994"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18343"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18762"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16130"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,40 +60,40 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10320"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1449"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1904"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C31889"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37538"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5336"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5463"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6172"
+        "@id": "https://w3id.org/ocs/ont/C11"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7165"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C856"
+        "@id": "https://w3id.org/ocs/ont/C5463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1449"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37538"
       }
     ]
   }

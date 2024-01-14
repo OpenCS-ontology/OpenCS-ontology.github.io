@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Fast_marching_method"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30852"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,28 +30,28 @@
         "@id": "https://w3id.org/ocs/ont/C14863"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C17158"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29175"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30084"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37720"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C40680"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C42821"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4966"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C30084"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17158"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C77"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29175"
       }
     ]
   }

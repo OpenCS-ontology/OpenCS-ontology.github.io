@@ -14,6 +14,44 @@
         "@id": "http://dbpedia.org/resource/Computable_analysis"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43294"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38732"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45912"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41269"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44854"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,16 +63,16 @@
         "@id": "https://w3id.org/ocs/ont/C10"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C24265"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28635"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C39884"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C24265"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C40182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28635"
       }
     ]
   }

@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Preamplifier"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32387"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37153"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +33,34 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13265"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1490"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C3843"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38517"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C520"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5790"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5843"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6417"
+        "@id": "https://w3id.org/ocs/ont/C13265"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8291"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C5843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C520"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C9481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38517"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6417"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5790"
       }
     ]
   }

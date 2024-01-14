@@ -9,15 +9,29 @@
         "@id": "https://w3id.org/ocs/ont/C1034"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C12647"
+        "@id": "https://w3id.org/ocs/ont/C13006"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C13006"
+        "@id": "https://w3id.org/ocs/ont/C12647"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Sentence_processing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31591"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30478"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32104"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -31,19 +45,19 @@
         "@id": "https://w3id.org/ocs/ont/C1034"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1451"
+        "@id": "https://w3id.org/ocs/ont/C8366"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29946"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34379"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8366"
+        "@id": "https://w3id.org/ocs/ont/C1451"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34379"
       }
     ]
   }

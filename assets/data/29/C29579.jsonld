@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Lunar_distance_(astronomy)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41898"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +30,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C25918"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29898"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C37492"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29898"
       }
     ]
   }

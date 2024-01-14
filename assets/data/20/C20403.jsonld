@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Mixed_complementarity_problem"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33829"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +30,34 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C21421"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33829"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3570"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36768"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39422"
+        "@id": "https://w3id.org/ocs/ont/C9243"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C43279"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8331"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C8435"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8944"
+        "@id": "https://w3id.org/ocs/ont/C33829"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9243"
+        "@id": "https://w3id.org/ocs/ont/C36768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8944"
       }
     ]
   }

@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Frequency-division_multiplexing"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C41217"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,46 +27,46 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12942"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16022"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1727"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18001"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19721"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2188"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23488"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C24781"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2582"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C330"
+        "@id": "https://w3id.org/ocs/ont/C16022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18001"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C44707"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C19721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23488"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2582"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C330"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C7464"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C1727"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C7502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12942"
       }
     ]
   }

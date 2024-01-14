@@ -14,6 +14,29 @@
         "@id": "http://dbpedia.org/resource/Bouteloua_gracilis"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33782"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31873"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33742"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31132"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +45,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C19519"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30968"
+        "@id": "https://w3id.org/ocs/ont/C39757"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C31132"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C19519"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C34579"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C39757"
+        "@id": "https://w3id.org/ocs/ont/C30968"
       }
     ]
   }

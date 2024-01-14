@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Ant_venom"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34402"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34600"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +30,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C19253"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C21653"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28708"
+        "@id": "https://w3id.org/ocs/ont/C19253"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C36512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28708"
       }
     ]
   }

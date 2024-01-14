@@ -6,15 +6,20 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C18973"
+        "@id": "https://w3id.org/ocs/ont/C28080"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28080"
+        "@id": "https://w3id.org/ocs/ont/C18973"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Mining_Software_Repositories"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43986"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

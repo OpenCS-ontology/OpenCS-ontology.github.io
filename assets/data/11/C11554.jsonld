@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Balanced_line"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19234"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +27,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C19234"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C22526"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5511"
+        "@id": "https://w3id.org/ocs/ont/C8291"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C691"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6913"
+        "@id": "https://w3id.org/ocs/ont/C19234"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8291"
+        "@id": "https://w3id.org/ocs/ont/C5511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6913"
       }
     ]
   }

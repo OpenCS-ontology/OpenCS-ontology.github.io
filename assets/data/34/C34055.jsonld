@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Yates_analysis"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43193"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +27,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11767"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C19150"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24494"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28576"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C32610"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33389"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C5713"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11767"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C43193"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5713"
+        "@id": "https://w3id.org/ocs/ont/C28576"
       }
     ]
   }

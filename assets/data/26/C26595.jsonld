@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Burmese_python"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32034"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +30,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C29383"
+        "@id": "https://w3id.org/ocs/ont/C32523"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C32523"
+        "@id": "https://w3id.org/ocs/ont/C29383"
       }
     ]
   }

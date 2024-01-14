@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Orbit_determination"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33835"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31009"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37129"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,10 +39,10 @@
         "@id": "https://w3id.org/ocs/ont/C18584"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C31029"
+        "@id": "https://w3id.org/ocs/ont/C37916"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37916"
+        "@id": "https://w3id.org/ocs/ont/C31029"
       }
     ]
   }

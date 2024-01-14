@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Radio_broadcasting"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32135"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33535"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36914"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +36,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10409"
+        "@id": "https://w3id.org/ocs/ont/C8614"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C12999"
+        "@id": "https://w3id.org/ocs/ont/C7159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28716"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C14053"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15505"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18001"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19366"
@@ -43,22 +54,25 @@
         "@id": "https://w3id.org/ocs/ont/C26768"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26908"
+        "@id": "https://w3id.org/ocs/ont/C31899"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28716"
+        "@id": "https://w3id.org/ocs/ont/C10409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26908"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C31899"
+        "@id": "https://w3id.org/ocs/ont/C18001"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7159"
+        "@id": "https://w3id.org/ocs/ont/C12999"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8614"
+        "@id": "https://w3id.org/ocs/ont/C15505"
       }
     ]
   }

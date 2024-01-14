@@ -14,6 +14,23 @@
         "@id": "http://dbpedia.org/resource/Radial_velocity"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37791"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32994"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30806"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30411"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,40 +39,40 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10556"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C13745"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18085"
+        "@id": "https://w3id.org/ocs/ont/C24724"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C22752"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C24724"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25028"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25140"
+        "@id": "https://w3id.org/ocs/ont/C31589"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25918"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26348"
+        "@id": "https://w3id.org/ocs/ont/C25140"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C26524"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C13745"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C27654"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C31589"
+        "@id": "https://w3id.org/ocs/ont/C10556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25028"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C597"

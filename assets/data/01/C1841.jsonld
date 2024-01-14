@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Multi-band_device"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21612"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,61 +27,61 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12641"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12853"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C15505"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16693"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17999"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18799"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21424"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27704"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33773"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35370"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35564"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35692"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36500"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5672"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5917"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C616"
+        "@id": "https://w3id.org/ocs/ont/C8021"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8021"
+        "@id": "https://w3id.org/ocs/ont/C16693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18799"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9113"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9154"
+        "@id": "https://w3id.org/ocs/ont/C12853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C616"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35692"
       }
     ]
   }

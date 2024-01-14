@@ -9,15 +9,26 @@
         "@id": "https://w3id.org/ocs/ont/C29"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C35"
+        "@id": "https://w3id.org/ocs/ont/C5"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5"
+        "@id": "https://w3id.org/ocs/ont/C35"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Obfuscation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24200"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -28,25 +39,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C24200"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25123"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4218"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5692"
+        "@id": "https://w3id.org/ocs/ont/C7170"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6234"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7170"
+        "@id": "https://w3id.org/ocs/ont/C5692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24200"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25123"
       }
     ]
   }

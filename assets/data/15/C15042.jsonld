@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Spider_toxin"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37755"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32120"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +36,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14264"
+        "@id": "https://w3id.org/ocs/ont/C15901"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C15901"
+        "@id": "https://w3id.org/ocs/ont/C34437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37219"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34191"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29607"
@@ -37,25 +63,13 @@
         "@id": "https://w3id.org/ocs/ont/C33493"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34191"
+        "@id": "https://w3id.org/ocs/ont/C43976"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34437"
+        "@id": "https://w3id.org/ocs/ont/C14264"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34824"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35813"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36335"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37219"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C43976"
       }
     ]
   }

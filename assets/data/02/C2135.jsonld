@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Graphic_design"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29308"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26965"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +33,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C24238"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28533"
+        "@id": "https://w3id.org/ocs/ont/C622"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5477"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C622"
+        "@id": "https://w3id.org/ocs/ont/C9606"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9606"
+        "@id": "https://w3id.org/ocs/ont/C24238"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28533"
       }
     ]
   }

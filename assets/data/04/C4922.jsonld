@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Asterisk"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14935"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,46 +30,46 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11699"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12983"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1805"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2023"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23011"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28801"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5126"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C6416"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6493"
+        "@id": "https://w3id.org/ocs/ont/C9606"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7064"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C23011"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C7693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2023"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9162"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9606"
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1805"
       }
     ]
   }

@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Debris_disk"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C44975"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,52 +27,52 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10556"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C13745"
+        "@id": "https://w3id.org/ocs/ont/C25140"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C14270"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C16417"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17174"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18085"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19222"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22752"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25140"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26348"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C26524"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26711"
+        "@id": "https://w3id.org/ocs/ont/C16417"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C27654"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36049"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C44975"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C10556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26348"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36049"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17174"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26711"
       }
     ]
   }

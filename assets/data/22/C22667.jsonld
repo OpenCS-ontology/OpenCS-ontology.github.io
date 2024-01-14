@@ -14,6 +14,29 @@
         "@id": "http://dbpedia.org/resource/Flight_management_system"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33190"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,37 +45,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10919"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12641"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12648"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15050"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16191"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16352"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18996"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20572"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24485"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C31202"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36804"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C42471"
@@ -61,10 +54,40 @@
         "@id": "https://w3id.org/ocs/ont/C4597"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5030"
+        "@id": "https://w3id.org/ocs/ont/C24485"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18996"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10919"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36804"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5913"

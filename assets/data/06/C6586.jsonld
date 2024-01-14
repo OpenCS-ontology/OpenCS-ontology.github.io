@@ -14,6 +14,26 @@
         "@id": "http://dbpedia.org/resource/Moiré_pattern"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16922"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25330"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,22 +42,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C26521"
+        "@id": "https://w3id.org/ocs/ont/C39878"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28588"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C39878"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C44628"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6816"
+        "@id": "https://w3id.org/ocs/ont/C26521"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6816"
       }
     ]
   }

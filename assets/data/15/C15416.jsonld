@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Kinematic_chain"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31633"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +33,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1493"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25273"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C28400"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2948"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31144"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31633"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33887"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C41500"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C44424"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C44531"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5394"
@@ -58,7 +42,34 @@
         "@id": "https://w3id.org/ocs/ont/C7003"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C31144"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C7848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25273"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44531"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41500"
       }
     ]
   }

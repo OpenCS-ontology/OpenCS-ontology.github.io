@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Local_Group"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29644"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,19 +30,19 @@
         "@id": "https://w3id.org/ocs/ont/C10556"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C17246"
+        "@id": "https://w3id.org/ocs/ont/C34069"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C19938"
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17246"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29074"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34069"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C597"
+        "@id": "https://w3id.org/ocs/ont/C19938"
       }
     ]
   }

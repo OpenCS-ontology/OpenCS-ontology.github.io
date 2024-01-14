@@ -14,6 +14,29 @@
         "@id": "http://dbpedia.org/resource/Mechanosensitive_channels"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C42933"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40848"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38677"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44788"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43643"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +45,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C43643"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C23973"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35038"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38491"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C43643"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C44788"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38491"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C597"

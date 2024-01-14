@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Quercus_geminata"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40453"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41820"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +30,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14422"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19080"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23107"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28294"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29185"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31562"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C32542"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C33897"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14422"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34303"
@@ -52,13 +42,31 @@
         "@id": "https://w3id.org/ocs/ont/C36159"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37450"
+        "@id": "https://w3id.org/ocs/ont/C29185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31562"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23107"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C40080"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C40453"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28294"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37450"
       }
     ]
   }

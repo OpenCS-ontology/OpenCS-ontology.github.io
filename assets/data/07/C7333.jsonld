@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Voucher"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18757"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,40 +30,40 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C11697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4779"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C10270"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C11389"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11697"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12752"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C14584"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C24050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5160"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C26014"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C27523"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3312"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4779"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5160"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8614"
       }
     ]
   }

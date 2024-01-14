@@ -6,15 +6,26 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C19"
+        "@id": "https://w3id.org/ocs/ont/C29"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29"
+        "@id": "https://w3id.org/ocs/ont/C19"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Static_analysis"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26466"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -25,22 +36,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10720"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C12009"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C19"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20259"
+        "@id": "https://w3id.org/ocs/ont/C7126"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C45212"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7126"
+        "@id": "https://w3id.org/ocs/ont/C20259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
       }
     ]
   }

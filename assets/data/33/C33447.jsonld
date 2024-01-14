@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Vendor_Neutral_Archive"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C42519"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +27,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C3032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C318"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42519"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C11887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8302"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C21634"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28789"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3032"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C318"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C32661"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C42519"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8302"
       }
     ]
   }

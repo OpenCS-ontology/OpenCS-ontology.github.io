@@ -20,6 +20,11 @@
         "@id": "http://dbpedia.org/resource/Transputer"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15278"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -28,46 +33,46 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10320"
+        "@id": "https://w3id.org/ocs/ont/C19487"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C12690"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C13113"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14627"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19487"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27"
+        "@id": "https://w3id.org/ocs/ont/C10320"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C283"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C33174"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4863"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6172"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7735"
+        "@id": "https://w3id.org/ocs/ont/C9"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C856"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9"
+        "@id": "https://w3id.org/ocs/ont/C6172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33174"
       }
     ]
   }

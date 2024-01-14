@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Signal_chain"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43060"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,22 +30,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10492"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C257"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3843"
+        "@id": "https://w3id.org/ocs/ont/C520"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38517"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C520"
+        "@id": "https://w3id.org/ocs/ont/C3843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10492"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C257"
       }
     ]
   }

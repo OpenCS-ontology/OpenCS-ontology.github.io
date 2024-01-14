@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Industrial_Ethernet"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31552"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29904"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,40 +30,40 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11864"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14858"
+        "@id": "https://w3id.org/ocs/ont/C20519"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C15048"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C173"
+        "@id": "https://w3id.org/ocs/ont/C42934"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C20519"
+        "@id": "https://w3id.org/ocs/ont/C14858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C173"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23445"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31552"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C42934"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C43830"
+        "@id": "https://w3id.org/ocs/ont/C11864"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4458"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31552"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43830"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5821"

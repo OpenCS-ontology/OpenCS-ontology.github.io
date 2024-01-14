@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Decomposition_of_time_series"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35994"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -28,25 +33,25 @@
         "@id": "https://w3id.org/ocs/ont/C26525"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28457"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35994"
+        "@id": "https://w3id.org/ocs/ont/C6909"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4217"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4515"
+        "@id": "https://w3id.org/ocs/ont/C9428"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35994"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5505"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6909"
+        "@id": "https://w3id.org/ocs/ont/C4515"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9428"
+        "@id": "https://w3id.org/ocs/ont/C28457"
       }
     ]
   }

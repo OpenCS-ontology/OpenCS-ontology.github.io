@@ -17,6 +17,32 @@
         "@id": "http://dbpedia.org/resource/Swarm_behaviour"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22760"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19779"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16644"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,13 +51,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C19182"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19750"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C597"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9373"

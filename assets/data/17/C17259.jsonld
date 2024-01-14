@@ -14,6 +14,26 @@
         "@id": "http://dbpedia.org/resource/Avalanche_photodiode"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36992"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32072"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31553"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30954"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +42,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C36610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27089"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C19353"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19524"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C27089"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31553"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36610"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C597"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31553"
       }
     ]
   }

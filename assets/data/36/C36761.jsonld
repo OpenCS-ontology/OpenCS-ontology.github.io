@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Cardinality_of_the_continuum"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C41225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44930"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,19 +33,19 @@
         "@id": "https://w3id.org/ocs/ont/C16190"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C16538"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24167"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34745"
+        "@id": "https://w3id.org/ocs/ont/C5251"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C41225"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5251"
+        "@id": "https://w3id.org/ocs/ont/C24167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34745"
       }
     ]
   }

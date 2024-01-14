@@ -14,6 +14,23 @@
         "@id": "http://dbpedia.org/resource/Helobdella"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34833"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29681"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +39,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C17801"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18740"
+        "@id": "https://w3id.org/ocs/ont/C35126"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23493"
@@ -34,19 +48,22 @@
         "@id": "https://w3id.org/ocs/ont/C24128"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28651"
+        "@id": "https://w3id.org/ocs/ont/C34201"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33225"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34201"
+        "@id": "https://w3id.org/ocs/ont/C18740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17801"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35110"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35126"
       }
     ]
   }

@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Computational_group_theory"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39552"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +27,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28340"
+        "@id": "https://w3id.org/ocs/ont/C29978"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28353"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29978"
+        "@id": "https://w3id.org/ocs/ont/C36813"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36813"
+        "@id": "https://w3id.org/ocs/ont/C28340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
       }
     ]
   }

@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Dreyfus_model_of_skill_acquisition"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16779"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +27,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11021"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31111"
+        "@id": "https://w3id.org/ocs/ont/C6551"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33429"
@@ -34,7 +36,10 @@
         "@id": "https://w3id.org/ocs/ont/C37820"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6551"
+        "@id": "https://w3id.org/ocs/ont/C11021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31111"
       }
     ]
   }

@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Multivariate_t-distribution"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43535"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +27,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14852"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1844"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C23431"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25862"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26905"
+        "@id": "https://w3id.org/ocs/ont/C9326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39273"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33009"
@@ -43,13 +45,16 @@
         "@id": "https://w3id.org/ocs/ont/C36011"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C39273"
+        "@id": "https://w3id.org/ocs/ont/C14852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26905"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C42795"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9326"
       }
     ]
   }

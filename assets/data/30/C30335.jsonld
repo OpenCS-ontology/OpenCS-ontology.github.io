@@ -14,6 +14,83 @@
         "@id": "http://dbpedia.org/resource/Applications_architecture"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C45381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38885"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44842"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43011"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43056"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38363"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38854"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44839"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44770"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43303"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +99,40 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13744"
+        "@id": "https://w3id.org/ocs/ont/C28528"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C14329"
+        "@id": "https://w3id.org/ocs/ont/C40270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44353"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C17238"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18539"
+        "@id": "https://w3id.org/ocs/ont/C44842"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C197"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28528"
+        "@id": "https://w3id.org/ocs/ont/C40085"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C31201"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34421"
+        "@id": "https://w3id.org/ocs/ont/C45437"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44839"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14329"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34713"
@@ -52,31 +141,19 @@
         "@id": "https://w3id.org/ocs/ont/C38363"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38667"
+        "@id": "https://w3id.org/ocs/ont/C34421"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C40085"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C40270"
+        "@id": "https://w3id.org/ocs/ont/C18539"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C43469"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C44353"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C44839"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C44842"
+        "@id": "https://w3id.org/ocs/ont/C38667"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C45082"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C45437"
       }
     ]
   }

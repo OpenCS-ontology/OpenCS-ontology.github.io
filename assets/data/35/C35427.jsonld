@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Common_law_copyright"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40984"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40853"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,31 +30,31 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13306"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18030"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18764"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28712"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30476"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31822"
+        "@id": "https://w3id.org/ocs/ont/C40984"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32847"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C18030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13306"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C33316"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C40984"
+        "@id": "https://w3id.org/ocs/ont/C28712"
       }
     ]
   }

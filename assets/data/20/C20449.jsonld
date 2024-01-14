@@ -6,10 +6,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1034"
+        "@id": "https://w3id.org/ocs/ont/C13006"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C13006"
+        "@id": "https://w3id.org/ocs/ont/C1034"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8564"
@@ -18,6 +18,11 @@
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Garden_Path"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29946"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

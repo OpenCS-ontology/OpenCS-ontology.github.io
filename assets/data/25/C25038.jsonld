@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Positional_notation"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31507"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +27,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C18079"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C3786"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18079"
       }
     ]
   }

@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Variogram"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31833"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +33,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C16169"
+        "@id": "https://w3id.org/ocs/ont/C8756"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2115"
+        "@id": "https://w3id.org/ocs/ont/C16169"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C260"
@@ -37,7 +48,7 @@
         "@id": "https://w3id.org/ocs/ont/C836"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8756"
+        "@id": "https://w3id.org/ocs/ont/C2115"
       }
     ]
   }

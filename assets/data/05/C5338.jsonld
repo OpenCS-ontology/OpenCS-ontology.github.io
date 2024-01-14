@@ -14,6 +14,29 @@
         "@id": "http://dbpedia.org/resource/Resizing_(fiction)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22954"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21089"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22247"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17772"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +45,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C541"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C2585"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C31062"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4000"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C45206"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C541"
+        "@id": "https://w3id.org/ocs/ont/C4000"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C622"

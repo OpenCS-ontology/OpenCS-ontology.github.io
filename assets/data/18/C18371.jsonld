@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Dorsal_scales"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35435"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +30,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14629"
+        "@id": "https://w3id.org/ocs/ont/C21816"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C17409"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21816"
+        "@id": "https://w3id.org/ocs/ont/C14629"
       }
     ]
   }

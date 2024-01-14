@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Schedule_(project_management)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33449"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,22 +36,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C30932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25147"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C13143"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C20086"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25147"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30932"
+        "@id": "https://w3id.org/ocs/ont/C7056"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C44198"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7056"
       }
     ]
   }

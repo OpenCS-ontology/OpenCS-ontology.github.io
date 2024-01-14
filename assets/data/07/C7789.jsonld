@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Charge-coupled_device"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23097"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +27,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12580"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C13065"
+        "@id": "https://w3id.org/ocs/ont/C29365"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19353"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29365"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39878"
+        "@id": "https://w3id.org/ocs/ont/C13065"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C597"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12580"
       }
     ]
   }

@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Bézier_surface"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35167"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,52 +30,52 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C18519"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C19229"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22682"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25020"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29473"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29534"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31512"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35167"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3851"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39716"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C44381"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C44445"
+        "@id": "https://w3id.org/ocs/ont/C25020"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C45109"
+        "@id": "https://w3id.org/ocs/ont/C8324"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C45272"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8324"
+        "@id": "https://w3id.org/ocs/ont/C29473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44445"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35167"
       }
     ]
   }

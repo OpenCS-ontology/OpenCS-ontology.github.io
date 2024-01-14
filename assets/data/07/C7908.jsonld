@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Likelihood-ratio_test"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23664"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26076"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28867"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,6 +33,15 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C23664"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C11767"
       },
       {
@@ -29,15 +49,6 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C15258"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1844"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23664"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8456"
       }
     ]
   }

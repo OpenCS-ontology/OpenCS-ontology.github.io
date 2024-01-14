@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Higher-order_statistics"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36662"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34463"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34276"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +33,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13262"
+        "@id": "https://w3id.org/ocs/ont/C42729"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C20805"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25294"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39575"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C4030"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C42729"
+        "@id": "https://w3id.org/ocs/ont/C795"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C795"
+        "@id": "https://w3id.org/ocs/ont/C25294"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39575"
       }
     ]
   }

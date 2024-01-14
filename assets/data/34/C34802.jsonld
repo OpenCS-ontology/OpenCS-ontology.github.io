@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Lanthanum%28III%29_bromide"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C44409"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -28,10 +33,10 @@
         "@id": "https://w3id.org/ocs/ont/C19292"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C20298"
+        "@id": "https://w3id.org/ocs/ont/C25787"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25787"
+        "@id": "https://w3id.org/ocs/ont/C20298"
       }
     ]
   }

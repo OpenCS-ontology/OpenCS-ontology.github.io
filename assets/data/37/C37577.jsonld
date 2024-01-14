@@ -17,6 +17,20 @@
         "@id": "http://dbpedia.org/resource/Traffic_shaping"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38619"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42925"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41620"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,64 +39,64 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15065"
+        "@id": "https://w3id.org/ocs/ont/C4197"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C15589"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16851"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16953"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17371"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17625"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19479"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20540"
+        "@id": "https://w3id.org/ocs/ont/C8614"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C20691"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C22407"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23964"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24323"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3"
+        "@id": "https://w3id.org/ocs/ont/C41620"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38312"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C41620"
+        "@id": "https://w3id.org/ocs/ont/C17371"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4197"
+        "@id": "https://w3id.org/ocs/ont/C16953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17625"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C42093"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C24323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15589"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C44036"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8614"
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20540"
       }
     ]
   }

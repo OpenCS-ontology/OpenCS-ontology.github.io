@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Neuroscience_Information_Framework"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37110"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +27,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13186"
+        "@id": "https://w3id.org/ocs/ont/C33167"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C33167"
+        "@id": "https://w3id.org/ocs/ont/C13186"
       }
     ]
   }

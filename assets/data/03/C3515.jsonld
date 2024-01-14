@@ -17,6 +17,32 @@
         "@id": "http://dbpedia.org/resource/Decidability_(logic)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14986"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18926"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17845"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24949"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25054"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,28 +51,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10558"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C10825"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12474"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12739"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14986"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20939"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21946"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2418"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2420"
@@ -55,13 +60,28 @@
         "@id": "https://w3id.org/ocs/ont/C2727"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28277"
+        "@id": "https://w3id.org/ocs/ont/C8080"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10558"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28286"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34319"
+        "@id": "https://w3id.org/ocs/ont/C14986"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C45460"
@@ -70,10 +90,16 @@
         "@id": "https://w3id.org/ocs/ont/C7596"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8080"
+        "@id": "https://w3id.org/ocs/ont/C28277"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8635"
+        "@id": "https://w3id.org/ocs/ont/C21946"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20939"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12739"
       }
     ]
   }

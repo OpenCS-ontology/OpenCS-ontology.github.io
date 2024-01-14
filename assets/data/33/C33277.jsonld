@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Displacement_mapping"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37867"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,22 +30,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11689"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17710"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18519"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1904"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19229"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19559"
+        "@id": "https://w3id.org/ocs/ont/C24235"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C21609"
@@ -46,37 +39,52 @@
         "@id": "https://w3id.org/ocs/ont/C22"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C24235"
+        "@id": "https://w3id.org/ocs/ont/C8399"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28061"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31649"
+        "@id": "https://w3id.org/ocs/ont/C19229"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32841"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C331"
+        "@id": "https://w3id.org/ocs/ont/C44381"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36168"
+        "@id": "https://w3id.org/ocs/ont/C31649"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C37539"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C17710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28061"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C40693"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C44381"
+        "@id": "https://w3id.org/ocs/ont/C36168"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5514"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8399"
+        "@id": "https://w3id.org/ocs/ont/C19559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18519"
       }
     ]
   }

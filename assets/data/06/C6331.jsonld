@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Penalty_method"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17497"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,40 +27,40 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12217"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12314"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15480"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15665"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21263"
+        "@id": "https://w3id.org/ocs/ont/C41550"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3570"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37565"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C40201"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C41550"
+        "@id": "https://w3id.org/ocs/ont/C21263"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C513"
+        "@id": "https://w3id.org/ocs/ont/C8944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12314"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6287"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8944"
+        "@id": "https://w3id.org/ocs/ont/C513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15480"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15665"
       }
     ]
   }

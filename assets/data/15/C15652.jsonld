@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Hermite_interpolation"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37423"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33344"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -28,37 +36,37 @@
         "@id": "https://w3id.org/ocs/ont/C19373"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21380"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31512"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34821"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37969"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39716"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C42372"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C42443"
+        "@id": "https://w3id.org/ocs/ont/C44445"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C43001"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C44445"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C45272"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C21380"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C8781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37969"
       }
     ]
   }

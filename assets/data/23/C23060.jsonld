@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Medical_image_computing"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31134"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +27,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C21"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21305"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C22"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29"
+        "@id": "https://w3id.org/ocs/ont/C21"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3932"
@@ -43,7 +39,16 @@
         "@id": "https://w3id.org/ocs/ont/C7"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21305"
       }
     ]
   }

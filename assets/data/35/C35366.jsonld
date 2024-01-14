@@ -12,15 +12,20 @@
         "@id": "https://w3id.org/ocs/ont/C22567"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26637"
+        "@id": "https://w3id.org/ocs/ont/C27052"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C27052"
+        "@id": "https://w3id.org/ocs/ont/C26637"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/C++_Technical_Report_1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43853"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

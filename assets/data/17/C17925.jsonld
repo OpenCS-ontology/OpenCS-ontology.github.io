@@ -14,21 +14,15 @@
         "@id": "http://dbpedia.org/resource/Possible_world"
       }
     ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+    "http://www.w3.org/2004/02/skos/core#narrower": [
       {
-        "@language": "en",
-        "@value": "Possible world"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@id": "https://w3id.org/ocs/ont/C126"
+        "@id": "https://w3id.org/ocs/ont/C31642"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1443"
+        "@id": "https://w3id.org/ocs/ont/C31196"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21127"
+        "@id": "https://w3id.org/ocs/ont/C33559"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32467"
@@ -37,13 +31,39 @@
         "@id": "https://w3id.org/ocs/ont/C36725"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C41223"
+        "@id": "https://w3id.org/ocs/ont/C37475"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Possible world"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21127"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7467"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32467"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1443"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C8077"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36725"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41223"
       }
     ]
   }

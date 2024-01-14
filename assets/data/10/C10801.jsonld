@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Encyclopedia"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24771"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16096"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,9 +30,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C31"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C4916"
       },
       {
@@ -32,6 +37,9 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31"
       }
     ]
   }

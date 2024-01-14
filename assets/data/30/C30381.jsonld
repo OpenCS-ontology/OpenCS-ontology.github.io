@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Tardiness"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38900"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42367"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,7 +30,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10347"
+        "@id": "https://w3id.org/ocs/ont/C5868"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C31012"
@@ -31,7 +39,7 @@
         "@id": "https://w3id.org/ocs/ont/C5861"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5868"
+        "@id": "https://w3id.org/ocs/ont/C10347"
       }
     ]
   }

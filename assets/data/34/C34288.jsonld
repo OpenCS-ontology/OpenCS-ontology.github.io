@@ -14,6 +14,29 @@
         "@id": "http://dbpedia.org/resource/Coronagraph"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C45820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41215"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38054"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,7 +45,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C22752"
+        "@id": "https://w3id.org/ocs/ont/C597"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25140"
@@ -31,16 +54,16 @@
         "@id": "https://w3id.org/ocs/ont/C26524"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29867"
+        "@id": "https://w3id.org/ocs/ont/C8561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22752"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38054"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C597"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8561"
+        "@id": "https://w3id.org/ocs/ont/C29867"
       }
     ]
   }

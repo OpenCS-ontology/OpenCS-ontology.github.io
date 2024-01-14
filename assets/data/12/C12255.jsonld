@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Enterprise_information_system"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15098"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,52 +30,52 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12694"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12736"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21399"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2304"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2352"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25464"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29401"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2979"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29983"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3034"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3395"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34588"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C3896"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4768"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6225"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C25464"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2304"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12694"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2352"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C8171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29401"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3395"
       }
     ]
   }

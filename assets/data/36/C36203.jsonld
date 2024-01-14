@@ -17,6 +17,32 @@
         "@id": "http://dbpedia.org/resource/Planetary_habitability"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C45144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42491"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44514"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44345"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42050"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45241"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40516"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,28 +51,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14270"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C26524"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29898"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30006"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31589"
+        "@id": "https://w3id.org/ocs/ont/C45241"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38786"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C14270"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C42138"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C45241"
+        "@id": "https://w3id.org/ocs/ont/C30006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31589"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C597"

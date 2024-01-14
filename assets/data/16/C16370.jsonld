@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Centroidal_Voronoi_tessellation"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33310"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,43 +36,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10382"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14252"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14576"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1832"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18518"
+        "@id": "https://w3id.org/ocs/ont/C34382"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19972"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26767"
+        "@id": "https://w3id.org/ocs/ont/C30429"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1832"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29175"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C30429"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33276"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34382"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C36165"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38213"
+        "@id": "https://w3id.org/ocs/ont/C10382"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C40296"
@@ -67,13 +63,31 @@
         "@id": "https://w3id.org/ocs/ont/C42682"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C14576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33276"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C45859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26767"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8271"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C38213"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C9372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14252"
       }
     ]
   }

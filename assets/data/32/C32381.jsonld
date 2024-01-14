@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Topological_skeleton"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38472"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +27,40 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1023"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C10239"
+        "@id": "https://w3id.org/ocs/ont/C24689"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C16532"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C22623"
+        "@id": "https://w3id.org/ocs/ont/C6401"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C24689"
+        "@id": "https://w3id.org/ocs/ont/C32479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37007"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32162"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33963"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C27111"
@@ -43,28 +69,7 @@
         "@id": "https://w3id.org/ocs/ont/C28701"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C32162"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C32479"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33963"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34134"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37007"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6401"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8271"
+        "@id": "https://w3id.org/ocs/ont/C22623"
       }
     ]
   }

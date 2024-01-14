@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Cloud_height"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39714"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +27,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C28180"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C16917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29178"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23887"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C26939"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28180"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29178"
       }
     ]
   }

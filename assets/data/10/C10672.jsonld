@@ -6,10 +6,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10"
+        "@id": "https://w3id.org/ocs/ont/C21"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21"
+        "@id": "https://w3id.org/ocs/ont/C10"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7"
@@ -20,6 +20,23 @@
         "@id": "http://dbpedia.org/resource/Centroid"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26748"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15736"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -28,10 +45,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13409"
+        "@id": "https://w3id.org/ocs/ont/C34973"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34973"
+        "@id": "https://w3id.org/ocs/ont/C13409"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C41458"

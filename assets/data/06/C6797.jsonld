@@ -14,6 +14,23 @@
         "@id": "http://dbpedia.org/resource/Integrated_circuit_design"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22081"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18071"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15575"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,22 +39,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10377"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C10965"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C13747"
+        "@id": "https://w3id.org/ocs/ont/C254"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19400"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23473"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C254"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C27883"
@@ -46,7 +51,19 @@
         "@id": "https://w3id.org/ocs/ont/C37773"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C23473"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13747"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C5336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10377"
       }
     ]
   }

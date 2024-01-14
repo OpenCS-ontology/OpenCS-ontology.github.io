@@ -14,6 +14,32 @@
         "@id": "http://dbpedia.org/resource/Decision_analysis"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18283"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15539"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27385"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25232"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,37 +48,37 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11659"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22495"
+        "@id": "https://w3id.org/ocs/ont/C4158"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C22686"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2529"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36383"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C3753"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C41130"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4158"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7652"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7653"
+        "@id": "https://w3id.org/ocs/ont/C41130"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36383"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11659"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22495"
       }
     ]
   }

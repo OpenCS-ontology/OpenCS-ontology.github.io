@@ -6,15 +6,35 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1253"
+        "@id": "https://w3id.org/ocs/ont/C5746"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5746"
+        "@id": "https://w3id.org/ocs/ont/C1253"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Anesthesiology"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32616"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30472"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34454"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30032"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

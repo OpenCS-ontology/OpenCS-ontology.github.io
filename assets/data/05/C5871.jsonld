@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Mohawk_language"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19851"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,13 +30,13 @@
         "@id": "https://w3id.org/ocs/ont/C12486"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C12689"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C32450"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12689"
       }
     ]
   }

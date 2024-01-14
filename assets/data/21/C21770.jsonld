@@ -6,10 +6,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C5201"
+        "@id": "https://w3id.org/ocs/ont/C8517"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8517"
+        "@id": "https://w3id.org/ocs/ont/C5201"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8951"
@@ -20,6 +20,17 @@
         "@id": "http://dbpedia.org/resource/Generalized_minimal_residual_method"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34314"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -28,22 +39,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15070"
+        "@id": "https://w3id.org/ocs/ont/C41602"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18821"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19348"
+        "@id": "https://w3id.org/ocs/ont/C36683"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C21143"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C24606"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19348"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C22483"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C24606"
+        "@id": "https://w3id.org/ocs/ont/C15070"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32580"
@@ -52,16 +66,13 @@
         "@id": "https://w3id.org/ocs/ont/C34314"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36683"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C41602"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C42610"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18821"
       }
     ]
   }

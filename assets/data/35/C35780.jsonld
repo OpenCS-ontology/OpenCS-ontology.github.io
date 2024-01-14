@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Dryocosmus"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38253"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,10 +30,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15473"
+        "@id": "https://w3id.org/ocs/ont/C32588"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C17070"
+        "@id": "https://w3id.org/ocs/ont/C37336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15473"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C20864"
@@ -37,16 +45,13 @@
         "@id": "https://w3id.org/ocs/ont/C22892"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C17070"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C24959"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C32588"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C34825"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37336"
       }
     ]
   }

@@ -17,6 +17,14 @@
         "@id": "http://dbpedia.org/resource/Second-language_attrition"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37923"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,28 +33,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C16053"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29973"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33078"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34497"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C35271"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C37923"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C33078"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16053"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C44334"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34497"
       }
     ]
   }

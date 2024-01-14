@@ -14,6 +14,44 @@
         "@id": "http://dbpedia.org/resource/Doradidae"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C42798"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39820"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40911"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40120"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +60,34 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C24236"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30248"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31206"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C33166"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36286"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C36328"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39733"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C40967"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C42958"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C30248"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36286"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36328"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40967"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C45030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31206"
       }
     ]
   }

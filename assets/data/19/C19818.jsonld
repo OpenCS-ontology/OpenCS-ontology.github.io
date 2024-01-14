@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Russell's_paradox"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34693"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,52 +30,52 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C45913"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C10498"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12474"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15965"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16190"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16950"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2418"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2727"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28277"
+        "@id": "https://w3id.org/ocs/ont/C34693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16190"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28286"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2978"
+        "@id": "https://w3id.org/ocs/ont/C15965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28277"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33304"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34693"
+        "@id": "https://w3id.org/ocs/ont/C5251"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38759"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C2978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16950"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C42656"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C45913"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5251"
       }
     ]
   }

@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Marketing_buzz"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24341"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +27,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15470"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18683"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20044"
+        "@id": "https://w3id.org/ocs/ont/C8614"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C20461"
@@ -43,16 +42,22 @@
         "@id": "https://w3id.org/ocs/ont/C22956"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23393"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27895"
+        "@id": "https://w3id.org/ocs/ont/C18683"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3509"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8614"
+        "@id": "https://w3id.org/ocs/ont/C27895"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23393"
       }
     ]
   }

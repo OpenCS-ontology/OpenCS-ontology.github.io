@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Symbolic_circuit_analysis"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39231"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +27,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15194"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C23074"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C26183"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15194"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C39179"

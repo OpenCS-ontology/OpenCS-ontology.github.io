@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Uncertainty_quantification"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16743"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +27,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11811"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C13748"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C14620"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7256"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9088"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C16169"
@@ -37,19 +54,7 @@
         "@id": "https://w3id.org/ocs/ont/C22686"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C30859"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C31627"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7256"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8756"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9088"
       }
     ]
   }

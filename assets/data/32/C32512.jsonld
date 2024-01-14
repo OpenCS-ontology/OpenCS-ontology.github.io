@@ -14,6 +14,47 @@
         "@id": "http://dbpedia.org/resource/Moving_horizon_estimation"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C44079"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38063"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42837"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40891"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42388"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39198"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43154"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +63,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10222"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16916"
+        "@id": "https://w3id.org/ocs/ont/C36314"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C21717"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36314"
+        "@id": "https://w3id.org/ocs/ont/C5298"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3987"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5298"
+        "@id": "https://w3id.org/ocs/ont/C16916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8516"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6909"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8516"
+        "@id": "https://w3id.org/ocs/ont/C10222"
       }
     ]
   }

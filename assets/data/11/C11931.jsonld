@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Background_noise"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27090"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +33,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11747"
+        "@id": "https://w3id.org/ocs/ont/C5505"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1564"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C27608"
+        "@id": "https://w3id.org/ocs/ont/C5711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11747"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5505"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5711"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C5853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27608"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7008"

@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Geographic_coordinate_conversion"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32581"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +27,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C18568"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C16293"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18568"
+        "@id": "https://w3id.org/ocs/ont/C37979"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C27631"
@@ -34,13 +42,10 @@
         "@id": "https://w3id.org/ocs/ont/C30827"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37979"
+        "@id": "https://w3id.org/ocs/ont/C8708"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C40075"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8708"
       }
     ]
   }

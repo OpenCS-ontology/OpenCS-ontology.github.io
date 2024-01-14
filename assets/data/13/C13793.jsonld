@@ -9,15 +9,23 @@
         "@id": "https://w3id.org/ocs/ont/C10"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29"
+        "@id": "https://w3id.org/ocs/ont/C8"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8"
+        "@id": "https://w3id.org/ocs/ont/C29"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Mathematical_puzzle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23508"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -28,22 +36,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14693"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4218"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C5137"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5242"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14693"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C8279"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
       }
     ]
   }

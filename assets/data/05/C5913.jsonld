@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Cockpit"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24906"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25699"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",

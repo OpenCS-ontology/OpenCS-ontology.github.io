@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Scintillation_counter"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31905"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,6 +33,9 @@
         "@id": "https://w3id.org/ocs/ont/C14078"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C26747"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C16020"
       },
       {
@@ -32,9 +43,6 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19524"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26747"
       }
     ]
   }

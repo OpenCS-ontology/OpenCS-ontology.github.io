@@ -14,6 +14,56 @@
         "@id": "http://dbpedia.org/resource/Fault_detection_and_isolation"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26184"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19280"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23910"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15173"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14564"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15657"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21074"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26433"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17061"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +72,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C34362"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C10449"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C10554"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11443"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17432"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2878"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34362"
+        "@id": "https://w3id.org/ocs/ont/C9427"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C492"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9427"
+        "@id": "https://w3id.org/ocs/ont/C11443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17432"
       }
     ]
   }

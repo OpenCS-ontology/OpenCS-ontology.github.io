@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Boundary_representation"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24733"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +27,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10924"
+        "@id": "https://w3id.org/ocs/ont/C7914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38400"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C11689"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C19997"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21609"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23146"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27972"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3174"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C3256"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38400"
+        "@id": "https://w3id.org/ocs/ont/C22"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C45109"
@@ -58,10 +48,25 @@
         "@id": "https://w3id.org/ocs/ont/C4645"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7000"
+        "@id": "https://w3id.org/ocs/ont/C3174"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7914"
+        "@id": "https://w3id.org/ocs/ont/C10924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27972"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7000"
       }
     ]
   }

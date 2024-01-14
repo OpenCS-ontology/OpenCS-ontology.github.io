@@ -14,6 +14,23 @@
         "@id": "http://dbpedia.org/resource/Dirac_operator"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32807"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35535"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36581"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +39,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C20390"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C22086"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32807"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34423"
+        "@id": "https://w3id.org/ocs/ont/C20390"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C44979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34423"
       }
     ]
   }

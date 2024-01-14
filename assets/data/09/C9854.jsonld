@@ -6,15 +6,26 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C21"
+        "@id": "https://w3id.org/ocs/ont/C25"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25"
+        "@id": "https://w3id.org/ocs/ont/C21"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Neural_coding"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20990"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17680"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -34,13 +45,13 @@
         "@id": "https://w3id.org/ocs/ont/C24856"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34626"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C3932"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34626"
       }
     ]
   }

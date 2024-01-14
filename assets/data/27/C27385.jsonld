@@ -17,6 +17,17 @@
         "@id": "http://dbpedia.org/resource/Business_decision_mapping"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36383"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,28 +36,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1020"
+        "@id": "https://w3id.org/ocs/ont/C6656"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C10551"
+        "@id": "https://w3id.org/ocs/ont/C7736"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C22673"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2529"
+        "@id": "https://w3id.org/ocs/ont/C31111"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C31111"
+        "@id": "https://w3id.org/ocs/ont/C1020"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C36835"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6656"
+        "@id": "https://w3id.org/ocs/ont/C2529"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7736"
+        "@id": "https://w3id.org/ocs/ont/C10551"
       }
     ]
   }

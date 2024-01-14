@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Organizational_architecture"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18305"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +27,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10141"
+        "@id": "https://w3id.org/ocs/ont/C41299"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C11026"
+        "@id": "https://w3id.org/ocs/ont/C4906"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C12146"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29840"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3395"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34421"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C38363"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C41299"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C42767"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4906"
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29840"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5869"
@@ -58,7 +51,19 @@
         "@id": "https://w3id.org/ocs/ont/C642"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C38363"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10141"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C9069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3395"
       }
     ]
   }

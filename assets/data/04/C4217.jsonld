@@ -14,6 +14,35 @@
         "@id": "http://dbpedia.org/resource/Moving_average"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19515"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16529"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +51,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11150"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C13607"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19457"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C2168"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C836"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11150"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3987"
@@ -40,13 +69,13 @@
         "@id": "https://w3id.org/ocs/ont/C4752"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C13607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19457"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C5042"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6116"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C836"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9428"

@@ -6,15 +6,23 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13"
+        "@id": "https://w3id.org/ocs/ont/C6"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6"
+        "@id": "https://w3id.org/ocs/ont/C13"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Geocoding"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20731"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -25,7 +33,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10217"
+        "@id": "https://w3id.org/ocs/ont/C14703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8708"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C10393"
@@ -34,31 +48,25 @@
         "@id": "https://w3id.org/ocs/ont/C12641"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C13972"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14703"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20731"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C3446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10217"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C37913"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3896"
+        "@id": "https://w3id.org/ocs/ont/C43529"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C43529"
+        "@id": "https://w3id.org/ocs/ont/C13972"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5088"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8708"
+        "@id": "https://w3id.org/ocs/ont/C20731"
       }
     ]
   }

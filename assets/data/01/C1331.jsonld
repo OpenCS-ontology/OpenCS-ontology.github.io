@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Military_intelligence"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28057"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +27,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C1502"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C15118"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C1845"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2060"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3059"
@@ -40,16 +42,19 @@
         "@id": "https://w3id.org/ocs/ont/C3232"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C7113"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C4163"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4218"
+        "@id": "https://w3id.org/ocs/ont/C15118"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2060"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5247"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7113"
       }
     ]
   }

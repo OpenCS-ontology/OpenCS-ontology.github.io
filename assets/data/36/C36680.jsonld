@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Algorithmic_learning_theory"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C44492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44471"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43904"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +36,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10"
+        "@id": "https://w3id.org/ocs/ont/C43231"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C15346"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22100"
+        "@id": "https://w3id.org/ocs/ont/C9210"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C24337"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C31543"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34319"
+        "@id": "https://w3id.org/ocs/ont/C25"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C36758"
@@ -55,25 +60,34 @@
         "@id": "https://w3id.org/ocs/ont/C39944"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C43231"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C43431"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C43904"
+        "@id": "https://w3id.org/ocs/ont/C10"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C45460"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34319"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15346"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43904"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8660"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9210"
+        "@id": "https://w3id.org/ocs/ont/C43431"
       }
     ]
   }

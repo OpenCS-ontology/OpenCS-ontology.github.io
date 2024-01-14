@@ -17,6 +17,26 @@
         "@id": "http://dbpedia.org/resource/Radon_transform"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20982"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14484"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14946"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28157"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,19 +45,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11150"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C14484"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1501"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28787"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C11150"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C41157"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1501"
       }
     ]
   }

@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Virtual_machining"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C41715"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42407"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,6 +30,15 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C7736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C34261"
       },
       {
@@ -29,15 +46,6 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5698"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7106"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7736"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9"
       }
     ]
   }

@@ -17,6 +17,14 @@
         "@id": "http://dbpedia.org/resource/Analog_device"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37331"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,28 +33,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C1704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C941"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C10492"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C10778"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1704"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26575"
+        "@id": "https://w3id.org/ocs/ont/C37673"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34890"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37673"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C5862"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C941"
+        "@id": "https://w3id.org/ocs/ont/C26575"
       }
     ]
   }

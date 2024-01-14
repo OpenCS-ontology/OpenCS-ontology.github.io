@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Sandwich-structured_composite"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36764"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32794"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +33,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C22967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35843"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C17788"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C20415"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C22967"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C28797"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35843"
       }
     ]
   }

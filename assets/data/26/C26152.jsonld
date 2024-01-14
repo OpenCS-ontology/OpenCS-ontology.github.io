@@ -14,6 +14,23 @@
         "@id": "http://dbpedia.org/resource/Wavefront_sensor"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36781"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35504"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37770"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37020"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -21,9 +38,6 @@
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@id": "https://w3id.org/ocs/ont/C12660"
-      },
       {
         "@id": "https://w3id.org/ocs/ont/C14237"
       },
@@ -34,10 +48,13 @@
         "@id": "https://w3id.org/ocs/ont/C34988"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C35504"
+        "@id": "https://w3id.org/ocs/ont/C8561"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8561"
+        "@id": "https://w3id.org/ocs/ont/C12660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35504"
       }
     ]
   }

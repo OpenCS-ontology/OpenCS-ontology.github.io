@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Technology_journalism"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37224"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35551"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +30,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C197"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20400"
+        "@id": "https://w3id.org/ocs/ont/C4819"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25189"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26335"
+        "@id": "https://w3id.org/ocs/ont/C2"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4819"
+        "@id": "https://w3id.org/ocs/ont/C197"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20400"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26335"
       }
     ]
   }

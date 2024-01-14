@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/River_ecosystem"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33330"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36731"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",

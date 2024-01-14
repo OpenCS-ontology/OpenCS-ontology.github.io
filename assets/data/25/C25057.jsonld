@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Recursion_(computer_science)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37487"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +27,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C35625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37487"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C10"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C10917"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1333"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1631"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19"
+        "@id": "https://w3id.org/ocs/ont/C6941"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2131"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2747"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28783"
@@ -49,34 +57,31 @@
         "@id": "https://w3id.org/ocs/ont/C32507"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C32546"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35625"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37487"
+        "@id": "https://w3id.org/ocs/ont/C2747"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C37966"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4778"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4937"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C611"
+        "@id": "https://w3id.org/ocs/ont/C8441"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6697"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6941"
+        "@id": "https://w3id.org/ocs/ont/C4778"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8441"
+        "@id": "https://w3id.org/ocs/ont/C611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32546"
       }
     ]
   }

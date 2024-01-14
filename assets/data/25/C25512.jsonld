@@ -17,6 +17,14 @@
         "@id": "http://dbpedia.org/resource/Agent_architecture"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37586"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33531"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,37 +33,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11934"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C12304"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C12579"
+        "@id": "https://w3id.org/ocs/ont/C32"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C17236"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22254"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2579"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29173"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31036"
+        "@id": "https://w3id.org/ocs/ont/C9022"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C31369"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C32"
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33186"
@@ -64,16 +60,28 @@
         "@id": "https://w3id.org/ocs/ont/C3732"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C12579"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C5776"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8"
+        "@id": "https://w3id.org/ocs/ont/C2579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17236"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11934"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22254"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8759"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9022"
+        "@id": "https://w3id.org/ocs/ont/C29173"
       }
     ]
   }

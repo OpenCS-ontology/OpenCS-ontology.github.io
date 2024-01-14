@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Conceptual_framework"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25873"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +27,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C197"
+        "@id": "https://w3id.org/ocs/ont/C2523"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2523"
+        "@id": "https://w3id.org/ocs/ont/C197"
       }
     ]
   }

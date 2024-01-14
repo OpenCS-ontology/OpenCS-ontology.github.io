@@ -14,6 +14,35 @@
         "@id": "http://dbpedia.org/resource/Space_Shuttle"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15180"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20754"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22980"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24562"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,37 +51,37 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15835"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15955"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16300"
+        "@id": "https://w3id.org/ocs/ont/C24462"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2252"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C81"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C23481"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24462"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5293"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5689"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C597"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C7201"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C81"
+        "@id": "https://w3id.org/ocs/ont/C15955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15835"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16300"
       }
     ]
   }

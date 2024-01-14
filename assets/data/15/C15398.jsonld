@@ -17,6 +17,14 @@
         "@id": "http://dbpedia.org/resource/Pseudorandomness"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30555"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,34 +33,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C10803"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C16152"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1844"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20993"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23230"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23562"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23875"
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5072"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25445"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28276"
+        "@id": "https://w3id.org/ocs/ont/C20993"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28967"
@@ -61,13 +63,19 @@
         "@id": "https://w3id.org/ocs/ont/C4218"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5072"
+        "@id": "https://w3id.org/ocs/ont/C10803"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5692"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6953"
+        "@id": "https://w3id.org/ocs/ont/C23230"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23875"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
       }
     ]
   }

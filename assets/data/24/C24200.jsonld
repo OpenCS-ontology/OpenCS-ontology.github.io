@@ -17,6 +17,23 @@
         "@id": "http://dbpedia.org/resource/Obfuscation_(software)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34192"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34839"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,34 +42,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10284"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11293"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12257"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1253"
+        "@id": "https://w3id.org/ocs/ont/C41999"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C12974"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C13045"
+        "@id": "https://w3id.org/ocs/ont/C23863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4321"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11293"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2057"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22322"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23863"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25596"
@@ -61,22 +66,34 @@
         "@id": "https://w3id.org/ocs/ont/C28881"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C7170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12257"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9033"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10284"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22322"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C2941"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C41999"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4321"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4918"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7170"
+        "@id": "https://w3id.org/ocs/ont/C13045"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9033"
+        "@id": "https://w3id.org/ocs/ont/C2057"
       }
     ]
   }

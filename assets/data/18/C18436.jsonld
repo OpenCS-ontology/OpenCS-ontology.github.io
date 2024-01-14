@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/System_of_systems_engineering"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30985"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33602"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,37 +36,37 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13152"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27787"
+        "@id": "https://w3id.org/ocs/ont/C29840"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28454"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C30528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6595"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C28702"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29840"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30528"
+        "@id": "https://w3id.org/ocs/ont/C13152"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35039"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C41641"
+        "@id": "https://w3id.org/ocs/ont/C5863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27787"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C44906"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5863"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6595"
+        "@id": "https://w3id.org/ocs/ont/C41641"
       }
     ]
   }

@@ -14,6 +14,29 @@
         "@id": "http://dbpedia.org/resource/Cynipini"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32033"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35374"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,31 +45,31 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C17070"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C17826"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C22892"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C17070"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C24959"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28414"
+        "@id": "https://w3id.org/ocs/ont/C34825"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32588"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34825"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35780"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C37336"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28414"
       }
     ]
   }

@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Electronic_dictionary"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23127"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,46 +30,46 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10368"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17132"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2761"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29012"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3614"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3779"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3983"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4703"
+        "@id": "https://w3id.org/ocs/ont/C8614"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5058"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6239"
+        "@id": "https://w3id.org/ocs/ont/C10368"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4703"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2761"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3779"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29012"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7650"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8614"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8710"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3983"
       }
     ]
   }

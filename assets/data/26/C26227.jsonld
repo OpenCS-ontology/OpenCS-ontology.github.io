@@ -6,18 +6,23 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
+        "@id": "https://w3id.org/ocs/ont/C5196"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C11705"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4099"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5196"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Error_concealment"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37086"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

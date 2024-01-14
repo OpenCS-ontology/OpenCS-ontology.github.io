@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Image_stabilization"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26899"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -28,16 +33,16 @@
         "@id": "https://w3id.org/ocs/ont/C11324"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C12580"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C13065"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C15213"
+        "@id": "https://w3id.org/ocs/ont/C29172"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29172"
+        "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12580"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6075"
@@ -46,7 +51,7 @@
         "@id": "https://w3id.org/ocs/ont/C7789"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8021"
+        "@id": "https://w3id.org/ocs/ont/C15213"
       }
     ]
   }

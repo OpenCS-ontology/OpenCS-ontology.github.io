@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Probabilistic-based_design_optimization"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34560"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +30,7 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C22686"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23010"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28077"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28722"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31804"
+        "@id": "https://w3id.org/ocs/ont/C7128"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34123"
@@ -43,16 +39,28 @@
         "@id": "https://w3id.org/ocs/ont/C34590"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C44532"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7128"
+        "@id": "https://w3id.org/ocs/ont/C8331"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7553"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8331"
+        "@id": "https://w3id.org/ocs/ont/C31804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23010"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44532"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22686"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28077"
       }
     ]
   }

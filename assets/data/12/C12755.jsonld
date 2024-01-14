@@ -6,15 +6,20 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C2"
+        "@id": "https://w3id.org/ocs/ont/C9"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9"
+        "@id": "https://w3id.org/ocs/ont/C2"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Barcode"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16368"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -25,21 +30,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10270"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C10772"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1253"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12641"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12698"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C16368"
       },
       {
@@ -49,19 +39,34 @@
         "@id": "https://w3id.org/ocs/ont/C2974"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3077"
+        "@id": "https://w3id.org/ocs/ont/C12698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10772"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10270"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4768"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3077"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4917"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8614"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9113"
       }
     ]
   }

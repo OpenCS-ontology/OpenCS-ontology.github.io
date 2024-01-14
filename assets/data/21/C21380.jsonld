@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Lagrange_polynomial"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31342"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35077"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +33,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15652"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19373"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31512"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C39716"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C40267"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C43001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31512"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C42443"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C43001"
+        "@id": "https://w3id.org/ocs/ont/C15652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19373"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C44384"

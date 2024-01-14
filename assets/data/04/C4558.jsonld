@@ -14,6 +14,44 @@
         "@id": "http://dbpedia.org/resource/Agile_software_development"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27079"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23312"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21165"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28158"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20241"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21187"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +60,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1253"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C14329"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18274"
+        "@id": "https://w3id.org/ocs/ont/C29790"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2214"
+        "@id": "https://w3id.org/ocs/ont/C43994"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C666"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23437"
@@ -40,19 +84,22 @@
         "@id": "https://w3id.org/ocs/ont/C24722"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25956"
+        "@id": "https://w3id.org/ocs/ont/C41437"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25957"
+        "@id": "https://w3id.org/ocs/ont/C37174"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28"
+        "@id": "https://w3id.org/ocs/ont/C18274"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2214"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28080"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29790"
+        "@id": "https://w3id.org/ocs/ont/C25957"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C31890"
@@ -61,22 +108,13 @@
         "@id": "https://w3id.org/ocs/ont/C31920"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37174"
+        "@id": "https://w3id.org/ocs/ont/C41038"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C40422"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C41038"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C41437"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C43994"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C666"
+        "@id": "https://w3id.org/ocs/ont/C25956"
       }
     ]
   }

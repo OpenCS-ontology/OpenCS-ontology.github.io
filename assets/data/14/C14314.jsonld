@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Nylanderia"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36512"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,7 +30,13 @@
         "@id": "https://w3id.org/ocs/ont/C14496"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C20332"
+        "@id": "https://w3id.org/ocs/ont/C25692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28251"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C21004"
@@ -34,16 +45,10 @@
         "@id": "https://w3id.org/ocs/ont/C22675"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25692"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C25716"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28251"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C32656"
+        "@id": "https://w3id.org/ocs/ont/C20332"
       }
     ]
   }

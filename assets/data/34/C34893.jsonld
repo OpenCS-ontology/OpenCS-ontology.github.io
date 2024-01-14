@@ -6,18 +6,23 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C18085"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C22542"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18085"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Roche_lobe"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40115"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -28,10 +33,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10556"
+        "@id": "https://w3id.org/ocs/ont/C25028"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C17246"
+        "@id": "https://w3id.org/ocs/ont/C22752"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C18085"
@@ -40,25 +45,25 @@
         "@id": "https://w3id.org/ocs/ont/C19549"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C22542"
+        "@id": "https://w3id.org/ocs/ont/C597"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C22752"
+        "@id": "https://w3id.org/ocs/ont/C17246"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C24809"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25028"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26348"
+        "@id": "https://w3id.org/ocs/ont/C22542"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C27654"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C597"
+        "@id": "https://w3id.org/ocs/ont/C10556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26348"
       }
     ]
   }

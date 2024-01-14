@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Active_traffic_management"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29700"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,49 +27,49 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14828"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1581"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16107"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19038"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25914"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31393"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C32722"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3390"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34503"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C38216"
+        "@id": "https://w3id.org/ocs/ont/C9100"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38665"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C39139"
+        "@id": "https://w3id.org/ocs/ont/C16107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25914"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6243"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9100"
+        "@id": "https://w3id.org/ocs/ont/C3390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32722"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34503"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14828"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19038"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9657"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39139"
       }
     ]
   }

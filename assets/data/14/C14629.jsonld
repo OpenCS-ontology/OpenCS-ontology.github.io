@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Ventral_scales"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35435"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,10 +30,10 @@
         "@id": "https://w3id.org/ocs/ont/C17409"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18371"
+        "@id": "https://w3id.org/ocs/ont/C21816"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21816"
+        "@id": "https://w3id.org/ocs/ont/C18371"
       }
     ]
   }

@@ -14,6 +14,29 @@
         "@id": "http://dbpedia.org/resource/Taguchi_methods"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30329"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33389"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32610"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +45,34 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11767"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C13685"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19512"
+        "@id": "https://w3id.org/ocs/ont/C34974"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28576"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C32610"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C33389"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34974"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5087"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5713"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C19512"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5087"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C6116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13685"
       }
     ]
   }

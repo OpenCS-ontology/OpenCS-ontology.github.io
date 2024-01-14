@@ -14,6 +14,26 @@
         "@id": "http://dbpedia.org/resource/Variable_structure_control"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C42971"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38107"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45226"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41101"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +42,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C18430"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C18982"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28698"
+        "@id": "https://w3id.org/ocs/ont/C8754"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18430"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C45226"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8754"
+        "@id": "https://w3id.org/ocs/ont/C28698"
       }
     ]
   }

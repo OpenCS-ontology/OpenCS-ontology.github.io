@@ -14,6 +14,32 @@
         "@id": "http://dbpedia.org/resource/Pheidole"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35777"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32408"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35816"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +48,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C28720"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C14902"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19253"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23015"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C24249"
@@ -37,7 +60,10 @@
         "@id": "https://w3id.org/ocs/ont/C24385"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28720"
+        "@id": "https://w3id.org/ocs/ont/C19253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23015"
       }
     ]
   }

@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Dendrotoxin"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42357"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,34 +33,34 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14264"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C18138"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23973"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C30404"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33852"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35813"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C36128"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37240"
+        "@id": "https://w3id.org/ocs/ont/C14264"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C41081"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C44461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30404"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37240"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33852"
       }
     ]
   }

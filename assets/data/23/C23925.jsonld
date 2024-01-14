@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Fixed-point_iteration"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34314"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37157"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,7 +30,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C18362"
+        "@id": "https://w3id.org/ocs/ont/C24265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43435"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19177"
@@ -31,28 +45,22 @@
         "@id": "https://w3id.org/ocs/ont/C21770"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C24149"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24265"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28170"
+        "@id": "https://w3id.org/ocs/ont/C38965"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28584"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C18362"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C37392"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38965"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C43435"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C5867"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24149"
       }
     ]
   }

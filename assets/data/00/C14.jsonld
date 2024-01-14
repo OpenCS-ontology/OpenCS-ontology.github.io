@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Computer_engineering"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2433"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11665"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4219"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,9 +36,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C1563"
       },
       {
@@ -32,6 +43,9 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
       }
     ]
   }

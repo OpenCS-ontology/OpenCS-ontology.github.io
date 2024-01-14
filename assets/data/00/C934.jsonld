@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Instructional_design"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24411"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19378"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +33,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C6528"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C16041"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18169"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18417"
+        "@id": "https://w3id.org/ocs/ont/C3444"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19066"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3444"
+        "@id": "https://w3id.org/ocs/ont/C18417"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3521"
@@ -43,7 +54,7 @@
         "@id": "https://w3id.org/ocs/ont/C37105"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6528"
+        "@id": "https://w3id.org/ocs/ont/C18169"
       }
     ]
   }

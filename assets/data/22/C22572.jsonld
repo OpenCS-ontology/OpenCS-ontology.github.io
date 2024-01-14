@@ -6,15 +6,20 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13006"
+        "@id": "https://w3id.org/ocs/ont/C8464"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8464"
+        "@id": "https://w3id.org/ocs/ont/C13006"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Topic_sentence"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37227"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -28,13 +33,13 @@
         "@id": "https://w3id.org/ocs/ont/C13055"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C8464"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C17260"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C26884"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8464"
       }
     ]
   }

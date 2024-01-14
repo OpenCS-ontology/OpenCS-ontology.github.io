@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Service_system"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25913"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19759"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,31 +30,31 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1510"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19909"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27184"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28629"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2979"
+        "@id": "https://w3id.org/ocs/ont/C3778"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32974"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3778"
+        "@id": "https://w3id.org/ocs/ont/C2979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1510"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27184"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9085"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28629"
       }
     ]
   }

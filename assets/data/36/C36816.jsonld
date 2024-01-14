@@ -6,15 +6,20 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C22489"
+        "@id": "https://w3id.org/ocs/ont/C26092"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26092"
+        "@id": "https://w3id.org/ocs/ont/C22489"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Organizational_behavior_management"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C44701"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -25,16 +30,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10134"
+        "@id": "https://w3id.org/ocs/ont/C5863"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2058"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C44701"
+        "@id": "https://w3id.org/ocs/ont/C10134"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5863"
+        "@id": "https://w3id.org/ocs/ont/C44701"
       }
     ]
   }

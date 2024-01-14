@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Elliptical_distribution"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37821"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,9 +30,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1844"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C25862"
       },
       {
@@ -35,6 +37,9 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
       }
     ]
   }

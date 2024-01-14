@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Inverse_scattering_problem"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37585"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +27,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13682"
+        "@id": "https://w3id.org/ocs/ont/C37585"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37585"
+        "@id": "https://w3id.org/ocs/ont/C13682"
       }
     ]
   }

@@ -14,6 +14,47 @@
         "@id": "http://dbpedia.org/resource/Luminance"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27227"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17895"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21393"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18546"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22436"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15646"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15296"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +63,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10740"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C20871"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20984"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27086"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6942"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C740"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C747"
+        "@id": "https://w3id.org/ocs/ont/C6942"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8021"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27086"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20984"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10740"
       }
     ]
   }

@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Wiener_deconvolution"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40447"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,40 +27,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10509"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11150"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11253"
+        "@id": "https://w3id.org/ocs/ont/C7597"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C11747"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C13046"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15866"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27181"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37366"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C3987"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5298"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5769"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6110"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6125"
@@ -64,7 +42,34 @@
         "@id": "https://w3id.org/ocs/ont/C669"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7597"
+        "@id": "https://w3id.org/ocs/ont/C5769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37366"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27181"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11253"
       }
     ]
   }

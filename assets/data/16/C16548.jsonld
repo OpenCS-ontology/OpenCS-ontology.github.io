@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/A-weighting"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37458"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,43 +27,43 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13048"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14001"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14621"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1624"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2300"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2759"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28189"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29469"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5139"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5853"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8291"
+        "@id": "https://w3id.org/ocs/ont/C8637"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8563"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8637"
+        "@id": "https://w3id.org/ocs/ont/C14621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28189"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5853"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5139"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29469"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13048"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14001"
       }
     ]
   }

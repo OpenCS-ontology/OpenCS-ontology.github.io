@@ -14,6 +14,80 @@
         "@id": "http://dbpedia.org/resource/Challenge-Handshake_Authentication_Protocol"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43719"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42896"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41228"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41033"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38690"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42478"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37846"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43100"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44850"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38963"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43473"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +96,37 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C41934"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C1435"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20314"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23446"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23567"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23666"
+        "@id": "https://w3id.org/ocs/ont/C44603"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C24131"
+        "@id": "https://w3id.org/ocs/ont/C36898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42053"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C24323"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C7006"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C24335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23446"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28637"
@@ -52,34 +135,25 @@
         "@id": "https://w3id.org/ocs/ont/C29568"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36898"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C40682"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C41934"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C42053"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C43997"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C44603"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4513"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7006"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8614"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C23666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20314"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C9327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40682"
       }
     ]
   }

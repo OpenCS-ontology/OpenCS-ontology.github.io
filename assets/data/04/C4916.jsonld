@@ -17,6 +17,14 @@
         "@id": "http://dbpedia.org/resource/CD-ROM"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29387"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17474"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,46 +33,46 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10213"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C10320"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C1253"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1666"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C17"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28881"
+        "@id": "https://w3id.org/ocs/ont/C7255"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3022"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C31489"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C44"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C5137"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7255"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7476"
+        "@id": "https://w3id.org/ocs/ont/C31489"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8614"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C44"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7476"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C9"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1666"
       }
     ]
   }

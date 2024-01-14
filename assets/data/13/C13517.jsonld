@@ -17,6 +17,23 @@
         "@id": "http://dbpedia.org/resource/Adobe"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22103"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",

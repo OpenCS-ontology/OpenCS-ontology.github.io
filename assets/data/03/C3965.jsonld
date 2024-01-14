@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Conceptual_design"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28504"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19261"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,7 +30,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C4292"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27184"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C11831"
@@ -31,31 +48,22 @@
         "@id": "https://w3id.org/ocs/ont/C13413"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21286"
+        "@id": "https://w3id.org/ocs/ont/C8181"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2135"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23671"
+        "@id": "https://w3id.org/ocs/ont/C21286"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C27184"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4292"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5916"
+        "@id": "https://w3id.org/ocs/ont/C8269"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6032"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8181"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8269"
+        "@id": "https://w3id.org/ocs/ont/C23671"
       }
     ]
   }

@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Flight_test"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18248"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,7 +27,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C23481"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C10766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2252"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1628"
@@ -31,16 +45,7 @@
         "@id": "https://w3id.org/ocs/ont/C21936"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C2252"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23481"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C511"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7201"
       }
     ]
   }

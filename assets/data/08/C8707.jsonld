@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Soft_sensor"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23378"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,43 +30,43 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10143"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16352"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16916"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18408"
+        "@id": "https://w3id.org/ocs/ont/C8273"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28522"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C30733"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3140"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3900"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3987"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C43373"
+        "@id": "https://w3id.org/ocs/ont/C18408"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C43990"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8273"
+        "@id": "https://w3id.org/ocs/ont/C3140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3987"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3900"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10143"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16916"
       }
     ]
   }

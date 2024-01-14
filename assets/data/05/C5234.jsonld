@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Yearbook"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21846"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +30,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13403"
+        "@id": "https://w3id.org/ocs/ont/C6340"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6340"
+        "@id": "https://w3id.org/ocs/ont/C13403"
       }
     ]
   }

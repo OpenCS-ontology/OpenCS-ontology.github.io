@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Knowledge_integration"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39776"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +27,31 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12579"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12977"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16356"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16711"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17823"
+        "@id": "https://w3id.org/ocs/ont/C6856"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25509"
+        "@id": "https://w3id.org/ocs/ont/C12977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33952"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17823"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28809"
@@ -52,28 +60,25 @@
         "@id": "https://w3id.org/ocs/ont/C32228"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C33952"
+        "@id": "https://w3id.org/ocs/ont/C39278"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25509"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C928"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34809"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C39137"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39278"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C42947"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6856"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C851"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C928"
       }
     ]
   }

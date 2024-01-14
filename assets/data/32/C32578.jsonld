@@ -14,6 +14,41 @@
         "@id": "http://dbpedia.org/resource/Voltage-controlled_filter"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37830"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39179"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42625"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42126"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40845"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45857"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41790"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +57,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14262"
+        "@id": "https://w3id.org/ocs/ont/C21364"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21364"
+        "@id": "https://w3id.org/ocs/ont/C7502"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8718"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C21717"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29220"
+        "@id": "https://w3id.org/ocs/ont/C14262"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C40768"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C42625"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7502"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8718"
       }
     ]
   }

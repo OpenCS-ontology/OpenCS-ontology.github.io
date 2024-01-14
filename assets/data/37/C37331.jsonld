@@ -6,15 +6,20 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C18073"
+        "@id": "https://w3id.org/ocs/ont/C29171"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C29171"
+        "@id": "https://w3id.org/ocs/ont/C18073"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Field-programmable_analog_array"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38325"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -28,31 +33,31 @@
         "@id": "https://w3id.org/ocs/ont/C13747"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C8518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5336"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C14650"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C14694"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C9908"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C26155"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26207"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29006"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C4464"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5336"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8518"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9908"
       }
     ]
   }

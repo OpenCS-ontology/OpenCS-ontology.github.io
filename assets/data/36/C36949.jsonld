@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Integral_sliding_mode"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C41029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44824"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +30,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C29875"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C18430"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28698"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29875"
       }
     ]
   }

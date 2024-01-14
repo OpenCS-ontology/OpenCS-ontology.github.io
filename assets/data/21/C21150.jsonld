@@ -14,6 +14,23 @@
         "@id": "http://dbpedia.org/resource/Army_ant"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33014"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31438"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34075"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +39,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C38192"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C22504"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34483"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C38192"
       }
     ]
   }

@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Address_bus"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35364"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -21,15 +26,6 @@
       }
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@id": "https://w3id.org/ocs/ont/C10053"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C10320"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11"
-      },
       {
         "@id": "https://w3id.org/ocs/ont/C11047"
       },
@@ -40,34 +36,43 @@
         "@id": "https://w3id.org/ocs/ont/C14162"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C15"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19487"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27610"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3231"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37538"
+        "@id": "https://w3id.org/ocs/ont/C5463"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C41110"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C45812"
+        "@id": "https://w3id.org/ocs/ont/C27610"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5463"
+        "@id": "https://w3id.org/ocs/ont/C856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19487"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37538"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45812"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8434"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C856"
+        "@id": "https://w3id.org/ocs/ont/C10053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10320"
       }
     ]
   }

@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Luma_(video)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37108"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31451"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +30,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12849"
+        "@id": "https://w3id.org/ocs/ont/C24211"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C16339"
+        "@id": "https://w3id.org/ocs/ont/C38232"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C18385"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1935"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24211"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24888"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C27086"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30559"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C31323"
@@ -52,19 +48,31 @@
         "@id": "https://w3id.org/ocs/ont/C31451"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36633"
+        "@id": "https://w3id.org/ocs/ont/C16339"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24888"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3743"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38232"
+        "@id": "https://w3id.org/ocs/ont/C36633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12849"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C6942"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C1935"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30559"
       }
     ]
   }

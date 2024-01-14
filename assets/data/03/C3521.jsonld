@@ -14,6 +14,56 @@
         "@id": "http://dbpedia.org/resource/Distance_education"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26846"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22379"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22040"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16118"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15737"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14868"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15303"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25263"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29200"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22580"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +72,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C3444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C1"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C17812"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C197"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C26813"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3444"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C420"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8614"
       }
     ]
   }

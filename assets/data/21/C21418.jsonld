@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Search_and_rescue"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34620"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,10 +36,10 @@
         "@id": "https://w3id.org/ocs/ont/C12641"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34620"
+        "@id": "https://w3id.org/ocs/ont/C4597"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4597"
+        "@id": "https://w3id.org/ocs/ont/C34620"
       }
     ]
   }

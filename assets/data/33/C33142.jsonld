@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Soft_systems_methodology"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44589"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,46 +33,46 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1336"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14855"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2421"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2979"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29840"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37174"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37831"
+        "@id": "https://w3id.org/ocs/ont/C5822"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C43932"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C44988"
+        "@id": "https://w3id.org/ocs/ont/C1336"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5699"
+        "@id": "https://w3id.org/ocs/ont/C6998"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5822"
+        "@id": "https://w3id.org/ocs/ont/C2421"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5863"
+        "@id": "https://w3id.org/ocs/ont/C29840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2979"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C609"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6998"
+        "@id": "https://w3id.org/ocs/ont/C44988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37831"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37174"
       }
     ]
   }

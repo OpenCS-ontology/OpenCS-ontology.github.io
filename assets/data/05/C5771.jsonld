@@ -6,18 +6,32 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C2"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C22"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Cursor_(user_interface)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25563"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20258"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [

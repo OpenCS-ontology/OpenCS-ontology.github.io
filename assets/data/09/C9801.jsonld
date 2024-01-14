@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Lexicography"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15153"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27968"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,31 +30,31 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10516"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1451"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2298"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2358"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26019"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2761"
+        "@id": "https://w3id.org/ocs/ont/C308"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2847"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C308"
+        "@id": "https://w3id.org/ocs/ont/C2358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2761"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10516"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26019"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
       }
     ]
   }

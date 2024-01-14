@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/State_Plane_Coordinate_System"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32581"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35975"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36842"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -31,13 +45,13 @@
         "@id": "https://w3id.org/ocs/ont/C36280"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C37979"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C7918"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8708"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37979"
       }
     ]
   }

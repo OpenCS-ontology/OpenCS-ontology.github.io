@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Goodness_of_fit"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14174"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,31 +36,31 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11767"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11986"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15258"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C23554"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30858"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C5087"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30858"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C6116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11767"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7908"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C795"
+        "@id": "https://w3id.org/ocs/ont/C15258"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11986"
       }
     ]
   }

@@ -14,6 +14,32 @@
         "@id": "http://dbpedia.org/resource/Computational_science"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C6203"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9542"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4508"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11894"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,31 +48,31 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C10"
+        "@id": "https://w3id.org/ocs/ont/C7735"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C12262"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C19"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C25"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C6714"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7735"
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27"
       }
     ]
   }

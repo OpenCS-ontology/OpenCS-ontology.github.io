@@ -14,6 +14,44 @@
         "@id": "http://dbpedia.org/resource/Acid-sensing_ion_channel"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C44427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43976"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38654"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43758"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40539"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38674"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38980"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,7 +60,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14264"
+        "@id": "https://w3id.org/ocs/ont/C42005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43643"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C18138"
@@ -34,19 +75,16 @@
         "@id": "https://w3id.org/ocs/ont/C29357"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36128"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C37784"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C36128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14264"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C41161"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C42005"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C43643"
       }
     ]
   }

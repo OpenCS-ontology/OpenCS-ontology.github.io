@@ -14,6 +14,38 @@
         "@id": "http://dbpedia.org/resource/Gas_giant"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43938"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45144"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42700"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,7 +54,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10556"
+        "@id": "https://w3id.org/ocs/ont/C38234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25140"
@@ -34,13 +69,10 @@
         "@id": "https://w3id.org/ocs/ont/C29898"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C10556"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C30091"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C38234"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C597"
       }
     ]
   }

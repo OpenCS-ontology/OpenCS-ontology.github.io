@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Human_error_assessment_and_reduction_technique"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39923"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,7 +27,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C35694"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C11085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28631"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15186"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C13550"
@@ -31,25 +54,7 @@
         "@id": "https://w3id.org/ocs/ont/C14133"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C15186"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26696"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28631"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35694"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39923"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C6363"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9745"
       }
     ]
   }

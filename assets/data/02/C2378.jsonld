@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Team_effectiveness"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C20971"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20924"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21557"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +33,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11185"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C11639"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12165"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C20924"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21067"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3738"
+        "@id": "https://w3id.org/ocs/ont/C12165"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21067"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11185"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3738"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C642"

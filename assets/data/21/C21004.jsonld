@@ -14,6 +14,26 @@
         "@id": "http://dbpedia.org/resource/Paratrechina"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30775"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32465"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33359"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37210"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +42,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C36512"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C14314"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C14496"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18993"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20332"
+        "@id": "https://w3id.org/ocs/ont/C32656"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28251"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C32656"
+        "@id": "https://w3id.org/ocs/ont/C18993"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36512"
+        "@id": "https://w3id.org/ocs/ont/C20332"
       }
     ]
   }

@@ -14,6 +14,86 @@
         "@id": "http://dbpedia.org/resource/Pedestrian"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20943"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20035"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13882"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26650"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24044"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24373"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21827"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15133"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17369"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15087"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21412"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17354"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21058"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27534"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13974"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +102,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11999"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17865"
+        "@id": "https://w3id.org/ocs/ont/C27534"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C21412"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C27534"
+        "@id": "https://w3id.org/ocs/ont/C6243"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C435"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C6243"
+        "@id": "https://w3id.org/ocs/ont/C11999"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9657"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17865"
       }
     ]
   }

@@ -14,6 +14,26 @@
         "@id": "http://dbpedia.org/resource/Strong_topology_(polar_topology)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40830"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44817"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44285"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42245"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,22 +42,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C23927"
+        "@id": "https://w3id.org/ocs/ont/C35460"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C33893"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C35460"
+        "@id": "https://w3id.org/ocs/ont/C36144"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36144"
+        "@id": "https://w3id.org/ocs/ont/C44817"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38762"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C44817"
+        "@id": "https://w3id.org/ocs/ont/C23927"
       }
     ]
   }

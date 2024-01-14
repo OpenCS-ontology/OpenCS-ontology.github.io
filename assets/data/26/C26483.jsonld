@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Lanham_Act"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36138"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +30,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13306"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15208"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C16960"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18764"
+        "@id": "https://w3id.org/ocs/ont/C36262"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C18977"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13306"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2657"
@@ -46,7 +51,10 @@
         "@id": "https://w3id.org/ocs/ont/C31461"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36262"
+        "@id": "https://w3id.org/ocs/ont/C15208"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18764"
       }
     ]
   }

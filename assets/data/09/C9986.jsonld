@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Depth_of_focus"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27961"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28624"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +30,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11391"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1394"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C19180"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3842"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1394"
       }
     ]
   }

@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Balanced_sentence"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C45001"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,31 +27,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C1034"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1465"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15506"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16364"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16501"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19932"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21988"
+        "@id": "https://w3id.org/ocs/ont/C25746"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25536"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25746"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C26816"
@@ -55,7 +39,28 @@
         "@id": "https://w3id.org/ocs/ont/C27805"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C16364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15506"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19932"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C37018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21988"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1465"
       }
     ]
   }

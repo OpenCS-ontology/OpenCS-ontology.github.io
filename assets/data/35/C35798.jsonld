@@ -14,6 +14,26 @@
         "@id": "http://dbpedia.org/resource/Euclidean_domain"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41652"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40071"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39942"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +42,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C16735"
+        "@id": "https://w3id.org/ocs/ont/C8789"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8789"
+        "@id": "https://w3id.org/ocs/ont/C16735"
       }
     ]
   }

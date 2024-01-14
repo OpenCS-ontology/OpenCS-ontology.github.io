@@ -14,6 +14,50 @@
         "@id": "http://dbpedia.org/resource/Adversary_(cryptography)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27275"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23675"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22965"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22193"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28214"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15372"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20416"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24127"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21879"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20343"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,64 +66,64 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C16125"
+        "@id": "https://w3id.org/ocs/ont/C19156"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C16855"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C17856"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C17900"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18428"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19156"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20243"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C21383"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23204"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27571"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28967"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31482"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C35"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18428"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35008"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38025"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C39524"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4218"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C42818"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44289"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4344"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C44289"
+        "@id": "https://w3id.org/ocs/ont/C39524"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38025"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17856"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23204"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16125"
       }
     ]
   }

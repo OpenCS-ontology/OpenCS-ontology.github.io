@@ -14,6 +14,83 @@
         "@id": "http://dbpedia.org/resource/Tiger_beetle"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35782"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30754"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37525"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34145"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30452"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32493"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33677"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35740"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32596"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37340"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31352"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36736"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31623"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37142"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,6 +99,9 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C42708"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C21310"
       },
       {
@@ -29,9 +109,6 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C36736"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C42708"
       }
     ]
   }

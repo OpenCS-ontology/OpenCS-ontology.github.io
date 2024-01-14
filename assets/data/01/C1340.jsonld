@@ -14,6 +14,41 @@
         "@id": "http://dbpedia.org/resource/Binaural_recording"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17525"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18043"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17927"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21668"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16967"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +57,34 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12595"
+        "@id": "https://w3id.org/ocs/ont/C9596"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C13125"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C15341"
+        "@id": "https://w3id.org/ocs/ont/C5819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9481"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C17901"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C17927"
+        "@id": "https://w3id.org/ocs/ont/C12595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25195"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C21267"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25195"
+        "@id": "https://w3id.org/ocs/ont/C15341"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8291"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35237"
@@ -49,22 +93,13 @@
         "@id": "https://w3id.org/ocs/ont/C37306"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C520"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5819"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C5843"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C8291"
+        "@id": "https://w3id.org/ocs/ont/C520"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9481"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9596"
+        "@id": "https://w3id.org/ocs/ont/C17927"
       }
     ]
   }

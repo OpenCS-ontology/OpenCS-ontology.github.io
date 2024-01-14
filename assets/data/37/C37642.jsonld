@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Geovisualization"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40415"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,25 +30,10 @@
         "@id": "https://w3id.org/ocs/ont/C11094"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C12638"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2115"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21305"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C22279"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C24603"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27130"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34322"
@@ -53,6 +43,21 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C42090"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27130"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12638"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22"
       }
     ]
   }

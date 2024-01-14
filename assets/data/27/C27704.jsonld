@@ -14,6 +14,32 @@
         "@id": "http://dbpedia.org/resource/General_Packet_Radio_Service"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33895"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31156"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34908"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35200"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31868"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,61 +48,61 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12641"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16693"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17999"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1841"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18799"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21424"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35370"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35692"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C36500"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37065"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37303"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C41460"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5672"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5917"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7877"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8614"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9113"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9154"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37303"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18799"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9113"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C9332"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1841"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17999"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16693"
       }
     ]
   }

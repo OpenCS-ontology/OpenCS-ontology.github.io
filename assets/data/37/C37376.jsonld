@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Ecnomidae"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44683"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41328"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,40 +33,40 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C17470"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19498"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29676"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30573"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31820"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C32653"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C32852"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33898"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35255"
+        "@id": "https://w3id.org/ocs/ont/C38099"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C37378"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C38099"
+        "@id": "https://w3id.org/ocs/ont/C32653"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33898"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17470"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29676"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31820"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C43610"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30573"
       }
     ]
   }

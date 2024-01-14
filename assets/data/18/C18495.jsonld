@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/PCI_eXtensions_for_Instrumentation"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35468"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,43 +30,43 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13012"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14077"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14691"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2084"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26210"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C28138"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35468"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38157"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4159"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C490"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C5624"
+        "@id": "https://w3id.org/ocs/ont/C2084"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8404"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C14691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5624"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4159"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14077"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C9093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35468"
       }
     ]
   }

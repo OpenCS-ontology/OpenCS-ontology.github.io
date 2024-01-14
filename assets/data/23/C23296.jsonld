@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Nebula"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34110"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30570"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33611"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33575"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,16 +39,13 @@
         "@id": "https://w3id.org/ocs/ont/C10556"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C34547"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26348"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C15251"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16731"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C17246"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22752"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23210"
@@ -43,19 +54,22 @@
         "@id": "https://w3id.org/ocs/ont/C23430"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25949"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26348"
+        "@id": "https://w3id.org/ocs/ont/C22752"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34069"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34547"
+        "@id": "https://w3id.org/ocs/ont/C597"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C597"
+        "@id": "https://w3id.org/ocs/ont/C17246"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25949"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16731"
       }
     ]
   }

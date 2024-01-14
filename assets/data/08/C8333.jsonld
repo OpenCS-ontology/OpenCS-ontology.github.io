@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/CUSUM"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27804"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,7 +27,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10222"
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14030"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C12256"
@@ -31,7 +39,7 @@
         "@id": "https://w3id.org/ocs/ont/C12456"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C14030"
+        "@id": "https://w3id.org/ocs/ont/C10222"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C14620"
@@ -40,10 +48,7 @@
         "@id": "https://w3id.org/ocs/ont/C14863"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1844"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21998"
+        "@id": "https://w3id.org/ocs/ont/C9428"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7052"
@@ -52,7 +57,7 @@
         "@id": "https://w3id.org/ocs/ont/C9380"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9428"
+        "@id": "https://w3id.org/ocs/ont/C21998"
       }
     ]
   }

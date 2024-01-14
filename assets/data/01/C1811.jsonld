@@ -14,6 +14,29 @@
         "@id": "http://dbpedia.org/resource/Vergence"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26780"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21313"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26762"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,22 +45,22 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10740"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C13549"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21964"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C2422"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36940"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2883"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36940"
+        "@id": "https://w3id.org/ocs/ont/C21964"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13549"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10740"
       }
     ]
   }

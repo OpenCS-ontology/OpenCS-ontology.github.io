@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Organizational_network_analysis"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35775"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,28 +30,34 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C34224"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C11026"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12305"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14528"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C15047"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1630"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C17471"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C17671"
+        "@id": "https://w3id.org/ocs/ont/C18571"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C18571"
+        "@id": "https://w3id.org/ocs/ont/C1630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14528"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20376"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20170"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C18683"
@@ -55,19 +66,13 @@
         "@id": "https://w3id.org/ocs/ont/C20012"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C20170"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C20376"
+        "@id": "https://w3id.org/ocs/ont/C17671"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28521"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32056"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C34224"
       }
     ]
   }

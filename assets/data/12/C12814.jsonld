@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/CCMP_(cryptography)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14352"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,10 +27,55 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C23666"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30769"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29363"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37967"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41893"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30083"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4751"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40288"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C20993"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23666"
+        "@id": "https://w3id.org/ocs/ont/C25500"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29568"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43934"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40578"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C24131"
@@ -34,52 +84,7 @@
         "@id": "https://w3id.org/ocs/ont/C25340"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C25500"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29363"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29568"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30083"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30769"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33773"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C34895"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35370"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37967"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C40288"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C40409"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C40578"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C41893"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C43934"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C45757"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C4751"
       }
     ]
   }

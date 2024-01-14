@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Perspective_(graphical)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26640"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,25 +30,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10051"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1036"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C1095"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C12539"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C4160"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8278"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C10051"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C9479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1036"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12539"
       }
     ]
   }

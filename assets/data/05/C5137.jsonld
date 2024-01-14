@@ -14,6 +14,26 @@
         "@id": "http://dbpedia.org/resource/Adventure_film"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C19710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21248"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24983"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24548"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,40 +42,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11262"
+        "@id": "https://w3id.org/ocs/ont/C21545"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19481"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21545"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21609"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C24871"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28881"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31489"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33953"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33979"
+        "@id": "https://w3id.org/ocs/ont/C9644"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C35621"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C41932"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C44"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4916"
@@ -64,10 +63,31 @@
         "@id": "https://w3id.org/ocs/ont/C5533"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C41932"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31489"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33979"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C6095"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9644"
+        "@id": "https://w3id.org/ocs/ont/C11262"
       }
     ]
   }

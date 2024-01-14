@@ -17,6 +17,11 @@
         "@id": "http://dbpedia.org/resource/Broadband_mapping_in_the_United_States"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C44252"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,52 +30,52 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C18264"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19350"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2188"
+        "@id": "https://w3id.org/ocs/ont/C35679"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23964"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C27633"
+        "@id": "https://w3id.org/ocs/ont/C18264"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C31220"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C35679"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C37037"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C41630"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C44252"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C45074"
+        "@id": "https://w3id.org/ocs/ont/C31220"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7857"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C2188"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9392"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45074"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27633"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9327"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9392"
+        "@id": "https://w3id.org/ocs/ont/C19350"
       }
     ]
   }

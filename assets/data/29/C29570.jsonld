@@ -14,6 +14,14 @@
         "@id": "http://dbpedia.org/resource/Cevian"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45532"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,13 +30,13 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C13409"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C31522"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13409"
       }
     ]
   }

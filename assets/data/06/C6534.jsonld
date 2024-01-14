@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Propagation_delay"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18610"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +27,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C11252"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C19673"
+        "@id": "https://w3id.org/ocs/ont/C35269"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C210"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C22699"
+        "@id": "https://w3id.org/ocs/ont/C4651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19673"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C26"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C35269"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C433"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C4651"
+        "@id": "https://w3id.org/ocs/ont/C22699"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11252"
       }
     ]
   }

@@ -17,6 +17,14 @@
         "@id": "http://dbpedia.org/resource/Jupiter_(rocket_family)"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C42136"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42725"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,28 +33,28 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C18244"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C15835"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1628"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18244"
+        "@id": "https://w3id.org/ocs/ont/C35010"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C2252"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C22980"
+        "@id": "https://w3id.org/ocs/ont/C31635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C81"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23481"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C28425"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31635"
+        "@id": "https://w3id.org/ocs/ont/C7201"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32140"
@@ -55,13 +63,13 @@
         "@id": "https://w3id.org/ocs/ont/C3290"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C35010"
+        "@id": "https://w3id.org/ocs/ont/C22980"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7201"
+        "@id": "https://w3id.org/ocs/ont/C1628"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C81"
+        "@id": "https://w3id.org/ocs/ont/C28425"
       }
     ]
   }

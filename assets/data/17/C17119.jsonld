@@ -14,6 +14,29 @@
         "@id": "http://dbpedia.org/resource/Nonlinear_distortion"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33899"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32457"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31660"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33950"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37559"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +45,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C14919"
+        "@id": "https://w3id.org/ocs/ont/C3173"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C17432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14919"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1950"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C20333"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3173"
       }
     ]
   }

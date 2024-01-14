@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Morlet_wavelet"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38007"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,25 +27,37 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C33342"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C10554"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C14914"
+        "@id": "https://w3id.org/ocs/ont/C40589"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C20648"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28754"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C33342"
+        "@id": "https://w3id.org/ocs/ont/C44791"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C38730"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C40589"
+        "@id": "https://w3id.org/ocs/ont/C43908"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28754"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20648"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9427"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45112"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C41327"
@@ -52,19 +69,7 @@
         "@id": "https://w3id.org/ocs/ont/C43805"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C43908"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C44791"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C45112"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C45813"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C9427"
       }
     ]
   }

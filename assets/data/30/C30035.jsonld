@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Texture_synthesis"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38937"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,7 +27,25 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
+        "@id": "https://w3id.org/ocs/ont/C23750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C797"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24205"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1904"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C15748"
@@ -34,37 +57,19 @@
         "@id": "https://w3id.org/ocs/ont/C18519"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C1904"
+        "@id": "https://w3id.org/ocs/ont/C6448"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C19096"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C19229"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21158"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21609"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C22"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23750"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24205"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C6448"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C797"
+        "@id": "https://w3id.org/ocs/ont/C21158"
       }
     ]
   }

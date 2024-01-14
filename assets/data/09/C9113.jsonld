@@ -6,15 +6,47 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C2"
+        "@id": "https://w3id.org/ocs/ont/C26"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26"
+        "@id": "https://w3id.org/ocs/ont/C2"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Mobile_phone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24480"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14116"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28605"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21813"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23471"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -25,31 +57,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C12641"
+        "@id": "https://w3id.org/ocs/ont/C8614"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1338"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C18799"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C21424"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22407"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C27704"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C28881"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C29012"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3236"
@@ -58,19 +69,40 @@
         "@id": "https://w3id.org/ocs/ont/C35370"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5917"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C7877"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8614"
+        "@id": "https://w3id.org/ocs/ont/C22407"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C18799"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C9154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5917"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28881"
       }
     ]
   }

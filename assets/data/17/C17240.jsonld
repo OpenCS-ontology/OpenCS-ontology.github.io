@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/OH/IR_star"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32748"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +27,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C21065"
+        "@id": "https://w3id.org/ocs/ont/C31421"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21884"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24129"
+        "@id": "https://w3id.org/ocs/ont/C34819"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25949"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C26711"
+        "@id": "https://w3id.org/ocs/ont/C21065"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29212"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C30109"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C31421"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C32748"
@@ -52,16 +48,25 @@
         "@id": "https://w3id.org/ocs/ont/C33488"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C33601"
+        "@id": "https://w3id.org/ocs/ont/C30109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26711"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21884"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C34110"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34819"
+        "@id": "https://w3id.org/ocs/ont/C33601"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C597"
+        "@id": "https://w3id.org/ocs/ont/C24129"
       }
     ]
   }

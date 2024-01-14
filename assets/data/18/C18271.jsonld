@@ -14,18 +14,9 @@
         "@id": "http://dbpedia.org/resource/Trochee"
       }
     ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+    "http://www.w3.org/2004/02/skos/core#narrower": [
       {
-        "@language": "en",
-        "@value": "Trochee"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#related": [
-      {
-        "@id": "https://w3id.org/ocs/ont/C13096"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C25849"
+        "@id": "https://w3id.org/ocs/ont/C31963"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C29934"
@@ -34,10 +25,33 @@
         "@id": "https://w3id.org/ocs/ont/C31281"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C34138"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Trochee"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
         "@id": "https://w3id.org/ocs/ont/C34813"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C31281"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25849"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29934"
       }
     ]
   }

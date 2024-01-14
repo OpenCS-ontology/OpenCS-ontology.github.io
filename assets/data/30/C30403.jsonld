@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Lattice_reduction"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40034"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,13 +30,19 @@
         "@id": "https://w3id.org/ocs/ont/C14325"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C33344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8660"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C16125"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28075"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C33344"
+        "@id": "https://w3id.org/ocs/ont/C8944"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3678"
@@ -41,12 +52,6 @@
       },
       {
         "@id": "https://w3id.org/ocs/ont/C41786"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8660"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8944"
       }
     ]
   }

@@ -6,15 +6,20 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C25"
+        "@id": "https://w3id.org/ocs/ont/C34"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34"
+        "@id": "https://w3id.org/ocs/ont/C25"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#closeMatch": [
       {
         "@id": "http://dbpedia.org/resource/Neuroinformatics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21772"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
@@ -28,22 +33,22 @@
         "@id": "https://w3id.org/ocs/ont/C12548"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C21772"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C33167"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C3848"
+        "@id": "https://w3id.org/ocs/ont/C9022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21772"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3932"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5070"
+        "@id": "https://w3id.org/ocs/ont/C3848"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C9022"
+        "@id": "https://w3id.org/ocs/ont/C5070"
       }
     ]
   }

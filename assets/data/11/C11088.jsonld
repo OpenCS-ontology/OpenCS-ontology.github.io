@@ -17,6 +17,17 @@
         "@id": "http://dbpedia.org/resource/Deductive_reasoning"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25713"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,10 +36,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10551"
+        "@id": "https://w3id.org/ocs/ont/C10825"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C10825"
+        "@id": "https://w3id.org/ocs/ont/C2978"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10551"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C1092"
@@ -37,16 +54,10 @@
         "@id": "https://w3id.org/ocs/ont/C126"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C13511"
+        "@id": "https://w3id.org/ocs/ont/C3579"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C26760"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2978"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3579"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4557"

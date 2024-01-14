@@ -14,6 +14,17 @@
         "@id": "http://dbpedia.org/resource/Biological_neuron_model"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36142"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36977"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,16 +33,16 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C18982"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23973"
-      },
-      {
         "@id": "https://w3id.org/ocs/ont/C3932"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C18982"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C9022"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23973"
       }
     ]
   }

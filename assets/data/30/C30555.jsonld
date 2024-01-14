@@ -6,10 +6,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#broader": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15398"
+        "@id": "https://w3id.org/ocs/ont/C23562"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C23562"
+        "@id": "https://w3id.org/ocs/ont/C15398"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C25322"
@@ -20,6 +20,11 @@
         "@id": "http://dbpedia.org/resource/Pseudorandom_generators_for_polynomials"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40620"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -28,19 +33,19 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C15398"
+        "@id": "https://w3id.org/ocs/ont/C34469"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C20978"
+        "@id": "https://w3id.org/ocs/ont/C36205"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23562"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C34469"
+        "@id": "https://w3id.org/ocs/ont/C20978"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36205"
+        "@id": "https://w3id.org/ocs/ont/C15398"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C9450"

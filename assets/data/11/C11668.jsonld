@@ -14,6 +14,20 @@
         "@id": "http://dbpedia.org/resource/Modeling_and_simulation"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16629"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26303"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14327"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,28 +39,28 @@
         "@id": "https://w3id.org/ocs/ont/C1684"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C5869"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C21250"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C24"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2523"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C28"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C2523"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C5296"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C5869"
+        "@id": "https://w3id.org/ocs/ont/C8387"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C7256"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C8387"
       }
     ]
   }

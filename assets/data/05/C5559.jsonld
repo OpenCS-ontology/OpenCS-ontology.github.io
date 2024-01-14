@@ -14,6 +14,23 @@
         "@id": "http://dbpedia.org/resource/Optical_communication"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14891"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25003"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,19 +39,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10884"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C16547"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C22335"
+        "@id": "https://w3id.org/ocs/ont/C7502"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C26"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C3"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C3236"
@@ -43,10 +51,19 @@
         "@id": "https://w3id.org/ocs/ont/C34124"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C10884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16547"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C6365"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C7502"
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22335"
       }
     ]
   }

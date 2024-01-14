@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Digital_currency"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37590"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -22,28 +27,10 @@
     ],
     "http://www.w3.org/2004/02/skos/core#related": [
       {
-        "@id": "https://w3id.org/ocs/ont/C10132"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11540"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C11710"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C14011"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C2061"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C23054"
+        "@id": "https://w3id.org/ocs/ont/C26014"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C23245"
-      },
-      {
-        "@id": "https://w3id.org/ocs/ont/C26014"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C30434"
@@ -52,13 +39,31 @@
         "@id": "https://w3id.org/ocs/ont/C36685"
       },
       {
+        "@id": "https://w3id.org/ocs/ont/C10132"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11710"
+      },
+      {
         "@id": "https://w3id.org/ocs/ont/C4218"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14011"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C4779"
       },
       {
         "@id": "https://w3id.org/ocs/ont/C8614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2061"
       }
     ]
   }

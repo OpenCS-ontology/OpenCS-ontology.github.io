@@ -14,6 +14,11 @@
         "@id": "http://dbpedia.org/resource/Maitotoxin"
       }
     ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32001"
+      }
+    ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
@@ -25,10 +30,10 @@
         "@id": "https://w3id.org/ocs/ont/C19629"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36051"
+        "@id": "https://w3id.org/ocs/ont/C36335"
       },
       {
-        "@id": "https://w3id.org/ocs/ont/C36335"
+        "@id": "https://w3id.org/ocs/ont/C36051"
       }
     ]
   }
