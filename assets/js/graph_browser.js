@@ -208,7 +208,7 @@ class Browser {
         content += `<svg>`
         for(let child in broaderMapping) {
             for(let parent of broaderMapping[child]) {
-                content += `<line id="${parent}:${child}"></line>`
+                content += `<path id="${parent}:${child}"></path>`
             }
         }
         for(let child of narrower) {
@@ -248,7 +248,7 @@ class Browser {
         let container = document.getElementById("content-hierarchy");
         let svg = container.getElementsByTagName("svg")[0];
         if (!svg) return;
-        let lines = [...svg.getElementsByTagName("line"), ...svg.getElementsByTagName("polyline")];
+        let lines = [...svg.getElementsByTagName("path"), ...svg.getElementsByTagName("polyline")];
         Logger.log("Rendering edges")
 
         svg.setAttribute("width", container.clientWidth);
@@ -290,10 +290,10 @@ class Browser {
                     deepPath[hoistedY]["center_right"] = rightEdge;
                 }
             } else {
-                line.setAttribute("x1", parentX);
-                line.setAttribute("y1", parentY);
-                line.setAttribute("x2", childX);
-                line.setAttribute("y2", childY);
+                if (childX > parentX + parentRect.width/2) parentX += Math.min(parentRect.width/2 * (childX - parentX)/(container.clientWidth/2.5), parentRect.width/2 - childRect.height/4);
+                else if (childX < parentX - parentRect.width/2) parentX -= Math.min(parentRect.width/2 * (parentX - childX)/(container.clientWidth/2.5), parentRect.width/2 - childRect.height/4);
+                let hoistedY = Math.round(parentY + childRect.height/2);
+                line.setAttribute("d", `M ${childX} ${childY} C ${childX} ${hoistedY}, ${parentX} ${hoistedY}, ${parentX} ${parentY}`)
             }
         }
 
