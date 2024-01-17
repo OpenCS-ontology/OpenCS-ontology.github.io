@@ -251,6 +251,7 @@ class Browser {
         let lines = [...svg.getElementsByTagName("path"), ...svg.getElementsByTagName("polyline")];
         Logger.log("Rendering edges")
 
+        svg.setAttribute("height", 0); // reset container height to content
         svg.setAttribute("width", container.clientWidth);
         svg.setAttribute("height", container.scrollHeight);
 
