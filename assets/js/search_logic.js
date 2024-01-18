@@ -83,6 +83,14 @@ function populateSearchOptions(overwriteUrl='/assets/data/core/index_dict.json')
 }
 
 
+function enterSearch(event) {
+    var x = event.code;
+    if(x == "Enter") {
+        console.log("kliknelo enter")
+        event.preventDefault();
+        document.getElementById("searchButton").click(); 
+    }    
+}
 
 
 
