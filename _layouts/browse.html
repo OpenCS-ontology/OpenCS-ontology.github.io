@@ -48,7 +48,7 @@ layout: default
     <div class="row">
         <div class="col">
             <form class="w-100 mb-2 position-relative">
-                <input list="possibleSearches" id="userSearch" name="userSearch" class="form-control" placeholder="Search..." />
+                <input list="possibleSearches" id="userSearch" name="userSearch" onkeypress="enterSearch(event)" class="form-control" placeholder="Search..." />
                 <datalist id="possibleSearches">
                 </datalist>
             </form>
