@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5298",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Signal_processing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25436"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17435"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28795"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27102"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15367"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21559"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23747"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18124"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28285"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21788"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27360"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28095"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21460"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16846"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21966"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28202"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14989"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20081"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27824"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14431"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23541"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26864"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20744"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24439"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26154"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13901"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13942"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Signal processing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C123"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5042"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C11150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      }
+    ]
+  }
+]

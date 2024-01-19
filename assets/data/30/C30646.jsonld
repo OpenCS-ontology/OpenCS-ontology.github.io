@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30646",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29242"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39994"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39970"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38186"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43167"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42295"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Discrete cosine transforms"
+      }
+    ]
+  }
+]

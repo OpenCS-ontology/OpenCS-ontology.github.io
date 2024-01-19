@@ -1,0 +1,70 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C25272",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2933"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Interferometric_synthetic_aperture_radar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32605"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33061"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35069"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33947"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interferometric synthetic aperture radar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2933"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      }
+    ]
+  }
+]

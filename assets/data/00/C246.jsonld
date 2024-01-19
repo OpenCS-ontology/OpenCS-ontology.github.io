@@ -1,0 +1,85 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C246",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Conditional_probability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26360"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27443"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20005"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17176"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Conditional probability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6692"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6291"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2726"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1844"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14622"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42482"
+      }
+    ]
+  }
+]

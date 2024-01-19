@@ -1,0 +1,79 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C6204",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Factorization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16561"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19267"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20897"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19276"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16735"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19254"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24887"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29160"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18150"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26177"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Factorization"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C44480"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18434"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38108"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3840"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37205"
+      }
+    ]
+  }
+]

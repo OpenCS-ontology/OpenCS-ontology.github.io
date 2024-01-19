@@ -1,0 +1,64 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24259",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13750"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Kepler_(lunar_crater)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35015"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37326"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36378"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36893"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kepler"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28425"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31029"
+      }
+    ]
+  }
+]

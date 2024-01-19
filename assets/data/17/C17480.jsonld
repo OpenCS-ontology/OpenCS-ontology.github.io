@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C17480",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C669"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C34115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29958"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30027"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33605"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37297"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37623"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34225"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Image denoising"
+      }
+    ]
+  }
+]

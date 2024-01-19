@@ -1,0 +1,46 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30676",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14479"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Gramicidin_S"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C40947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44572"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45314"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Gramicidin S"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14479"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30774"
+      }
+    ]
+  }
+]

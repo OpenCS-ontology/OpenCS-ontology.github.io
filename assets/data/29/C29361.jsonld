@@ -1,0 +1,46 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29361",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7106"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Liquid_water_content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30440"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31657"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35864"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Liquid water content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C42337"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27609"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26939"
+      }
+    ]
+  }
+]

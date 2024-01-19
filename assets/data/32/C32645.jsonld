@@ -1,0 +1,82 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32645",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20803"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Complete_Boolean_algebra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C44499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41808"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38616"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42338"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41432"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41305"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43897"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42207"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40818"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Complete Boolean algebra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42338"
+      }
+    ]
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5616",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Latency_(engineering)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22229"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22636"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18115"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20866"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15008"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18322"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17833"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25911"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25567"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24171"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24937"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17221"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17775"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23634"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14723"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20358"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14949"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29012"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29104"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20190"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14233"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24058"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21997"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15261"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29266"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23001"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26327"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19735"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Latency (engineering)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16953"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4197"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24323"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22407"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C9"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15065"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5506"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42093"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16243"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31954"
+      }
+    ]
+  }
+]

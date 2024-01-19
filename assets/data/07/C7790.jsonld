@@ -1,0 +1,79 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7790",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Payload"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C27708"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23576"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25633"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18017"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26101"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19647"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27398"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19819"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26399"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Payload"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36804"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5293"
+      }
+    ]
+  }
+]

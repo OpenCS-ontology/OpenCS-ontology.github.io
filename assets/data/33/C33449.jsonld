@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C33449",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20809"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C38544"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39831"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42807"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Project scheduling problem"
+      }
+    ]
+  }
+]

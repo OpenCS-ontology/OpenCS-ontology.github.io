@@ -1,0 +1,58 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2192",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Pruning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28182"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17364"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15793"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16108"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21720"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21370"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Pruning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16108"
+      }
+    ]
+  }
+]

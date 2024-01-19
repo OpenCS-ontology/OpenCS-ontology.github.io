@@ -1,0 +1,73 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C912",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Group_decision-making"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21888"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26225"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22948"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24589"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24505"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Group decision-making"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2529"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24505"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26584"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25463"
+      }
+    ]
+  }
+]

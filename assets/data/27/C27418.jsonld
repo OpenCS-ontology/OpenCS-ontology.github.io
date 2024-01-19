@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C27418",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8614"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32951"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36677"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37435"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33201"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Domain name"
+      }
+    ]
+  }
+]

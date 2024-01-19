@@ -1,0 +1,52 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C5247",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Artillery"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14803"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23075"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19852"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23094"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17256"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Artillery"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9066"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3232"
+      }
+    ]
+  }
+]

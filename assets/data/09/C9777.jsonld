@@ -1,0 +1,79 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C9777",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Historical_linguistics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28585"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20375"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15910"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24196"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25166"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18698"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25834"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15805"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Historical linguistics"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1034"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2847"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3356"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1451"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13210"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15805"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6046"
+      }
+    ]
+  }
+]

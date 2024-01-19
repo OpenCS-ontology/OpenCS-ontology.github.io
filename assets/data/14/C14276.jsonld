@@ -1,0 +1,50 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C14276",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10557"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Schrödinger's_cat"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C35436"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30444"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36386"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29551"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37496"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30603"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Schrödinger's cat"
+      }
+    ]
+  }
+]

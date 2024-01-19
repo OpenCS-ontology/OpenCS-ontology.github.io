@@ -1,0 +1,51 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2684",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22869"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26239"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21241"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28152"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20606"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20119"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Peer to peer computing"
+      }
+    ]
+  }
+]

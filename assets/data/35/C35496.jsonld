@@ -1,0 +1,193 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C35496",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16356"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Higher-order_logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C41290"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38926"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43271"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44410"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43143"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42944"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42129"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43177"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41499"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42579"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42621"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44733"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45295"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38594"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42583"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44936"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45032"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41289"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45613"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44858"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38836"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43164"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42757"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38890"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40347"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44516"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43623"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43384"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43371"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41203"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Higher-order logic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C25442"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23265"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10671"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8635"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30651"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5251"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13255"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28058"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2418"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19818"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21946"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10825"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4756"
+      }
+    ]
+  }
+]

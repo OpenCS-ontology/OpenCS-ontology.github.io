@@ -1,0 +1,82 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C4090",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Weightlessness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24170"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22855"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20602"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20558"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23344"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28004"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19461"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Weightlessness"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7739"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5293"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24462"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16300"
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C7008",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Sonar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18366"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20498"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25053"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18644"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21600"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16006"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21588"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23843"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18871"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21522"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15494"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sonar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23843"
+      }
+    ]
+  }
+]

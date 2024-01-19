@@ -1,0 +1,33 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24894",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2249"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C31826"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35350"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29856"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Alopecurus aequalis"
+      }
+    ]
+  }
+]

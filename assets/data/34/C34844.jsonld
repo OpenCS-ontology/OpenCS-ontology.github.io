@@ -1,0 +1,49 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34844",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23973"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Alamethicin"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42565"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40523"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Alamethicin"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14479"
+      }
+    ]
+  }
+]

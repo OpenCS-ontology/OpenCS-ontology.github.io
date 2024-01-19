@@ -1,0 +1,88 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2703",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Photogrammetry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C22199"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17220"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24519"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25756"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24421"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17540"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23696"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17968"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18574"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27582"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Photogrammetry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8399"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C12641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2883"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25756"
+      }
+    ]
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34684",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16125"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Attribute-based_encryption"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43761"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42433"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38719"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44910"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39928"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39140"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42743"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41860"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43905"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45351"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41929"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39645"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45628"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39520"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43394"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44466"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43741"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43310"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39603"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42346"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44566"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40548"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39657"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39105"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41307"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45533"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39441"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41697"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Attribute-based encryption"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C23073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39029"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44481"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39928"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17091"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42288"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39017"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27571"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39101"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40789"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43183"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34295"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31902"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32484"
+      }
+    ]
+  }
+]

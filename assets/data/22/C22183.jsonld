@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22183",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C1448"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8895"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8791"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Implementation under test"
+      }
+    ]
+  }
+]

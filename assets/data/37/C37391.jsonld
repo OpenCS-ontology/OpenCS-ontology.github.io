@@ -1,0 +1,43 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37391",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24236"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Fish_anatomy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C45405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44890"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42314"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Fish anatomy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24236"
+      }
+    ]
+  }
+]

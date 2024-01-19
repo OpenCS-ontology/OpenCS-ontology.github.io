@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34458",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29242"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18518"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C41618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40391"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41333"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37931"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41172"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44633"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Vector quantisation"
+      }
+    ]
+  }
+]

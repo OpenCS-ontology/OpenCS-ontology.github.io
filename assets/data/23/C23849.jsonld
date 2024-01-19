@@ -1,0 +1,91 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C23849",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C13750"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Astrometry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33557"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37702"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36235"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36783"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36878"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33865"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34911"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30762"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Astrometry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C18085"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22752"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37614"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25918"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13745"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25630"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10556"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24724"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18137"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26524"
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30701",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C28188"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Phocoena"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43746"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39082"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43759"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43117"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44501"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44523"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43835"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45234"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43482"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44678"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45721"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44505"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Phocoena"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C43380"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28188"
+      }
+    ]
+  }
+]

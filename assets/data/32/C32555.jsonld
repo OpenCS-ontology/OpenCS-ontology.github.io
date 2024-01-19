@@ -1,0 +1,199 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32555",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15728"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Wi-Fi_array"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C41301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41461"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42689"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38833"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40449"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41593"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39020"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44317"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44092"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39438"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39232"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38161"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41837"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39704"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45222"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42131"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43403"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43262"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43729"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45456"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38419"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39175"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44309"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38861"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41995"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39655"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45627"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42879"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Wi-Fi array"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C21595"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34874"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35370"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34513"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38184"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41301"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39438"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21424"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40750"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30037"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15832"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15728"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C8028"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39494"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42521"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36939"
+      }
+    ]
+  }
+]

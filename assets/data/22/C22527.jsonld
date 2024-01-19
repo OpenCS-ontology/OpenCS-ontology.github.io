@@ -1,0 +1,85 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C22527",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Chloride_channel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C33324"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30253"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33046"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33023"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37081"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37794"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36355"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32191"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32884"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33749"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29957"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35245"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30875"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Chloride channel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14264"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36128"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C23973"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18138"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37784"
+      }
+    ]
+  }
+]

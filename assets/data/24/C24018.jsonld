@@ -1,0 +1,56 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C24018",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C752"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Stromal_tumor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36697"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33474"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34018"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32122"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32598"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36155"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35475"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31331"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35876"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34254"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Stromal tumor"
+      }
+    ]
+  }
+]

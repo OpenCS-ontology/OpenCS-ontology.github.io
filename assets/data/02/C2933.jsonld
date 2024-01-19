@@ -1,0 +1,100 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C2933",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Synthetic-aperture_radar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C24282"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24741"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21797"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21259"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16297"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28974"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26815"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19962"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26569"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19607"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28552"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20554"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26120"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Synthetic aperture radar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3059"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C3068"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C597"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7909"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25272"
+      }
+    ]
+  }
+]

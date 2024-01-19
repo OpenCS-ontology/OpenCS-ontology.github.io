@@ -1,0 +1,79 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26789",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10612"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Speckle_noise"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C29691"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35097"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33415"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36002"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32062"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36449"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Speckle noise"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2933"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10612"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10272"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C19731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27680"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34197"
+      }
+    ]
+  }
+]

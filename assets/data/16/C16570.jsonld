@@ -1,0 +1,57 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C16570",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11705"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5196"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C32998"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37357"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36907"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35916"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35590"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30741"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36851"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37091"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29577"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C34010"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Channel code"
+      }
+    ]
+  }
+]

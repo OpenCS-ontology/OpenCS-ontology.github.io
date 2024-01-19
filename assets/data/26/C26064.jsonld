@@ -1,0 +1,33 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C26064",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C7040"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C36298"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37054"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32947"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C32903"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Receptive language"
+      }
+    ]
+  }
+]

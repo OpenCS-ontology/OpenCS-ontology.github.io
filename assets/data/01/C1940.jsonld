@@ -1,0 +1,67 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C1940",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Information_processing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C17446"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22658"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21277"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C27707"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17923"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26365"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24859"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Information processing"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C8"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21268"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C5816"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C1"
+      }
+    ]
+  }
+]

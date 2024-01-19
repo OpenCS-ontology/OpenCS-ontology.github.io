@@ -1,0 +1,61 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29492",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C3001"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Esox"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35483"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29914"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37706"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C36955"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35784"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30096"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C30511"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35874"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Esox"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C26224"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24236"
+      }
+    ]
+  }
+]

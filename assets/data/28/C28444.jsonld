@@ -1,0 +1,55 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C28444",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12111"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C390"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C4099"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Aloha"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C37742"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C33693"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31687"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31618"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C31427"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Aloha"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9216"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C2025"
+      }
+    ]
+  }
+]

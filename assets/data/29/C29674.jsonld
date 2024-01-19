@@ -1,0 +1,82 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C29674",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14471"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Clique"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C44297"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45169"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38981"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38134"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43055"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45790"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40335"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39821"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41039"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41731"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44903"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42955"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Clique"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C11026"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25141"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C15047"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21626"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C25075"
+      }
+    ]
+  }
+]

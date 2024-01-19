@@ -1,0 +1,60 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C37568",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16125"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21288"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C42661"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40045"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41495"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45656"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44632"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45673"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39146"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43941"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41786"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40008"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Public key cryptosystem"
+      }
+    ]
+  }
+]

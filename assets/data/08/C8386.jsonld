@@ -1,0 +1,73 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C8386",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C30"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Smart_grid"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16942"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17003"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21231"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20447"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C24801"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17381"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20810"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C17244"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C16655"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C22670"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C28217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26095"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Smart grid"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C9718"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35778"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C7740"
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C34973",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C14471"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Altitude_(triangle)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C39738"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40904"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45038"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40641"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41458"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39779"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39644"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38270"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38490"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38734"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43744"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Altitude (triangle)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C10672"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C13409"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38766"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41109"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41458"
+      }
+    ]
+  }
+]

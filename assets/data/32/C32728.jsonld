@@ -1,0 +1,46 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C32728",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15203"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Gliquidone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C41712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44712"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41946"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42073"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44019"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Gliquidone"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C15203"
+      }
+    ]
+  }
+]

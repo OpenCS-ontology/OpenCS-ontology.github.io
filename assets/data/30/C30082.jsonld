@@ -1,0 +1,190 @@
+[
+  {
+    "@id": "https://w3id.org/ocs/ont/C30082",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C16742"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20811"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#closeMatch": [
+      {
+        "@id": "http://dbpedia.org/resource/Canopy_clustering_algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C45859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38716"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42300"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45353"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41684"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45455"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44351"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40822"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43993"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40348"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45414"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39617"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43709"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40296"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43779"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42787"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C40492"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C43176"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42405"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C37991"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45823"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38877"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41240"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42030"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41773"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38914"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Canopy clustering algorithm"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#related": [
+      {
+        "@id": "https://w3id.org/ocs/ont/C12206"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C26767"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6608"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38396"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C10382"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C14252"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C42682"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38397"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C45859"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C20811"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C29024"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C44201"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C6535"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C18518"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C39217"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C41863"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C38213"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C21710"
+      },
+      {
+        "@id": "https://w3id.org/ocs/ont/C35693"
+      }
+    ]
+  }
+]
