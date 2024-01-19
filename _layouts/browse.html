@@ -1,0 +1,100 @@
+---
+layout: default
+---
+
+<style>
+    #loading-message {
+        display: none;
+    }
+    .loading *:not(.loading-both):not(.loading-both *) {
+        display: none;
+    }
+    .loading #loading-message {
+        display: block !important;
+    }
+    #content-hierarchy {
+        max-height: 50vh;
+        overflow: auto;
+        position: relative;
+    }
+    #content-hierarchy a {
+        margin: 1rem;
+        margin-bottom: calc(1rem - 5px);
+    }
+    #content-hierarchy h2 {
+        margin: 2rem;
+    }
+    #content-hierarchy h2 a {
+        text-decoration: none;
+    }
+    #content-hierarchy h2, #content-hierarchy a {
+        z-index: 3;
+        background: #fffc;  
+        border-bottom: 5px transparent solid;
+    }
+    #content-hierarchy svg {
+        position: absolute;
+    }
+    #content-hierarchy svg path, #content-hierarchy svg polyline {
+        stroke: black;
+        fill: none;
+    }
+    .footer {
+        z-index: 10;
+    }
+</style>
+
+<div class="container mt-3">
+    <div class="row">
+        <div class="col">
+            <form class="w-100 mb-2 position-relative">
+                <input list="possibleSearches" id="userSearch" name="userSearch" onkeypress="enterSearch(event)" class="form-control" placeholder="Search..." />
+                <datalist id="possibleSearches">
+                </datalist>
+            </form>
+        </div>
+        <div class="col-auto">
+            <button class="btn btn-outline-secondary" id="searchButton" type="button" onclick="performSearch()">Search</button>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="errorModal" tabindex="-1" role="dialog" aria-labelledby="errorModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="errorModalLabel">Error</h5>
+                <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closeErrorModal()">
+                    <span aria-hidden="true">&times;</span>
+                </button> -->
+            </div>
+            <div class="modal-body" id="errorMessage">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="parent-container" class="loading">
+    <div class="text-white container-primary loading-both mb-5">
+        <p class="mt-3 mb-2 lead display-6" id="titlebar" style="font-weight: 450;">Loading...</p>
+        <div id="abstractbar" class="mb-2"></div>
+    </div>
+    <div id="loading-message" class="g-5 p-5 pt-0">Loading...</div>
+    <div id="content-hierarchy" class="g-5 p-5 pt-0 d-flex flex-column align-items-center"></div>
+    <div class="row g-5 px-5 justify-content-between">
+        <div id="content-match" class="col-md-auto d-flex flex-column align-items-center"></div>
+        <div id="content-related" class="col-md-auto d-flex flex-column align-items-center"></div>
+    </div>
+</div>
+
+<script src="{{ "/assets/js/graph_browser.js" | relative_url }}"></script>
+<script src="{{ "/assets/js/search_logic.js" | relative_url }}"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+    populateSearchOptions() 
+    let renderer = new Browser()
+    renderer.initialize()
+</script>
+
+    
+</div>
